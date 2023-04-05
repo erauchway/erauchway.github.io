@@ -1,0 +1,9 @@
+---
+title: "About"
+image: P1010601.JPG
+about:
+  template: jolla
+  
+---
+
+A blog containing historical pedantry about the period of the Roosevelt presidency, 1933--1945.
