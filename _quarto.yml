@@ -11,6 +11,8 @@ website:
       - about.qmd
       - icon: mastodon
         href: https://mastodon.social/%40rauchway
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme: flatly
