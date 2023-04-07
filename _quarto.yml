@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "necessitous"
+  title: "a necessitous blog"
   site-url: https://erauchway.github.io
   description: "A blog full of pedantry about the era of the Roosevelt administration, 1933--1945"
   navbar:
