@@ -9,8 +9,51 @@
 <link>https://erauchway.github.io/index.html</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.3.302</generator>
-<lastBuildDate>Wed, 05 Apr 2023 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Fri, 07 Apr 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>The German threat to the United States, 1940–1941: Atlantic geography</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/atl_dist/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a follow-up to <a href="https://erauchway.github.io/posts/exagg_air/">the previous post</a> on Roosevelt’s assessment of the German threat in December 1940, pursuing the big question, “How much of a threat did Germany pose to the United States before Pearl Harbor?” This post looks at the question of Atlantic geography and German ambitions.</p>
+<blockquote class="blockquote">
+<p>Likewise, the military scenarios Roosevelt sketched had little basis in reality. . . . He also stressed the narrowness of the Atlantic, even if not at the obviously most relevant place: “At one point between Africa and Brazil the distance is less than from Washington to Denver, Colorado—five hours for the latest type of bomber.”<span class="citation" data-cites="thompsonExaggerationAmericanVulnerability1992"><sup>1</sup></span></p>
+</blockquote>
+<p>Let’s consider the Atlantic situation at the time of Roosevelt’s speech at the end of 1940.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/atl_dist/atlmap.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">The strategic situation in the Atlantic at the end of 1940.</figcaption><p></p>
+</figure>
+</div>
+<p>You can see the short distance from Brazil to West Africa; you can also see that French West Africa was at the time under the jurisdiction of the Vichy regime. France had fallen to Germany in June; Italy had entered the war and struck west across North Africa. Though the Italians had failed to take Egypt and were then suffering under British counter-attack, the Germans would shortly organize the Afrika Corps under Erwin Rommel and deploy it to the region.<span class="citation" data-cites="weinbergWorldArmsGlobal2005"><sup>2</sup></span></p>
+<p>The status of West Africa was thus anything but evidently secure at the end of 1940, and indeed would only seem less secure quite soon.</p>
+<p>Even as Roosevelt was warning that the Americas were vulnerable to German assault across the Atlantic, Hitler was planning for such an attack. In response to the Roosevelt administration’s September 1940 agreement to trade US destroyers for British bases in the western hemisphere, Hitler told Admiral Raeder that “England-USA must be thrown out of North-West Africa.” He opened negotiations with Spain to trade French Morocco for one of the Canary Islands, to establish a military outpost in the far West of the European hemisphere; he also began to consider whether the Azores could be used “to carry out aerial attacks from a land base against the United States.” German bomber technology would not then support it but nobody could then know of the limits on even the longest-range German bombers then under development, the Heinkel 177.<span class="citation" data-cites="herwigPreludeWeltblitzkriegGermany1971"><sup>3</sup></span></p>
+<p>In the period between the fall of France and Pearl Harbor, Germany appeared to be at peak power, to Germans and to outside observers alike. Through 1941, aware of the impending Japanese attack, Hitler would continue to plan for a German war on the United States, in which an assault across the Atlantic would play a part.<span class="citation" data-cites="herwigPreludeWeltblitzkriegGermany1971"><sup>4</sup></span> There is thus no obvious reason to believe that Roosevelt was wrong, or alarmist, to consider the relative narrowness of the ocean or the possibility of a German aerial assault across its expanse.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>John A. Thompson, <span>“The Exaggeration of American Vulnerability: The Anatomy of a Tradition,”</span> <em>Diplomatic History</em> 16, no. 1 (January 1992): 30.↩︎</p></li>
+<li id="fn2"><p>Gerhard L. Weinberg, <em>A World at Arms: A Global History of World War II</em>, 2nd ed. (Cambridge, Eng.: Cambridge University Press, 2005), 215.↩︎</p></li>
+<li id="fn3"><p>Holger H Herwig, <span>“Prelude to Weltblitzkrieg: Germany’s Naval Policy Toward the United States of America, 1939-41,”</span> <em>Journal of Modern History</em> 43, no. 4 (December 1971): 657–58.↩︎</p></li>
+<li id="fn4"><p>Herwig, <span>“Prelude to Weltblitzkrieg: Germany’s Naval Policy Toward the United States of America, 1939-41,”</span> 660–62.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>airpower</category>
+  <category>Nazi strategy</category>
+  <guid>https://erauchway.github.io/posts/atl_dist/index.html</guid>
+  <pubDate>Fri, 07 Apr 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://erauchway.github.io/posts/atl_dist/atlmap.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>The German threat to the United States, 1940–1941: bomber range</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -58,6 +101,7 @@
   <category>airpower</category>
   <guid>https://erauchway.github.io/posts/exagg_air/index.html</guid>
   <pubDate>Wed, 05 Apr 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://www.nli.ie/digital/vtls000249986.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
