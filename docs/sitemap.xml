@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://erauchway.github.io/license.html</loc>
+    <lastmod>2023-04-17T14:33:05.829Z</lastmod>
+  </url>
+  <url>
     <loc>https://erauchway.github.io/posts/greer_2_nazi/index.html</loc>
-    <lastmod>2023-04-14T03:31:38.539Z</lastmod>
+    <lastmod>2023-04-17T14:33:06.306Z</lastmod>
   </url>
   <url>
     <loc>https://erauchway.github.io/posts/exagg_air/index.html</loc>
-    <lastmod>2023-04-14T03:31:38.945Z</lastmod>
+    <lastmod>2023-04-17T14:33:06.718Z</lastmod>
   </url>
   <url>
     <loc>https://erauchway.github.io/posts/atl_dist/index.html</loc>
-    <lastmod>2023-04-14T03:31:39.336Z</lastmod>
+    <lastmod>2023-04-17T14:33:07.130Z</lastmod>
   </url>
   <url>
     <loc>https://erauchway.github.io/posts/greer_1/index.html</loc>
-    <lastmod>2023-04-14T03:31:39.726Z</lastmod>
+    <lastmod>2023-04-17T14:33:07.519Z</lastmod>
   </url>
   <url>
     <loc>https://erauchway.github.io/posts/greer_3_dog/index.html</loc>
-    <lastmod>2023-04-14T03:31:40.075Z</lastmod>
+    <lastmod>2023-04-17T14:33:07.864Z</lastmod>
+  </url>
+  <url>
+    <loc>https://erauchway.github.io/posts/atlantic_ideology/index.html</loc>
+    <lastmod>2023-04-17T14:33:08.243Z</lastmod>
   </url>
   <url>
     <loc>https://erauchway.github.io/index.html</loc>
-    <lastmod>2023-04-14T03:31:40.575Z</lastmod>
+    <lastmod>2023-04-17T14:33:08.785Z</lastmod>
   </url>
   <url>
     <loc>https://erauchway.github.io/about.html</loc>
-    <lastmod>2023-04-14T03:31:40.819Z</lastmod>
+    <lastmod>2023-04-17T14:33:09.034Z</lastmod>
   </url>
 </urlset>
