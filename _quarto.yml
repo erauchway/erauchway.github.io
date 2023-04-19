@@ -6,7 +6,10 @@ website:
   title: "a necessitous blog"
   site-url: https://erauchway.github.io
   description: "A blog full of pedantry about the era of the Roosevelt administration, 1933--1945"
-  margin-header: subscribe.html
+  margin-header:
+    subscribe.html
+  margin-footer:
+    verification.html
   navbar:
     right:
       - about.qmd
