@@ -5,6 +5,7 @@ date: 2023-04-24`
 bibliography: ../../../common/war_nd.json
 suppress-bibliography: true
 csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+draft: true
 categories:
     - Greer
     - US Strategy
