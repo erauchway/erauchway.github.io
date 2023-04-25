@@ -10,7 +10,47 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Mon, 24 Apr 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Apr 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Chiseling on Justice</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/jurisdiction/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The Roosevelt administration considered a series of methods to improve an obstructionist federal judiciary in the 1930s; its best known was the Judicial Reform Bill of 1937, which sought to increase the membership of the federal bench, but before that officials seriously considered the idea of “jurisdiction stripping,” or removing the Court’s right to hear certain kinds of cases.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/jurisdiction/https:/tile.loc.gov/storage-services/service/pnp/hec/39600/39637v.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Gino Ratti, sculptor, working on “Contemplation of Justice,” at the new Supreme Court Building, 1935. Library of Congress.</figcaption><p></p>
+</figure>
+</div>
+<p>The US constitution, in Article III, grants only limited original jurisdiction to the Court—that is, cases in which the Court is the first resort. So for example, disputes between states come in the first place before the Supreme Court. It appellate jurisdiction—that is, cases that can come to the Court for appeal after decision elsewhere—is broader, including “all Cases, in Law and Equity, arising under the Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority”—but “with such Exceptions, and under such Regulations as the Congress shall make.”</p>
+<p>This latter clause has been interpreted by the Court to allow Congress to remove certain classes of cases from the Court’s purview. The preeminent example was <a href="https://www.law.cornell.edu/supremecourt/text/74/506"><em>Ex Parte McCardle</em> of 1868.</a></p>
+<p>Officers of the Department of Justice considered this possibility fraught for various reasons but chiefly for a practical one:</p>
+<blockquote class="blockquote">
+<p>If the appellate jurisdiction of the Supreme Court were to be abolished, District Courts and Circuit Courts of Appeals would still be in a position to declare statutes unconstitutional if such questions arose in cases brought before them. A statute preventing the inferior courts from declaring statutes unconstitutional would itself be invalid, in view of the doctrine of <em>Marbury v. Madison.</em><span class="citation" data-cites="holtzoffMemorandumAttorneyGeneral1935"><sup>1</sup></span></p>
+</blockquote>
+<p>One has only to look at recent, conflicting decisions in federal districts to see this problem in action, such as in 2014 when <a href="https://www.glaad.org/blog/6th-circuit-court-appeals-upholds-ban-marriage-same-sex-couples">the Sixth Circuit upheld bans on marrying someone of the same gender, while other courts upheld it;</a> absent a final court of appeal, there might be no way to resolve such a conflict. This concern prevailed within the Roosevelt administration, which turned to expansion instead.</p>
+<p>Scholars since then have suggested what <a href="https://www.whitehouse.gov/wp-content/uploads/2021/06/Moyn-Testimony.pdf">Samuel Moyn calls “channeling” or “fine-tuning” jurisdiction,</a> including requiring by statute a super-majority on the Court for invalidating a federal statute, or reassigning final jurisdiction for invalidating a federal statute to Congress itself, which would have to ratify a Supreme Court decision to strike down a federal law.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Alexander Holtzoff, <span>“Memorandum for the Attorney General,”</span> June 6, 1935, entry A1 112-B, file 235773, RG 60, National Archives and Records Administration.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>SCOTUS</category>
+  <category>Judicial reform</category>
+  <guid>https://erauchway.github.io/posts/jurisdiction/index.html</guid>
+  <pubDate>Wed, 26 Apr 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://tile.loc.gov/storage-services/service/pnp/hec/39600/39637v.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Fearless finger</title>
   <dc:creator>Eric Rauchway</dc:creator>

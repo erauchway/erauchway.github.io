@@ -1,7 +1,7 @@
 ---
 title: "Just the *Greer* speech"
 author: "Eric Rauchway"
-date: 2023-04-24`
+date: 2023-04-24
 bibliography: ../../../common/war_nd.json
 suppress-bibliography: true
 csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
@@ -23,7 +23,7 @@ But the key, so far as his argument goes, seems to me here: *if* the German U-bo
 
 Roosevelt's argument does not hinge on the Germans' knowing they were firing on a US ship. You'd never know it the way many historians talk about it. For example:
 
-> 8 In a fireside chat delivered on September 11, FDR deliberately distorted the details of the incident. He claimed that the *Greer's* identity as a U.S. ship was unmistakable and that the German submarine fired first without warning. He went on to outline a Nazi design to abolish the freedom of the seas as a prelude to domination of the United States.[@schuesslerDeceptionDividendFDR2010, 157]
+> In a fireside chat delivered on September 11, FDR deliberately distorted the details of the incident. He claimed that the *Greer's* identity as a U.S. ship was unmistakable and that the German submarine fired first without warning. He went on to outline a Nazi design to abolish the freedom of the seas as a prelude to domination of the United States.[@schuesslerDeceptionDividendFDR2010, 157]
 
 But Roosevelt's speech didn't, as I say, depend on *Greer's* identity as a US ship. Much to the contrary; he says it's actually worse if the U-boat didn't know it.
 
