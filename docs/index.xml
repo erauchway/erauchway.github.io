@@ -9,8 +9,58 @@
 <link>https://erauchway.github.io/index.html</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.2.269</generator>
-<lastBuildDate>Wed, 26 Apr 2023 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.340</generator>
+<lastBuildDate>Fri, 28 Apr 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Basics of the Greer speech</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/greer_speech/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Ultimately, what troubles me most about standard accounts of the <em>Greer</em> incident is the tendency to treat evidence showing the U-boat captain didn’t know the destroyer was a US ship as a gotcha for the Roosevelt administration. Roosevelt’s speech on the incident, and the policy he announced as a result, didn’t depend on the U-boat captain knowing <em>Greer</em> was a US ship; in fact, Roosevelt quite expressly said otherwise.</p>
+<p>A transcript of the president’s remarks as delivered appear in the Master Speech File at the Roosevelt Library in the second folder on this address; <a href="http://www.fdrlibrary.marist.edu/_resources/images/msf/msf01445">big pdf link here.</a></p>
+<p>Here’s what seems to me the most important passage, so far as the <em>Greer</em> incident itself goes:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/greer_speech/speech.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Excerpt from the transcript of Roosevelt’s national broadcast of September 11, 1941, speech file 1381B, box 62, Master Speech File, FDRL.</figcaption>
+</figure>
+</div>
+<p>Roosevelt does say before this passage that it was broad daylight and the destroyer was flying the American flag. Moreover he imputes to the U-boat commander the “deliberate design to sink her.”</p>
+<p>But the key, so far as his argument goes, seems to me here: <em>if</em> the German U-boat saw <em>Greer</em> was a US ship and fired at her, that’s an act of war—but! if it <em>didn’t</em> see <em>Greer</em> and ascertain her identity, that’s “even more outrageous”; it’s “indiscriminate violence,” and even worse.</p>
+<p>Thus Roosevelt’s argument does not hinge on the Germans’ knowing they were firing on a US ship. You’d never know it the way many historians talk about it. For example:</p>
+<blockquote class="blockquote">
+<p>In a fireside chat delivered on September 11, FDR deliberately distorted the details of the incident. He claimed that the <em>Greer’s</em> identity as a U.S. ship was unmistakable and that the German submarine fired first without warning. He went on to outline a Nazi design to abolish the freedom of the seas as a prelude to domination of the United States.<span class="citation" data-cites="schuesslerDeceptionDividendFDR2010"><sup>1</sup></span></p>
+</blockquote>
+<p>But Roosevelt’s speech didn’t, as I say, depend on <em>Greer’s</em> identity as a US ship. Much to the contrary; he says it’s actually worse if the U-boat didn’t know it. (Moreover, as previously noted, the Nazis <a href="https://erauchway.github.io/posts/greer_2_nazi/">absolutely did mean to abolish freedom of the seas as prelude to war with the United States.</a>)</p>
+<p>Further: Roosevelt then goes on in the speech to outline a pattern. The Germans had previously sunk the US merchantman <em>Robin Moor,</em> the Panamanian ship <em>Sessa,</em> and the US merchant vessel <em>Steel Seafarer.</em> You could reasonably suppose the Germans didn’t particularly care whose ships they were sinking.</p>
+<p>Indeed, historians now know—or should know, at any rate—that’s precisely the case, both in the specific case of the <em>Greer</em> and in general. In the National Archives, one may find a decrypted message from Lt. Fraatz, of U 652, to the German commander of submarines, dated September 5, 1941, explaining he had fired torpedoes at “DESTROYER, FLING [<em>sic</em>] UNKNOWN FLAG.”<span class="citation" data-cites="fraatz1941"><sup>2</sup></span> <a href="https://erauchway.github.io/posts/greer_4_facts_2/">Fraatz knew <em>Greer</em> wasn’t acting like a British ship.</a> <a href="https://erauchway.github.io/posts/greer_5_confusion/">He didn’t think it was a British ship.</a> He was puzzled by its behavior, and he didn’t know whose ship it was. But he fired on it anyway. Which is what Roosevelt described as “even more outrageous” than knowing it was a US ship.</p>
+<p>Perhaps Fraatz, via the various communications channels of Raeder’s navy, absorbed the message given by Hitler earlier in the summer. On July 25, 1941, one of the many occasions when Hitler urged patience, awaiting the right moment to attack the United States, he said,</p>
+<blockquote class="blockquote">
+<p>His original view has undergone no changes whatsoever. He would, however, like to avoid having the U.S.A. declare war while the Eastern Campaign is still in progress, also out of consideration for the Army which is involved in heavy combat. But he will never call a submarine commander to account if he torpedoes an American ship by mistake.<span class="citation" data-cites="FuehrerConferencesNaval1990"><sup>3</sup></span></p>
+</blockquote>
+<p>As I say, Fraatz’s specific behavior reflects this general carelessness. The <em>Greer</em> might have been an American ship; it might not. But there was no harm in shooting at it if it were. That’s precisely the view that Roosevelt objected to, describing it as “piracy.”</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>John M. Schuessler, <span>“The Deception Dividend: FDR’s Undeclared War,”</span> <em>International Security</em> 34, no. 4 (April 2010): 157, <span>https://doi.org/10.1162/isec.2010.34.4.133</span>.↩︎</p></li>
+<li id="fn2"><p>Fraatz to ComSubs, September 5, 1941, Entry A1 9019 German Navy U-Boat Message Translation and Summaries, SRGN 2720, RG 457, National Archives and Records Administration.↩︎</p></li>
+<li id="fn3"><p><em>Fuehrer Conferences on Naval Affairs, 1939--1945</em> (London: Greenhill Books, 1990), 222.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Greer</category>
+  <category>US strategy</category>
+  <category>Nazi strategy</category>
+  <guid>https://erauchway.github.io/posts/greer_speech/index.html</guid>
+  <pubDate>Fri, 28 Apr 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Chiseling on Justice</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -24,7 +74,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/jurisdiction/https:/tile.loc.gov/storage-services/service/pnp/hec/39600/39637v.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Gino Ratti, sculptor, working on “Contemplation of Justice,” at the new Supreme Court Building, 1935. Library of Congress.</figcaption><p></p>
+<figcaption class="figure-caption">Gino Ratti, sculptor, working on “Contemplation of Justice,” at the new Supreme Court Building, 1935. Library of Congress.</figcaption>
 </figure>
 </div>
 <p>The US constitution, in Article III, grants only limited original jurisdiction to the Court—that is, cases in which the Court is the first resort. So for example, disputes between states come in the first place before the Supreme Court. It appellate jurisdiction—that is, cases that can come to the Court for appeal after decision elsewhere—is broader, including “all Cases, in Law and Equity, arising under the Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority”—but “with such Exceptions, and under such Regulations as the Congress shall make.”</p>
@@ -49,7 +99,6 @@
   <category>Judicial reform</category>
   <guid>https://erauchway.github.io/posts/jurisdiction/index.html</guid>
   <pubDate>Wed, 26 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://tile.loc.gov/storage-services/service/pnp/hec/39600/39637v.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Fearless finger</title>
@@ -64,7 +113,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/fearless/IMG_5672.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">One of seven evocative portraits of La Guardia featured on the first page of “Fearless Fiorello” by William R. Conklin; this version is from an ad for the article that appeared in <em>Time,</em> because in the bound version of the <em>Saturday Evening Post</em> the photograph is too close to the gutter to be reproduced intact.</figcaption><p></p>
+<figcaption class="figure-caption">One of seven evocative portraits of La Guardia featured on the first page of “Fearless Fiorello” by William R. Conklin; this version is from an ad for the article that appeared in <em>Time,</em> because in the bound version of the <em>Saturday Evening Post</em> the photograph is too close to the gutter to be reproduced intact.</figcaption>
 </figure>
 </div>
 <p>The article begins with a La Guardia-ism many people will know, but perhaps without the context. In February 1941, appearing before the Senate Foreign Relations Committee to testify in favor of Lend-Lease, La Guardia was asked about earlier remarks by Justice Herbert O’Brien of the Queens Domestic Relations Court, who told the committee that passing Lend-Lease would lead to racial conflict. One of the senators reminded the Little Flower he had appointed O’Brien. The mayor replied, “Senator . . . I have made a lot of good appointments, and I think I’m pretty good. But when I make a mistake—it’s a beaut!”<span class="citation" data-cites="conklinFearlessFiorello1941"><sup>1</sup></span></p>
@@ -83,7 +132,6 @@
   <category>Civilian Defense</category>
   <guid>https://erauchway.github.io/posts/fearless/index.html</guid>
   <pubDate>Mon, 24 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://erauchway.github.io/posts/fearless/IMG_5672.JPG" medium="image"/>
 </item>
 <item>
   <title>A red herring in the fog of war</title>
@@ -98,13 +146,13 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/greer_5_confusion/NH67637.jpeg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">The USS <em>Greer</em> sometime during the war; image mirrored for comparison. US Naval History and Heritage Command.</figcaption><p></p>
+<figcaption class="figure-caption">The USS <em>Greer</em> sometime during the war; image mirrored for comparison. US Naval History and Heritage Command.</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/greer_5_confusion/large_000000.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">HMS <em>Newmarket,</em> one of the US destroyers of the same class as <em>Greer</em> traded to Britain in 1940. IWM.</figcaption><p></p>
+<figcaption class="figure-caption">HMS <em>Newmarket,</em> one of the US destroyers of the same class as <em>Greer</em> traded to Britain in 1940. IWM.</figcaption>
 </figure>
 </div>
 <p>You can see above a photograph of the <em>Greer</em> and a photograph of one of her sister ships traded to Britain, which became HMS <em>Newmarket.</em> The question of whether <em>Greer</em> might have looked like one of these newly British ships was raised within a couple weeks of the incident, and <em>Time</em> magazine took it up, explaining that the <em>Greer</em> had been modified and therefore looked different from other, once-similar destroyers. It’s true, I think, that you can see this in these photos if you look: the forward stack has been changed, with a “spark screen” added; the stacks have been lowered, too. The guns are different. And of course, so is the livery. <a href="https://content.time.com/time/subscriber/article/0,33009,766028,00.html">Moreover, <em>Time</em> noted, the <em>Greer</em> was sailing on its own, as British destroyers did not.</a> It was, as we have seen, broad daylight—that is why Fraatz did not surface.</p>
@@ -127,7 +175,6 @@
   <category>Destroyers-for-bases</category>
   <guid>https://erauchway.github.io/posts/greer_5_confusion/index.html</guid>
   <pubDate>Fri, 21 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://erauchway.github.io/posts/greer_5_confusion/NH67637.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Greer: just some more facts</title>
@@ -142,7 +189,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/greer_4_facts_2/large_000000.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">An RAF Hudson off the shore of Dunkirk. IWM.</figcaption><p></p>
+<figcaption class="figure-caption">An RAF Hudson off the shore of Dunkirk. IWM.</figcaption>
 </figure>
 </div>
 <p>Morison says the British plane, an RAF Hudson, “dropped his depth charges more or less at random.” I did know that <em>Greer</em> was broadcasting the U-boat’s position, so that it wouldn’t have been all that random, but I hadn’t picked up on that in the account.</p>
@@ -170,7 +217,6 @@
   <category>UK strategy</category>
   <guid>https://erauchway.github.io/posts/greer_4_facts_2/index.html</guid>
   <pubDate>Wed, 19 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://erauchway.github.io/posts/greer_4_facts_2/large_000000.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Four Fears, Four Freedoms: US ideology</title>
@@ -185,7 +231,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/atlantic_ideology/https:/tile.loc.gov/storage-services/service/pnp/hec/27700/27738v.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">William Hinckley of the American Youth Congress addresses the Dies (House UnAmerican Activities) Committee, November 30, 1939. Library of Congress.</figcaption><p></p>
+<figcaption class="figure-caption">William Hinckley of the American Youth Congress addresses the Dies (House UnAmerican Activities) Committee, November 30, 1939. Library of Congress.</figcaption>
 </figure>
 </div>
 <p>The American Youth Congress (AYC) included a variety of organizations, among them the Boy Scouts and Girl Scouts, but it was widely supposed to have fallen under the influence of communists. It was also a favorite cause of Eleanor Roosevelt, who liked the idea of being in touch with the young people of the nation, which is why members of the AYC were in the state dining room of the White House on June 5, to talk to the president—and to prod him from his political left. One delegate after another asked him about the nation’s, and the administration’s, lackluster record on voting rights for Black citizens. They pressed him on the poll tax. They asked him whether the Allies were not in fact colonialist powers with at best a selective implementation of democracy. Roosevelt gave an honestly relativist answer, saying that whatever the Allies were fighting for, it was “a better form of democracy, certainly, than Germany is fighting for.”</p>
@@ -213,7 +259,6 @@
   <category>US politics</category>
   <guid>https://erauchway.github.io/posts/atlantic_ideology/index.html</guid>
   <pubDate>Mon, 17 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://tile.loc.gov/storage-services/service/pnp/hec/27700/27738v.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The German threat: Plan Dog</title>
@@ -228,7 +273,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/greer_3_dog/https:/tile.loc.gov/storage-services/service/pnp/hec/47500/47500v.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Admiral Stark, in the light gray business suit, stands behind the president, who is decorating Admiral Yarnell for his recent comportment in China. Photo of August 28, 1939. Library of Congress.</figcaption><p></p>
+<figcaption class="figure-caption">Admiral Stark, in the light gray business suit, stands behind the president, who is decorating Admiral Yarnell for his recent comportment in China. Photo of August 28, 1939. Library of Congress.</figcaption>
 </figure>
 </div>
 <p><a href="http://www.fdrlibrary.marist.edu/_resources/images/psf/psfa0048.pdf">The memorandum</a> runs 26 pages and covers a lot of ground. Here is a single paragraph, from page 19, where Stark gives a succinct summary of his argument for US concern about the German threat.</p>
@@ -257,7 +302,6 @@
   <category>US strategy</category>
   <guid>https://erauchway.github.io/posts/greer_3_dog/index.html</guid>
   <pubDate>Thu, 13 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://tile.loc.gov/storage-services/service/pnp/hec/47500/47500v.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Greer: Nazi strategy</title>
@@ -272,7 +316,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/greer_2_nazi/https:/media.iwm.org.uk/cantaloupe/iiif/2/295%7C%7C613%7C%7Clarge_000000.jpg/full/730,/0/default.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">A panzer, part of Army Group Centre, advancing into the East. Imperial War Museum.</figcaption><p></p>
+<figcaption class="figure-caption">A panzer, part of Army Group Centre, advancing into the East. Imperial War Museum.</figcaption>
 </figure>
 </div>
 <p>And the Nazi high command, Hitler in particular, thought the same. Victory in the East was certain and imminent, which meant that the German navy need only stay its hand briefly before launching war on the United States.</p>
@@ -297,7 +341,6 @@
   <category>Nazi strategy</category>
   <guid>https://erauchway.github.io/posts/greer_2_nazi/index.html</guid>
   <pubDate>Wed, 12 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://media.iwm.org.uk/cantaloupe/iiif/2/295||613||large_000000.jpg/full/730,/0/default.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Greer: just the facts</title>
@@ -315,7 +358,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/greer_1/12248087.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Denmark, including Iceland, from an atlas of 1940–1945. David Rumsey Map Collection.</figcaption><p></p>
+<figcaption class="figure-caption">Denmark, including Iceland, from an atlas of 1940–1945. David Rumsey Map Collection.</figcaption>
 </figure>
 </div>
 <p>There’s a lot to say about this episode, but let’s for this post try to get the facts straight, which historians often do not, even in otherwise reputable books. Consider for example,</p>
@@ -345,7 +388,6 @@
   <category>convoys</category>
   <guid>https://erauchway.github.io/posts/greer_1/index.html</guid>
   <pubDate>Mon, 10 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://erauchway.github.io/posts/greer_1/12248087.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The German threat to the United States, 1940–1941: Atlantic geography</title>
@@ -364,7 +406,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/atl_dist/atlmap.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">The strategic situation in the Atlantic at the end of 1940.</figcaption><p></p>
+<figcaption class="figure-caption">The strategic situation in the Atlantic at the end of 1940.</figcaption>
 </figure>
 </div>
 <p>You can see the short distance from Brazil to West Africa; you can also see that French West Africa was at the time under the jurisdiction of the Vichy regime. France had fallen to Germany in June; Italy had entered the war and struck west across North Africa. Though the Italians had failed to take Egypt and were then suffering under British counter-attack, the Germans would shortly organize the Afrika Corps under Erwin Rommel and deploy it to the region.<span class="citation" data-cites="weinbergWorldArmsGlobal2005"><sup>2</sup></span></p>
@@ -388,7 +430,6 @@
   <category>Nazi strategy</category>
   <guid>https://erauchway.github.io/posts/atl_dist/index.html</guid>
   <pubDate>Fri, 07 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://erauchway.github.io/posts/atl_dist/atlmap.png" medium="image" type="image/png" height="172" width="144"/>
 </item>
 <item>
   <title>The German threat to the United States, 1940–1941: bomber range</title>
@@ -407,7 +448,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/exagg_air/https:/www.nli.ie/digital/vtls000249986.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">The <em>Mercury</em> shown atop its launcher airplane, the flying boat <em>Maia.</em> National Library of Ireland.</figcaption><p></p>
+<figcaption class="figure-caption">The <em>Mercury</em> shown atop its launcher airplane, the flying boat <em>Maia.</em> National Library of Ireland.</figcaption>
 </figure>
 </div>
 <p>Let’s look more closely at Roosevelt’s specific claim. This is what it says in the reading copy:</p>
@@ -437,7 +478,6 @@
   <category>airpower</category>
   <guid>https://erauchway.github.io/posts/exagg_air/index.html</guid>
   <pubDate>Wed, 05 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://www.nli.ie/digital/vtls000249986.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
