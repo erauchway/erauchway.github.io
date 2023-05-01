@@ -10,7 +10,41 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.340</generator>
-<lastBuildDate>Fri, 28 Apr 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 May 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Geolexigraph</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/geolexigraph/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Today’s fun source is the “Geolexigraph of the Neutrality Act of 1939,” in the Department of Commerce’s own journal, <em>Comparative Law Series,</em> of May 1940.<span class="citation" data-cites="perkinsGeolexigraphNeutralityAct1940"><sup>1</sup></span> The journal provided information to US businesses on how to navigate US laws and policy; this particular article included all manner of information from the Department of Commerce itself, the post office, the Department of State, the customs office, and various other entities on how not to run afoul of the neutrality act passed just after the beginning of World War II in Europe.</p>
+<p>But beware! for the Commerce Department folks introduced an error into their reproduction of the president’s declaration of a combat area under the law, and two of the geographic points are swapped. The original authoritative source is in the Department of State’s own bulletin.<span class="citation" data-cites="ProclamationDefiningCombat1940"><sup>2</sup></span></p>
+<p>And for fun here is a map showing that same combat area.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/geolexigraph/zonemap.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Map of the north Atlantic and countries in Europe, Africa, and North America, including their status with respect to the war, as of about the end of 1940, including the combat area declared by presidential proclamation on April 10, 1940.</figcaption>
+</figure>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Samuel E. Perkins, <span>“Geolexigraph of the Neutrality Act of 1939,”</span> <em>Comparative Law Series</em> 3, no. 5 (May 1940): 241--285.↩︎</p></li>
+<li id="fn2"><p><span>“Proclamation Defining Combat Area,”</span> <em>Department of State Bulletin</em> 2, no. 42 (April 13, 1940): 278--379.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>US strategy</category>
+  <category>Neutrality</category>
+  <guid>https://erauchway.github.io/posts/geolexigraph/index.html</guid>
+  <pubDate>Mon, 01 May 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Basics of the Greer speech</title>
   <dc:creator>Eric Rauchway</dc:creator>
