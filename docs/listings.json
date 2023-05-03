@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/budgets/index.html",
       "/posts/geolexigraph/index.html",
       "/posts/greer_speech/index.html",
       "/posts/jurisdiction/index.html",
