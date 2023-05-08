@@ -10,7 +10,48 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.340</generator>
-<lastBuildDate>Fri, 05 May 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 May 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Oppenheimer and the horseshoe</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/oppenheimer/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The new trailer for Christopher Nolan’s <em>Oppenheimer,</em> which press coverage says is based on the Kai Bird and Martin Sherwin biography <em>American Prometheus,</em> dropped today.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/uYPbbksJxIg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>I don’t know anything about Nolan’s movie other than what appears in the trailer, but I’ve seen enough Nolan to know that the politics in his movies can appear quite conservative. Conversely, I reviewed the Bird and Sherwin book when it came out, and I know it is not conservative. But if there’s one area where the modern US right and left meet, it’s on the subject of World War II.</p>
+<p>Indeed, one might without too much exaggeration say that the Cold War scholarly left largely adopted the wartime right’s critique of the Roosevelt administration. To prove this statement fully would take more space than this post but I will cite in support of it the Cold War historian William Appleman Williams’s <a href="https://www.nybooks.com/articles/1970/11/05/what-this-country-needs/">enthusiastic summary</a> of Herbert Hoover’s thinking: “So right it shakes you.” I will also, even though it is not fully relevant here, provide Williams’s description of Hoover’s response to the Bonus Army, because it is hilarious:</p>
+<blockquote class="blockquote">
+<p>For the feel of how Hoover reacted, do not waste your time ransacking the archives. Just listen to The Doors doing the first verse of “The Soft Parade.”</p>
+</blockquote>
+<p>Maybe quoting that is unfair to leftists who admire Hoover, but as I say, it is funny. Less funny is Williams’s conviction that somehow Hoover opposed “the empire” and therefore was a sage we should heed.</p>
+<p>Anyway, without (in this post) talking about whether I think the shared right/left critique of Roosevelt is correct, I just want to note that this sharing is real, and this similarity is most visible in an analysis of the war’s end. As Marc Gallicchio’s excellent 2020 book <em>Unconditional</em> makes clear, for the New Dealers, the war was an ideological war, and one that had to be pursued to the bitter end. Fascism had to be defeated utterly, in Japan as it was in Germany. “The supporters of unconditional surrender were mostly liberal Democrats, and the opponents were not,” Gallicchio notes.<span class="citation" data-cites="gallicchioUnconditionalJapaneseSurrender2020"><sup>1</sup></span></p>
+<p>By contrast, the American right wanted a swifter end to the war, which they had always thought was unnecessary, and merciful treatment of Japan so that it could serve as a bulwark against the Soviet Union. As Gallicchio points out, early critics of the atomic bombings came from the political right, including from Hoover, from Douglas MacArthur, and from MacArthur aide and <a href="https://www.timesofisrael.com/new-book-deciphers-forgotten-intel-war-that-kept-the-nazis-from-the-holy-land/">actual wartime security risk</a> as well as later John Birch member Bonner Fellers. Hoover and MacArthur agreed that an earlier peace would, in the general’s words, “have avoided all our losses, the Atomic Bomb, and the entry of Russia into Manchuria.” Hoover went further; “the whole Japanese war was a madman’s desire to get into war.” Gallicchio notes too that on the postwar right, “it became an article of faith” that MacArthur had, in January 1945, told Roosevelt the United States did not need the Soviets to help finish the war—a story that “was later publicly revealed to be a bald-faced lie.”<span class="citation" data-cites="gallicchioUnconditionalJapaneseSurrender2020"><sup>2</sup></span></p>
+<p>Within a few years of the war, Republicans eager to blame Democrats for Mao’s victory in China constructed a narrative in which the Roosevelt administration’s unwillingness to accept peace overtures from Japan had led to Soviet entry into the war against Japan and thus the triumph of communism in Asia. Gallicchio notes that this narrative was “patently ridiculous,” but it was widely accepted among “conspiratorially minded critics of Roosevelt.”<span class="citation" data-cites="gallicchioUnconditionalJapaneseSurrender2020"><sup>3</sup></span></p>
+<p>Gallicchio goes on to note the appeal of this right-wing critique to the later left, citing Oliver Stone’s deployment of Hoover and MacArthur to assert that the Japanese were ready to surrender long before the use of the atomic bombs. And he also notes that “invoking the opinions of the two Roosevelt haters contributes little to our understanding of Japan’s willingness to surrender before August 1945.” But it does highlight the continuity of right-wing and left-wing criticisms of US wartime policy.<span class="citation" data-cites="gallicchioUnconditionalJapaneseSurrender2020"><sup>4</sup></span></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Marc Gallicchio, <em>Unconditional: The Japanese Surrender in World War II</em> (New York: Oxford University Press, 2020), 209.↩︎</p></li>
+<li id="fn2"><p>Gallicchio, <em>Unconditional</em>, 184–85.↩︎</p></li>
+<li id="fn3"><p>Gallicchio, <em>Unconditional</em>, 194.↩︎</p></li>
+<li id="fn4"><p>Gallicchio, <em>Unconditional</em>, 213.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>US strategy</category>
+  <category>Unconditional surrender</category>
+  <category>New Dealers at war</category>
+  <category>Historiography</category>
+  <guid>https://erauchway.github.io/posts/oppenheimer/index.html</guid>
+  <pubDate>Mon, 08 May 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Pan Am for hemispheric defense</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -273,7 +314,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Gerald E. Hasselwander, <span>“Der US-Zerstörer <span>‘Greer’</span> Und <span>‘U 652’</span>”</span> 59 (1962): 156.↩︎</p></li>
+<li id="fn1"><p>Gerard E. Hasselwander, <span>“Der US-Zerstörer <span>‘Greer’</span> Und <span>‘U 652’</span>”</span> 59 (1962): 156.↩︎</p></li>
 <li id="fn2"><p>Hasselwander, <span>“Zerstörer <span>‘Greer’</span>,”</span> 156.↩︎</p></li>
 <li id="fn3"><p>Hasselwander, <span>“Zerstörer <span>‘Greer’</span>,”</span> 155–56.↩︎</p></li>
 </ol>
@@ -313,7 +354,7 @@
 
 <ol>
 <li id="fn1"><p>Kenneth S. Davis, <em>FDR: The War President, 1940--1943</em> (New York: Random House, 2000), 277.↩︎</p></li>
-<li id="fn2"><p>Gerald E. Hasselwander, <span>“Der US-Zerstörer <span>‘Greer’</span> Und <span>‘U 652’</span>”</span> 59 (1962): 153.↩︎</p></li>
+<li id="fn2"><p>Gerard E. Hasselwander, <span>“Der US-Zerstörer <span>‘Greer’</span> Und <span>‘U 652’</span>”</span> 59 (1962): 153.↩︎</p></li>
 <li id="fn3"><p>Hasselwander, <span>“Zerstörer <span>‘Greer’</span>,”</span> 153–54.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
