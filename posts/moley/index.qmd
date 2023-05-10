@@ -1,0 +1,29 @@
+---
+title: Ray Moley as a source
+author: "Eric Rauchway"
+date: 2023-05-10
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+    - New Deal
+    - Raymond Moley
+    - Historiography
+    - Methods
+---
+
+Historians often rely on Raymond Moley's memoirs for accounts of the early New Deal.[Moley's memoirs are @moleySevenYears1939; @moleyFirstNewDeal1966] I have been skeptical of leaning too hard on these sources: memoirs written after the fact are fallible because memory is fallible; moreover, Moley left the administration because he disagreed with Roosevelt's policies and he came to disagree with them even more, ultimately contributing to Barry Goldwater's speeches, and so this rupture colored his recollection. But most of all, his memoirs are like all memoirs "intentional," to use Marc Bloch's term; as historians we generally prefer sources that serve as "witnesses in spite of themselves." That is, Moley (like all memoirists) composed his memoirs and in that act of composition made decisions in keeping with his intentions, seeking to influence historical narrative. We'd rather have a document written in 1933 whose author didn't necessarily mean it to see the light of day, which was supposed to communicate something of importance in 1933, and which therefore unintentionally bears witness when we look at it now.[@blochHistorianCraft1953, 60--61.]
+
+![Raymond Moley (right) greets Senator William Borah (R-ID) as Moley arrives in Congress to testify in opposition to the president's judicial reform bill, 1937. Library of Congress.](moley.jpg)
+
+[//]: https://www.loc.gov/item/2016871424/
+
+I was able to look at Moley's papers in the Hoover Institution at Stanford some years ago. They are full of witnesses in spite of themselves, but they also include evidence of Moley's intention to shape the historical record, which is perhaps more than anything else what put me on alert as to his reliability. Notably, Moley's papers include the diary of his assistant, Celeste Jedel, covering January 1 to August 1, 1933---essentially, the short period when Moley was of at least some consequence to the Roosevelt administration. Moley directed that this diary be kept sealed until 1976, and included a covering memorandum to researchers, which he wrote in 1972 on his Phoenix, Arizona, stationery.
+
+> The diary which accompanies this statement was written by my assistant, Celeste Jedel. . . . It was written at my direction. . . . at the end of every day I explained to her what I wanted recorded in the diary, telling her whom I had seen and where I had been in my periods out of the office. . . . She was a brilliant girl and had a photographic memory, so that the entries are all correct, but since she was only 22 years old, her judgment about what should go into the diary was sometimes faulty. In other words, she included certain comments of her own which did not represent my opinion. . . . I would not have these exposed now since some of the individuals are living, and in other cases there are relatives. I did not agree with her evaluations.[^2]
+
+This note says a lot, I think, especially when read together with the diary and with knowledge of Moley's general attitude toward the early Roosevelt administration. Moley really seems to want to have it both ways: the diary belongs in his papers because he directed it be written but also it includes things he didn't say should go in it. He didn't agree with what she said but she was brilliant and had a photographic memory. I think one can parse this passage so that all these things are true at once, but it requires that Moley's grasp of the past from forty years onward be better than Jedel's contemporary commentary. It is much more likely that Moley in 1972 is uncomfortable with some of the candid, and true, observations that Jedel made in 1933, which often include tart evaluations of other people in the administration, not all of which seem to a judicious historian at all inconsistent with what we know of Moley's opinions. 
+
+Whether the historian reading Moley's covering note accepts it as entirely true, a historian should certainly understand it as an indication that Moley remained, decades later, deeply concerned with how he appeared in 1933. He wanted that moment remembered, to be sure, because it was the moment when he was nearest to power and maybe exercised a little of it. But also he wanted it remembered in a particular way; he was ambivalent later about what he did and said then. Which is maybe no different than any other historical figure, but Moley's note serves as an unusually express reminder to the historian to take care with Moley's intentional versions of the historical record.
+
+[^2]: Covering note to Celeste Jedel Diary, Raymond Moley Papers, Hoover Institution, Stanford, CA. 
