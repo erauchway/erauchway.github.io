@@ -10,7 +10,54 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.340</generator>
-<lastBuildDate>Wed, 10 May 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 May 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>The literature of the Irving case</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/irving/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>David Irving sued the historian Deborah Lipstadt for libel in 1996, and lost in 2000, when an English judge’s opinion held that Lipstadt was justified in her characterization of Irving in her book <em>Denying the Holocaust.</em> It was one of the most exciting and high-stakes things to happen to historiography during my professional career; that I happened to be teaching history in England at the time magnified it as an event in my imagination.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/irving/large_HU_059545_A.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">SS officers of Auschwitz and Belsen awaiting trial at Lüneberg, 1945. Imperial War Museum.</figcaption>
+</figure>
+</div>
+<p>Lipstadt wrote a book about it, <em>History on Trial,</em> but in this post I want to focus on the books written by historians called to give expert opinions in the case, because it seems to me they were asked to do something unusual for professional historians, but perhaps helpful.</p>
+<p>For a while I used to assign graduate students Richard Evans’s <em>Telling Lies About Hitler</em> because it echoed his title <em>Telling the Truth About History,</em> and tied into his broader concerns about the historical profession.<span class="citation" data-cites="evansTellingLiesHitler2002"><sup>1</sup></span> But I came to feel that this feature, which attracted me, was making the book less good for graduate students; Evans may perhaps assume too much of readers, expecting them to know his particular position regarding evidence and argumentation, and to be too aware of the arguments he opposes.</p>
+<p>But what his book has, and shares with the others, is an awareness that what the trial asked of historians is not what ordinary scholarship asks of historians—although maybe it should: an aggressively forensic approach to developing the evidence for a case and establishing, point by point, the narrative we know. As Robert Jan van Pelt says in his book,</p>
+<blockquote class="blockquote">
+<p>I was to write a report on the evidence of our knowledge about Auschwitz fifty-five years after the world had first learned of the atrocities in that camp, amid a society that had reached a consensus about what happened at Auschwitz.<span class="citation" data-cites="vanpeltCaseAuschwitzEvidence2016"><sup>2</sup></span></p>
+</blockquote>
+<p>In the crucible of a legal case, what we think we know must be, if not discarded, then picked carefully apart to rediscover its basis. Van Pelt’s book, <em>The Case for Auschwitz,</em> seems to me now the most useful of the three, because he explicitly develops the nature of the problem he, and other expert witnesses, faced. He returns—as I think one should—to Marc Bloch for a discussion of the nature of evidence and historical proof.</p>
+<p>The third expert book that is of occasional use to me as a teacher is Peter Longerich’s <em>Unwritten Order,</em> about Hitler’s personal role in the Holocaust. Perhaps we have no document reading, “Dear Heinrich and Reinhard, Please go ahead and kill all the Jews, like we discussed. Kisses, Adolf.” But there is copious evidence of Hitler’s involvement in the evolution of the Final Solution.<span class="citation" data-cites="longerichUnwrittenOrderHitler2003"><sup>3</sup></span> And this is a question students, perhaps immersed in “just-asking-questions” internet forums or worse, sometimes pose in class.</p>
+<p>Karl Jaspers has what I think is a funny line:</p>
+<blockquote class="blockquote">
+<p>We are always ready to flee from creative work into that which is automatic. On days when the savant makes no progress in his researches, he is still able to give an expert opinion.<span class="citation" data-cites="jaspersOriginGoalHIstory2021"><sup>4</sup></span></p>
+</blockquote>
+<p>But as these books show, there is nothing automatic about the best expert opinions.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Richard J. Evans, <em>Telling Lies About Hitler: The Holocaust, History, and the David Irving Trial</em> (London: Verso, 2002), the American edition is called <em>Lying About Hitler,</em> which is less helpful in illustrating the point.↩︎</p></li>
+<li id="fn2"><p>Robert Jan van Pelt, <em>The Case for Auschwitz: Evidence from the Irving Trial</em> (Bloomington: Indiana University Press, 2016), 100.↩︎</p></li>
+<li id="fn3"><p>Peter Longerich, <em>The Unwritten Order: Hitler’s Role in the Final Solution</em> (Stroud (UK): Tempus, 2003).↩︎</p></li>
+<li id="fn4"><p>Karl Jaspers, <em>The Origin and Goal of HIstory</em>, trans. Michael Bullock (London: Routledge, 2021), 120.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Historiography</category>
+  <category>Holocaust</category>
+  <guid>https://erauchway.github.io/posts/irving/index.html</guid>
+  <pubDate>Mon, 15 May 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Ray Moley as a source</title>
   <dc:creator>Eric Rauchway</dc:creator>

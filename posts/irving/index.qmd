@@ -1,0 +1,35 @@
+---
+title: The literature of the Irving case
+author: "Eric Rauchway"
+date: 2023-05-15
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+     - Historiography
+     - Holocaust
+---
+
+David Irving sued the historian Deborah Lipstadt for libel in 1996, and lost in 2000, when an English judge's opinion held that Lipstadt was justified in her characterization of Irving in her book *Denying the Holocaust.* It was one of the most exciting and high-stakes things to happen to historiography during my professional career; that I happened to be teaching history in England at the time magnified it as an event in my imagination. 
+
+![SS officers of Auschwitz and Belsen awaiting trial at Lüneberg, 1945. Imperial War Museum.](large_HU_059545_A.jpg)
+
+[//]: (https://www.iwm.org.uk/collections/item/object/205059529)
+
+Lipstadt wrote a book about it, *History on Trial,* but in this post I want to focus on the books written by historians called to give expert opinions in the case, because it seems to me they were asked to do something unusual for professional historians, but perhaps helpful.
+
+For a while I used to assign graduate students Richard Evans's *Telling Lies About Hitler* because it echoed his title *Telling the Truth About History,* and tied into his broader concerns about the historical profession.[@evansTellingLiesHitler2002, the American edition is called *Lying About Hitler,* which is less helpful in illustrating the point.] But I came to feel that this feature, which attracted me, was making the book less good for graduate students; Evans may perhaps assume too much of readers, expecting them to know his particular position regarding evidence and argumentation, and to be too aware of the arguments he opposes.
+
+But what his book has, and shares with the others, is an awareness that what the trial asked of historians is not what ordinary scholarship asks of historians---although maybe it should: an aggressively forensic approach to developing the evidence for a case and establishing, point by point, the narrative we know. As Robert Jan van Pelt says in his book, 
+
+> I was to write a report on the evidence of our knowledge about Auschwitz fifty-five years after the world had first learned of the atrocities in that camp, amid a society that had reached a consensus about what happened at Auschwitz.[@vanpeltCaseAuschwitzEvidence2016, 100]
+
+In the crucible of a legal case, what we think we know must be, if not discarded, then picked carefully apart to rediscover its basis. Van Pelt's book, *The Case for Auschwitz,* seems to me now the most useful of the three, because he explicitly develops the nature of the problem he, and other expert witnesses, faced. He returns---as I think one should---to Marc Bloch for a discussion of the nature of evidence and historical proof. 
+
+The third expert book that is of occasional use to me as a teacher is Peter Longerich's *Unwritten Order,* about Hitler's personal role in the Holocaust. Perhaps we have no document reading, "Dear Heinrich and Reinhard, Please go ahead and kill all the Jews, like we discussed. Kisses, Adolf." But there is copious evidence of Hitler's involvement in the evolution of the Final Solution.[@longerichUnwrittenOrderHitler2003] And this is a question students, perhaps immersed in "just-asking-questions" internet forums or worse, sometimes pose in class.
+
+Karl Jaspers has what I think is a funny line:
+
+> We are always ready to flee from creative work into that which is automatic. On days when the savant makes no progress in his researches, he is still able to give an expert opinion.[@jaspersOriginGoalHIstory2021, 120]
+
+But as these books show, there is nothing automatic about the best expert opinions.
