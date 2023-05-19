@@ -9,8 +9,49 @@
 <link>https://erauchway.github.io/index.html</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.3.353</generator>
-<lastBuildDate>Wed, 17 May 2023 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.340</generator>
+<lastBuildDate>Mon, 22 May 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Time and rate of the Holocaust</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/stone/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Of the effort to arrive at a number of Jews murdered in the Nazi death camps, Yitzhak Arad writes,</p>
+<blockquote class="blockquote">
+<p>There were never any records of the killing activities in these camps: the entire operation was <em>Geheime Reichssache—</em>a secret matter of the Reich, and any written documentation on what was actually taking place in the death camps would have exposed the secret. The deportation orders and reports on their implementation were sometimes written down but usually given orally. Even the SS men who served in the camps were utterly prohibited from counting the number of Jews they murdered, or even to discuss the matter. SS <em>Unterscharführer</em> Robert Jührs, when asked at the Belzec war crimes trial on the number of Jews murdered in the camp responded: “In the matter of this question, permit me to emphasize that we were explicitly prohibited from discussing numbers.”<span class="citation" data-cites="aradOperationReinhardDeath2018"><sup>1</sup></span></p>
+</blockquote>
+<p>But the Germans used the railways to deport Jews from the Polish towns and ghettos to Belzec, Sobibor, and Treblinka to be killed, and railways run on bureaucracy; they must know when trains leave and how many cars are on them. Arad was able to discover records of 480 or so such trains and, knowing that “the Germans pushed 100 to 150 people into each freight car,” arrive at an estimate of their burden.<span class="citation" data-cites="aradOperationReinhardDeath2018"><sup>2</sup></span></p>
+<p>Auschwitz presents a trickier problem because it was not solely a death camp. Deportees arriving in the camp went through a selection process from which some were registered and sent to labor; the unregistered were sent to their death. One must therefore look at the number of deportees and the number registered and in most cases, as Robert Jan van Pelt writes, “All the deportees were either killed on arrival, and therefore not registered; or admitted to the camp and registered.”<span class="citation" data-cites="vanpeltCaseAuschwitzEvidence2016"><sup>3</sup></span> He cites the work of Franciszek Piper, who in the 1980s began working from previously compiled documentation and estimates to arrive at reliable figures.<span class="citation" data-cites="piperEstimatingNumberDeportees1991"><sup>4</sup></span></p>
+<p>In 2019, Lewi Stone put together a data series including Arad’s and Piper’s figures, together with some more representing Jews killed by the <em>Einsatzgrüppen</em> during the invasion of the Soviet Union (the “Shoah by bullet”) to come up with a time series showing the number of Jews murdered in the death camps as against Auschwitz and by shooting. Stone’s concern is the intensity of this genocide as against others, but for the purpose of teaching World War II, it’s more useful for showing the timing of the Holocaust and its relation to the other events of the war. Stone’s article doesn’t have his raw data, but <a href="https://theconversation.com/quantifying-the-holocaust-measuring-murder-rates-during-the-nazi-genocide-108984">a piece he wrote for The Conversation</a> does.<span class="citation" data-cites="stoneQuantifyingHolocaustHyperintense2019"><sup>5</sup></span> From it one can make a chart such as the below.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/stone/stone_holocaust.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Chart showing number and date of Jews murdered in various locations and manners during the Holocaust, using data from Lewi Stone.</figcaption>
+</figure>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Yitzhak Arad, <em>The Operation Reinhard Death Camps: Belzec, Sobibor, Treblinka</em>, revised and expanded (Bloomington: Indiana University Press, 2018), 435.↩︎</p></li>
+<li id="fn2"><p>Arad, <em>Operation Reinhard</em>, 436.↩︎</p></li>
+<li id="fn3"><p>Robert Jan van Pelt, <em>The Case for Auschwitz: Evidence from the Irving Trial</em> (Bloomington: Indiana University Press, 2016), 113.↩︎</p></li>
+<li id="fn4"><p>Franciscek Piper, <span>“Estimating the Number of Deportees to and Victims of the Auschwitz-Birkenau Camp,”</span> <em>Yad Vashem Studies</em> 21 (1991): 49--103.↩︎</p></li>
+<li id="fn5"><p>Lewi Stone, <span>“Quantifying the Holocaust: Hyperintense Kill Rates During the Nazi Genocide,”</span> <em>Science Advances</em> 5, no. 1 (2019): 1--10.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Holocaust</category>
+  <category>Historiography</category>
+  <guid>https://erauchway.github.io/posts/stone/index.html</guid>
+  <pubDate>Mon, 22 May 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Travel by map</title>
   <dc:creator>Eric Rauchway</dc:creator>
