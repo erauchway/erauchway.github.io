@@ -8,6 +8,7 @@ csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
      - Holocaust
      - Historiography
+     - Methods
 ---
 
 Of the effort to arrive at a number of Jews murdered in the Nazi death camps, Yitzhak Arad writes,
