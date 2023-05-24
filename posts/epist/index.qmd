@@ -1,5 +1,5 @@
 ---
-title: The Holocaust as a historians' problem
+title: The Holocaust as a historian's problem
 author: "Eric Rauchway"
 date: 2023-05-24
 bibliography: ../../../common/war_nd.json
