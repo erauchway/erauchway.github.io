@@ -10,7 +10,61 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.340</generator>
-<lastBuildDate>Wed, 24 May 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 May 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quantifying German Jewish refugees, 1933–1938</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/rosenstock/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="grid">
+<div class="g-col-4">
+<p>So far as I can tell the best source of data on the number and direction of German Jews fleeing the Nazi regime remains Werner Rosenstock’s 1956 article, “Exodus, 1933–1939,” which has been reprinted a number of times including in the <em>Nazi Holocaust</em> collection and still sees citation in books on the subject.<span class="citation" data-cites="rosenstockExodus193319391989 dworkFlightReichRefugee2009"><sup>1</sup></span> Rosenstock himself noted that his figures were estimates only, and partial at that, though he did his best to check them against other source and ensure they provided at least an approximately accurate picture of trends and volumes. To make the graph at right I’ve had to do a little arithmetic to draw numbers out of Rosenstock’s article; he preferred to report propotions, probably to avoid a spurious precision—I say all that by way of trying to avoid a charge of making it appear more sure than it is.</p>
+<p>Even so, I think it’s useful to attempt a graphical representation of the trends, because it allows us to see a few things that Rosenstock indicates in his article. First, that those who left Nazi Germany preferred hopefully to believe that they would not have to go far; that the madness would burn itself out and they could return home. So you see that other European countries were the initial first choice of those who fled Hitler’s regime.</p>
+</div>
+<div class="g-col-8">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/rosenstock/ros1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Chart showing initial movement of refugees to Europe, then to Palestine, then to the USA over the period 1933–1938.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>Second, you can see that Palestine was the next-most popular choice—though it peaked in popularity early, in 1934, and in 1936, refugees were more likely to head for overseas destinations than for Palestine, perhaps because of the Arab uprising that began that year and which included attacks on Jewish settlements.</p>
+<p>And last, you can see the increasing importance of the United States as a destination for Jewish refugees. (Note by the way that all the figures for 1938 include only half the year.) Although Rosenstock doesn’t disaggregate figures to overseas destinations for 1935 and 1936, one can suppose that the United States took a large amount of the refugees heading across oceans in those years as well.</p>
+<p>Further, as Rosenstock notes, many of the refugees who first headed to European countries later sought destinations elsewhere.</p>
+<blockquote class="blockquote">
+<p>For many, residence in these countries was to be only temporary. The difficulties both in the administrative sphere (residence and labour permits) and in the economic field often made absorption impossible and resulted in re-emigration. In retrospect, those ‘unfortunate’ re-emigrants who could not strike roots in their country of sojourn were more fortunate than their fellow-refugees who stayed behind and fell victims to the invading Nazis during the war.<span class="citation" data-cites="rosenstockExodus193319391989"><sup>2</sup></span></p>
+</blockquote>
+<p>Eventually, by 1938, the global disposition of the approximately 107,000 German Jewish refugees who found their way overseas looked something like the below, according to what Rosenstock describes as “semi-official” figures.<span class="citation" data-cites="rosenstockExodus193319391989"><sup>3</sup></span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/rosenstock/ros2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Palestine was home to the largest number of German Jewish refugees; the United States to the second-largest number.</figcaption>
+</figure>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Werner Rosenstock, <span>“Exodus 1933--1939: A Survey of Jewish Emigration from Germany,”</span> in <em>Bystanders to the Holocaust</em>, ed. Michael R. Marrus, vol. 1, The Nazi Holocaust: Historical Articles on the Destruction of European Jews 8 (Westport, CT: Meckler, 1989), 143--160; Deborah Dwork and Robert Jan van Pelt, <em>Flight from the Reich: Refugee Jews, 1933--1946</em> (New York: W.W. Norton &amp; Company, 2009).↩︎</p></li>
+<li id="fn2"><p>Rosenstock, <span>“Exodus 1933--1939,”</span> 150.↩︎</p></li>
+<li id="fn3"><p>Rosenstock, <span>“Exodus 1933--1939,”</span> 157.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Holocaust</category>
+  <category>Historiography</category>
+  <category>Methods</category>
+  <guid>https://erauchway.github.io/posts/rosenstock/index.html</guid>
+  <pubDate>Fri, 26 May 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The Holocaust as a historian’s problem</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -789,54 +843,6 @@
   <category>Nazi strategy</category>
   <guid>https://erauchway.github.io/posts/atl_dist/index.html</guid>
   <pubDate>Fri, 07 Apr 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The German threat to the United States, 1940–1941: bomber range</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/exagg_air/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>How much of a threat did Germany pose to the United States before Pearl Harbor? That’s the big question; let’s look at a small part of it. Historians often say Roosevelt exaggerated the specific threats Nazi Germany posed; here we’ll look at one claim about the threat posed by German bombers.</p>
-<blockquote class="blockquote">
-<p>Likewise, the military scenarios Roosevelt sketched had little basis in reality. . . . In December 1940 he made the remarkable claim that “even today we have planes that could fly from the British Isles to New England and back again without refueling.”<span class="citation" data-cites="thompsonExaggerationAmericanVulnerability1992"><sup>1</sup></span></p>
-</blockquote>
-<p>It might seem to us remarkable that in December 1940, airplanes could fly the distance of an Atlantic round trip, but it was not remarkable to claim it. The crossing comes to about a 3,000-mile flight one way, so a return journey would total 6,000 miles. The Imperial Airways seaplane <em>Mercury</em> completed a flight of more than 6,000 miles non-stop from Dundee, Scotland to the Orange River in South Africa in October 1938.<span class="citation" data-cites="wraggBoatsAirIllustrated1984"><sup>2</sup></span> This feat was <a href="https://nyti.ms/3nTEwJC">reported in the newspapers, together with comparable records.</a> Not only was Roosevelt’s statement simply true, many of his listeners would have known it already.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/exagg_air/https:/www.nli.ie/digital/vtls000249986.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">The <em>Mercury</em> shown atop its launcher airplane, the flying boat <em>Maia.</em> National Library of Ireland.</figcaption>
-</figure>
-</div>
-<p>Let’s look more closely at Roosevelt’s specific claim. This is what it says in the reading copy:</p>
-<p><img src="https://erauchway.github.io/posts/exagg_air/range_claim.png" class="img-fluid"></p>
-<p>And here’s what Roosevelt actually said, according to transcription at the time:</p>
-<p><img src="https://erauchway.github.io/posts/exagg_air/range_claim_as_said.png" class="img-fluid"></p>
-<p>First, this claim was refined in the process of writing the speech. Thanks to the FDR Presidential Library, we can <a href="http://www.fdrlibrary.marist.edu/_resources/images/msf/msf01403,">link to the relevant folder in the Master Speech File</a> and see that in earlier drafts, this paragraph read,</p>
-<p><img src="https://erauchway.github.io/posts/exagg_air/earlier_claim.png" class="img-fluid"></p>
-<p>The claim that planes could fly return from New York to London was probably supportable enough, given the flight of the <em>Mercury.</em> But at the seventh draft, Roosevelt changed it (notice the handwriting):</p>
-<p><img src="https://erauchway.github.io/posts/exagg_air/revised_claim.png" class="img-fluid"></p>
-<p>Now not only is the distance more accurate and defensible—from “the British Isles” to “New England” is more accurately the route Imperial Airways was even then, despite the war, flying; but by changing its direction Roosevelt was, of course, emphasizing the potential threat should Britain fall to Germany.</p>
-<p>Second, the claim about the outside range of existing aircraft is coupled here with a second claim. It’s clear with these two sentences that Roosevelt and his speechwriters are making a distinction between what the longest-distance airplanes could already do, and what modern bombers could soon do. This observation supports a generalization I want to make and will probably make again: Roosevelt and his speechwriters were quite careful.</p>
-<p>The claim about how bombers were then developing, and what their capacity would be, was also correct. The B-29, though it was still on the drawing board, would have a <a href="https://www.boeing.com/history/products/b-29-superfortress.page">maximum range of 5,830 miles.</a> The experimental predecessor to the B-29, the XB-15, had already flown in 1937, and derived from a plan for a bomber with an effective range of 5,000 miles.<span class="citation" data-cites="knaackEncyclopediaAirForce1988"><sup>3</sup></span> Americans attentive to the news would have known about the XB-15; Major Caleb Haynes of the US Army air corps <a href="https://nyti.ms/3GlePbu">had flown one on an earthquake relief mission from Langley to Santiago, Chile, stopping in Panama and Peru, in February 1939.</a></p>
-<p>Again, not only did Roosevelt make a carefully constructed and factually correct claim, he made one that many of his listeners would have understood to be readily supportable.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>John A. Thompson, <span>“The Exaggeration of American Vulnerability: The Anatomy of a Tradition,”</span> <em>Diplomatic History</em> 16, no. 1 (January 1992): 30.↩︎</p></li>
-<li id="fn2"><p>David W. Wragg, <em>Boats of the Air: An Illustrated History of Flying Boats, Seaplanes and Amphibians</em> (London: Robert Hale, 1984), 149.↩︎</p></li>
-<li id="fn3"><p>Marcelle Size Knaack, <em>Encyclopedia of U.S. Air Force Aircraft and Missile Systems</em>, vol. 2: Post–World War II Bombers, 1945--1973 (Washington, D.C.: Office of Air Force History, 1988), 479.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>airpower</category>
-  <guid>https://erauchway.github.io/posts/exagg_air/index.html</guid>
-  <pubDate>Wed, 05 Apr 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
