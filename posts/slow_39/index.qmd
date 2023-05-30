@@ -1,0 +1,26 @@
+---
+title: Neutrality patrol 1939
+author: "Eric Rauchway"
+date: 2023-05-30
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+    - Neutrality
+    - US strategy
+---
+
+The war in Europe had barely begun when the president urged his acting secretary of the navy, Charles Edison, to swifter action.
+
+> I have been disturbed by (a) The slowness of getting the East Coast, Caribbean and Gulf patrol under way. (b) The lag between the making of contacts and the follow-up of the contact. . . . It is, therefore, necessary to make the following orders clear. . . . When any aircraft or surface ship sights a submarine a report thereof will be rushed to the Navy Department for immediate action. The plane or surface ship sighting a submarine will remain in contact as long as possible. . . . Planes or Navy or Coast Guard ships may report the sighting of any submarine or suspicious surface ship in plain English to Force Commander or Department. In this whole patrol business time is of the essence and loss of contact with surface ships cannot be tolerated.[@roosevelt1939]
+
+By 1939 the Atlantic Squadron, established September 6, 1938 by command of Admiral William Leahy, included four battleships---*New York, Arkansas, Texas,* and *Wyoming*---as well as a series of cruisers, destroyers, and the carrier *Ranger.*
+
+![Some of the Atlantic ships in Norfolk, September 20, 1941. USS *Ranger* winches a Grumman Duck aircraft aboard, with F4F Wildcats in the background; the *Wyoming* is visible at upper right. US Naval History and Heritage Command.](80-G-391586.jpeg)
+
+In addition, on September 14, 1939, the Navy announced that it would recommission forty of the old World War I destroyers then in mothballs to strengthen the neutrality patrols. A reporter asked the president about the patrol policy the next day.
+
+> Q Going back to the definition of territorial waters, is the fact that our ships are patroling two hundred miles out any indication that our territorial limits --  
+> THE PRESIDENT: (interposing) No, they are out there for information, nothing else.[@PressConference5791939]
+
+But this information was something the president regarded with great urgency.
