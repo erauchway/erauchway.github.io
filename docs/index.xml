@@ -10,7 +10,65 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Tue, 30 May 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jun 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Mothballs</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/mothballs/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The US strategy for building up an Atlantic squadron depended on reactivating ships from the first world war, mothballed during the optimistic years of the 1920s. Roosevelt ordered their swifter return to duty at around the time of the Munich agreement, when he established the Atlantic Squadron—first as a smaller unit including only new cruisers, but soon attaching to it what had been the Training Squadron of older battleships and destroyers stationed on the East Coast.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/mothballs/NH_69126.jpeg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Destroyers in mothballs at Philadelphia Naval Yard. Naval History Center.</figcaption>
+</figure>
+</div>
+<p>It took much longer than expected or hoped to revive the old ships, which had been laid firmly away and often with little or no record as to their peculiarities. It turned out to be fortunate that they returned to duty while the nation was still at peace and German ships were generally far away; their crews had to get their vessels in shape by sailing them to and beyond their limits, to discover what needed alteration and repair.</p>
+
+
+
+ ]]></description>
+  <category>US strategy</category>
+  <category>Neutrality</category>
+  <guid>https://erauchway.github.io/posts/mothballs/index.html</guid>
+  <pubDate>Sat, 10 Jun 2023 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Everything everywhere</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/assumptions/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Together with my colleague, and sometimes solo, I’ve been teaching our department’s course on the history of World War II for something like a dozen years. Students have always come to it with certain expectations, and while these vary over the years—and with the release of Hollywood movies set in the war—one kind of question crops up pretty much every time: “why didn’t the Allies [or Axis] just do <em>X?</em>” And usually X is something that occurred to the Allies, or Axis, to do—it was just that they did not have the resources to do X and also the other things they considered priorities. That is, for most of the war the question of allocating finite, often severely limited, resources that strategists believed better allocated elsewhere.</p>
+<p>An illustration: early in 1941, Roosevelt was prepared to send the carrier <em>Yorktown</em> together with a group of battleships from the Pacific to the Atlantic to augment the existing fleet, and protect Lend-Lease shipping to Britain against U-boat attack. The Navy drew up plans for this proposal.</p>
+<p>But then, in April, the Soviets and the Japanese agreed to a neutrality pact. Such a pact would assure the Soviets could focus on Europe and the Japanese on the Pacific, without having to worry about fighting each other. Because Japan now had a freer hand in the Pacific, the president changed his mind and sent only <em>Yorktown</em> to the Atlantic.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/assumptions/yorktown_va.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Yorktown</em> at the dock in Norfolk, Virginia, 1941. Naval History and Heritage Command.</figcaption>
+</figure>
+</div>
+<p>So this is the first limitation we need to remember: a limited quantity of resources, in this case ships of war. To move ships to the Atlantic to fight U-boats meant those ships wouldn’t be available in the Pacific to fend off an attack by Japan.</p>
+<p>The second one is time. <em>Yorktown</em> departed Pearl Harbor on April 22, 1941, and arrived in Bermuda on May 12, 1941. It took three weeks to move from one posting to another.</p>
+<p>This is the second limitation; that of time. To move resources from one theater to another is not instantaneous and thus not easy to reverse.</p>
+<p>Roosevelt’s decision—or indecision, as it may be—was shaped by these limits: not enough ships to have adequate force everywhere, and a constraint of time such that allocation of resources was not easily reversed.</p>
+<p>And limits like those shaped most decision-makers for most of the war. Roosevelt would have liked to leave enough ships on station in the Pacific while also devoting increased force to the Atlantic, but he couldn’t.</p>
+
+
+
+ ]]></description>
+  <category>Teaching</category>
+  <category>US strategy</category>
+  <guid>https://erauchway.github.io/posts/assumptions/index.html</guid>
+  <pubDate>Thu, 01 Jun 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Neutrality patrol 1939</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -746,92 +804,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>US strategy</category>
   <guid>https://erauchway.github.io/posts/greer_3_dog/index.html</guid>
   <pubDate>Thu, 13 Apr 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The Greer: Nazi strategy</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/greer_2_nazi/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The September 4, 1941, U-boat attack on the <em>Greer</em> was materially inconsequential, but symbolically vital, and to understand why, we have to think about this particular moment in the war. In this post we will look at this moment in Nazi strategy, just a couple months after the start of Operation Barbarossa, the German assault on the Soviet Union. Although the conclusion of David Stahel is pretty well established—that is to say, that by August the collapse of Barbarossa was already determined; that the failure to put resources into the construction of railroads and other logistical necessities spelled catastrophe—we should remember that even if to us, the tanks racing East look foolishly disconnected from the infantry that could secure their advances, at the time, they looked like the irresistible advance guard of yet another successful Blitzkrieg. As Stahel notes, the British Joint Intelligence Committee thought the Germans would win within six weeks; in the US, Secretary of War Stimson and General George Marshall believed it would take Germany one to three months to defeat the Soviet Union.<span class="citation" data-cites="stahelOpearationBarbarossaGermany2009"><sup>1</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/greer_2_nazi/https:/media.iwm.org.uk/cantaloupe/iiif/2/295%7C%7C613%7C%7Clarge_000000.jpg/full/730,/0/default.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A panzer, part of Army Group Centre, advancing into the East. Imperial War Museum.</figcaption>
-</figure>
-</div>
-<p>And the Nazi high command, Hitler in particular, thought the same. Victory in the East was certain and imminent, which meant that the German navy need only stay its hand briefly before launching war on the United States.</p>
-<p>According to Holger Herwig, Hitler told Admiral Erich Raeder to plan for a fleet of ten “superbattleships” by 1944, for war on Britain, the United States, or both. The Ziel Plan, or Z-Plan, drafted in 1939, sketched out the development of this Navy and, Herwig notes, the plan was modified in 1940 specifically for war on the United States, when Hitler “took an active interest in selecting future Atlantic bases, preferring Iceland, the Azores, the Cape Verdes, and the Canaries”; this in the flush of victory after the fall of France and “with an eye to the future war with America,” as of October 29, 1940.<span class="citation" data-cites="herwigPoliticsFrustrationUnited1976"><sup>2</sup></span> Herwig tells us that Raeder and Hitler viewed this plan differently; Raeder thought of it as an alternative to the war with the USSR, while Hitler—who was ideologically committed to the acquisition of <em>lebensraum</em> in the East and the killing of the people currently living there—thought of it as a consequence to the war with the Soviet Union.<span class="citation" data-cites="herwigPoliticsFrustrationUnited1976"><sup>3</sup></span></p>
-<p>Therefore Hitler instructed Raeder repeatedly to avoid any incident with the United States, if only for the time being. Herwig has Hitler saying so as early as May 1941. In June, the day before Barbarossa, Hitler told Raeder, “avoid <em>every</em> incident with the United States until ‘Barbarossa’ unfolded itself. After a few weeks the situation would be cleared up.” In July, with the US occupation of Iceland, Raeder and the naval staff requested “immediate armed assault on all USA ships within our publicly proclaimed war zone.” Hitler did continue planning operations in Gibraltar and Northwest Africa to establish an “offensive stance against America” but also repeated his order to wait for outright operations against the United States until the campaign in the East had reached its successful conclusion. He repeated this order again on August 22.<span class="citation" data-cites="herwigPoliticsFrustrationUnited1976"><sup>4</sup></span></p>
-<p>At the time of the <em>Greer</em> attack, Hitler and his naval commanders anticipated a war, soon, against the United States. The navy was eager for it and restrained only by Hitler’s belief that it must wait on the imminent victory against the USSR (which came, even to Hitler, to seem less imminent by the end of August, if still within reach).</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>David Stahel, <em>Opearation Barbarossa and Germany’s Defeat in the East</em> (Cambridge, Eng.: Cambridge University Press, 2009), 148.↩︎</p></li>
-<li id="fn2"><p>Holger H. Herwig, <em>The Politics of Frustration: The United States in German Naval Planning, 1889--1941</em> (Boston: Little, Brown, 1976), 210, 214.↩︎</p></li>
-<li id="fn3"><p>Herwig, <em>Politics of Frustration</em>, 216.↩︎</p></li>
-<li id="fn4"><p>Herwig, <em>Politics of Frustration</em>, 224 and 224n, 226–227, 232 and 232n.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Greer</category>
-  <category>convoys</category>
-  <category>Nazi strategy</category>
-  <guid>https://erauchway.github.io/posts/greer_2_nazi/index.html</guid>
-  <pubDate>Wed, 12 Apr 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The Greer: just the facts</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/greer_1/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>On September 4, 1941, the German submarine U-652 attempted to torpedo the U.S.S. <em>Greer,</em> a destroyer ferrying mail from the United States to Iceland. The president used the occasion to <a href="http://www.fdrlibrary.marist.edu/_resources/images/msf/msf01443">declare in a fireside chat</a> that</p>
-<blockquote class="blockquote">
-<p>from now on, if German or Italian vessels of war enter the waters, the protection of which is necessary for American defense, they do so at their own peril.</p>
-</blockquote>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/greer_1/12248087.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Denmark, including Iceland, from an atlas of 1940–1945. David Rumsey Map Collection.</figcaption>
-</figure>
-</div>
-<p>There’s a lot to say about this episode, but let’s for this post try to get the facts straight, which historians often do not, even in otherwise reputable books. Consider for example,</p>
-<blockquote class="blockquote">
-<p>On 4 September the German submarine U-652 unsuccessfully tried to torpedo the American escort destroyer U.S.S. <em>Greer,</em> which had attempted to depth-charge the U-boat south of Ireland.<span class="citation" data-cites="herwigPoliticsFrustrationUnited1976"><sup>1</sup></span></p>
-</blockquote>
-<p>While “Ireland” is probably an unfortunate typographical error, the assertion that <em>Greer</em> fired first is simply wrong and reflects German propaganda in the days after the attack.<span class="citation" data-cites="ClaimUBoatWas1941"><sup>2</sup></span></p>
-<p>The bare facts are these:</p>
-<blockquote class="blockquote">
-<p>U.S.S. <em>Greer,</em> carrying the pennant of Commander G.W. Johnson and commanded by Lieutenant Commander L.H. Frost, was proceeding independently toward Iceland on 4 September 1941 in lat. 62°45’ N, long. 27°37’ W, at a speed of 17 1/2 knots. At 0840 a British plane signaled to her that a submerged U-boat lay athwart her course some ten miles ahead. <em>Greer</em> commenced zigzagging, increased speed to twenty knots, went to general quarters, laid a course for the reported position, and on reaching it slowed to ten knots in order to allow her sound gear to operate at full efficiency. She made sound contact with the submarine and maintained it for over three hours, keeping the submerged U-boat always on her bow but not attacking. At 1000 the British plane captain inquired whether <em>Greer</em> intended to attack, and was answered in the negative. He then dropped his depth charges more or less at random, and returned to base to refuel. At 1240 the submarine headed toward the American destroyer and launched a torpedo, which was sighted early enough to be dodged. <em>Greer</em> counterattacked with depth charges, and at 1300 the U-boat shot a second torpedo, which was also avoided. Unable to reestablish sound contact, <em>Greer</em> discontinued the search at 1416 and resumed course for Iceland.<span class="citation" data-cites="morisonBattleAtlanticSeptember1950"><sup>3</sup></span></p>
-</blockquote>
-<p>It seems essential to me for historians relating this episode to note that something like two hours passed after the British plane dropped its depth charges and before the U-boat fired on the <em>Greer.</em> The British attack, such as it was, was not ongoing at the time the German U-boat attempted to torpedo the American destroyer, although one may charitably say (as Waldo Heinrichs does) that the U-boat captain “must have regarded as hostile pursuit” the <em>Greer’s</em> continued persistence in tailing it.<span class="citation" data-cites="heinrichsThresholdWarFranklin1988"><sup>4</sup></span></p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Holger H. Herwig, <em>The Politics of Frustration: The United States in German Naval Planning, 1889--1941</em> (Boston: Little, Brown, 1976), 231.↩︎</p></li>
-<li id="fn2"><p>See, e.g., <span>“Claim U-Boat Was Acting in Self Defense,”</span> <em>Honolulu Star-Bulletin</em>, September 6, 1941, 1.↩︎</p></li>
-<li id="fn3"><p>Samuel Eliot Morison, <em>The Battle of the Atlantic, September 1939--May 1943</em>, vol. 1, History of United States Naval Operations in World War II (Boston: Little, Brown, 1950), 79–80.↩︎</p></li>
-<li id="fn4"><p>Waldo Heinrichs, <em>Threshold of War: Franklin D. Roosevelt and American Entry into World War II</em> (New York: Oxford University Press, 1988), 167.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Greer</category>
-  <category>convoys</category>
-  <guid>https://erauchway.github.io/posts/greer_1/index.html</guid>
-  <pubDate>Mon, 10 Apr 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
