@@ -10,7 +10,30 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Sat, 10 Jun 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jun 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>North Africa maps</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/na_map/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img align="right" src="https://erauchway.github.io/posts/na_map/na_combine.png" alt="Series of maps showing Italian, British, and German advances over the early years of the North Africa campaign." width="50%"></p>
+<p>Students in World War II need to understand the North Africa campaigns both for a sense of what British imperial strategy was like, and for the competing demands on German resources in the critical year of 1941. But it’s a part of the world with which most of them are unfamiliar, so there’s a need of considerable deployment of maps. In the past we’ve often used proper military maps—like <a href="https://www.westpoint.edu/academics/academic-departments/history/digital-history-center/atlases/world-war-two-europe">the West Point ones</a>—but to be honest these are finer-grained than our students generally like.</p>
+<p>Still, it’s not all that easy to make decent military maps, at least not for me. So campaigns like this one, where there’s a lot of back and forth, require some sort of in-between depiction—not quite a proper military map, but indicating the general sweep of battlefield events. I’m still working on finding the right balance.</p>
+<p>In these, I’ve tried to indicate enough of the Eastern Mediterranean so students can grasp why this is an important region—I’ve got the endpoints of the Suez Canal, and Sicily is visible, indicating the potential hazard to Italy should the British gain complete control of Libya. I’ve decided not to put country names on this map, because we use them on larger maps (<a href="http://localhost:5505/posts/geolexigraph/">like this one</a>) and students should have a sense of what major locations are by this time of the class.</p>
+<p>On the other hand I have placed the names of some important cities to help discussion of what’s at stake, and where.</p>
+
+
+
+ ]]></description>
+  <category>Maps</category>
+  <category>North Africa</category>
+  <guid>https://erauchway.github.io/posts/na_map/index.html</guid>
+  <pubDate>Tue, 13 Jun 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Mothballs</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -767,49 +790,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>US politics</category>
   <guid>https://erauchway.github.io/posts/atlantic_ideology/index.html</guid>
   <pubDate>Mon, 17 Apr 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The German threat: Plan Dog</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/greer_3_dog/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>On November 12, 1940, shortly after Roosevelt’s re-election to a unique third term in the presidency, Chief of Naval Operations Harold Stark sent a memorandum to the Secretary of the Navy, Frank Knox, outlining the US military position. The document became known as “Plan Dog,” after the US-UK phonetic alphabet for “D” (Able, Baker, Charlie, Dog, Easy, Fox, etc.) because out of the options Stark considered, he recommended proceeding with the one he lettered “D”—a joint offensive with Britain against Germany in the Atlantic, in anticipation of a wider war.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/greer_3_dog/https:/tile.loc.gov/storage-services/service/pnp/hec/47500/47500v.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Admiral Stark, in the light gray business suit, stands behind the president, who is decorating Admiral Yarnell for his recent comportment in China. Photo of August 28, 1939. Library of Congress.</figcaption>
-</figure>
-</div>
-<p><a href="http://www.fdrlibrary.marist.edu/_resources/images/psf/psfa0048.pdf">The memorandum</a> runs 26 pages and covers a lot of ground. Here is a single paragraph, from page 19, where Stark gives a succinct summary of his argument for US concern about the German threat.</p>
-<blockquote class="blockquote">
-<p>It is a fundamental requirement of our military position that our homeland remain secure against successful attack. Directly concerned in this security is the safety of other parts of the Western Hemisphere. A very strong pillar of the defense structure of the Americans has, for many years, been the balance of power existing in Europe. The collapse of Great Britain or the destruction or surrender of the British Fleet will destroy this balance and will free European military power for possible encroachment in this hemisphere.</p>
-</blockquote>
-<p>The security of the US depends on the security of the Americas; the security of the Americas depends on a balance of power in Europe; German defeat of Britain will end that balance and its destruction or acquisition of the British fleet would enable a German attack on the Americas and thus imperil the United States.</p>
-<p><a href="https://erauchway.github.io/posts/greer_2_nazi/">We know Hitler thought in similar, if reversed, terms,</a> planning a war on the United States once he had secured his European triumph, though he did not necessarily feel he needed to defeat Britain—merely the Soviet Union, which he expected to do swiftly.</p>
-<p>Stark thus believed the first question was how best to preserve Britain from defeat. He rejected focusing on likely war with Japan, or strictly defensive options, and advocated his option D: a joint offensive with Britain in the Atlantic, while keeping a strong defensive posture in the Pacific. The US fleet should remain in the Pacific until war was “imminent.” Assistance to Britain would mean protecting shipping in the western Atlantic, and reinforcing British naval operations around the British Isles and down the coast of Africa, as well as in the Mediterranean.</p>
-<p>The chief of naval operations further acknowledged that “purely naval assistance, would not, in my opinion, <em>assure</em> final victory for Great Britain,” and moreover that Britain lacked the manpower to win an infantry campaign on its own. “I believe that the United States, in addition to sending naval assistance, would also need to send large air and land forces to Europe or Africa, or both, and to participate strongly in this land offensive.”</p>
-<p>Any other option, Stark believed, would end in British collapse—and thus a serious threat to US security.</p>
-<p>The memorandum thus recommended joint Army-Navy plans and moreover, “secret staff talks on technical matters with the British military and naval authorities” to assure coordination of the impending war effort.</p>
-<p>The Army accepted Stark’s memo with the addition that the United States should expect to supply substantial air support in a war alongside the British. The president authorized the staff conversations, and on December 2, 1940, Stark invited the British to come to Washington for joint planning.<span class="citation" data-cites="connWesternHemisphereFramework1960"><sup>1</sup></span></p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Stetson Conn and Byron Fairchild, <em>The Western Hemisphere: The Framework of Hemispheric Defense</em>, vol. 12, part 1, United States Army in World War II (Washington, D.C.: Office of the Chief of Military History, 1960), 92.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>convoys</category>
-  <category>Greer</category>
-  <category>US strategy</category>
-  <guid>https://erauchway.github.io/posts/greer_3_dog/index.html</guid>
-  <pubDate>Thu, 13 Apr 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

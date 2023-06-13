@@ -1,0 +1,21 @@
+---
+title: North Africa maps
+author: "Eric Rauchway"
+date: 2023-06-13
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+    - Maps
+    - North Africa
+---
+
+<img align="right" src="na_combine.png" alt="Series of maps showing Italian, British, and German advances over the early years of the North Africa campaign." width=50%>
+
+Students in World War II need to understand the North Africa campaigns both for a sense of what British imperial strategy was like, and for the competing demands on German resources in the critical year of 1941. But it's a part of the world with which most of them are unfamiliar, so there's a need of considerable deployment of maps. In the past we've often used proper military maps---like [the West Point ones](https://www.westpoint.edu/academics/academic-departments/history/digital-history-center/atlases/world-war-two-europe)---but to be honest these are finer-grained than our students generally like.
+
+Still, it's not all that easy to make decent military maps, at least not for me. So campaigns like this one, where there's a lot of back and forth, require some sort of in-between depiction---not quite a proper military map, but indicating the general sweep of battlefield events. I'm still working on finding the right balance. 
+
+In these, I've tried to indicate enough of the Eastern Mediterranean so students can grasp why this is an important region---I've got the endpoints of the Suez Canal, and Sicily is visible, indicating the potential hazard to Italy should the British gain complete control of Libya. I've decided not to put country names on this map, because we use them on larger maps ([like this one](http://localhost:5505/posts/geolexigraph/)) and students should have a sense of what major locations are by this time of the class. 
+
+On the other hand I have placed the names of some important cities to help discussion of what's at stake, and where.
