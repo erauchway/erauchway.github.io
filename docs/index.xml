@@ -9,8 +9,38 @@
 <link>https://erauchway.github.io/index.html</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.3.361</generator>
-<lastBuildDate>Tue, 13 Jun 2023 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.433</generator>
+<lastBuildDate>Mon, 17 Jul 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Mistakes and counterfactuals</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/unclear/unclear.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In the <a href="https://jamellebouie.net/unclear-and-present-danger/2023/7/7/fatherland-feat-sam-goldman">latest episode</a> of the <em>Unclear and Present Danger</em> podcast, Jamelle Bouie and John Ganz discuss the movie <em>Fatherland</em> with Sam Goldman. Ganz spends some time explaining his general distaste for alternative histories asking “what if the Nazis had won,” both because it is historically implausible, given the delusional nature of Nazi ideology, and because it has a definite whiff of immorality about it.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/unclear/high_castle.jpeg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">A still from Prime’s <em>The Man in the High Castle</em> showing the alternative-history Reichstag building.</figcaption>
+</figure>
+</div>
+<p>In some moods I feel the same way about one of the most common tropes of World War II analysis—that is, that the German invasion of the Soviet Union was Hitler’s greatest mistake. (I was going to quote directly a well known historian saying that, here, but I had rather not pick a fight with someone generally good over repeating a commonplace; you can surely find people saying it if you really want.)</p>
+<p>Why do I dislike the “mistake” formulation? I tend to agree with those theorists of history who will say that all historical analysis entails implicit counterfactuals, and that it is better to make them explicit if you want to evaluate the analysis properly. In this case, saying that Hitler’s invasion of the Soviet Union was a mistake entails counterfactual, usually implicit but sometimes stated outright, that had he not done it, Germany might have won the war.</p>
+<p>Two related aspects of that statement trouble me. First, and perhaps less important, I also tend to agree with theorists of counterfactual analysis that if you’re going to posit an alternative path that history might have taken, you ought to identify the moment when it was at least possible. And I don’t know that anyone has ever identified a moment when Hitler could plausibly have said, well, I suppose I won’t invade the Soviet Union after all.</p>
+<p>Which points us to the second, more major issue with the “mistake” formulation: from Hitler’s point of view, it was not a <em>mistake</em>; it was a central purpose of the German war and indeed the Nazi state to invade the USSR so as to seize, depopulate, and resettle land to the East. You can say that was a terrible idea; you can say it entailed genocidal atrocities. But it was not, for the Nazis, a mistake—it was one of the major reasons to be a Nazi.</p>
+<p>Saying that it was a mistake fundamentally misunderstands the nature of Nazism. There could be no German victory without that conquest of territory in the East if you were a Nazi, which of course Hitler was. Saying it was a mistake for him to invade the USSR presupposes a Hitler who could somehow have been persuaded not to do so—a Hitler who was, somehow, not a Nazi, or anyway not a sincere one. And that’s a presupposition that beggars belief.</p>
+
+
+
+ ]]></description>
+  <category>Nazi strategy</category>
+  <category>Methods</category>
+  <guid>https://erauchway.github.io/posts/unclear/unclear.html</guid>
+  <pubDate>Mon, 17 Jul 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>North Africa maps</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -748,48 +778,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>UK strategy</category>
   <guid>https://erauchway.github.io/posts/greer_4_facts_2/index.html</guid>
   <pubDate>Wed, 19 Apr 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Four Fears, Four Freedoms: US ideology</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/atlantic_ideology/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Admiral Stark’s <a href="https://erauchway.github.io/posts/greer_3_dog/">“Plan Dog” memo</a> sets as a basic aim the “preservation of the territorial, economic, and ideological integrity of the United States plus that of the remainder of the Western hemisphere.” Which for me raises a question Stark doesn’t address: what does he mean by “ideological integrity”? That question is difficult enough when applied to the United States; it’s even more knotty when applied to the rest of the Western Hemisphere. We can take up the question of the Good Neighbor Policy later; let’s look specifically at the United States. A couple months after the Plan Dog memo, Roosevelt would speak to Congress and outline the “four freedoms,” an ideological basis for US involvement in the war: freedom of speech, freedom of worship, freedom from want, and freedom from fear—everywhere in the world. I’ll talk more about that speech later, too; for this post I want to talk about the earliest public mention I know of those four basic rights, in <a href="http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0101.pdf">a discussion between the Roosevelts and members of the American Youth Congress on June 5, 1940.</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/atlantic_ideology/https:/tile.loc.gov/storage-services/service/pnp/hec/27700/27738v.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">William Hinckley of the American Youth Congress addresses the Dies (House UnAmerican Activities) Committee, November 30, 1939. Library of Congress.</figcaption>
-</figure>
-</div>
-<p>The American Youth Congress (AYC) included a variety of organizations, among them the Boy Scouts and Girl Scouts, but it was widely supposed to have fallen under the influence of communists. It was also a favorite cause of Eleanor Roosevelt, who liked the idea of being in touch with the young people of the nation, which is why members of the AYC were in the state dining room of the White House on June 5, to talk to the president—and to prod him from his political left. One delegate after another asked him about the nation’s, and the administration’s, lackluster record on voting rights for Black citizens. They pressed him on the poll tax. They asked him whether the Allies were not in fact colonialist powers with at best a selective implementation of democracy. Roosevelt gave an honestly relativist answer, saying that whatever the Allies were fighting for, it was “a better form of democracy, certainly, than Germany is fighting for.”</p>
-<p>After a while, one questioner gave him an opening to try something different. How, the president was asked, would he ensure that an Allied victory would produce a better outcome than it had in 1918?</p>
-<blockquote class="blockquote">
-<p>Let’s take this assumption that the world, the people of the world entrusted you to write the next peace. . . . How would America be effective in establishing democratic governments if that is the clue to future peace?</p>
-</blockquote>
-<p>For this question, Roosevelt sounded prepared.</p>
-<blockquote class="blockquote">
-<p>We have a pretty good idea of what we would seek. That is something. In other words, we have a program that is no secret. It is the elimination—I have put it that way on several occasions—it is the elimination of four fears.</p>
-</blockquote>
-<p>He went on to explain these “four fears” as the worry people had that they might not be able to exercise their essential freedoms: freedom of religion, freedom of expression—and “the fear of arms” as well as, “the fear of not being able to have normal economic and social relations with other nations. . . . freedom of commerce and freedom of culture, because the two go hand in hand.”</p>
-<p>Pressed on this amorphous last point—“Doesn’t it seem there should be a fifth item, that of giving people economic security in all countries?”—Roosevelt said, “Yes, that is the fourth point I am making.”</p>
-<p>After the president left the room, the First Lady and Harry Hopkins answered more questions. In the course of this continued discussion, Eleanor Roosevelt said of the president’s positions on aid to the Allies,</p>
-<blockquote class="blockquote">
-<p>A year and a half, two years ago, he said every single thing on defense that he said aloud today to individual members of Congress and gave the very same reasons. . . . Today, they are all running to him because the circumstances, the life of the world, have hit them in the face. . . . But they were not ready two years ago.</p>
-</blockquote>
-<p>The president’s statement that he had used the “four fears” formulation “on several occasions,” together with Eleanor’s saying that he had been using these reasons for somewhere between eighteen months and two years, suggest—as did the president’s saying that his views were “no secret”—that he had somehow, to someone or several someones, mentioned ensuring these basic rights as the essential basis for US aid to the Allies. But as I say, this is the first public occasion of which I’m aware. And even here, as you can see, the formulation is not complete; the “freedom from want” was anything but clearly framed.</p>
-<p>What you can also see is that Roosevelt, whether using this argument with “individual members of Congress” or young, evidently leftist Americans, was trying to provide an ideological answer to why the US should aid the Allies: to fight for a world in which essential human rights were globally guaranteed.</p>
-
-
-
- ]]></description>
-  <category>US strategy</category>
-  <category>US politics</category>
-  <guid>https://erauchway.github.io/posts/atlantic_ideology/index.html</guid>
-  <pubDate>Mon, 17 Apr 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

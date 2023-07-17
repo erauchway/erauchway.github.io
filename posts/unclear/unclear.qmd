@@ -1,0 +1,25 @@
+---
+title: Mistakes and counterfactuals
+author: "Eric Rauchway"
+date: 2023-07-17
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+         - Nazi strategy
+         - Methods
+---
+
+In the [latest episode](https://jamellebouie.net/unclear-and-present-danger/2023/7/7/fatherland-feat-sam-goldman) of the *Unclear and Present Danger* podcast, Jamelle Bouie and John Ganz discuss the movie *Fatherland* with Sam Goldman. Ganz spends some time explaining his general distaste for alternative histories asking "what if the Nazis had won," both because it is historically implausible, given the delusional nature of Nazi ideology, and because it has a definite whiff of immorality about it. 
+
+![A still from Prime's *The Man in the High Castle* showing the alternative-history Reichstag building.](high_castle.jpeg)
+
+In some moods I feel the same way about one of the most common tropes of World War II analysis---that is, that the German invasion of the Soviet Union was Hitler's greatest mistake. (I was going to quote directly a well known historian saying that, here, but I had rather not pick a fight with someone generally good over repeating a commonplace; you can surely find people saying it if you really want.)
+
+Why do I dislike the "mistake" formulation? I tend to agree with those theorists of history who will say that all historical analysis entails implicit counterfactuals, and that it is better to make them explicit if you want to evaluate the analysis properly. In this case, saying that Hitler's invasion of the Soviet Union was a mistake entails counterfactual, usually implicit but sometimes stated outright, that had he not done it, Germany might have won the war.
+
+Two related aspects of that statement trouble me. First, and perhaps less important, I also tend to agree with theorists of counterfactual analysis that if you're going to posit an alternative path that history might have taken, you ought to identify the moment when it was at least possible. And I don't know that anyone has ever identified a moment when Hitler could plausibly have said, well, I suppose I won't invade the Soviet Union after all.
+
+Which points us to the second, more major issue with the "mistake" formulation: from Hitler's point of view, it was not a *mistake*; it was a central purpose of the German war and indeed the Nazi state to invade the USSR so as to seize, depopulate, and resettle land to the East. You can say that was a terrible idea; you can say it entailed genocidal atrocities. But it was not, for the Nazis, a mistake---it was one of the major reasons to be a Nazi.
+
+Saying that it was a mistake fundamentally misunderstands the nature of Nazism. There could be no German victory without that conquest of territory in the East if you were a Nazi, which of course Hitler was. Saying it was a mistake for him to invade the USSR presupposes a Hitler who could somehow have been persuaded not to do so---a Hitler who was, somehow, not a Nazi, or anyway not a sincere one. And that's a presupposition that beggars belief.
