@@ -11,6 +11,8 @@ website:
       - about.qmd
       - icon: mastodon
         href: https://mastodon.social/%40rauchway
+      - icon: cloud-sun
+        href: https://bsky.app/profile/rauchway.bsky.social
       - icon: rss
         href: index.xml
 format:
