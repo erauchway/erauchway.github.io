@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/oppenheimer/index.html",
       "/posts/sw_raiders/index.html",
       "/posts/unclear/unclear.html",
       "/posts/na_map/index.html",
@@ -14,7 +15,6 @@
       "/posts/travel_map/index.html",
       "/posts/irving/index.html",
       "/posts/moley/index.html",
-      "/posts/oppenheimer/index.html",
       "/posts/pan_am/index.html",
       "/posts/budgets/index.html",
       "/posts/geolexigraph/index.html",

@@ -17,8 +17,6 @@ website:
         href: index.xml
 format:
   html:
-    theme: flatly
+    theme:
+        - flatly
     css: styles.css
-
-
-
