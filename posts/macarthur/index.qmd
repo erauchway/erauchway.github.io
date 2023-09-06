@@ -1,0 +1,22 @@
+---
+title: Teflon Doug
+author: "Eric Rauchway"
+date: 2023-09-06
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+         - MacArthur
+         - Pacific
+         - Philippines
+---
+
+Some [current madness on social media](https://psky.app/profile/joekatz45.bsky.social/post/3k6qaya4cyy2e) reminded me that Douglas MacArthur did have at least one substantial secret, about which historians now know pretty well thanks to the work of Carol M. Petillo.[@petilloDouglasMacArthurManuel1979] MacArthur received half a million dollars from Philippine president Manuel Quezon in early 1942, at just about the time MacArthur changed his mind about whether Quezon should be evacuated from Corregidor. As Petillo puts it,
+
+> MacArthur, one day after the transfer of funds was ordered, reversed his position and decided that indeed the president's evacuation could be achieved. On February 20, just after he received verification of the transfer, this decision was carried out and Quezon headed south toward the unoccupied islands on the submarine *Swordfish.*[@petilloDouglasMacArthurManuel1979, 114]
+
+Petillo is scrupulous about not imputing causality, but the timing certainly should raise eyebrows. As she says, "we must ask if MacArthur's 'personal ties and devotion to the Philippine nation' were influenced by half a million dollars." She goes on to note that Washington had been apprised about the money and supposes that the general's superiors were concerned that without such inducements, the "angry" MacArthur might therefore "refuse to follow orders." Although Petillo doesn't mention it here, they had good reason to be concerned, inasmuch as MacArthur had directly defied Herbert Hoover's orders to stand down during the Bonus Army operation in 1932, and instead proceeded to empty and burn the encampments.[@lisioBlunderBecomesCatastrophe1967] Petillo also notes that MacArthur's decision to free Manuel Roxas in 1944, in contrast to the other members of the collaborationist regime in the Philippines, might have had something to do with Roxas's signature appearing on the order to pay the money.
+
+Petillo's discovery was not, and is not, unknown. It received coverage [in the *Washington Post*](https://www.washingtonpost.com/archive/politics/1980/01/29/macarthur-given-500000/3ad863a3-8caa-4792-b038-d91bb3f804b4/) at the time---unusual for articles in the *Pacific Historical Review,* estimable though that journal is. It's also known that Dwight Eisenhower later refused a similar payment, saying he was sure it was legal, but there was significant ["danger of misapprehension or misunderstanding."](https://www.pbs.org/wgbh/americanexperience/features/macarthur-secret-payment/) 
+
+Yet MacArthur, the disobeyer of presidential orders and the taker of secret payments from foreign governments for mysterious reasons, enjoys rather a good reputation.
