@@ -28,3 +28,4 @@ FAQ
 6. *How can I get on the list?* Just @ me on Bluesky.
 7. *How can I get on Bluesky?* Someone on Bluesky can invite you.
 8. *Do I want to be on Bluesky?* Man, I don't know, but I think a lot of historians missed the community provided by certain other sites, and an increasing number have shown up on Bluesky. There are a few journalists who are worth your time. Maybe someday soon there will be a substantial number of editors and publishers, too, and then it will begin to be a more useful professional network. More seem to be appearing all the time.
+9. **ADDED: WHY DIDN'T IT WORK?** Every now and then I get this one, and, well, ¯\_ (ツ)_/¯. If you're on the list (again, [here](https://bsky.app/profile/did:plc:6brknehpd7ecbvd56ko6mhlm/lists/3jzmymatqtf2u)) and you used the emoji, it should work! All I can plead is that it's a beta site, I guess; sorry. I have noticed it does take a little time, sometime, especially on busy days.
