@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/bsky/index.html",
       "/posts/macarthur/index.html",
       "/posts/tbt_biz/index.html",
       "/posts/oppenheimer/index.html",
