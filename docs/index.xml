@@ -21,7 +21,7 @@
 
 
 <p>Awhile ago I set up a feed called <a href="https://bsky.app/profile/did:plc:6brknehpd7ecbvd56ko6mhlm/feed/aaaby3zazwhrq">“What’s History”</a> on Bluesky, the as-yet invite-only microblogging social media service that is a bit livelier than some and freer of unpleasantly trollish features than others.</p>
-<p>Feeds are a Bluesky feature; essentially they allow you to curate your own algorithm. This one is simple: if you’re on a set list of approved posters, and you post using the card file box emoji 🗃, that post will show up in the feed. If you go to the feed at the link above, and “like” it, it will appear among your feeds; if you pin it, you can set it so it appears on your Bluesky homepage, like this.</p>
+<p>Feeds are a Bluesky feature; essentially they allow you to curate your own algorithm. This one is simple: if you’re on a set list of approved posters, and you post using the card file box emoji 🗃, that post will show up in the feed. If you go to the feed at the link above, and “like” it, it will appear among your feeds; if you pin it, you can set it so it appears on your Bluesky homepage, like this. <strong>UPDATED TO ADD</strong> that I’ve amended the feed to include any post that uses the word “skystorians” to accommodate people who don’t care for emoji. So you can use either the card file box or skystorians to send a skeet to the feed.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/bsky/bsky_home.png" class="img-fluid figure-img"></p>
