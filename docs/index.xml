@@ -10,7 +10,57 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 19 Sep 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 Sep 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>What did U.S. Voters Want from the New Deal in 1932?</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/po_32/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I published an article in 2019 arguing that “the New Deal was on the ballot in 1932”—that is, that Roosevelt “ran on the New Deal and was elected on it; while 1933 predates modern polling, we may supposed that the voters had a reasonable expectation he would deliver it.”<span class="citation" data-cites="rauchwayNewDealWas2019"><sup>1</sup></span> My view is contrary to a conventional wisdom which held that Roosevelt did not say much of consequence about the New Deal. I argue that the much tougher burden of proof lies with people who want to prove a negative—that Roosevelt didn’t say anything about key elements of the New Deal—and if you can point to speeches in which he did say things—about support for massively increased public works programs, or stock market regulation, or a lower tariff—then it’s pretty clear where one should come down on the question. But I didn’t have direct evidence about what voters thought, just what Roosevelt said and how vehemently Hoover opposed it.</p>
+<p>As it turns out, at about the same time as my article appeared in <a href="https://www.cambridge.org/core/journals/modern-american-history/article/new-deal-was-on-the-ballot-in-1932/8CDA127BFA5DACAD00893104E04CCA12"><em>Modern American History,</em></a> a scholar named Helmut Norpoth published <a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/american-voter-in-1932-evidence-from-a-confidential-survey/9C75907376FD0D45811C4357ADD7E8AE">an article in PS</a> discussing an internal poll conducted by the market research firm J. David Houser for the Hoover campaign close to the 1932 election and arguing that its results show</p>
+<blockquote class="blockquote">
+<p>the Depression was not the dominant issue for American voters in the 1932 election as is commonly assumed. The American people overwhelmingly favored repeal [of Prohibition]. . . . Radical measures such as providing unemployment benefits and a government takeover of the economy enjoyed little support, even among Democrats. . . . Depression, where is thy sting?<span class="citation" data-cites="norpothAmericanVoter19322019"><sup>2</sup></span></p>
+</blockquote>
+<p>It’s well known among scholars of public opinion polling that market research was closely related to the infant industry, and you can find a discussion of that in standard works.<span class="citation" data-cites="converseSurveyResearchUnited1987"><sup>3</sup></span> So it’s quite reasonable to treat a survey conducted by a market resarch company as a kind of proto-opinion poll.</p>
+<p>You would want to be careful, though. Looking at the poll, the author notes,</p>
+<blockquote class="blockquote">
+<p>the Houser Poll inquired whether a respondent (or a family member) was unemployed and [sic; should be “or”] had lost money in a bank failure. It is true that unemployment was more common among FDR Defectors [i.e., people who voted for Hoover in 1928 and intended to vote for Roosevelt in 1932] than among Hoover Loyalists—whether personally or in one’s family—and so was losing money in bank failures (figure 4). Although these experiences may have driven some voters to FDR, the majority of Americans appears not to have been affected personally by the Depression.<span class="citation" data-cites="norpothAmericanVoter19322019"><sup>4</sup></span></p>
+</blockquote>
+<p>Figure 4, cited there, shows that among the “FDR Defectors,” 13 percent were unemployed, while among “Hoover Loyalists,” 8 percent were unemployed. The thing is, this was at a time when the unemployment rate, as best we can estimate, was around 23 percent.<span class="citation" data-cites="carterHistoricalStatisticsUnited2006"><sup>5</sup></span> So it seems quite likely that the Houser respondents did not represent the overall populace—they were much less likely to be unemployed—and that characterizing their views as representative of “the majority of Americans” is unwarranted; certainly characterizing their experiences as showing who was affected personally by the Depression seems unwarranted. They suffered much less than the average American and we may suppose their attitudes diverged correspondingly from those of the average American.</p>
+<p>At the same time, it’s useful to note what they did want from the government. I reproduce the article’s next chart, figure 5, here.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/po_32/norp_5.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Bar chart showing attitudes toward various possible policies for remedying the Depression.</figcaption>
+</figure>
+</div>
+<p>Note that, as the author says, hardly anyone—FDR defector or Hoover loyalist—favored giving money to the unemployed or a government takeover of business. Neither Hoover nor Roosevelt favored these, either. Slightly over half of FDR defectors favored paying the veterans’ bonus, as against only sixteen percent of Hoover loyalists; Hoover emphatically opposed the bonus and, infamously, sent the army to burn out the bonus marchers’ encampment and tear gas the protesters, probably causing the death of an infant. Roosevelt didn’t support paying the bonus either (though, as he privately noted, he didn’t think the marchers ought to be gassed) but eventually the Democratic congress would vote for it and pass it over his veto.<span class="citation" data-cites="rauchwayWhyNewDeal2021"><sup>6</sup></span></p>
+<p>More interesting, though, note what the FDR defectors favored by large margins: a lower tariff (56 percent), stock market regulation (67 percent), and spending more on public works (77 percent). And there’s clear daylight between FDR defectors and Hoover loyalists on these issues—just as there was clear daylight between Roosevelt and Hoover on the stump. Inasmuch as these issues—along with repeal of Prohibition—were key elements of the New Deal featured in Roosevelt’s speeches and campaign literature (as I discussed in the 2019 article), it seems like the New Deal messaging did get through to voters.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Eric Rauchway, <span>“The New Deal Was on the Ballot in 1932,”</span> <em>Modern American History</em> 2, no. 2 (July 2019): 202.↩︎</p></li>
+<li id="fn2"><p>Helmut Norpoth, <span>“The American Voter in 1932: Evidence from a Confidential Survey,”</span> <em>PS</em> 52, no. 1 (January 2019): 14.↩︎</p></li>
+<li id="fn3"><p>See Jean M. Converse, <em>Survey Research in the United States: Roots and Emergence, 1890-1960</em> (Berkeley: University of California Press, 1987).↩︎</p></li>
+<li id="fn4"><p>Norpoth, <span>“American Voter in 1932,”</span> 17.↩︎</p></li>
+<li id="fn5"><p>Susan B. Carter et al., eds., <em>Historical Statistics of the United States, Earliest Times to the Present</em>, Millennial, 5 vols. (New York: Cambridge University Press, 2006), series Ba475.↩︎</p></li>
+<li id="fn6"><p>On Hoover, Roosevelt, and the bonus march, see Eric Rauchway, <em>Why the New Deal Matters</em> (New Haven: Yale University Press, 2021), 25–33.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>New Deal</category>
+  <category>Election of 1932</category>
+  <category>Public opinion</category>
+  <guid>https://erauchway.github.io/posts/po_32/index.html</guid>
+  <pubDate>Fri, 22 Sep 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The Bluesky “What’s History” Feed</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -787,56 +837,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>Neutrality</category>
   <guid>https://erauchway.github.io/posts/geolexigraph/index.html</guid>
   <pubDate>Mon, 01 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Basics of the Greer speech</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/greer_speech/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Ultimately, what troubles me most about standard accounts of the <em>Greer</em> incident is the tendency to treat evidence showing the U-boat captain didn’t know the destroyer was a US ship as a gotcha for the Roosevelt administration. Roosevelt’s speech on the incident, and the policy he announced as a result, didn’t depend on the U-boat captain knowing <em>Greer</em> was a US ship; in fact, Roosevelt quite expressly said otherwise.</p>
-<p>A transcript of the president’s remarks as delivered appear in the Master Speech File at the Roosevelt Library in the second folder on this address; <a href="http://www.fdrlibrary.marist.edu/_resources/images/msf/msf01445">big pdf link here.</a></p>
-<p>Here’s what seems to me the most important passage, so far as the <em>Greer</em> incident itself goes:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/greer_speech/speech.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Excerpt from the transcript of Roosevelt’s national broadcast of September 11, 1941, speech file 1381B, box 62, Master Speech File, FDRL.</figcaption>
-</figure>
-</div>
-<p>Roosevelt does say before this passage that it was broad daylight and the destroyer was flying the American flag. Moreover he imputes to the U-boat commander the “deliberate design to sink her.”</p>
-<p>But the key, so far as his argument goes, seems to me here: <em>if</em> the German U-boat saw <em>Greer</em> was a US ship and fired at her, that’s an act of war—but! if it <em>didn’t</em> see <em>Greer</em> and ascertain her identity, that’s “even more outrageous”; it’s “indiscriminate violence,” and even worse.</p>
-<p>Thus Roosevelt’s argument does not hinge on the Germans’ knowing they were firing on a US ship. You’d never know it the way many historians talk about it. For example:</p>
-<blockquote class="blockquote">
-<p>In a fireside chat delivered on September 11, FDR deliberately distorted the details of the incident. He claimed that the <em>Greer’s</em> identity as a U.S. ship was unmistakable and that the German submarine fired first without warning. He went on to outline a Nazi design to abolish the freedom of the seas as a prelude to domination of the United States.<span class="citation" data-cites="schuesslerDeceptionDividendFDR2010"><sup>1</sup></span></p>
-</blockquote>
-<p>But Roosevelt’s speech didn’t, as I say, depend on <em>Greer’s</em> identity as a US ship. Much to the contrary; he says it’s actually worse if the U-boat didn’t know it. (Moreover, as previously noted, the Nazis <a href="https://erauchway.github.io/posts/greer_2_nazi/">absolutely did mean to abolish freedom of the seas as prelude to war with the United States.</a>)</p>
-<p>Further: Roosevelt then goes on in the speech to outline a pattern. The Germans had previously sunk the US merchantman <em>Robin Moor,</em> the Panamanian ship <em>Sessa,</em> and the US merchant vessel <em>Steel Seafarer.</em> You could reasonably suppose the Germans didn’t particularly care whose ships they were sinking.</p>
-<p>Indeed, historians now know—or should know, at any rate—that’s precisely the case, both in the specific case of the <em>Greer</em> and in general. In the National Archives, one may find a decrypted message from Lt. Fraatz, of U 652, to the German commander of submarines, dated September 5, 1941, explaining he had fired torpedoes at “DESTROYER, FLING [<em>sic</em>] UNKNOWN FLAG.”<span class="citation" data-cites="fraatz1941"><sup>2</sup></span> <a href="https://erauchway.github.io/posts/greer_4_facts_2/">Fraatz knew <em>Greer</em> wasn’t acting like a British ship.</a> <a href="https://erauchway.github.io/posts/greer_5_confusion/">He didn’t think it was a British ship.</a> He was puzzled by its behavior, and he didn’t know whose ship it was. But he fired on it anyway. Which is what Roosevelt described as “even more outrageous” than knowing it was a US ship.</p>
-<p>Perhaps Fraatz, via the various communications channels of Raeder’s navy, absorbed the message given by Hitler earlier in the summer. On July 25, 1941, one of the many occasions when Hitler urged patience, awaiting the right moment to attack the United States, he said,</p>
-<blockquote class="blockquote">
-<p>His original view has undergone no changes whatsoever. He would, however, like to avoid having the U.S.A. declare war while the Eastern Campaign is still in progress, also out of consideration for the Army which is involved in heavy combat. But he will never call a submarine commander to account if he torpedoes an American ship by mistake.<span class="citation" data-cites="FuehrerConferencesNaval1990"><sup>3</sup></span></p>
-</blockquote>
-<p>As I say, Fraatz’s specific behavior reflects this general carelessness. The <em>Greer</em> might have been an American ship; it might not. But there was no harm in shooting at it if it were. That’s precisely the view that Roosevelt objected to, describing it as “piracy.”</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>John M. Schuessler, <span>“The Deception Dividend: FDR’s Undeclared War,”</span> <em>International Security</em> 34, no. 4 (April 2010): 157, <span>https://doi.org/10.1162/isec.2010.34.4.133</span>.↩︎</p></li>
-<li id="fn2"><p>Fraatz to ComSubs, September 5, 1941, Entry A1 9019 German Navy U-Boat Message Translation and Summaries, SRGN 2720, RG 457, National Archives and Records Administration.↩︎</p></li>
-<li id="fn3"><p><em>Fuehrer Conferences on Naval Affairs, 1939--1945</em> (London: Greenhill Books, 1990), 222.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Greer</category>
-  <category>US strategy</category>
-  <category>Nazi strategy</category>
-  <guid>https://erauchway.github.io/posts/greer_speech/index.html</guid>
-  <pubDate>Fri, 28 Apr 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
