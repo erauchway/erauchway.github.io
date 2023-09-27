@@ -10,7 +10,34 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Fri, 22 Sep 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 Sep 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>The only thing worse than being assimilated to the Borg</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/borg/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The <em>Atlantic</em> ran <a href="https://www-stage.theatlantic.com/technology/archive/2023/09/books3-database-generative-ai-training-copyright-infringement/675363/">an article</a> or <a href="https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/">two</a> about the Books3 database, into which some 180,000 books were fed to form a corpus for Meta’s large language model LLaMa, among other purposes. There’s <a href="https://full-stack-search-prod.vercel.app">an app</a> that lets you search for an author’s name to see if it’s in there. And, well:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/borg/borg.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">A screenshot demonstrating the presence of my first three New Deal books in Books3.</figcaption>
+</figure>
+</div>
+<p>I haven’t fully thought through (nor, I am heartened to see, have legal scholars) the implications of one’s books being thus used. But I was not best pleased that Meta had apparently acquired the text of my books from a site containing pirated material. After all, surely Mark Zuckerberg can afford the possibly dozens of dollars it would cost to acquire these three texts. Why must the heralds of the future be simultaneously grandiose and ungenerous?</p>
+
+
+
+ ]]></description>
+  <category>New Deal</category>
+  <category>Methods</category>
+  <category>Madness</category>
+  <guid>https://erauchway.github.io/posts/borg/index.html</guid>
+  <pubDate>Wed, 27 Sep 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>What did U.S. Voters Want from the New Deal in 1932?</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -20,7 +47,7 @@
 
 
 
-<p>I published an article in 2019 arguing that “the New Deal was on the ballot in 1932”—that is, that Roosevelt “ran on the New Deal and was elected on it; while 1933 predates modern polling, we may supposed that the voters had a reasonable expectation he would deliver it.”<span class="citation" data-cites="rauchwayNewDealWas2019"><sup>1</sup></span> My view is contrary to a conventional wisdom which held that Roosevelt did not say much of consequence about the New Deal. I argue that the much tougher burden of proof lies with people who want to prove a negative—that Roosevelt didn’t say anything about key elements of the New Deal—and if you can point to speeches in which he did say things—about support for massively increased public works programs, or stock market regulation, or a lower tariff—then it’s pretty clear where one should come down on the question. But I didn’t have direct evidence about what voters thought, just what Roosevelt said and how vehemently Hoover opposed it.</p>
+<p>I published an article in 2019 arguing that “the New Deal was on the ballot in 1932”—that is, that Roosevelt “ran on the New Deal and was elected on it; while 1933 predates modern polling, we may suppose that the voters had a reasonable expectation he would deliver it.”<span class="citation" data-cites="rauchwayNewDealWas2019"><sup>1</sup></span> My view is contrary to a conventional wisdom which held that Roosevelt did not say much of consequence about the New Deal. I argue that the much tougher burden of proof lies with people who want to prove a negative—that Roosevelt didn’t say anything about key elements of the New Deal—and if you can point to speeches in which he did say things—about support for massively increased public works programs, or stock market regulation, or a lower tariff—then it’s pretty clear where one should come down on the question. But I didn’t have direct evidence about what voters thought, just what Roosevelt said and how vehemently Hoover opposed it.</p>
 <p>As it turns out, at about the same time as my article appeared in <a href="https://www.cambridge.org/core/journals/modern-american-history/article/new-deal-was-on-the-ballot-in-1932/8CDA127BFA5DACAD00893104E04CCA12"><em>Modern American History,</em></a> a scholar named Helmut Norpoth published <a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/american-voter-in-1932-evidence-from-a-confidential-survey/9C75907376FD0D45811C4357ADD7E8AE">an article in PS</a> discussing an internal poll conducted by the market research firm J. David Houser for the Hoover campaign close to the 1932 election and arguing that its results show</p>
 <blockquote class="blockquote">
 <p>the Depression was not the dominant issue for American voters in the 1932 election as is commonly assumed. The American people overwhelmingly favored repeal [of Prohibition]. . . . Radical measures such as providing unemployment benefits and a government takeover of the economy enjoyed little support, even among Democrats. . . . Depression, where is thy sting?<span class="citation" data-cites="norpothAmericanVoter19322019"><sup>2</sup></span></p>
@@ -803,40 +830,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>Balanced budget</category>
   <guid>https://erauchway.github.io/posts/budgets/index.html</guid>
   <pubDate>Wed, 03 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Geolexigraph</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/geolexigraph/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Today’s fun source is the “Geolexigraph of the Neutrality Act of 1939,” in the Department of Commerce’s own journal, <em>Comparative Law Series,</em> of May 1940.<span class="citation" data-cites="perkinsGeolexigraphNeutralityAct1940"><sup>1</sup></span> The journal provided information to US businesses on how to navigate US laws and policy; this particular article included all manner of information from the Department of Commerce itself, the post office, the Department of State, the customs office, and various other entities on how not to run afoul of the neutrality act passed just after the beginning of World War II in Europe.</p>
-<p>But beware! for the Commerce Department folks introduced an error into their reproduction of the president’s declaration of a combat area under the law, and two of the geographic points are swapped. The original authoritative source is in the Department of State’s own bulletin.<span class="citation" data-cites="ProclamationDefiningCombat1940"><sup>2</sup></span></p>
-<p>And for yet more fun here is a map showing that same combat area.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/geolexigraph/zonemap.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Map of the north Atlantic and countries in Europe, Africa, and North America, including their status with respect to the war, as of about the end of 1940, including the combat area declared by presidential proclamation on April 10, 1940.</figcaption>
-</figure>
-</div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Samuel E. Perkins, <span>“Geolexigraph of the Neutrality Act of 1939,”</span> <em>Comparative Law Series</em> 3, no. 5 (May 1940): 241--285.↩︎</p></li>
-<li id="fn2"><p><span>“Proclamation Defining Combat Area,”</span> <em>Department of State Bulletin</em> 2, no. 42 (April 13, 1940): 278--379.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>US strategy</category>
-  <category>Neutrality</category>
-  <guid>https://erauchway.github.io/posts/geolexigraph/index.html</guid>
-  <pubDate>Mon, 01 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
