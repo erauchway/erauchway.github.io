@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/nsdap/index.html",
       "/posts/borg/index.html",
       "/posts/po_32/index.html",
       "/posts/bsky/index.html",

@@ -10,7 +10,47 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 27 Sep 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Oct 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Price levels and the Nazi vote</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/nsdap/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>People will commonly blame the Weimar hyperinflation for the rise to power of the Nazi party, disregarding the ten-year lag and the intervening Great Depression, an episode of severe deflation. Recently one historian set forth a “precise mechanism” for how inflation produced antisemitism:</p>
+<blockquote class="blockquote">
+<p>In stable times, we expect each partner in a commercial transaction to believe that the price was fair, and that both sides benefit from the exchange. I buy a meal that satisfies my hunger, and the innkeeper in return has money that can be used to satisfy their needs. When prices move [sic; it should say “rise”], I am upset by having to pay more. The innkeeper is angry because the money I have given no longer buys so many goods. We both think that we have lost out in the transaction, [to this point, the characterization seems fine, if naïve: it’s in the next word that I begin to disagree] and that we have been manipulated by some sinister force. We also feel guilty for taking advantage of others—getting rid of our banknotes as soon as possible. We start to think that we are behaving in a speculative and grasping way. Non-Jewish Germans after the First World War in the middle of the currency disorder thus took up activities that they associated with Jewish actions, hated themselves for their breach of traditional norms, and externalized that powerful emotion by blaming the groups associated with finance and money.<span class="citation" data-cites="jamesSevenCrashesEconomic2023"><sup>1</sup></span></p>
+</blockquote>
+<p>It seems to me that this explanation fails on two grounds. First, unless you already associate Jews with “speculative and grasping” behavior and are prone to see them as involved in sinister conspiracies to do with money and finance—unless, that is, you are already an antisemite—there is no reason for inflation to lead to extreme antisemitism. The problem isn’t inflation, it’s antisemitism.</p>
+<p>Second, if this the mechanism, then shouldn’t it be reversed by deflation? In those transactions, the author’s non-Jewish German should be grateful to have to part with less money than previously; the author’s innkeeper should be pleased to be able to buy more with his money than before; both should be happy that the groups they associate with finance and money have treated them thus . . . yes, well, I grant it’s implausible—<em>because we’re talking about a deeply antisemitic culture.</em> The fault lies not with rising prices, but with antisemitism.</p>
+<p>Moreover, of course, it’s not the Weimar hyperinflation that correlates with the increasing power of Nazism. It’s the deflation of the Great Slump, 1928 (in Germany) to 1933.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/nsdap/germanelec_cpi.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Chart showing the correlation between NSDAP vote share and falling prices; hyperinflation goes off the top of the chart because otherwise it would be unreadable.</figcaption>
+</figure>
+</div>
+<p>Which is why, of course, the economist George Warren observed at the time, “It seems to be a choice between a rise in prices or a rise in dictators.”<span class="citation" data-cites="rauchwayMoneyMakersHow2015"><sup>2</sup></span></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Harold James, <em>Seven Crashes: The Economic Crises That Shaped Globalization</em> (New Haven: Yale University Press, 2023), 108.↩︎</p></li>
+<li id="fn2"><p>Eric Rauchway, <em>The Money Makers: How Roosevelt and Keynes Ended the Depression, Defeated Fascism, and Secured a Prosperous Peace</em> (New York: Basic Books, 2015), 80.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Nazis</category>
+  <category>Inflation</category>
+  <category>Deflation</category>
+  <guid>https://erauchway.github.io/posts/nsdap/index.html</guid>
+  <pubDate>Mon, 02 Oct 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The only thing worse than being assimilated to the Borg</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -793,43 +833,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>Pan Am</category>
   <guid>https://erauchway.github.io/posts/pan_am/index.html</guid>
   <pubDate>Fri, 05 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Franklin Roosevelt, budget-cutter</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/budgets/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Much as I crankily complain about e-texts (tldr; for scholarly use and for instruction they are not as accessible as they should be), we live in an age of wonderful online documents, including the US Treasury Bulletin, of which one may find the December 1940 number <a href="https://fraser.stlouisfed.org/title/treasury-bulletin-407/december-1940-6528">here.</a> And in that number one may find the Treasury’s own breakdown of the New Deal budgets, which I depict here in graphical format.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/budgets/budg2.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">US budgets, 1933–1940 by Treasury categories, dividing “ordinary” from “New Deal” expenditures.</figcaption>
-</figure>
-</div>
-<p>During the 1932 campaign, Franklin Roosevelt tried (as candidates often do) to have his cake and eat it too—that is, to promise both that he would be more frugal than Herbert Hoover and that he would spend extraordinary sums on unemployment relief as part of his New Deal. Roosevelt gave a respectable cast to this pledge to have it both ways by distinguishing between the “ordinary” expenditures of the federal government, which he would cut, and the necessary emergency expenditures of the New Deal, which would grow as large as they must to provide relief. As he said in his speech on the budget in Pittsburgh, (<a href="http://www.fdrlibrary.marist.edu/_resources/images/msf/msf00570">transcript here</a>) under Hoover “our Federal Government has experienced unprecedented deficits,” which needed paying for in taxation, “a brake on any return to normal business activity.” He proposed therefore to cut the expenditures of the federal government—while excepting the emergency expenditures necessary for the New Deal:</p>
-<blockquote class="blockquote">
-<p>what I am talking about more especially tonight are the taxes which go to the ordinary costs of conducting government year in and year out—and that is where the question of extravagance comes in. There can be no extravagance when starvation is in question; but extravagance does apply to the mounting budget of the Federal Government in Washington during these past four years.</p>
-</blockquote>
-<p>Roosevelt kept budget-cutting a priority, while also preserving this exception, once inaugurated. The first major New Deal measure after the banking and currency legislation was the Economy Act, which gave the president extraordinary powers to cut the budget. On March 24, 1933, just after the passage of the Economy Act, <a href="http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0184.pdf">a reporter asked Roosevelt</a> if he would balance the budget, and the president gave an answer that hewed to the distinction, however inventive, he had made during the campaign.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/budgets/depends.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Press conference remarks distinguishing ordinary from emergency spending. FDRL</figcaption>
-</figure>
-</div>
-<p>As you can see from the chart, Roosevelt (through his budget-cutting deputy Lewis Douglas) used the Economy Act’s authority to reduce what he considered “ordinary” federal spending in his first budget, and the “ordinary” expenses of the government remained down through his first term. Of course, he more than made up for that drop with New Deal spending.</p>
-
-
-
- ]]></description>
-  <category>New Deal</category>
-  <category>Balanced budget</category>
-  <guid>https://erauchway.github.io/posts/budgets/index.html</guid>
-  <pubDate>Wed, 03 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
