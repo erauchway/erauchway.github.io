@@ -10,13 +10,27 @@ h1, h2, h3 {
 }
 
 body {
-    font-family: "IBM Plex Sans" !important;
+    font-family: "IBM Plex Serif" !important;
     font-size: 1em !important;
 }
 
 p {
     margin-bottom: 10px !important;
-    font-family: "IBM Plex Sans" !important;
+    font-family: "IBM Plex Serif" !important;
+    font-size: 1em !important;
+    text-align: left !important;
+}
+
+main {
+    margin-bottom: 10px !important;
+    font-family: "IBM Plex Serif" !important;
+    font-size: 1em !important;
+    text-align: left !important;
+}
+
+content {
+    margin-bottom: 10px !important;
+    font-family: "IBM Plex Serif" !important;
     font-size: 1em !important;
     text-align: left !important;
 }
