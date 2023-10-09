@@ -19,5 +19,10 @@ website:
 format:
   html:
     theme:
-        - flatly
+        light: flatly
+        dark: darkly
     css: styles.css
+bibliography: ../common/big_bib.json
+link-citations: false
+suppress-bibliography: true
+csl: ../common/chicago-fullnote-bibliography-short-title-subsequent.csl
