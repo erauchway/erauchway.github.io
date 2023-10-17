@@ -10,7 +10,43 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Sun, 08 Oct 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Oct 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Wine grape varieties in California</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/wine_var/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The fine folks at AAWE posted <a href="https://staging.bsky.app/profile/wineecon.bsky.social/post/3kb6i5vhfew2x">a chart a week ago,</a> showing how as recently as 1960, Bordeaux was planted mainly to white grapes, perhaps contrary to one’s modern preconceptions, which reminded me of some data we had kicking around here, on the course of California’s wine grape plantings. Below, a chart—which I couldn’t have made without gracious help from Kieran Healy—showing the pattern of California wine-grape planting between repeal and the Judgment of Paris in 1976.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/wine_var/wine_var.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Acres planted to wine grape varieties in California.</figcaption>
+</figure>
+</div>
+<p>The varieties you might associate with high-end California wines—the ones California vintners used to win the Judgment of Paris blind taste-test by emulating Bordeaux whites and reds—don’t really appear until they have a renaissance starting in the 1950s. The varieties at the top of the chart are those bred by UC Davis viticulturist Harold Olmo, as grapes that would make reasonably good wine and also thrive in California’s valley heat. What you see at the bottom, in terms of the varieties that were being grown at the time of repeal, is a certain amount of selection—Grenache and Colombard increase, Alicante Bouschet decreases—and also of consolidation, as a smaller number of winemakers work to meet the demands of an increasing consumer market.</p>
+<p>These data were originally collected as part of a joint effort among the Agricultural Adjustment Administration, Bureau of Agricultural Economics, Works Progress Administration, and the state of California Department of Agriculture, for AAA statistical publication no. 1.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/wine_var/IMG_6102.JPG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">AAA statistical publication no. 1</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>Wine</category>
+  <category>Prohibition</category>
+  <category>Repeal</category>
+  <category>New Deal</category>
+  <category>UC Davis</category>
+  <guid>https://erauchway.github.io/posts/wine_var/index.html</guid>
+  <pubDate>Sun, 15 Oct 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Field on the New Deal recovery</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -802,47 +838,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>Holocaust</category>
   <guid>https://erauchway.github.io/posts/irving/index.html</guid>
   <pubDate>Mon, 15 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Ray Moley as a source</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/moley/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Historians often rely on Raymond Moley’s memoirs for accounts of the early New Deal.<span class="citation" data-cites="moleySevenYears1939 moleyFirstNewDeal1966"><sup>1</sup></span> I have been skeptical of leaning too hard on these sources: memoirs written after the fact are fallible because memory is fallible; moreover, Moley left the administration because he disagreed with Roosevelt’s policies and he came to disagree with them even more, ultimately contributing to Barry Goldwater’s speeches, and so this rupture colored his recollection. But most of all, his memoirs are like all memoirs “intentional,” to use Marc Bloch’s term; as historians we generally prefer sources that serve as “witnesses in spite of themselves.” That is, Moley (like all memoirists) composed his memoirs and in that act of composition made decisions in keeping with his intentions, seeking to influence historical narrative. We’d rather have a document written in 1933 whose author didn’t necessarily mean it to see the light of day, which was supposed to communicate something of importance in 1933, and which therefore unintentionally bears witness when we look at it now.<span class="citation" data-cites="blochHistorianCraft1953"><sup>2</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/moley/moley.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Raymond Moley (right) greets Senator William Borah (R-ID) as Moley arrives in Congress to testify in opposition to the president’s judicial reform bill, 1937. Library of Congress.</figcaption>
-</figure>
-</div>
-<p>I was able to look at Moley’s papers in the Hoover Institution at Stanford some years ago. They are full of witnesses in spite of themselves, but they also include evidence of Moley’s intention to shape the historical record, which is perhaps more than anything else what put me on alert as to his reliability. Notably, Moley’s papers include the diary of his assistant, Celeste Jedel, covering January 1 to August 1, 1933—essentially, the short period when Moley was of at least some consequence to the Roosevelt administration. Moley directed that this diary be kept sealed until 1976, and included a covering memorandum to researchers, which he wrote in 1972 on his Phoenix, Arizona, stationery.</p>
-<blockquote class="blockquote">
-<p>The diary which accompanies this statement was written by my assistant, Celeste Jedel. . . . It was written at my direction. . . . at the end of every day I explained to her what I wanted recorded in the diary, telling her whom I had seen and where I had been in my periods out of the office. . . . She was a brilliant girl and had a photographic memory, so that the entries are all correct, but since she was only 22 years old, her judgment about what should go into the diary was sometimes faulty. In other words, she included certain comments of her own which did not represent my opinion. . . . I would not have these exposed now since some of the individuals are living, and in other cases there are relatives. I did not agree with her evaluations.<sup>3</sup></p>
-</blockquote>
-<p>This note says a lot, I think, especially when read together with the diary and with knowledge of Moley’s general attitude toward the early Roosevelt administration. Moley really seems to want to have it both ways: the diary belongs in his papers because he directed it be written but also it includes things he didn’t say should go in it. He didn’t agree with what she said but she was brilliant and had a photographic memory. Also the entries are all correct! I think one can parse this passage so that these things are all true at once, but it requires hard work, and it also requires you to believe that Moley’s grasp of the past from forty years onward be better than Jedel’s contemporary commentary. It is much more likely that Moley in 1972 was uncomfortable with some of the candid, and true, observations that Jedel made in 1933, which often include tart evaluations of other people in the administration, not all of which seem to a judicious historian at all inconsistent with what we know of Moley’s opinions.</p>
-<p>Whether the historian reading Moley’s covering note accepts, a historian should certainly understand it as an indication that Moley remained, decades later, deeply concerned with how he appeared in 1933. He wanted that moment remembered, to be sure, because it was the moment when he was nearest to power and maybe exercised a little of it. But also he wanted it remembered in a particular way; he was ambivalent later about what he did and said then. Which is maybe no different than any other historical figure, but Moley’s note serves as an unusually express reminder to the historian to take care with Moley’s intentional versions of the historical record.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Moley’s memoirs are Raymond Moley, <em>After Seven Years</em> (New York: Harper &amp; Brothers, 1939); Raymond Moley and Elliot A. Rosen, <em>The First New Deal</em> (New York: Harcourt, Brace &amp; World, 1966).↩︎</p></li>
-<li id="fn2"><p>Marc Bloch, <em>The Historian’s Craft</em>, trans. Peter Putnam (New York: Vintage, 1953), 60–61.↩︎</p></li>
-<li id="fn3"><p>Covering note to Celeste Jedel Diary, Raymond Moley Papers, Hoover Institution, Stanford, CA.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>New Deal</category>
-  <category>Raymond Moley</category>
-  <category>Historiography</category>
-  <category>Methods</category>
-  <guid>https://erauchway.github.io/posts/moley/index.html</guid>
-  <pubDate>Wed, 10 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
