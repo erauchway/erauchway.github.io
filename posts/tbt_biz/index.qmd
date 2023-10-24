@@ -1,0 +1,70 @@
+---
+title: "Former local man"
+author: "Eric Rauchway"
+date: 2023-09-05
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+         - New Deal
+         - Florida man
+---
+
+It's always nice when your hometown paper picks up something you've done (in a good way). The headline here isn't "Onetime Florida Man Debunks Historical Myths," but [it could be.](https://www.tampabay.com/opinion/2023/08/26/desantis-america-myths-have-consequences-column/) The writer is referring to my chapter (and Josh Zeitz's, too) in Kevin Kruse and Julian Zelizer's *Myth America,* which I understand is selling rather nicely. My chapter deals with the myth that the New Deal was bad for the economy. It includes a version of the below chart. 
+
+```{r echo=FALSE, message=FALSE}
+library(cowplot)
+library(showtext)
+library(tidyverse)
+library(scales)
+library(grafify)
+library(ggtext)
+font_add(family = "IBM Plex Sans", regular = "IBMPlexSans-Regular.otf", italic = "IBMPlexSans-Italic.otf", bold = "IBMPlexSans-Bold.otf")
+read_csv(file = "data/TableCb28-31/Cb28-31.csv") |>
+  select(c("year" = "Year", "month" = "Month", fedind = "FederalReserveBoard_NotSeasonallyAdjusted_Cb30_Index1997100")) |>
+  filter(year>1918 & year <1941) |>
+  mutate(date_ind = paste0(year, "-", month, "-01")) |>
+  mutate(date_ind = as_date(date_ind)) |>
+  select(c(date_ind, fedind)) -> indpro
+
+read_csv(file = "data/TableCb5-8/Cb5-8.csv") |>
+  mutate(trough_mo = str_sub(trough, 1, 3)) |>
+  mutate(trough_mo_no = match(trough_mo, month.abb)) |>
+  mutate(trough_yr = str_sub(trough, 5, 8)) |>
+  mutate(trough_d = paste0(trough_yr, "-", trough_mo_no, "-01")) |>
+  mutate(trough_d = as_date(trough_d)) |>
+  mutate(peak_mo = str_sub(peak, 1, 3)) |>
+  mutate(peak_mo_no = match(peak_mo, month.abb)) |>
+  mutate(peak_yr = str_sub(peak, 5, 8)) |>
+  mutate(peak_d = paste0(peak_yr, "-", peak_mo_no, "-01")) |>
+  mutate(peak_d = as_date(peak_d)) |>
+  filter(peak_d > "1918-12-31" & peak_d< "1948-12-31") |>
+select(c("peak_d", "trough_d")) |>
+  mutate(trough_d_shift = lead(trough_d, 1)) |>
+  select(c("peak_d", "trough_d" = "trough_d_shift")) |>
+  filter(peak_d < "1945-01-01") -> bc_dates
+
+   
+
+p <- ggplot(indpro) + geom_line(linewidth = 1, color = "#117733", aes(x = date_ind, y = fedind, group = 1)) +
+  geom_rect(data = bc_dates, 
+            aes(xmin = peak_d, 
+                xmax = trough_d,
+                ymin = -Inf,
+                ymax = +Inf), fill = "black", alpha = 0.2) +
+  scale_x_date(labels = label_date_short()) +
+  theme_minimal_hgrid() +
+  theme(text = element_text(family = "IBM Plex Sans"), 
+        axis.text = element_text(size = rel(0.8)),
+        axis.title = element_text(size = rel(0.8)),
+        plot.title = element_markdown(),
+        plot.caption = element_text(size = rel(0.6), hjust = 0)
+        ) +
+  labs(title = "Business cycles, 1919--1940", subtitle = "Shaded areas show recessions", x = "", y = "Index of industrial production (1997 = 100)", caption = "Chart made using R and ggplot by Eric Rauchway with data from HSUS series Cb5-8 and Cb30.")
+p
+ggsave(filename = "images/bizcycles.png", bg = "white")
+```
+
+The great slump, 1929--1933, stands out for its duration and severity. The recovery during the New Deal, beginning with Roosevelt's inauguration in March 1933, also stands out for its duration and vigor, albeit interrupted by the 1937--1938 recession. The chart is thus a useful starting-point for conversation about what Americans of that era experienced, and how we think about it now. 
+
+You can see there was an obvious recovery under the New Deal. Americans alive at the time knew about it and, if they did not attribute it to the New Deal, they at least knew the New Deal didn't prevent it from happening. That's why Roosevelt was reelected in a record landslide in 1936.

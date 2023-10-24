@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "a necessitous blog"
+  site-url: https://erauchway.github.io
+  description: "A blog full of pedantry about the era of the Roosevelt administration, 1933--1945"
+  navbar:
+    right:
+      - about.qmd
+      - icon: cloud-sun
+        href: https://psky.app/profile/rauchway.bsky.social
+      - icon: rss
+        href: index.xml
+      - text: "My c.v."
+        href: http://htmlpreview.github.io/?https://github.com/erauchway/cv_pub/blob/main/rauchway_cv.html
+
+format:
+  html:
+    theme:
+        light: flatly
+        dark: darkly
+    css: styles.css
+bibliography: ../common/big_bib.json
+link-citations: false
+suppress-bibliography: true
+csl: ../common/chicago-fullnote-bibliography-short-title-subsequent.csl

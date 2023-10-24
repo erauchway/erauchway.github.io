@@ -1,0 +1,25 @@
+---
+title: Time and rate of the Holocaust
+author: "Eric Rauchway"
+date: 2023-05-22
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+     - Holocaust
+     - Historiography
+     - Methods
+---
+
+Of the effort to arrive at a number of Jews murdered in the Nazi death camps, Yitzhak Arad writes,
+
+> There were never any records of the killing activities in these camps: the entire operation was *Geheime Reichssache---*a secret matter of the Reich, and any written documentation on what was actually taking place in the death camps would have exposed the secret. The deportation orders and reports on their implementation were sometimes written down but usually given orally. Even the SS men who served in the camps were utterly prohibited from counting the number of Jews they murdered, or even to discuss the matter. SS *Unterscharführer* Robert Jührs, when asked at the Belzec war crimes trial on the number of Jews murdered in the camp responded: "In the matter of this question, permit me to emphasize that we were explicitly prohibited from discussing numbers."[@aradOperationReinhardDeath2018, 435]
+
+But the Germans used the railways to deport Jews from the Polish towns and ghettos to Belzec, Sobibor, and Treblinka to be killed, and railways run on bureaucracy; they must know when trains leave and how many cars are on them. Arad was able to discover records of 480 or so such trains and, knowing that "the Germans pushed 100 to 150 people into each freight car," arrive at an estimate of their burden.[@aradOperationReinhardDeath2018, 436]
+
+Auschwitz presents a trickier problem because it was not solely a death camp. Deportees arriving in the camp went through a selection process from which some were registered and sent to labor; the unregistered were sent to their death. One must therefore look at the number of deportees and the number registered and in most cases, as Robert Jan van Pelt writes, "All the deportees were either killed on arrival, and therefore not registered; or admitted to the camp and registered."[@vanpeltCaseAuschwitzEvidence2016, 113] He cites the work of Franciszek Piper, who in the 1980s began working from previously compiled documentation and estimates to arrive at reliable figures.[@piperEstimatingNumberDeportees1991]
+
+In 2019, Lewi Stone put together a data series including Arad's and Piper's figures, together with some more representing Jews killed by the *Einsatzgrüppen* during the invasion of the Soviet Union (the "Shoah by bullet") to come up with a time series showing the number of Jews murdered in the death camps as against Auschwitz and by shooting. Stone's concern is the intensity of this genocide as against others, but for the purpose of teaching World War II, it's more useful for showing the timing of the Holocaust and its relation to the other events of the war. Stone's article doesn't have his raw data, but [a piece he wrote for The Conversation](https://theconversation.com/quantifying-the-holocaust-measuring-murder-rates-during-the-nazi-genocide-108984) does.[@stoneQuantifyingHolocaustHyperintense2019] From it one can make a chart such as the below.
+
+![Chart showing number and date of Jews murdered in various locations and manners during the Holocaust, using data from Lewi Stone.](stone_holocaust.png)
+

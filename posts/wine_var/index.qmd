@@ -1,0 +1,22 @@
+---
+title: Wine grape varieties in California
+author: "Eric Rauchway"
+date: 2023-10-15
+categories:
+         - Wine
+         - Prohibition
+         - Repeal
+         - New Deal
+         - UC Davis
+---
+
+
+The fine folks at AAWE posted [a chart a week ago,](https://staging.bsky.app/profile/wineecon.bsky.social/post/3kb6i5vhfew2x) showing how as recently as 1960, Bordeaux was planted mainly to white grapes, perhaps contrary to one's modern preconceptions, which reminded me of some data we had kicking around here, on the course of California's wine grape plantings. Below, a chart---which I couldn't have made without gracious help from Kieran Healy---showing the pattern of California wine-grape planting between repeal and the Judgment of Paris in 1976.
+
+![Acres planted to wine grape varieties in California.](wine_var.png)
+
+The varieties you might associate with high-end California wines---the ones California vintners used to win the Judgment of Paris blind taste-test by emulating Bordeaux whites and reds---don't really appear until they have a renaissance starting in the 1950s. The varieties at the top of the chart are those bred by UC Davis viticulturist Harold Olmo, as grapes that would make reasonably good wine and also thrive in California's valley heat. What you see at the bottom, in terms of the varieties that were being grown at the time of repeal, is a certain amount of selection---Grenache and Colombard increase, Alicante Bouschet decreases---and also of consolidation, as a smaller number of winemakers work to meet the demands of an increasing consumer market.
+
+These data were originally collected as part of a joint effort among the Agricultural Adjustment Administration, Bureau of Agricultural Economics, Works Progress Administration, and the state of California Department of Agriculture, for AAA statistical publication no. 1.
+
+![AAA statistical publication no. 1](IMG_6102.JPG)
