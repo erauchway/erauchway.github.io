@@ -1,0 +1,16 @@
+{
+  "hash": "e84b7b442a036054a50a14112c958879",
+  "result": {
+    "markdown": "---\ntitle: \"Former local man\"\nauthor: \"Eric Rauchway\"\ndate: 2023-09-05\nbibliography: ../../../common/war_nd.json\nsuppress-bibliography: true\ncsl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl\ncategories:\n         - New Deal\n         - Florida man\n---\n\n\nIt's always nice when your hometown paper picks up something you've done (in a good way). The headline here isn't \"Onetime Florida Man Debunks Historical Myths,\" but [it could be.](https://www.tampabay.com/opinion/2023/08/26/desantis-america-myths-have-consequences-column/) The writer is referring to my chapter (and Josh Zeitz's, too) in Kevin Kruse and Julian Zelizer's *Myth America,* which I understand is selling rather nicely. My chapter deals with the myth that the New Deal was bad for the economy. It includes a version of the below chart. \n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\nThe great slump, 1929--1933, stands out for its duration and severity. The recovery during the New Deal, beginning with Roosevelt's inauguration in March 1933, also stands out for its duration and vigor, albeit interrupted by the 1937--1938 recession. The chart is thus a useful starting-point for conversation about what Americans of that era experienced, and how we think about it now. \n\nYou can see there was an obvious recovery under the New Deal. Americans alive at the time knew about it and, if they did not attribute it to the New Deal, they at least knew the New Deal didn't prevent it from happening. That's why Roosevelt was reelected in a record landslide in 1936.",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

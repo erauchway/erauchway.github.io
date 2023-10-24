@@ -1,0 +1,17 @@
+---
+title: Mothballs
+author: "Eric Rauchway"
+date: 2023-06-10
+bibliography: ../../../common/war_nd.json
+suppress-bibliography: true
+csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+categories:
+     - US strategy
+     - Neutrality
+---
+
+The US strategy for building up an Atlantic squadron depended on reactivating ships from the first world war, mothballed during the optimistic years of the 1920s. Roosevelt ordered their swifter return to duty at around the time of the Munich agreement, when he established the Atlantic Squadron---first as a smaller unit including only new cruisers, but soon attaching to it what had been the Training Squadron of older battleships and destroyers stationed on the East Coast.
+
+![Destroyers in mothballs at Philadelphia Naval Yard. Naval History Center.](NH_69126.jpeg)
+
+It took much longer than expected or hoped to revive the old ships, which had been laid firmly away and often with little or no record as to their peculiarities. It turned out to be fortunate that they returned to duty while the nation was still at peace and German ships were generally far away; their crews had to get their vessels in shape by sailing them to and beyond their limits, to discover what needed alteration and repair.[@abbaziaMrRooseveltNavy1975, 64]

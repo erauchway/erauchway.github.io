@@ -1,0 +1,36 @@
+Author	Stieler, Adolf
+Author	Haack, H.
+Date	1940
+Short Title	39. Daenemark.
+Publisher	Justus Perthes
+Publisher Location	Gotha
+Type	Atlas Map
+Obj Height cm	38
+Obj Width cm	42
+Scale 1	1,500,000
+Country	Denmark
+Country	Iceland
+Region	Greenland
+Full Title	39. Daenemark. (insets) Island. Groenland. Faeroeene. Oeresund. Kopenhagen.
+List No	12248.087
+Page No	39
+Series No	87
+Engraver or Printer	Vogel
+Engraver or Printer	Hiller
+Engraver or Printer	Kern
+Engraver or Printer	Pensky
+Engraver or Printer	Eckstein
+Publication Author	Stieler, Adolf
+Publication Author	Haack, H.
+Pub Date	1945
+Pub Title	Stielers Hand-Atlas. 254 Haupt- und Nebenkarten in Kupferstich. Zehnte Auflage Hundertjahr - Ausgabe. Herausegeben unter Leitung von Prof. Dr. H. Haack, in Justus Perthes' Geogr. Anstalt. Gotha: Justus Perthes.
+Pub Note	Outline color. Text/Index Map pages printed in blue ink. Relief shown by hachures. Editions of this atlas extended through the years of World War II. This edition is the last edition of the Stieler atlas. It is very rare and known only in a few copies. It was printed during the final months of World War II, probably in April or May of 1945.
+Pub List No	12248.000
+Pub Type	World Atlas
+Pub Maps	108
+Pub Height cm	40
+Pub Width cm	28
+Image No	12248087.jp2
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12248087.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Stieler, Adolf; Haack, H.
