@@ -10,7 +10,64 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Sat, 28 Oct 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Nov 2023 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Architecture after a Green New Deal, UCLA</title>
+  <link>https://erauchway.github.io/posts/gnd/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Here are my slides from my presentation at the rather wonderful conference, <a href="https://www.aud.ucla.edu/news-events/events/fall2023-aagnd-conference">“Architecture after a Green New Deal,”</a> at the UCLA Department of Architecture and Urban Design.</p>
+<iframe height="480" width="640" src="https://erauchway.github.io/present/gnd_ucla.html">
+</iframe>
+<p>My assignment was to talk a bit about the o.g. New Deal, so I took the opportunity to talk about how the Roosevelt administration used public works programs for political and ideological ends. That is, Roosevelt’s concept of a sample publicly owned facility as a “yardstick,” to determine fair pricing and operating procedures, was ideological; the use of a sufficiently large public works program to influence labor standards, wage practices, and the legitimacy of unions was an ideological purpose; Roosevelt’s own statement that direct employment would “help restore the close relationship with the people which is necessary to preserve our democratic form of government” was ideological, reflecting his view that public works programs could help to reverse the alienation endemic to the modern condition.<span class="citation" data-cites="rauchwayWhyNewDeal2021"><sup>1</sup></span></p>
+<p>Moreover, the ubiquity of public works designed to foster community and edifying leisure pursuits constituted an ideological commitment to establish a right to the good life for everyone, regardless of station.</p>
+<p>All of that constituted an imperative to design for democracy, more or less; I also discussed the way that the TVA in particular exemplified an imperative to design for sustainability.</p>
+<p>You can see some of the visuals I assembled to argue the case on the slides.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Eric Rauchway, <em>Why the New Deal Matters</em> (New Haven: Yale University Press, 2021), 32.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>New Deal</category>
+  <category>Public works</category>
+  <category>Green New Deal</category>
+  <category>TVA</category>
+  <guid>https://erauchway.github.io/posts/gnd/index.html</guid>
+  <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Mobilization, Philadelphia Navy Yard edition</title>
+  <link>https://erauchway.github.io/posts/pnavy_emp/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Just for fun, a quick visualization of the number of employees, clerical and mechanical, at the Philadelphia Navy Yard.<span class="citation" data-cites="mccauleyWarHistoryFourth1946"><sup>1</sup></span></p>
+<p><img src="https://erauchway.github.io/posts/pnavy_emp/pnavy_emp.png" class="img-fluid"></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Data from E.S. McCauley, <em>The War History of the Fourth Naval District from December 7th, 1941</em> (Philadelphia: Fourth Naval District, 1946).↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>US mobilization</category>
+  <category>Philadelphia Navy Yard</category>
+  <guid>https://erauchway.github.io/posts/pnavy_emp/index.html</guid>
+  <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Americans in a World at War, Washington History Seminar</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -775,84 +832,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/rosenstock/index.html</guid>
   <pubDate>Fri, 26 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The Holocaust as a historian’s problem</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/epist/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The effort to <a href="https://erauchway.github.io/posts/stone/">quantify the dead of the Holocaust</a> inspires a queasy feeling, as of dealing with the genuinely obscene, but it is a necessary methodological substitute for the evidentiary absence at the center of the event: that is to say, we have no representative subjective account of it. That is to say, we have survivors’ accounts but, as Primo Levi (among others) points out, survivors’ accounts are not representative. The representative Jewish experience of the Holocaust was death.</p>
-<blockquote class="blockquote">
-<p>I must repeat: we, the survivors, are not the true witnesses. . . . We survivors are not only an exiguous but also an anomalous minority: we are those who by their prevarications or abilities or good luck did not touch bottom. Those who did so, those who saw the Gorgon, have not returned to tell about it or have returned mute, but they are the ‘Muslims,’ the submerged, the complete witnesses, the ones whose deposition would have a general significance. They are the rule, we are the exception.<span class="citation" data-cites="leviDrownedSaved1986"><sup>1</sup></span></p>
-</blockquote>
-<p>It is a shocking thing to consider: that, for example, <a href="https://www.yadvashem.org/holocaust/about/fate-of-jews/poland.html#narrative_info">of the 3.3 million Jews who lived in Poland in 1939, perhaps 380,000 survived</a> the war. Historians generally use first-hand testimony of great historical events as an indication of what it must have been like to experience the event. A survivor’s testimony cannot serve that purpose when the dead outnumber the survivors by something like 7.6 to 1.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/epist/hol_bef_aft.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Estimated presence of Jewish population in Europe and surrounding areas before and after the Nazi era.</figcaption>
-</figure>
-</div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Primo Levi, <em>The Drowned and the Saved</em>, trans. Raymond Rosenthal (New York: Simon &amp; Schuster, 1986), 70.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Holocaust</category>
-  <category>Historiography</category>
-  <category>Methods</category>
-  <guid>https://erauchway.github.io/posts/epist/index.html</guid>
-  <pubDate>Wed, 24 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Time and rate of the Holocaust</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/stone/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Of the effort to arrive at a number of Jews murdered in the Nazi death camps, Yitzhak Arad writes,</p>
-<blockquote class="blockquote">
-<p>There were never any records of the killing activities in these camps: the entire operation was <em>Geheime Reichssache—</em>a secret matter of the Reich, and any written documentation on what was actually taking place in the death camps would have exposed the secret. The deportation orders and reports on their implementation were sometimes written down but usually given orally. Even the SS men who served in the camps were utterly prohibited from counting the number of Jews they murdered, or even to discuss the matter. SS <em>Unterscharführer</em> Robert Jührs, when asked at the Belzec war crimes trial on the number of Jews murdered in the camp responded: “In the matter of this question, permit me to emphasize that we were explicitly prohibited from discussing numbers.”<span class="citation" data-cites="aradOperationReinhardDeath2018"><sup>1</sup></span></p>
-</blockquote>
-<p>But the Germans used the railways to deport Jews from the Polish towns and ghettos to Belzec, Sobibor, and Treblinka to be killed, and railways run on bureaucracy; they must know when trains leave and how many cars are on them. Arad was able to discover records of 480 or so such trains and, knowing that “the Germans pushed 100 to 150 people into each freight car,” arrive at an estimate of their burden.<span class="citation" data-cites="aradOperationReinhardDeath2018"><sup>2</sup></span></p>
-<p>Auschwitz presents a trickier problem because it was not solely a death camp. Deportees arriving in the camp went through a selection process from which some were registered and sent to labor; the unregistered were sent to their death. One must therefore look at the number of deportees and the number registered and in most cases, as Robert Jan van Pelt writes, “All the deportees were either killed on arrival, and therefore not registered; or admitted to the camp and registered.”<span class="citation" data-cites="vanpeltCaseAuschwitzEvidence2016"><sup>3</sup></span> He cites the work of Franciszek Piper, who in the 1980s began working from previously compiled documentation and estimates to arrive at reliable figures.<span class="citation" data-cites="piperEstimatingNumberDeportees1991"><sup>4</sup></span></p>
-<p>In 2019, Lewi Stone put together a data series including Arad’s and Piper’s figures, together with some more representing Jews killed by the <em>Einsatzgrüppen</em> during the invasion of the Soviet Union (the “Shoah by bullet”) to come up with a time series showing the number of Jews murdered in the death camps as against Auschwitz and by shooting. Stone’s concern is the intensity of this genocide as against others, but for the purpose of teaching World War II, it’s more useful for showing the timing of the Holocaust and its relation to the other events of the war. Stone’s article doesn’t have his raw data, but <a href="https://theconversation.com/quantifying-the-holocaust-measuring-murder-rates-during-the-nazi-genocide-108984">a piece he wrote for The Conversation</a> does.<span class="citation" data-cites="stoneQuantifyingHolocaustHyperintense2019"><sup>5</sup></span> From it one can make a chart such as the below.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/stone/stone_holocaust.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Chart showing number and date of Jews murdered in various locations and manners during the Holocaust, using data from Lewi Stone.</figcaption>
-</figure>
-</div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Yitzhak Arad, <em>The Operation Reinhard Death Camps: Belzec, Sobibor, Treblinka</em>, revised and expanded (Bloomington: Indiana University Press, 2018), 435.↩︎</p></li>
-<li id="fn2"><p>Arad, <em>Operation Reinhard</em>, 436.↩︎</p></li>
-<li id="fn3"><p>Robert Jan van Pelt, <em>The Case for Auschwitz: Evidence from the Irving Trial</em> (Bloomington: Indiana University Press, 2016), 113.↩︎</p></li>
-<li id="fn4"><p>Franciscek Piper, <span>“Estimating the Number of Deportees to and Victims of the Auschwitz-Birkenau Camp,”</span> <em>Yad Vashem Studies</em> 21 (1991): 49--103.↩︎</p></li>
-<li id="fn5"><p>Lewi Stone, <span>“Quantifying the Holocaust: Hyperintense Kill Rates During the Nazi Genocide,”</span> <em>Science Advances</em> 5, no. 1 (2019): 1--10.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Holocaust</category>
-  <category>Historiography</category>
-  <category>Methods</category>
-  <guid>https://erauchway.github.io/posts/stone/index.html</guid>
-  <pubDate>Mon, 22 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

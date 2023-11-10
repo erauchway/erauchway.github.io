@@ -1,7 +1,8 @@
 ---
 title: Mobilization, Philadelphia Navy Yard edition
+date: 2023-11-10
 categories:
-    - US Mobilization
+    - US mobilization
     - Philadelphia Navy Yard
 ---
 Just for fun, a quick visualization of the number of employees, clerical and mechanical, at the Philadelphia Navy Yard.[Data from @mccauleyWarHistoryFourth1946]
