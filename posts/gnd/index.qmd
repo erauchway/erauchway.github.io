@@ -10,8 +10,20 @@ categories:
 
 Here are my slides from my presentation at the rather wonderful conference, ["Architecture after a Green New Deal,"](https://www.aud.ucla.edu/news-events/events/fall2023-aagnd-conference) at the UCLA Department of Architecture and Urban Design. 
 
+:::: {.columns .v-center-container}
+
+::: {.column width="50%"}
 <iframe height="480" width="640" src="https://erauchway.github.io/present/gnd_ucla.html">
 </iframe>
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::
+
+
 
 My assignment was to talk a bit about the o.g. New Deal, so I took the opportunity to talk about how the Roosevelt administration used public works programs for political and ideological ends. That is, Roosevelt's concept of a sample publicly owned facility as a "yardstick," to determine fair pricing and operating procedures, was ideological; the use of a sufficiently large public works program to influence labor standards, wage practices, and the legitimacy of unions was an ideological purpose; Roosevelt's own statement that direct employment would "help restore the close relationship with the people which is necessary to preserve our democratic form of government" was ideological, reflecting his view that public works programs could help to reverse the alienation endemic to the modern condition.[@rauchwayWhyNewDeal2021, 32]
 

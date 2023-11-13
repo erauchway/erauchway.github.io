@@ -20,8 +20,14 @@
 
 
 <p>Here are my slides from my presentation at the rather wonderful conference, <a href="https://www.aud.ucla.edu/news-events/events/fall2023-aagnd-conference">“Architecture after a Green New Deal,”</a> at the UCLA Department of Architecture and Urban Design.</p>
+<div class="columns v-center-container">
+<div class="column" style="width:50%;">
 <iframe height="480" width="640" src="https://erauchway.github.io/present/gnd_ucla.html">
 </iframe>
+</div><div class="column" style="width:50%;">
+
+</div>
+</div>
 <p>My assignment was to talk a bit about the o.g. New Deal, so I took the opportunity to talk about how the Roosevelt administration used public works programs for political and ideological ends. That is, Roosevelt’s concept of a sample publicly owned facility as a “yardstick,” to determine fair pricing and operating procedures, was ideological; the use of a sufficiently large public works program to influence labor standards, wage practices, and the legitimacy of unions was an ideological purpose; Roosevelt’s own statement that direct employment would “help restore the close relationship with the people which is necessary to preserve our democratic form of government” was ideological, reflecting his view that public works programs could help to reverse the alienation endemic to the modern condition.<span class="citation" data-cites="rauchwayWhyNewDeal2021"><sup>1</sup></span></p>
 <p>Moreover, the ubiquity of public works designed to foster community and edifying leisure pursuits constituted an ideological commitment to establish a right to the good life for everyone, regardless of station.</p>
 <p>All of that constituted an imperative to design for democracy, more or less; I also discussed the way that the TVA in particular exemplified an imperative to design for sustainability.</p>
