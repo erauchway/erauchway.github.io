@@ -10,7 +10,49 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Fri, 10 Nov 2023 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Nov 2023 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Declaration of Panama</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/panama/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Franklin Roosevelt told George VI during the king’s visit to the United States early in June 1939 that the Americans planned to control an area extending five hundred miles east of the U.S. coast, if it could use bases at Bermuda and Trinidad; by the end of the month, the president was meeting with the British ambassador, Ronald Lindsay, to formalize the request for leases at Bermuda, Trinidad, and St.&nbsp;Lucia.<span class="citation" data-cites="baptisteBritishGrantAir1976"><sup>1</sup></span> In retrospect we can identify these plans as an early phase of what became Admiral Stark’s <a href="https://erauchway.github.io/posts/greer_3_dog/index.html">Plan Dog,</a> providing for naval assistance to the Allies in the western Atlantic. Late in July, the Army asked for bases in Trinidad and Natal, Brazil; the Navy confirmed its need of bases, and on August 24, <a href="http://www.fdrlibrary.marist.edu/_resources/images/psf/b-psfc000062.pdf">Stark wrote Roosevelt</a> to confirm that leases were available in Trinidad and in Bermuda, where the US Navy would take over some or all of the facilities then operated by Pan American Airways and Imperial Airways. Two days later, the Soviet news agency TASS would issue the terms of the Nazi-Soviet Pact, allocating to the USSR a “special position” in the Baltics and the division of Poland between the two.</p>
+<p>On September 4, the day after the British declaration of war, the United States finalized leases to bases in Bermuda, Trinidad, and St.&nbsp;Lucia, paying a rent of $500 a year for the site in Bermuda; on September 6, Stark directed the commander of the Atlantic squadron to maintain a patrol of 300 miles offshore, and to report the movements of foreign men-of-war. Some of those destroyers went to Newfoundland, with the acquiescence of the British government, to render assistance in emergencies and to observe and report movements of foreign warships.<span class="citation" data-cites="cressmanOfficialChronologyNavy2000"><sup>2</sup></span></p>
+<p>The Division of the American Republics in the U.S. State Department asked the Office of the Geographer to prepare maps with 300-mile radiuses laid out from the outermost limits of the American Republics, and sent that map to the White House, where the president selected the points of a zone defined by those varius circles, and returned it to the geographer with a request to formalize the area <a href="https://history.state.gov/historicaldocuments/frus1939v05/map-panama">thus defined.</a> The Declaration of Panama, of October 2, 1939, <a href="https://history.state.gov/historicaldocuments/frus1939v05/pg_36">formalized that zone.</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/panama/panama_d.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Map of the Panama Declaration, made with R and ggplot because I could never find a good one available.</figcaption>
+</figure>
+</div>
+<p>Britain allowed unlimited U.S. overflight of the Bahamas after the panama Declaration. This declaration looked neutral and formally was neutral, though Roosevelt plainly intended it as a form of neutrality that would aid the Allies. As he told Lindsay’s replacement, Lord Lothian, on August 30, 1939, the declaration would allow</p>
+<blockquote class="blockquote">
+<p>all the American republics to combine to patrol half the distance to the coast of Europe and the African coast to prevent entry by belligerent war vessels or acts of war. . . . that would be of great assistance to England and France because it would relieve strain on their navies and would make possible safe transport of food and war materials from Pan-American coasts say, to Halifax, whence they would be conveyed to Europe in Allied bottoms thus lessening the strain on shipping as a whole.<span class="citation" data-cites="baptisteBritishGrantAir1976"><sup>3</sup></span></p>
+</blockquote>
+<p>With the adoption of the Neutrality Act of 1939 in November, this shipping would include arms bound for the Allies.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>F.A. Baptiste, <span>“The British Grant of Air and Naval Facilities to the United States in Trinidad, St. Lucia and Bermuda in 1939 (June–December),”</span> <em>Caribbean Studies</em> 16, no. 2 (July 1976): 14–16.↩︎</p></li>
+<li id="fn2"><p>Robert J. Cressman, <em>The Official Chronology of the U.S. Navy in World War II</em> (Annapolis: Naval Institute Press, 2000), 2–3.↩︎</p></li>
+<li id="fn3"><p>Baptiste, <span>“British Grant,”</span> 16.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>US Strategy</category>
+  <category>Nazis</category>
+  <category>Geography</category>
+  <category>Neutrality</category>
+  <guid>https://erauchway.github.io/posts/panama/index.html</guid>
+  <pubDate>Sun, 19 Nov 2023 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Architecture after a Green New Deal, UCLA</title>
   <link>https://erauchway.github.io/posts/gnd/index.html</link>
@@ -795,49 +837,6 @@ THE PRESIDENT: (interposing) No, they are out there for information, nothing els
   <category>US strategy</category>
   <guid>https://erauchway.github.io/posts/slow_39/index.html</guid>
   <pubDate>Tue, 30 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Quantifying German Jewish refugees, 1933–1938</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/rosenstock/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img align="right" src="https://erauchway.github.io/posts/rosenstock/ros1.png" alt="Chart showing initial movement of refugees to Europe, then to Palestine, then to the USA over the period 1933--1938." width="50%"></p>
-<p>So far as I can tell the best source of data on the number and direction of German Jews fleeing the Nazi regime remains Werner Rosenstock’s 1956 article, “Exodus, 1933–1939,” which has been reprinted a number of times including in the <em>Nazi Holocaust</em> collection and still sees citation in books on the subject.<span class="citation" data-cites="rosenstockExodus193319391989 dworkFlightReichRefugee2009"><sup>1</sup></span> Rosenstock himself noted that his figures were estimates only, and partial at that, though he did his best to check them against other source and ensure they provided at least an approximately accurate picture of trends and volumes. To make the graph at right I’ve had to do a little arithmetic to draw numbers out of Rosenstock’s article; he preferred to report propotions, probably to avoid a spurious precision—I say all that by way of trying to avoid a charge of making it appear more sure than it is.</p>
-<p>Even so, I think it’s useful to attempt a graphical representation of the trends, because it allows us to see a few things that Rosenstock indicates in his article. First, that those who left Nazi Germany preferred hopefully to believe that they would not have to go far; that the madness would burn itself out and they could return home. So you see that other European countries were the initial first choice of those who fled Hitler’s regime.</p>
-<p>Second, you can see that Palestine was the next-most popular choice—though it peaked in popularity early, in 1934, and in 1936, refugees were more likely to head for overseas destinations than for Palestine, perhaps because of the Arab uprising that began that year and which included attacks on Jewish settlements.</p>
-<p>And last, you can see the increasing importance of the United States as a destination for Jewish refugees. (Note by the way that all the figures for 1938 include only half the year.) Although Rosenstock doesn’t disaggregate figures to overseas destinations for 1935 and 1936, one can suppose that the United States took a large amount of the refugees heading across oceans in those years as well.</p>
-<p>Further, as Rosenstock notes, many of the refugees who first headed to European countries later sought destinations elsewhere.</p>
-<blockquote class="blockquote">
-<p>For many, residence in these countries was to be only temporary. The difficulties both in the administrative sphere (residence and labour permits) and in the economic field often made absorption impossible and resulted in re-emigration. In retrospect, those ‘unfortunate’ re-emigrants who could not strike roots in their country of sojourn were more fortunate than their fellow-refugees who stayed behind and fell victims to the invading Nazis during the war.<span class="citation" data-cites="rosenstockExodus193319391989"><sup>2</sup></span></p>
-</blockquote>
-<p>Eventually, by 1938, the global disposition of the approximately 107,000 German Jewish refugees who found their way overseas looked something like the below, according to what Rosenstock describes as “semi-official” figures.<span class="citation" data-cites="rosenstockExodus193319391989"><sup>3</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/rosenstock/ros2.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Palestine was home to the largest number of German Jewish refugees; the United States to the second-largest number.</figcaption>
-</figure>
-</div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Werner Rosenstock, <span>“Exodus 1933--1939: A Survey of Jewish Emigration from Germany,”</span> in <em>Bystanders to the Holocaust</em>, ed. Michael R. Marrus, vol. 1, The Nazi Holocaust: Historical Articles on the Destruction of European Jews 8 (Westport, CT: Meckler, 1989), 143--160; Deborah Dwork and Robert Jan van Pelt, <em>Flight from the Reich: Refugee Jews, 1933--1946</em> (New York: W.W. Norton &amp; Company, 2009).↩︎</p></li>
-<li id="fn2"><p>Rosenstock, <span>“Exodus 1933--1939,”</span> 150.↩︎</p></li>
-<li id="fn3"><p>Rosenstock, <span>“Exodus 1933--1939,”</span> 157.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Holocaust</category>
-  <category>Historiography</category>
-  <category>Methods</category>
-  <guid>https://erauchway.github.io/posts/rosenstock/index.html</guid>
-  <pubDate>Fri, 26 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
