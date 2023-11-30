@@ -1,0 +1,14 @@
+---
+title: Europe before and after the Great War
+categories:
+    - Maps
+    - Great War
+    - Geography
+    - Nazi strategy
+---
+
+Here's one for the first day of the class on World War II, or the last day of the class on World War I.
+
+![A map made with R and ggplot of Europe before and after the Great War.](eurs.png)
+
+Of course the question is when do you think "after the Great War" is. For this map, I went with 1923, because I wanted the Irish Free State to show up; when Ian Campbell and I teach World War I we do a fair amount about rebellions against the imperial powers (some of them of course fomented or aided by enemy belligerents). But I could have gone until 1924, and pulled in the Treaty of Rome and Italy's annexation of Fiume. That would also have been the year of the Dawes Plan. So now I'm talking myself into the idea that it should have been 1924. Maybe next time.
