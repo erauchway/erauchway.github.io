@@ -1,5 +1,11 @@
 ---
 title: Istrian annexationists
+categories:
+    - Maps
+    - Nazi strategy
+    - Corrections
+    - Great War
+    - Geography
 ---
 
 Thanks to [David Wondrich](https://staging.bsky.app/profile/davidwondrich.bsky.social/post/3kfg2v36xfm2shttps://staging.bsky.app/profile/davidwondrich.bsky.social/post/3kfg2v36xfm2s) and [Ken Schultz](https://staging.bsky.app/profile/kschultz.bsky.social/post/3kfgrs2qmma2f) I now know cshapes has an error regarding interwar Italy, which it depicts without the Istrian peninsula. I have endeavored to correct it.
