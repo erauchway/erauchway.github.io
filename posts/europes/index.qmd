@@ -5,6 +5,7 @@ categories:
     - Great War
     - Geography
     - Nazi strategy
+draft: TRUE
 ---
 
 Here's one for the first day of the class on World War II, or the last day of the class on World War I.
