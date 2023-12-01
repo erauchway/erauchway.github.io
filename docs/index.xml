@@ -10,7 +10,34 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Sun, 19 Nov 2023 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Dec 2023 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Istrian annexationists</title>
+  <link>https://erauchway.github.io/posts/europes2/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Thanks to <a href="https://staging.bsky.app/profile/davidwondrich.bsky.social/post/3kfg2v36xfm2shttps://staging.bsky.app/profile/davidwondrich.bsky.social/post/3kfg2v36xfm2s">David Wondrich</a> and <a href="https://staging.bsky.app/profile/kschultz.bsky.social/post/3kfgrs2qmma2f">Ken Schultz</a> I now know cshapes has an error regarding interwar Italy, which it depicts without the Istrian peninsula. I have endeavored to correct it.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/europes2/eurs.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">A map of Europe before and after the Great War, this time with the Istrian peninsula as part of Italy.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>Maps</category>
+  <category>Nazi strategy</category>
+  <category>Corrections</category>
+  <category>Great War</category>
+  <category>Geography</category>
+  <guid>https://erauchway.github.io/posts/europes2/index.html</guid>
+  <pubDate>Fri, 01 Dec 2023 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Declaration of Panama</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -795,48 +822,6 @@
   <category>US strategy</category>
   <guid>https://erauchway.github.io/posts/assumptions/index.html</guid>
   <pubDate>Thu, 01 Jun 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Neutrality patrol 1939</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/slow_39/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The war in Europe had barely begun when the president urged his acting secretary of the navy, Charles Edison, to swifter action.</p>
-<blockquote class="blockquote">
-<p>I have been disturbed by (a) The slowness of getting the East Coast, Caribbean and Gulf patrol under way. (b) The lag between the making of contacts and the follow-up of the contact. . . . It is, therefore, necessary to make the following orders clear. . . . When any aircraft or surface ship sights a submarine a report thereof will be rushed to the Navy Department for immediate action. The plane or surface ship sighting a submarine will remain in contact as long as possible. . . . Planes or Navy or Coast Guard ships may report the sighting of any submarine or suspicious surface ship in plain English to Force Commander or Department. In this whole patrol business time is of the essence and loss of contact with surface ships cannot be tolerated.<span class="citation" data-cites="roosevelt1939"><sup>1</sup></span></p>
-</blockquote>
-<p>By 1939 the Atlantic Squadron, established September 6, 1938 by command of Admiral William Leahy, included four battleships—<em>New York, Arkansas, Texas,</em> and <em>Wyoming</em>—as well as a series of cruisers, destroyers, and the carrier <em>Ranger.</em></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/slow_39/80-G-391586.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Some of the Atlantic ships in Norfolk, September 20, 1941. USS <em>Ranger</em> winches a Grumman Duck aircraft aboard, with F4F Wildcats in the background; the <em>Wyoming</em> is visible at upper right. US Naval History and Heritage Command.</figcaption>
-</figure>
-</div>
-<p>In addition, on September 14, 1939, the Navy announced that it would recommission forty of the old World War I destroyers then in mothballs to strengthen the neutrality patrols. A reporter asked the president about the patrol policy the next day.</p>
-<blockquote class="blockquote">
-<p>Q Going back to the definition of territorial waters, is the fact that our ships are patroling two hundred miles out any indication that our territorial limits –<br>
-THE PRESIDENT: (interposing) No, they are out there for information, nothing else.<span class="citation" data-cites="PressConference5791939"><sup>2</sup></span></p>
-</blockquote>
-<p>But this information was something the president regarded with great urgency.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Franklin D. Roosevelt and Charles Edison, October 9, 1939, fldr <span>“Navy---Edison, Charles,”</span> box 62, PSF, FDRL.↩︎</p></li>
-<li id="fn2"><p><span>“Press Conference #579,”</span> September 15, 1939, FDRL.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Neutrality</category>
-  <category>US strategy</category>
-  <guid>https://erauchway.github.io/posts/slow_39/index.html</guid>
-  <pubDate>Tue, 30 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

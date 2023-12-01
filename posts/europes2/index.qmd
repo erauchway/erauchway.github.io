@@ -1,5 +1,6 @@
 ---
 title: Istrian annexationists
+date: 2023-12-01
 categories:
     - Maps
     - Nazi strategy
