@@ -10,7 +10,64 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 18 Dec 2023 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jan 2024 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Panic and confidence</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/wigmore/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Barrie A. Wigmore has an article of 1987 asking whether the gold panic of early 1933 was caused by fears of devaluation, to which he answers “yes.”<span class="citation" data-cites="wigmoreWasBankHoliday1987"><sup>1</sup></span></p>
+<p>But immediately on taking office, Roosevelt began the process of devaluing, and the panic ended. Here’s Wigmore’s own data of daily gold holdings in the New York Federal Reserve Bank, charted.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/wigmore/wigmore_gold.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Chart showing the NY Fed’s gold holdings falling before Roosevelt’s inauguration, then immediately rebounding.</figcaption>
+</figure>
+</div>
+<p>Wigmore’s argument is that Roosevelt’s immediate actions might have done something to restore confidence, but not much.</p>
+<blockquote class="blockquote">
+<p>There is no doubt that his inaugural speech, his fireside chat about the banking system, the various measures he rushed through Congress, and his general ability to take command had a very favorable impact on confidence. Measurement of this impact is highly subjective, but intuitively it cannot be a large part of the explanation.</p>
+</blockquote>
+<p>And yet depositors brought much of the gold they had withdrawn back to Federal Reserve banks over the course of March—before Roosevelt’s April 5 order requiring them to do it. Indeed, as you can see from the chart, the steepest rise in gold holdings comes between the inauguration and the fireside chat.</p>
+<p>During that time, in his first presidential press conference, on March 8, 1933, Roosevelt allowed as how, according to a definition of the gold standard he pulled from the newspaper, the United States wasn’t on it at the moment, shied away from the term “controlled inflation,” and then almost immediately said,</p>
+<blockquote class="blockquote">
+<p>What you are coming to now really is a managed currency, the adequateness of which will depend on the conditions of the moment. It may expand one week and it may contract another week. That part is all off the record.</p>
+</blockquote>
+<p>A reporter asked if they could print “that part—managed?” Roosevelt replied, “No, I think not.” A little later a reporter pressed him further on what he meant.</p>
+<blockquote class="blockquote">
+<p>Q When you speak of a managed currency, do you speak of a temporary proposition or a permanent system?</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>THE PRESIDENT: It ought to be part of the permanent system—that is off the record—it ought to be part of the permanent system so we don’t run into this thing again.</p>
+</blockquote>
+<p>Two days later, when he announced the plan for reopening banks, he noted this would include all usual banking functions—</p>
+<blockquote class="blockquote">
+<p>Except, of course, for as to gold. That is a different thing. I am keeping my finger on gold.</p>
+</blockquote>
+<p>These press conferences are now online <a href="http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0183.pdf">here</a> as they were not when I was writing <em>The Money Makers,</em> in which I discuss this period.<span class="citation" data-cites="rauchwayMoneyMakersHow2015"><sup>2</sup></span></p>
+<p>In any case, it looks as though Roosevelt was certainly letting the information get out, albeit off the record, that he wanted a permanent system of managed currency and that he wasn’t allowing gold convertibility—and yet, during that time, depositors brought an awful lot of gold back into the Federal Reserve banks. It seems to me that confidence in the new administration’s actions—the first stages of a devaluation—restored some confidence even though they constituted precisely what people were supposed to have feared.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Barrie A. Wigmore, <span>“Was the Bank Holiday of 1933 Caused by a Run on the Dollar?”</span> <em>Journal of Economic History</em> 47, no. 3 (September 1987): 739--755.↩︎</p></li>
+<li id="fn2"><p>Eric Rauchway, <em>The Money Makers: How Roosevelt and Keynes Ended the Depression, Defeated Fascism, and Secured a Prosperous Peace</em> (New York: Basic Books, 2015).↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>New Deal</category>
+  <category>Gold</category>
+  <category>Monetary policy</category>
+  <category>New Deal recovery</category>
+  <guid>https://erauchway.github.io/posts/wigmore/index.html</guid>
+  <pubDate>Thu, 25 Jan 2024 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Book tripleversary</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -809,38 +866,6 @@
   <category>North Africa</category>
   <guid>https://erauchway.github.io/posts/na_map/index.html</guid>
   <pubDate>Tue, 13 Jun 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Mothballs</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/mothballs/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The US strategy for building up an Atlantic squadron depended on reactivating ships from the first world war, mothballed during the optimistic years of the 1920s. Roosevelt ordered their swifter return to duty at around the time of the Munich agreement, when he established the Atlantic Squadron—first as a smaller unit including only new cruisers, but soon attaching to it what had been the Training Squadron of older battleships and destroyers stationed on the East Coast.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/mothballs/NH_69126.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Destroyers in mothballs at Philadelphia Naval Yard. Naval History Center.</figcaption>
-</figure>
-</div>
-<p>It took much longer than expected or hoped to revive the old ships, which had been laid firmly away and often with little or no record as to their peculiarities. It turned out to be fortunate that they returned to duty while the nation was still at peace and German ships were generally far away; their crews had to get their vessels in shape by sailing them to and beyond their limits, to discover what needed alteration and repair.<span class="citation" data-cites="abbaziaMrRooseveltNavy1975"><sup>1</sup></span></p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Patrick Abbazia, <em>Mr. Roosevelt’s Navy: The Private War of the U.S. Atlantic Fleet, 1939--1942</em> (Annapolis: United States Naval Institute Press, 1975), 64.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>US strategy</category>
-  <category>Neutrality</category>
-  <guid>https://erauchway.github.io/posts/mothballs/index.html</guid>
-  <pubDate>Sat, 10 Jun 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
