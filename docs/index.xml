@@ -6,15 +6,72 @@
       version="2.0">
 <channel>
 <title>a necessitous blog</title>
-<link>https://erauchway.github.io/index.html</link>
+<link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 25 Jan 2024 08:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Mon, 12 Feb 2024 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Betty expects</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/flags/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As previously <a href="https://erauchway.github.io/posts/greer_3_dog/index.html">noted,</a> Admiral Harold “Betty” Stark, Chief of Naval Operations, wrote the “Plan Dog” memo on November 12, 1940, advocating a joint US-UK naval strategy against Germany in the Atlantic. The president invited the British to come to Washington for joint staff conversations on December 2, 1940.<span class="citation" data-cites="connWesternHemisphereFramework1960"><sup>1</sup></span> But before that—on November 28—Stark, as Chief of Naval Operations, issued an order to ensure practical preparedness for Anglo-American cooperation: he asked the New York Navy Yard to manufacture twenty sets of Royal Navy signal flags, for use by US warships needing to communicate with their British counterparts.<span class="citation" data-cites="chiefofnavaloperations1941"><sup>2</sup></span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/flags/flags1.png" class="img-fluid figure-img"></p>
+<figcaption>Part of the Royal Navy signal card for 1937.</figcaption>
+</figure>
+</div>
+<p>The US navy and the British navy used different sets of signal flags, so for an American destroyer, say, to communicate with its British counterpart would require the use of a common language.<span class="citation" data-cites="unitedstatesnavyBluejacketsManual1940 SignalCard1937"><sup>3</sup></span> Stark decided therefore that US ships should be issued with sets of British flags and pennants, and extra fabric to repair them. In February 1941, after the staff conferences, Stark increased the order from twenty to one hundred, fifty to be stored in New York and fifty in Norfolk, for issue to ships on the Atlantic squadron.<span class="citation" data-cites="chiefofnavaloperations1941"><sup>4</sup></span> By April they were available for distribution; on May 6, the USS <em>Greer</em> received its set from the supply ship USS <em>Prairie.</em><span class="citation" data-cites="supplyofficerussprairieInvoice41 commandantnorfolknavyyard1941"><sup>5</sup></span></p>
+<p>The president had long since articulated <a href="https://erauchway.github.io/posts/panama/index.html">a vision of hemispheric defense,</a> which would involve de facto assistance to Britain. On February 27, 1941—in, as it happens, a speech to the Oscars—he reminded listeners of this hemispheric policy and made explicit the implicit link to a broader defense:</p>
+<blockquote class="blockquote">
+<p>the defense of all the democracies of all the Americas . . . involves the future of democracy wherever it is imperiled by force or terror.<span class="citation" data-cites="rooseveltAddressAnnualAwards1950"><sup>6</sup></span></p>
+</blockquote>
+<p>In March, Lend Lease passed Congress; on April 25, the administration declared the “patrol” being conducted by US Navy ships looking for aggressor activity would be extended, though Roosevelt said the United States was still not, per se, <a href="http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0116.pdf">conducting convoys.</a> But:</p>
+<blockquote class="blockquote">
+<p>Q Mr.&nbsp;President, if this patrol should encounter some apparently aggressive ships headed toward the western hemisphere, what would it do about it?</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>THE PRESIDENT: Let me know. (loud laughter)</p>
+</blockquote>
+<p>Or, perhaps, use its new signal flags to communicate the presence of a German vessel to the Royal Navy. Three weeks after the <em>Greer</em> received its set of British signal flags, the president declared an unlimited national emergency, in which the naval patrol would play a vital part.</p>
+<blockquote class="blockquote">
+<p>These ships and planes warn of the presence of attacking raiders, on the sea, under the sea, and above the sea. The danger from these raiders is, of course, greatly lessened if their location is definitely known. . . . Our patrols are helping now to insure delivery of the needed supplies to Britain. All additional measures necessary to deliver the goods will be taken.<span class="citation" data-cites="rooseveltRadioAddressAnnouncing1950"><sup>7</sup></span></p>
+</blockquote>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Stetson Conn and Byron Fairchild, <em>The Western Hemisphere: The Framework of Hemispheric Defense</em>, vol. 12, part 1, United States Army in World War II (Washington, D.C.: Office of the Chief of Military History, 1960), 92.↩︎</p></li>
+<li id="fn2"><p>Chief of Naval Operations to Bureau of Ships, February 17, 1941, RG 19, box 66, fldr JJ5-(7), National Archives and Records Administration.↩︎</p></li>
+<li id="fn3"><p>United States Navy, <em>The Bluejackets’ Manual</em> (Annapolis: United States Naval Institute, 1940), <a href="https://archive.org/details/bluejacketsmanua00mcle/page/n5/mode/2up">https://archive.org/details/bluejacketsmanua00mcle/page/n5/mode/2up</a>; <em>Signal Card</em> (London: Admiralty, 1937), <a href="https://archive.org/details/b.-r.-232-signal-card-1937/mode/2up">https://archive.org/details/b.-r.-232-signal-card-1937/mode/2up</a>.↩︎</p></li>
+<li id="fn4"><p>Chief of Naval Operations to Bureau of Ships, February 17, 1941.↩︎</p></li>
+<li id="fn5"><p>Supply Officer, USS Prairie, <span>“Invoice,”</span> May 6, 41AD, RG 19, box 135, fldr DD145(vol. 1), National Archives and Records Administration; Commandant, Norfolk Navy Yard to Bureau of Ships, April 1, 1941, RG 19, box 66, fldr JJ5-(7), National Archives and Records Administration.↩︎</p></li>
+<li id="fn6"><p>Franklin D. Roosevelt, <span>“Address to Annual Awards Dinner of Academy of Motion Picture Arts and Sciences--February 27, 1941,”</span> in <em>Public Papers and Addresses of Franklin Delano Roosevelt, 1941 Volume</em>, vol. 10, 13 vols. (New York: Harper &amp; Brothers, 1950), 40--42.↩︎</p></li>
+<li id="fn7"><p>Franklin D. Roosevelt, <span>“Radio Address Announcing the Proclamation of an Unlimited National Emergency---May 27, 1941,”</span> in <em>Public Papers and Addresses of Franklin Delano Roosevelt, 1941 Volume</em>, vol. 10, 13 vols. (New York: Harper &amp; Brothers, 1950), 187--194.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>US Strategy</category>
+  <category>Navy</category>
+  <category>UK Strategy</category>
+  <category>Neutrality</category>
+  <category>Greer</category>
+  <guid>https://erauchway.github.io/posts/flags/</guid>
+  <pubDate>Mon, 12 Feb 2024 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Panic and confidence</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/wigmore/index.html</link>
+  <link>https://erauchway.github.io/posts/wigmore/</link>
   <description><![CDATA[ 
 
 
@@ -65,13 +122,13 @@
   <category>Gold</category>
   <category>Monetary policy</category>
   <category>New Deal recovery</category>
-  <guid>https://erauchway.github.io/posts/wigmore/index.html</guid>
+  <guid>https://erauchway.github.io/posts/wigmore/</guid>
   <pubDate>Thu, 25 Jan 2024 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Book tripleversary</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/tripleversary/index.html</link>
+  <link>https://erauchway.github.io/posts/tripleversary/</link>
   <description><![CDATA[ 
 
 
@@ -116,12 +173,12 @@
   <category>New Deal</category>
   <category>Methods</category>
   <category>Historiography</category>
-  <guid>https://erauchway.github.io/posts/tripleversary/index.html</guid>
+  <guid>https://erauchway.github.io/posts/tripleversary/</guid>
   <pubDate>Mon, 18 Dec 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Istrian annexationists</title>
-  <link>https://erauchway.github.io/posts/europes2/index.html</link>
+  <link>https://erauchway.github.io/posts/europes2/</link>
   <description><![CDATA[ 
 
 
@@ -143,13 +200,13 @@
   <category>Corrections</category>
   <category>Great War</category>
   <category>Geography</category>
-  <guid>https://erauchway.github.io/posts/europes2/index.html</guid>
+  <guid>https://erauchway.github.io/posts/europes2/</guid>
   <pubDate>Fri, 01 Dec 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Declaration of Panama</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/panama/index.html</link>
+  <link>https://erauchway.github.io/posts/panama/</link>
   <description><![CDATA[ 
 
 
@@ -185,12 +242,12 @@
   <category>Nazis</category>
   <category>Geography</category>
   <category>Neutrality</category>
-  <guid>https://erauchway.github.io/posts/panama/index.html</guid>
+  <guid>https://erauchway.github.io/posts/panama/</guid>
   <pubDate>Sun, 19 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Architecture after a Green New Deal, UCLA</title>
-  <link>https://erauchway.github.io/posts/gnd/index.html</link>
+  <link>https://erauchway.github.io/posts/gnd/</link>
   <description><![CDATA[ 
 
 
@@ -223,12 +280,12 @@
   <category>Public works</category>
   <category>Green New Deal</category>
   <category>TVA</category>
-  <guid>https://erauchway.github.io/posts/gnd/index.html</guid>
+  <guid>https://erauchway.github.io/posts/gnd/</guid>
   <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Mobilization, Philadelphia Navy Yard edition</title>
-  <link>https://erauchway.github.io/posts/pnavy_emp/index.html</link>
+  <link>https://erauchway.github.io/posts/pnavy_emp/</link>
   <description><![CDATA[ 
 
 
@@ -248,13 +305,13 @@
 </section></div> ]]></description>
   <category>US mobilization</category>
   <category>Philadelphia Navy Yard</category>
-  <guid>https://erauchway.github.io/posts/pnavy_emp/index.html</guid>
+  <guid>https://erauchway.github.io/posts/pnavy_emp/</guid>
   <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Americans in a World at War, Washington History Seminar</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/blower/index.html</link>
+  <link>https://erauchway.github.io/posts/blower/</link>
   <description><![CDATA[ 
 
 
@@ -292,13 +349,13 @@
 <li id="fn3"><p>Max Hastings, <em>Inferno: The World at War, 1939–1945</em> (New York: Alfred A. Knopf, 2011), xix.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
-  <guid>https://erauchway.github.io/posts/blower/index.html</guid>
+  <guid>https://erauchway.github.io/posts/blower/</guid>
   <pubDate>Sat, 28 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>You didn’t build that</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/willow/index.html</link>
+  <link>https://erauchway.github.io/posts/willow/</link>
   <description><![CDATA[ 
 
 
@@ -355,13 +412,13 @@
   <category>US mobilization</category>
   <category>B-24</category>
   <category>Movies</category>
-  <guid>https://erauchway.github.io/posts/willow/index.html</guid>
+  <guid>https://erauchway.github.io/posts/willow/</guid>
   <pubDate>Mon, 23 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Wine grape varieties in California</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/wine_var/index.html</link>
+  <link>https://erauchway.github.io/posts/wine_var/</link>
   <description><![CDATA[ 
 
 
@@ -391,13 +448,13 @@
   <category>Repeal</category>
   <category>New Deal</category>
   <category>UC Davis</category>
-  <guid>https://erauchway.github.io/posts/wine_var/index.html</guid>
+  <guid>https://erauchway.github.io/posts/wine_var/</guid>
   <pubDate>Sun, 15 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Field on the New Deal recovery</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/field_nd/index.html</link>
+  <link>https://erauchway.github.io/posts/field_nd/</link>
   <description><![CDATA[ 
 
 
@@ -437,13 +494,13 @@
   <category>New Deal denialism</category>
   <category>Economists</category>
   <category>New Deal recovery</category>
-  <guid>https://erauchway.github.io/posts/field_nd/index.html</guid>
+  <guid>https://erauchway.github.io/posts/field_nd/</guid>
   <pubDate>Sun, 08 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Price levels and the Nazi vote</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/nsdap/index.html</link>
+  <link>https://erauchway.github.io/posts/nsdap/</link>
   <description><![CDATA[ 
 
 
@@ -477,13 +534,13 @@
   <category>Nazis</category>
   <category>Inflation</category>
   <category>Deflation</category>
-  <guid>https://erauchway.github.io/posts/nsdap/index.html</guid>
+  <guid>https://erauchway.github.io/posts/nsdap/</guid>
   <pubDate>Mon, 02 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The only thing worse than being assimilated to the Borg</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/borg/index.html</link>
+  <link>https://erauchway.github.io/posts/borg/</link>
   <description><![CDATA[ 
 
 
@@ -504,13 +561,13 @@
   <category>New Deal</category>
   <category>Methods</category>
   <category>Madness</category>
-  <guid>https://erauchway.github.io/posts/borg/index.html</guid>
+  <guid>https://erauchway.github.io/posts/borg/</guid>
   <pubDate>Wed, 27 Sep 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>What did U.S. Voters Want from the New Deal in 1932?</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/po_32/index.html</link>
+  <link>https://erauchway.github.io/posts/po_32/</link>
   <description><![CDATA[ 
 
 
@@ -554,13 +611,13 @@
   <category>New Deal</category>
   <category>Election of 1932</category>
   <category>Public opinion</category>
-  <guid>https://erauchway.github.io/posts/po_32/index.html</guid>
+  <guid>https://erauchway.github.io/posts/po_32/</guid>
   <pubDate>Fri, 22 Sep 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The Bluesky “What’s History” Feed</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/bsky/index.html</link>
+  <link>https://erauchway.github.io/posts/bsky/</link>
   <description><![CDATA[ 
 
 
@@ -593,13 +650,13 @@
  ]]></description>
   <category>Methods</category>
   <category>Madness</category>
-  <guid>https://erauchway.github.io/posts/bsky/index.html</guid>
+  <guid>https://erauchway.github.io/posts/bsky/</guid>
   <pubDate>Tue, 19 Sep 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Teflon Doug</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/macarthur/index.html</link>
+  <link>https://erauchway.github.io/posts/macarthur/</link>
   <description><![CDATA[ 
 
 
@@ -627,13 +684,13 @@
   <category>MacArthur</category>
   <category>Pacific</category>
   <category>Philippines</category>
-  <guid>https://erauchway.github.io/posts/macarthur/index.html</guid>
+  <guid>https://erauchway.github.io/posts/macarthur/</guid>
   <pubDate>Wed, 06 Sep 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Former local man</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/tbt_biz/index.html</link>
+  <link>https://erauchway.github.io/posts/tbt_biz/</link>
   <description><![CDATA[ 
 
 
@@ -653,13 +710,13 @@
  ]]></description>
   <category>New Deal</category>
   <category>Florida man</category>
-  <guid>https://erauchway.github.io/posts/tbt_biz/index.html</guid>
+  <guid>https://erauchway.github.io/posts/tbt_biz/</guid>
   <pubDate>Tue, 05 Sep 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Oppenheimer omnibus</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/oppenheimer/index.html</link>
+  <link>https://erauchway.github.io/posts/oppenheimer/</link>
   <description><![CDATA[ 
 
 
@@ -783,13 +840,13 @@
   <category>Pacific strategy</category>
   <category>US strategy</category>
   <category>Unconditional surrender</category>
-  <guid>https://erauchway.github.io/posts/oppenheimer/index.html</guid>
+  <guid>https://erauchway.github.io/posts/oppenheimer/</guid>
   <pubDate>Thu, 27 Jul 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Counterfactuals, Dial of Destiny edition</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/sw_raiders/index.html</link>
+  <link>https://erauchway.github.io/posts/sw_raiders/</link>
   <description><![CDATA[ 
 
 
@@ -811,7 +868,7 @@
  ]]></description>
   <category>Methods</category>
   <category>Movies</category>
-  <guid>https://erauchway.github.io/posts/sw_raiders/index.html</guid>
+  <guid>https://erauchway.github.io/posts/sw_raiders/</guid>
   <pubDate>Sun, 23 Jul 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
@@ -843,29 +900,6 @@
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/unclear/unclear.html</guid>
   <pubDate>Mon, 17 Jul 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>North Africa maps</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/na_map/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img align="right" src="https://erauchway.github.io/posts/na_map/na_combine.png" alt="Series of maps showing Italian, British, and German advances over the early years of the North Africa campaign." width="50%"></p>
-<p>Students in World War II need to understand the North Africa campaigns both for a sense of what British imperial strategy was like, and for the competing demands on German resources in the critical year of 1941. But it’s a part of the world with which most of them are unfamiliar, so there’s a need of considerable deployment of maps. In the past we’ve often used proper military maps—like <a href="https://www.westpoint.edu/academics/academic-departments/history/digital-history-center/atlases/world-war-two-europe">the West Point ones</a>—but to be honest these are finer-grained than our students generally like.</p>
-<p>Still, it’s not all that easy to make decent military maps, at least not for me. So campaigns like this one, where there’s a lot of back and forth, require some sort of in-between depiction—not quite a proper military map, but indicating the general sweep of battlefield events. I’m still working on finding the right balance.</p>
-<p>In these, I’ve tried to indicate enough of the Eastern Mediterranean so students can grasp why this is an important region—I’ve got the endpoints of the Suez Canal, and Sicily is visible, indicating the potential hazard to Italy should the British gain complete control of Libya. I’ve decided not to put country names on this map, because we use them on larger maps (<a href="http://localhost:5505/posts/geolexigraph/">like this one</a>) and students should have a sense of what major locations are by this time of the class.</p>
-<p>On the other hand I have placed the names of some important cities to help discussion of what’s at stake, and where.</p>
-
-
-
- ]]></description>
-  <category>Maps</category>
-  <category>North Africa</category>
-  <guid>https://erauchway.github.io/posts/na_map/index.html</guid>
-  <pubDate>Tue, 13 Jun 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
