@@ -2,9 +2,6 @@
 title: North Africa maps
 author: "Eric Rauchway"
 date: 2023-06-13
-bibliography: ../../../common/war_nd.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
     - Maps
     - North Africa

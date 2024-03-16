@@ -2,9 +2,6 @@
 title: The Holocaust as a historian's problem
 author: "Eric Rauchway"
 date: 2023-05-24
-bibliography: ../../../common/war_nd.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
      - Holocaust
      - Historiography

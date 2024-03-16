@@ -2,11 +2,8 @@
 title: "The German threat to the United States, 1940--1941: bomber range"
 author: "Eric Rauchway"
 date: 2023-04-05
-bibliography: ../../../common/war_nd.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
-    - airpower
+    - Airpower
 ---
 
 How much of a threat did Germany pose to the United States before Pearl Harbor? That's the big question; let's look at a small part of it. Historians often say Roosevelt exaggerated the specific threats Nazi Germany posed; here we'll look at one claim about the threat posed by German bombers.

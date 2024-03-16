@@ -9,8 +9,54 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.4.549</generator>
-<lastBuildDate>Mon, 12 Feb 2024 08:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Fri, 15 Mar 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Not a review of Masters of the Air</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/air/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is not a review of <em>Masters of the Air;</em> I’m not a tv critic and in the end I mainly enjoyed it for what it was—this is instead a discussion of what it’s not: a story of the US bomber war in Europe, which I think could still be dramatized someday.</p>
+<p>The basic, traditional history of the US bomber war in Europe has a clear dramatic arc. It starts with high hopes; these are swiftly tempered by cruel realities; in the end much is gained though much also is lost, and at the close of it, one would be hard-pressed to say that the right lessons are learned or that the just will prosper while the unjust receive their comeuppance. That’s a narrative with which a talented dramatist could keep an audience, I think.</p>
+<p>We could put a few concrete details on that narrative line:</p>
+<p>It began with the idea of precision strikes at the means of making war by bombers capable of self-defense tasked with achieving, to pick a phrase, <a href="https://archive.org/details/VictoryThroughAirPower">“victory through air power.”</a></p>
+<p>That idea is what sent US air crews and factory-fresh B-24s to the North African desert in 1942, with the intention of striking at the vitals of the German war machine—the oil refineries in Romania. This little raid inspired the local Luftwaffe colonel to observe, “This is the beginning.” The Germans, recognizing what would come next, prepared. Subsequent raids on the oil refineries by North Africa-based B-24s incurred heavy US losses—some 280 aircraft and some 2,800 airmen.</p>
+<p>That pattern, of striking at industrial targets with the idea of crushing the factories that made modern war possible, and finding out that German defenses could destroy more bombers than the Americans could afford to lose, persisted. Moreover, precision bombing—as the RAF already knew—was a fantasy. The much-celebrated Norden bombsight could, maybe, deliver precision over the sunny US southwest, where many pilots trained—bombs into pickle barrels from thousands of feet in the air!—but it was a very different thing over cloudy and fighter-infested northern and central Europe.</p>
+<p>The bombing campaign in 1942–43 (I am reasonably persuaded by modern historians like Phillips O’Brien) may have achieved more than conventional wisdom allows.<span class="citation" data-cites="obrienHowWarWas2015"><sup>1</sup></span> But those gains came at unsustainable costs: the US couldn’t afford to lose so many trained pilots and crews.</p>
+<p>It wasn’t until the advances of fighter technology (increased range for P-47s and the arrival of P-51s) as well as advances of the Allies into Western Europe that allowed a free range of bombing in Germany and German-held territory. And the campaigns of early 1944 helped pave the way for D-Day.</p>
+<p>In the end the bombing campaign became more what the RAF leaders, particularly Arthur Harris, always insisted it had to be: a parallel to and would-be replacement for the ground war, an attempt to pummel the Germans into surrender. The destruction of Dresden in February 1945 stuck out in the minds even of some airmen at the time as exceptionally brutal—though that feeling was swiftly muddied by news out of the liberated concentration camps, and a renewed feeling (for some people, anyway) that the savagery had to be stopped, even if by savage means.</p>
+<p>Whatever the justice of that sentiment, its essence (“we did terrible things that had to be done”) was a long way from the (literally) Disneyfied original vision of the bomber war.</p>
+<p>Anyway: that’s the narrative of the US bomber war which I kind of wanted to see dramatized. It’s not exactly <em>not</em> in <em>Masters of the Air,</em> but nor is it foregrounded; the series is really the story of a few guys who were among the last out of Stalag Luft III and, for the sake of perspective, a couple of their luckier squadron members. Which is fine, that’s a real story. And you get to see some B-17s and P-51s, and some of the misery and horror of aerial combat.</p>
+<p>But though some of those narrative beats I outlined above do appear in the series, they do so only fleetingly. Indeed, owing to the focus on the pilots who were shot down, the air war itself largely vanishes from the narrative. I wanted to see some discussion of Hamburg, Caen, Dresden, the bombing of the IG Farben site at Auschwitz-Birkenau; they’re not here.</p>
+<p>As I say, this is <em>not</em> a review of <em>Masters of the Air,</em> because it would be annoying if it were. But I did want to sketch quickly a story of the bomber war that could be dramatized.</p>
+<p>And because I just have to, here’s a chart that shows why I’d like to see some airplanes that aren’t B-17s or P-51s.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/air/airplot.png" class="img-fluid figure-img"></p>
+<figcaption>Plot showing B-17s, B-24s, P-51s, and P-47s in theaters vs.&nbsp;Germany.</figcaption>
+</figure>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Phillips Payson O’Brien, <em>How the War Was Won: Air-Sea Power and Allied Victory in World War II</em> (Cambridge, Eng.: Cambridge University Press, 2015).↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>B-24</category>
+  <category>airpower</category>
+  <category>US strategy</category>
+  <guid>https://erauchway.github.io/posts/air/</guid>
+  <pubDate>Fri, 15 Mar 2024 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Betty expects</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -60,9 +106,9 @@
 <li id="fn7"><p>Franklin D. Roosevelt, <span>“Radio Address Announcing the Proclamation of an Unlimited National Emergency---May 27, 1941,”</span> in <em>Public Papers and Addresses of Franklin Delano Roosevelt, 1941 Volume</em>, vol. 10, 13 vols. (New York: Harper &amp; Brothers, 1950), 187--194.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
-  <category>US Strategy</category>
+  <category>US strategy</category>
   <category>Navy</category>
-  <category>UK Strategy</category>
+  <category>UK strategy</category>
   <category>Neutrality</category>
   <category>Greer</category>
   <guid>https://erauchway.github.io/posts/flags/</guid>
@@ -77,12 +123,13 @@
 
 
 
+
 <p>Barrie A. Wigmore has an article of 1987 asking whether the gold panic of early 1933 was caused by fears of devaluation, to which he answers “yes.”<span class="citation" data-cites="wigmoreWasBankHoliday1987"><sup>1</sup></span></p>
 <p>But immediately on taking office, Roosevelt began the process of devaluing, and the panic ended. Here’s Wigmore’s own data of daily gold holdings in the New York Federal Reserve Bank, charted.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/wigmore/wigmore_gold.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Chart showing the NY Fed’s gold holdings falling before Roosevelt’s inauguration, then immediately rebounding.</figcaption>
+<figcaption>Chart showing the NY Fed’s gold holdings falling before Roosevelt’s inauguration, then immediately rebounding.</figcaption>
 </figure>
 </div>
 <p>Wigmore’s argument is that Roosevelt’s immediate actions might have done something to restore confidence, but not much.</p>
@@ -134,11 +181,12 @@
 
 
 
+
 <p>While doing a <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/hello_im_eric_rauchway_a_historian_of_the_new/?rdt=53843">Reddit AMA for <em>Myth America,</em></a> in which I have a chapter on pernicious myths about the New Deal, I received <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/comment/kbfqmwp/">a question about <em>Murdering McKinley,</em></a> reminding me that book is twenty years old this year.<span class="citation" data-cites="rauchwayNewDeal2022 rauchwayMurderingMcKinleyMaking2003"><sup>1</sup></span> A quick glance at <a href="http://htmlpreview.github.io/?https://github.com/erauchway/cv_pub/blob/main/rauchway_cv.html">my c.v.</a> told me that by a coincidence of timing, that means <em>The Great Depression and the New Deal: A Very Short Introduction</em> is fifteen years old, and <em>Winter War: Hoover, Roosevelt, and the First Clash over the New Deal</em> is five.<span class="citation" data-cites="rauchwayGreatDepressionNew2008 rauchwayWinterWarHoover2018"><sup>2</sup></span> These arbitrary digital anniversaries don’t mean a thing, except that we make them so, which is no reason not to. So here are some thoughts, which are mainly for me before I forget them.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/tripleversary/tr_fdr.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Franklin Roosevelt (at the far right of the photo, in profile looking left, wearing a straw boater) at a reception for Theodore Roosevelt (middle left, facing forward) on the former president’s return from Africa in 1910. FDR Presidential Library.</figcaption>
+<figcaption>Franklin Roosevelt (at the far right of the photo, in profile looking left, wearing a straw boater) at a reception for Theodore Roosevelt (middle left, facing forward) on the former president’s return from Africa in 1910. FDR Presidential Library.</figcaption>
 </figure>
 </div>
 <p>First, these are easily the three most popular of my books. That popularity owes to different causes. The VSI is in a well known series with a good reputation. The VSI and <em>Winter War</em> happened to appear shortly before moments when their topics seemed relevant (<a href="https://www.npr.org/templates/story/story.php?storyId=95737884">the Great Economic Unpleasantness of the late Bush administration</a> and <a href="https://www.vox.com/policy-and-politics/21563753/2020-election-trump-biden-transition-fdr-hoover">the Trump–Biden transition,</a> respectively). <em>Murdering McKinley</em> hadn’t either of those advantages, but Brian Lamb did like it for <a href="https://booknotes.org/Watch/177827-1/Eric-Rauchway">Booknotes.</a></p>
@@ -184,11 +232,12 @@
 
 
 
+
 <p>Thanks to <a href="https://staging.bsky.app/profile/davidwondrich.bsky.social/post/3kfg2v36xfm2shttps://staging.bsky.app/profile/davidwondrich.bsky.social/post/3kfg2v36xfm2s">David Wondrich</a> and <a href="https://staging.bsky.app/profile/kschultz.bsky.social/post/3kfgrs2qmma2f">Ken Schultz</a> I now know cshapes has an error regarding interwar Italy, which it depicts without the Istrian peninsula. I have endeavored to correct it.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/europes2/eurs.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A map of Europe before and after the Great War, this time with the Istrian peninsula as part of Italy.</figcaption>
+<figcaption>A map of Europe before and after the Great War, this time with the Istrian peninsula as part of Italy.</figcaption>
 </figure>
 </div>
 
@@ -212,13 +261,14 @@
 
 
 
+
 <p>Franklin Roosevelt told George VI during the king’s visit to the United States early in June 1939 that the Americans planned to control an area extending five hundred miles east of the U.S. coast, if it could use bases at Bermuda and Trinidad; by the end of the month, the president was meeting with the British ambassador, Ronald Lindsay, to formalize the request for leases at Bermuda, Trinidad, and St.&nbsp;Lucia.<span class="citation" data-cites="baptisteBritishGrantAir1976"><sup>1</sup></span> In retrospect we can identify these plans as an early phase of what became Admiral Stark’s <a href="https://erauchway.github.io/posts/greer_3_dog/index.html">Plan Dog,</a> providing for naval assistance to the Allies in the western Atlantic. Late in July, the Army asked for bases in Trinidad and Natal, Brazil; the Navy confirmed its need of bases, and on August 24, <a href="http://www.fdrlibrary.marist.edu/_resources/images/psf/b-psfc000062.pdf">Stark wrote Roosevelt</a> to confirm that leases were available in Trinidad and in Bermuda, where the US Navy would take over some or all of the facilities then operated by Pan American Airways and Imperial Airways. Two days later, the Soviet news agency TASS would issue the terms of the Nazi-Soviet Pact, allocating to the USSR a “special position” in the Baltics and the division of Poland between the two; the Germans and the Soviets began the invasion of Poland shortly afterward.</p>
 <p>On September 4, the day after the British declaration of war on Germany, the United States finalized leases to bases in Bermuda, Trinidad, and St.&nbsp;Lucia, paying a rent of $500 a year for the site in Bermuda; on September 6, Stark directed the commander of the Atlantic squadron to maintain a patrol of 300 miles offshore, and to report the movements of foreign men-of-war. Some of the destroyers thus tasked went to Newfoundland as the Grand Banks Patrol, with the acquiescence of the British government, to render assistance in emergencies and to observe and report movements of foreign warships.<span class="citation" data-cites="cressmanOfficialChronologyNavy2000"><sup>2</sup></span></p>
 <p>The Division of the American Republics in the U.S. State Department asked the Office of the Geographer to prepare maps with 300-mile radiuses laid out from the outermost limits of the American Republics, and sent that map to the White House, where the president selected the points of a zone defined by those varius circles, and returned it to the geographer with a request to neaten up the map <a href="https://history.state.gov/historicaldocuments/frus1939v05/map-panama">thus defined.</a> The Declaration of Panama, of October 2, 1939, <a href="https://history.state.gov/historicaldocuments/frus1939v05/pg_36">formalized that zone.</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/panama/panama_d.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Map of the Panama Declaration, made with R and ggplot because I could never find a good one available.</figcaption>
+<figcaption>Map of the Panama Declaration, made with R and ggplot because I could never find a good one available.</figcaption>
 </figure>
 </div>
 <p>Britain allowed unlimited U.S. overflight of the Bahamas after the Panama Declaration. This declaration looked neutral and formally was neutral, though Roosevelt plainly intended it as a form of neutrality that would aid the Allies. As he told Lindsay’s replacement, Lord Lothian, on August 30, 1939, the declaration would allow</p>
@@ -238,7 +288,7 @@
 <li id="fn3"><p>Baptiste, <span>“British Grant,”</span> 16.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
-  <category>US Strategy</category>
+  <category>US strategy</category>
   <category>Nazis</category>
   <category>Geography</category>
   <category>Neutrality</category>
@@ -249,6 +299,7 @@
   <title>Architecture after a Green New Deal, UCLA</title>
   <link>https://erauchway.github.io/posts/gnd/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -273,7 +324,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Eric Rauchway, <em>Why the New Deal Matters</em> (New Haven: Yale University Press, 2021), 32.↩︎</p></li>
+<li id="fn1"><p>Eric Rauchway and Paul Sparrow, <span>“Why the New Deal Matters”</span> (Roosevelt Reading Festival, Franklin D. Roosevelt Library, online, June 15, 2021), 32.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>New Deal</category>
@@ -287,6 +338,7 @@
   <title>Mobilization, Philadelphia Navy Yard edition</title>
   <link>https://erauchway.github.io/posts/pnavy_emp/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -317,11 +369,12 @@
 
 
 
+
 <p>Below are my comments, as prepared, from the Washington History Seminar session of October 16, 2023, if you’d like to read them. If you’d like to see the whole session as it actrually transpired, video is at <a href="https://www.youtube.com/watch?v=IgK0oWftoTM">this link.</a> Thanks to Eric Arnesen, Christian Ostermann, and Rachel Wheatley for organizing the session on behalf of the American Historical Association and the Woodrow Wilson Center’s History and Public Policy Program.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/blower/blower.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Book jacket for Blower, <em>Americans in a World at War.</em></figcaption>
+<figcaption>Book jacket for Blower, <em>Americans in a World at War.</em></figcaption>
 </figure>
 </div>
 <hr>
@@ -344,7 +397,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Brooke L. Blower, <em>Americans in a World at War: Intimate Histories from the Crash of Pan Am’s Yankee Clipper</em> (New York: Oxford University Press, 2023).↩︎</p></li>
+<li id="fn1"><p>Brooke L. Blower, Mary L. Dudziak, and Eric Rauchway, <span>“Americans in a World at War: Intimate Histories from the Crash of Pan Am’s Yankee Clipper”</span> (Washington History Seminar of the American Historical Association, October 16, 2023).↩︎</p></li>
 <li id="fn2"><p>Winston S. Churchill, <em>The Gathering Storm</em> (London: The Reprint Society, 1950), ix.↩︎</p></li>
 <li id="fn3"><p>Max Hastings, <em>Inferno: The World at War, 1939–1945</em> (New York: Alfred A. Knopf, 2011), xix.↩︎</p></li>
 </ol>
@@ -361,18 +414,19 @@
 
 
 
+
 <p>There’s a pivotal moment in <em>Ford v. Ferrari</em> when Henry Ford II explains why the American automaker is going to defeat the Italian one.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><video src="fvf_trim.mp4" class="img-fluid" controls=""><a href="fvf_trim.mp4">Video</a></video></p>
-<figcaption class="figure-caption">Go ahead, Carroll. Go to war.</figcaption>
+<figcaption>Go ahead, Carroll. Go to war.</figcaption>
 </figure>
 </div>
 <p>It’s a great scene as played (by Tracy Letts and Matt Damon) and it’s a great scene as written, by Jez Butterworth, John-Henry Butterworth, and Jason Keller.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/willow/fvf.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">From the <a href="https://assets.scriptslug.com/live/pdf/scripts/ford-v-ferrari-2019.pdf">shooting script</a> of <em>Ford v. Ferrari.</em></figcaption>
+<figcaption>From the <a href="https://assets.scriptslug.com/live/pdf/scripts/ford-v-ferrari-2019.pdf">shooting script</a> of <em>Ford v. Ferrari.</em></figcaption>
 </figure>
 </div>
 <p>I’d be lying if I claimed I didn’t enjoy it, or the rest of the movie. But it is, of course, total nonsense in any number of ways.</p>
@@ -380,7 +434,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/willow/willow_run.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">B-24s on the Willow Run assembly line. Library of Congress.</figcaption>
+<figcaption>B-24s on the Willow Run assembly line. Library of Congress.</figcaption>
 </figure>
 </div>
 <p>So Willow Run was run by Ford and it did build a lot of bombers that were vital to the Eighth Air Force’s bombing campaign in Europe. Especially before D-Day, the long-range B-24 presented the best hope of striking deep into the heart of the continent. (Although if you know anything about the Ploesti raid, you know that hope was far too costly to realize until long-range fighters were generally available.)</p>
@@ -389,7 +443,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/willow/wr_fund.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">The relevant part of the relevant page from <em>War Industrial Facilities Authorized July 1940–August 1945.</em></figcaption>
+<figcaption>The relevant part of the relevant page from <em>War Industrial Facilities Authorized July 1940–August 1945.</em></figcaption>
 </figure>
 </div>
 <p>Maybe the writing there is a bit small. It says, “Willow Run Airplane Factory, Ypsilanti Mich, New Plant; Heavy Bombers, B-24, Additional sub-assemblies.” Then it says, “Total cost, $94,898”—that’s in thousands of dollars, so about $95 million. Then it says that of the total cost of $94,898,000, the public funds contributed were $94,898,000. In other words, all of it. As you can see, under “Privately financed,” there is the entry “–”.</p>
@@ -424,11 +478,12 @@
 
 
 
+
 <p>The fine folks at AAWE posted <a href="https://staging.bsky.app/profile/wineecon.bsky.social/post/3kb6i5vhfew2x">a chart a week ago,</a> showing how as recently as 1960, Bordeaux was planted mainly to white grapes, perhaps contrary to one’s modern preconceptions, which reminded me of some data we had kicking around here, on the course of California’s wine grape plantings. Below, a chart—which I couldn’t have made without gracious help from Kieran Healy—showing the pattern of California wine-grape planting between repeal and the Judgment of Paris in 1976.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/wine_var/wine_var.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Acres planted to wine grape varieties in California.</figcaption>
+<figcaption>Acres planted to wine grape varieties in California.</figcaption>
 </figure>
 </div>
 <p>The varieties you might associate with high-end California wines—the ones California vintners used to win the Judgment of Paris blind taste-test by emulating Bordeaux whites and reds—don’t really appear until they have a renaissance starting in the 1950s. The varieties at the top of the chart are those bred by UC Davis viticulturist Harold Olmo, as grapes that would make reasonably good wine and also thrive in California’s valley heat. What you see at the bottom, in terms of the varieties that were being grown at the time of repeal, is a certain amount of selection—Grenache and Colombard increase, Alicante Bouschet decreases—and also of consolidation, as a smaller number of winemakers work to meet the demands of an increasing consumer market.</p>
@@ -436,7 +491,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/wine_var/IMG_6102.JPG" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">AAA statistical publication no. 1</figcaption>
+<figcaption>AAA statistical publication no. 1</figcaption>
 </figure>
 </div>
 
@@ -460,6 +515,7 @@
 
 
 
+
 <p>In addressing various arguments against the New Deal, I’ve generally cited Alexander Field’s fine (and wonderfully titled) <em>A Great Leap Forward.</em><span class="citation" data-cites="fieldGreatLeapForward2011"><sup>1</sup></span> I’ve never cited his franker argument from <em>Challenge,</em> which somehow seems relevant today:</p>
 <blockquote class="blockquote">
 <p>The consequences of putting a political party that frequently disparaged government in charge of providing essential government services became clear, however, in the federal government’s response to Hurricane Katrina. While the micropolitics may have seemed like a win for ideologically driven Republicans—provision of shoddy government services could reinforce the claim that only the private sector is able to provide decent services—the philosophy eventually turned a cropper at the polls and has been decisively rejected. It is clear that the American public wants well-thought-out government programs and policies, competently executed.<span class="citation" data-cites="fieldGreatDepressionNew2009"><sup>2</sup></span></p>
@@ -473,7 +529,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/field_nd/bizcycles_redone.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Index of industrial production 1919–1940, with shaded areas showing recessions.</figcaption>
+<figcaption>Index of industrial production 1919–1940, with shaded areas showing recessions.</figcaption>
 </figure>
 </div>
 <p>Anyway, it seems like a good enough reason to put up the latest version of a graph I commonly use, depicting U.S. business cycles over the course of the interwar period, using the monthly series of the index of industrial production. The collapse of 1929–1933 is obvious, as is the sharp turn-around in March 1933, and the improvement over the course of the New Deal, with the exception of the 1937–1938 recession.</p>
@@ -506,6 +562,7 @@
 
 
 
+
 <p>People will commonly blame the Weimar hyperinflation for the rise to power of the Nazi party, disregarding the ten-year lag and the intervening Great Depression, an episode of severe deflation. Recently one historian set forth a “precise mechanism” for how inflation produced antisemitism:</p>
 <blockquote class="blockquote">
 <p>In stable times, we expect each partner in a commercial transaction to believe that the price was fair, and that both sides benefit from the exchange. I buy a meal that satisfies my hunger, and the innkeeper in return has money that can be used to satisfy their needs. When prices move [sic; it should say “rise”], I am upset by having to pay more. The innkeeper is angry because the money I have given no longer buys so many goods. We both think that we have lost out in the transaction, [to this point, the characterization seems fine, if naïve: it’s in the next word that I begin to disagree] and that we have been manipulated by some sinister force. We also feel guilty for taking advantage of others—getting rid of our banknotes as soon as possible. We start to think that we are behaving in a speculative and grasping way. Non-Jewish Germans after the First World War in the middle of the currency disorder thus took up activities that they associated with Jewish actions, hated themselves for their breach of traditional norms, and externalized that powerful emotion by blaming the groups associated with finance and money.<span class="citation" data-cites="jamesSevenCrashesEconomic2023"><sup>1</sup></span></p>
@@ -516,7 +573,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/nsdap/germanelec_cpi.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Chart showing the correlation between NSDAP vote share and falling prices; hyperinflation goes off the top of the chart because otherwise it would be unreadable.</figcaption>
+<figcaption>Chart showing the correlation between NSDAP vote share and falling prices; hyperinflation goes off the top of the chart because otherwise it would be unreadable.</figcaption>
 </figure>
 </div>
 <p>Which is why, of course, the economist George Warren observed at the time, “It seems to be a choice between a rise in prices or a rise in dictators.”<span class="citation" data-cites="rauchwayMoneyMakersHow2015"><sup>2</sup></span></p>
@@ -546,11 +603,12 @@
 
 
 
+
 <p>The <em>Atlantic</em> ran <a href="https://www-stage.theatlantic.com/technology/archive/2023/09/books3-database-generative-ai-training-copyright-infringement/675363/">an article</a> or <a href="https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/">two</a> about the Books3 database, into which some 180,000 books were fed to form a corpus for Meta’s large language model LLaMa, among other purposes. There’s <a href="https://full-stack-search-prod.vercel.app">an app</a> that lets you search for an author’s name to see if it’s in there. And, well:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/borg/borg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A screenshot demonstrating the presence of my first three New Deal books in Books3.</figcaption>
+<figcaption>A screenshot demonstrating the presence of my first three New Deal books in Books3.</figcaption>
 </figure>
 </div>
 <p>I haven’t fully thought through (nor, I am heartened to see, have legal scholars) the implications of one’s books being thus used. But I was not best pleased that Meta had apparently acquired the text of my books from a site containing pirated material. After all, surely Mark Zuckerberg can afford the possibly dozens of dollars it would cost to acquire these three texts. Why must the heralds of the future be simultaneously grandiose and ungenerous?</p>
@@ -573,6 +631,7 @@
 
 
 
+
 <p>I published an article in 2019 arguing that “the New Deal was on the ballot in 1932”—that is, that Roosevelt “ran on the New Deal and was elected on it; while 1933 predates modern polling, we may suppose that the voters had a reasonable expectation he would deliver it.”<span class="citation" data-cites="rauchwayNewDealWas2019"><sup>1</sup></span> My view is contrary to a conventional wisdom which held that Roosevelt did not say much of consequence about the New Deal. I argue that the much tougher burden of proof lies with people who want to prove a negative—that Roosevelt didn’t say anything about key elements of the New Deal—and if you can point to speeches in which he did say things—about support for massively increased public works programs, or stock market regulation, or a lower tariff—then it’s pretty clear where one should come down on the question. But I didn’t have direct evidence about what voters thought, just what Roosevelt said and how vehemently Hoover opposed it.</p>
 <p>As it turns out, at about the same time as my article appeared in <a href="https://www.cambridge.org/core/journals/modern-american-history/article/new-deal-was-on-the-ballot-in-1932/8CDA127BFA5DACAD00893104E04CCA12"><em>Modern American History,</em></a> a scholar named Helmut Norpoth published <a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/american-voter-in-1932-evidence-from-a-confidential-survey/9C75907376FD0D45811C4357ADD7E8AE">an article in PS</a> discussing an internal poll conducted by the market research firm J. David Houser for the Hoover campaign close to the 1932 election and arguing that its results show</p>
 <blockquote class="blockquote">
@@ -588,7 +647,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/po_32/norp_5.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Bar chart showing attitudes toward various possible policies for remedying the Depression.</figcaption>
+<figcaption>Bar chart showing attitudes toward various possible policies for remedying the Depression.</figcaption>
 </figure>
 </div>
 <p>Note that, as the author says, hardly anyone—FDR defector or Hoover loyalist—favored giving money to the unemployed or a government takeover of business. Neither Hoover nor Roosevelt favored these, either. Slightly over half of FDR defectors favored paying the veterans’ bonus, as against only sixteen percent of Hoover loyalists; Hoover emphatically opposed the bonus and, infamously, sent the army to burn out the bonus marchers’ encampment and tear gas the protesters, probably causing the death of an infant. Roosevelt didn’t support paying the bonus either (though, as he privately noted, he didn’t think the marchers ought to be gassed) but eventually the Democratic congress would vote for it and pass it over his veto.<span class="citation" data-cites="rauchwayWhyNewDeal2021"><sup>6</sup></span></p>
@@ -605,7 +664,7 @@
 <li id="fn3"><p>See Jean M. Converse, <em>Survey Research in the United States: Roots and Emergence, 1890-1960</em> (Berkeley: University of California Press, 1987).↩︎</p></li>
 <li id="fn4"><p>Norpoth, <span>“American Voter in 1932,”</span> 17.↩︎</p></li>
 <li id="fn5"><p>Susan B. Carter et al., eds., <em>Historical Statistics of the United States, Earliest Times to the Present</em>, Millennial, 5 vols. (New York: Cambridge University Press, 2006), series Ba475.↩︎</p></li>
-<li id="fn6"><p>On Hoover, Roosevelt, and the bonus march, see Eric Rauchway, <em>Why the New Deal Matters</em> (New Haven: Yale University Press, 2021), 25–33.↩︎</p></li>
+<li id="fn6"><p>On Hoover, Roosevelt, and the bonus march, see Eric Rauchway and Paul Sparrow, <span>“Why the New Deal Matters”</span> (Roosevelt Reading Festival, Franklin D. Roosevelt Library, online, June 15, 2021), 25–33.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>New Deal</category>
@@ -623,12 +682,13 @@
 
 
 
+
 <p>Awhile ago I set up a feed called <a href="https://bsky.app/profile/did:plc:6brknehpd7ecbvd56ko6mhlm/feed/aaaby3zazwhrq">“What’s History”</a> on Bluesky, the as-yet invite-only microblogging social media service that is a bit livelier than some and freer of unpleasantly trollish features than others.</p>
 <p>Feeds are a Bluesky feature; essentially they allow you to curate your own algorithm. This one is simple: if you’re on a set list of approved posters, and you post using the card file box emoji 🗃, that post will show up in the feed. If you go to the feed at the link above, and “like” it, it will appear among your feeds; if you pin it, you can set it so it appears on your Bluesky homepage, like this. <strong>UPDATED TO ADD</strong> that I’ve amended the feed to include any post that uses the word “skystorians” to accommodate people who don’t care for emoji. So you can use either the card file box or skystorians to send a skeet to the feed.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/bsky/bsky_home.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Bluesky homepage, with “What’s History” next to Following and Mutuals feeds.</figcaption>
+<figcaption>Bluesky homepage, with “What’s History” next to Following and Mutuals feeds.</figcaption>
 </figure>
 </div>
 <p>As you can see there, a user on the approved list can quote-skeet something that did not have the card file box emoji with the emoji, and have it stuck in the feed.</p>
@@ -658,6 +718,7 @@
   <dc:creator>Eric Rauchway</dc:creator>
   <link>https://erauchway.github.io/posts/macarthur/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -696,10 +757,33 @@
 
 
 
+
 <p>It’s always nice when your hometown paper picks up something you’ve done (in a good way). The headline here isn’t “Onetime Florida Man Debunks Historical Myths,” but <a href="https://www.tampabay.com/opinion/2023/08/26/desantis-america-myths-have-consequences-column/">it could be.</a> The writer is referring to my chapter (and Josh Zeitz’s, too) in Kevin Kruse and Julian Zelizer’s <em>Myth America,</em> which I understand is selling rather nicely. My chapter deals with the myth that the New Deal was bad for the economy. It includes a version of the below chart.</p>
 <div class="cell">
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning: package 'cowplot' was built under R version 4.3.2</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning: package 'showtext' was built under R version 4.3.2</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning: package 'sysfonts' was built under R version 4.3.2</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning: package 'ggplot2' was built under R version 4.3.2</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning: package 'tidyr' was built under R version 4.3.2</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning: package 'grafify' was built under R version 4.3.2</code></pre>
+</div>
 <div class="cell-output-display">
-<p><img src="https://erauchway.github.io/posts/tbt_biz/index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="672"></p>
+<div>
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/tbt_biz/index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
 </div>
 </div>
 <p>The great slump, 1929–1933, stands out for its duration and severity. The recovery during the New Deal, beginning with Roosevelt’s inauguration in March 1933, also stands out for its duration and vigor, albeit interrupted by the 1937–1938 recession. The chart is thus a useful starting-point for conversation about what Americans of that era experienced, and how we think about it now.</p>
@@ -722,6 +806,7 @@
 
 
 
+
 <p>We went to see <em>Oppenheimer</em> in 70mm IMAX yesterday. It was a fantastic experience, but I’m not a movie critic so I’ll leave to others to explain why Nolan is especially good at pointing cameras at things. The relentless pace, over a nearly continuous musical score, struck me as an effective way to keep one’s attention over a long span. The below is a grab-bag of some relevant observations, both new and old, on the subject, stretching back twenty years.</p>
 <ol type="1">
 <li>Truman in the movie</li>
@@ -730,7 +815,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/oppenheimer/mcc_trum.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Truman’s account of Oppenheimer as a “self-pitying, ‘cry-baby’” person.</figcaption>
+<figcaption>Truman’s account of Oppenheimer as a “self-pitying, ‘cry-baby’” person.</figcaption>
 </figure>
 </div>
 <p>The version from the Bird and Sherwin biography of Oppenheimer is <a href="https://www.google.com/books/edition/American_Prometheus/jfSn2RJZI9EC?hl=en&amp;gbpv=1">here,</a> if you’re curious.</p>
@@ -852,11 +937,12 @@
 
 
 
+
 <p>Spoilers for <em>Indiana Jones and the Dial of Destiny</em> herein.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/sw_raiders/sw_raiders.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A still from <em>Raiders of the Lost Ark,</em> not in fact <em>Dial of Destiny.</em></figcaption>
+<figcaption>A still from <em>Raiders of the Lost Ark,</em> not in fact <em>Dial of Destiny.</em></figcaption>
 </figure>
 </div>
 <p>Toward the end of <em>Indiana Jones and the Dial of Destiny,</em> Indy discovers carvings on the tomb of Archimedes that appear to show an airplane with propellers, thus indicating that the time-travel plan has, or will, succeed to a degree. Voller going into the past won’t change the past; it’s already factored into the present. There is no counterfactual, no alternative timeline available.</p>
@@ -870,36 +956,6 @@
   <category>Movies</category>
   <guid>https://erauchway.github.io/posts/sw_raiders/</guid>
   <pubDate>Sun, 23 Jul 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Mistakes and counterfactuals</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/unclear/unclear.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>In the <a href="https://jamellebouie.net/unclear-and-present-danger/2023/7/7/fatherland-feat-sam-goldman">latest episode</a> of the <em>Unclear and Present Danger</em> podcast, Jamelle Bouie and John Ganz discuss the movie <em>Fatherland</em> with Sam Goldman. Ganz spends some time explaining his general distaste for alternative histories asking “what if the Nazis had won,” both because it is historically implausible, given the delusional nature of Nazi ideology, and because it has a definite whiff of immorality about it.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/unclear/high_castle.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A still from Prime’s <em>The Man in the High Castle</em> showing the alternative-history Reichstag building.</figcaption>
-</figure>
-</div>
-<p>In some moods I feel the same way about one of the most common tropes of World War II analysis—that is, that the German invasion of the Soviet Union was Hitler’s greatest mistake. (I was going to quote directly a well known historian saying that, here, but I had rather not pick a fight with someone generally good over repeating a commonplace; you can surely find people saying it if you really want.)</p>
-<p>Why do I dislike the “mistake” formulation? I tend to agree with those theorists of history who will say that all historical analysis entails implicit counterfactuals, and that it is better to make them explicit if you want to evaluate the analysis properly. In this case, saying that Hitler’s invasion of the Soviet Union was a mistake entails counterfactual, usually implicit but sometimes stated outright, that had he not done it, Germany might have won the war.</p>
-<p>Two related aspects of that statement trouble me. First, and perhaps less important, I also tend to agree with theorists of counterfactual analysis that if you’re going to posit an alternative path that history might have taken, you ought to identify the moment when it was at least possible. And I don’t know that anyone has ever identified a moment when Hitler could plausibly have said, well, I suppose I won’t invade the Soviet Union after all.</p>
-<p>Which points us to the second, more major issue with the “mistake” formulation: from Hitler’s point of view, it was not a <em>mistake</em>; it was a central purpose of the German war and indeed the Nazi state to invade the USSR so as to seize, depopulate, and resettle land to the East. You can say that was a terrible idea; you can say it entailed genocidal atrocities. But it was not, for the Nazis, a mistake—it was one of the major reasons to be a Nazi.</p>
-<p>Saying that it was a mistake fundamentally misunderstands the nature of Nazism. There could be no German victory without that conquest of territory in the East if you were a Nazi, which of course Hitler was. Saying it was a mistake for him to invade the USSR presupposes a Hitler who could somehow have been persuaded not to do so—a Hitler who was, somehow, not a Nazi, or anyway not a sincere one. And that’s a presupposition that beggars belief.</p>
-
-
-
- ]]></description>
-  <category>Nazi strategy</category>
-  <category>Methods</category>
-  <guid>https://erauchway.github.io/posts/unclear/unclear.html</guid>
-  <pubDate>Mon, 17 Jul 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

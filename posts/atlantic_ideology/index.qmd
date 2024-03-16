@@ -2,9 +2,6 @@
 title: "Four Fears, Four Freedoms: US ideology"
 author: "Eric Rauchway"
 date: 2023-04-17
-bibliography: ../../../common/war_nd.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
     - US strategy
     - US politics

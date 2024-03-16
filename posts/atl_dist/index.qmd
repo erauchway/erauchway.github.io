@@ -2,11 +2,8 @@
 title: "The German threat to the United States, 1940--1941: Atlantic geography"
 author: "Eric Rauchway"
 date: 2023-04-07
-bibliography: ../../../common/war_nd.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
-    - airpower
+    - Airpower
     - Nazi strategy
 ---
 

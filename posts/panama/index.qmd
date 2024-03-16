@@ -3,7 +3,7 @@ title: "Declaration of Panama"
 author: "Eric Rauchway"
 date: 2023-11-19
 categories:
-         - US Strategy
+         - US strategy
          - Nazis
          - Geography
          - Neutrality

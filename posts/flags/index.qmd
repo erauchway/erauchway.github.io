@@ -3,9 +3,9 @@ title: Betty expects
 author: "Eric Rauchway"
 date: 2024-02-12
 categories:
-         - US Strategy
+         - US strategy
          - Navy
-         - UK Strategy
+         - UK strategy
          - Neutrality
          - Greer
 ---

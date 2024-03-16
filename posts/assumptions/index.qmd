@@ -2,9 +2,6 @@
 title: Everything everywhere
 author: "Eric Rauchway"
 date: 2023-06-01
-bibliography: ../../../common/war_nd.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
     - Teaching
     - US strategy

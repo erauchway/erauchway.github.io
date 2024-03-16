@@ -2,9 +2,6 @@
 title: What did U.S. Voters Want from the New Deal in 1932?
 author: "Eric Rauchway"
 date: 2023-09-22
-bibliography: ../../../common/big_bib.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
          - New Deal
          - Election of 1932

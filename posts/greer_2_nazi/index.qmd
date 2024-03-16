@@ -2,9 +2,6 @@
 title: "The *Greer:* Nazi strategy"
 author: "Eric Rauchway"
 date: 2023-04-12
-bibliography: ../../../common/war_nd.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
     - Greer
     - convoys

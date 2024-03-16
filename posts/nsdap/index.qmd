@@ -2,9 +2,6 @@
 title: Price levels and the Nazi vote
 author: "Eric Rauchway"
 date: 2023-10-02
-bibliography: ../../../common/big_bib.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
          - Nazis
          - Inflation

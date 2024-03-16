@@ -2,9 +2,6 @@
 title: The Bluesky "What's History" Feed
 author: "Eric Rauchway"
 date: 2023-09-19
-bibliography: ../../../common/big_bib.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
          - Methods
          - Madness

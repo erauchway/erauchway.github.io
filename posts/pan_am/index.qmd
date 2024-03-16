@@ -2,9 +2,6 @@
 title: "Pan Am for hemispheric defense"
 author: "Eric Rauchway"
 date: 2023-05-05
-bibliography: ../../../common/war_nd.json
-suppress-bibliography: true
-csl: ../../../common/chicago-fullnote-bibliography-short-title-subsequent.csl
 categories:
     - US strategy 
     - Pan Am
