@@ -1,0 +1,59 @@
+---
+title: "He Reads to Us from Something Called 'Ulysses'"
+author: "Eric Rauchway"
+date: 2024-03-26
+categories:
+  - New Deal
+  - SCOTUS
+  - Comstock
+  - Ulysses
+---
+
+[Justices Thomas and Alito have brought the Comstock laws back into the news](https://www.washingtonpost.com/health/2024/03/26/comstock-act-supreme-court-abortion-pill/) in an effort to craft a national ban on abortion. The laws banned a lot more, including James Joyces masterpiece *Ulysses,* until the dawn of the New Deal.
+
+On March 3, 1873, Congress substantially expanded section 148 of the existing statute defining the scope and activities of the Post Office. The law already banned any "obscene book, pamphlet, picture, print, or other publication of a vulgar or indecent character" from the mails and defined sending such stuff as a misdemeanor for which a perpetrator could be fined not more than $500 and serve not more than a year in prison.[^1] Now they went much further:
+
+>no obscene, lewd, or lascivious book, pamphlet, picture, paper, print, or other publication of an indecent character, or any article or thing designed for the prevention of conception or procuring of abortion, nor any article or thing intended or adapted for any indecent or immoral use or nature, nor any written or printed card, circular, book, pamphlet, advertisement or notice of any kind gfiving information, directly or indirectly, where, or how, or of whom, or by what means either of the things before mentioned may be obtained or made
+
+---nothing like that could go in the mails, and anyone convicted of doing it could be fined not less than $100 and not more than $5000 or imprisoned not less than a year or more than ten years, or both.[^2] Forty years later, in 1913, this statute and its revisions were summarized in the Post Office's regulations as below, prohibiting anything "filthy"; the penalty was now not more than $5000 in fines and not more than 5 years in prison.
+
+![](./po_com.png)
+
+That's what the New York postmaster, Thomas Patten, cited in 1919 when asking Judge W.H. Lamar, solicitor of the Post Office, what he thought of the May 1919 issue of the *Little Review,* which contained the "Scylla and Charybdis" episode of James Joyce's yet unfinished novel *Ulysses.* Lamar found it "unmailable." The Post Office found the same of the issue containing the "Cyclops" episode, for political reasons possibly relating to the Espionage Act passed during the Great War; the nation was now fully into the red scare.[@weirWhatDidHe2000, 394. Records are incomplete, Weir points out, so it's not always entirely clear what the rationale was for suppression.]
+
+But it was in 1920 when the real Comstockery came: Anthony Comstock's successor as head of the New York Society for the Suppression of Vice, John Sumner, lodged a complaint against the *Little Review* for publishing the "Nausicaa" episode, which includes a scene---obscured, to be sure, under literary prose---of Leopold Bloom masturbating while looking at Gerty MacDowell on the beach. At trial, a three-judge panel found the publishers of the *Little Review,* Margaret Anderson and Jane Heap, guilty. As Anderson wrote, 
+
+>They "don't care who James Joyce is or whether he has written the finest books in the world"; their only function is to decide whether certain passages of "Ulysses" (Incidentally the only passages they can understand) violate the statute. . . . This decision establishes us as criminals and we are led to an adjoining building where another bewildered official takes our fingerprints!!! [@andersonUlyssesCourt1921, 23, 25]
+
+The key point there is that the judges confined themselves to the question of whether the particular passage should be understood as "filthy." 
+
+In 1933, when *Ulysses* came once more to court, Judge John Woolsey of the Southern District of New York had the whole book.
+
+>I have read "Ulysses" once in its entirety and I have read the passages of which the government particularly complains several times. . . . "Ulysses" is not an easy book to read or to understand. But there has been much written about it, and in order properly to approach the consideration of it it is advisable to read a number of other books which have now become its satellites. The study of "Ulysses" is, therefore, a heavy task.[^5]
+
+Judge Woolsey had previously established himself as a dedicated scholar; in holding that the book *Married Love* was not obscene, he mentioned he derived necessary perspective from reading Havelock Ellis.[^6] He was also a pretty good literary critic.[Not everyone agrees. @vanderhamLiftingBanUlysses1994]
+
+>Joyce has attempted---it seems to me, with astonishing success---to show how the screen of consciousness with its ever-shifting kaleidoscopic impressions carries, as it were on a plastic palimpsest, not only what is in the focus of each man's observation of the actual things about him, but also in a penumbral zone residua of past impressions, some recent and some drawn up by association from the domain of the subconscious. He shows how each of these impressions affects the life and behavior of the character which he is describing. . . .
+
+>If Joyce did not attempt to be honest in developing the technique which he has adopted in "Ulysses," the result would be psychologically misleading and thus unfaithful to his chosen technique. Such an attitude would be artistically inexcusable.
+
+>It is because Joyce has been loyal to his technique and has not funked its necessary implications, but has honestly attempted to tell fully what his characters think about, that he has been the subject of so many attacks. . . .
+
+In short: people think about sex. Sometimes quite a lot. So portraying it---along with the many, many other things Joyce portrays in *Ulysses*---is true to the book's purpose.
+
+Woolsey wasn't above being a little funny.
+
+>My considered opinion is, after long reflection, is that, whilst in many places the effect of "Ulysses" on the reader undoubtedly is somewhat emetic, nowhere does it tend to be an aphrodisiac.
+
+Considering the entire book, rather than the allegedly offending passage, was an important shift in the law on obscenity.[The old way of thinking---the *Hicklin* test, looking only at the offending passage---wouldn't go completely until *Roth v. US* in 1957. @gillersTendencyDepraveCorrupt2007] 
+
+So *Ulysses* could come into the United States. And so, as Morris Ernst, the attorney for Random House, wrote in the foreword to US edition of *Ulysses,* "The New Deal in the law of letters is here."[@joyceUlysses1961, v]
+
+
+[^1]: 17 Stat. 302.
+
+[^2]: 18 Stat. 599.
+
+[^5]: *United States v. One Book Called "Ulysses,"* December 6, 1933, 5 F. Supp. 182 (S.D.N.Y. 1933).
+
+[^6]: *United States v. One Obscene Book Entitled "Married Love,"* April 6, 1931, 48 F.2d 821 (1931).
