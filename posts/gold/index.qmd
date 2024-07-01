@@ -1,0 +1,26 @@
+---
+title: "Compelled to look beyond"
+author: "Eric Rauchway"
+date: 2024-07-01
+categories:
+         - New Deal
+         - Gold
+         - SCOTUS
+---
+
+In February 1935 the Supreme Court was about to issue an opinion on the question of whether the Roosevelt administration's policy of taking the country off the gold standard was constitutional. 
+
+On first coming into office Roosevelt ended the gold standard---people could no longer exchange a dollar for the statutory rate of $20.67 to an ounce of pure gold. By this measure Roosevelt meant to induce the expectation of inflation, and start money out of hoarding and into circulation. Over the course of 1933 the administration devalued the dollar by various means and early in 1934, using the authority of the new Gold Reserve Act, set the dollar at $35 to an ounce of gold, subject to change. 
+
+The administration viewed its policy of moving away from the gold standard and toward a managed dollar as an effective means of fighting the Depression and also of rallying other countries to recovery. Indeed, it proved effective, both economically and eventually as a tool to assemble an international coalition against fascism.[@rauchwayMoneyMakersHow2015; @hausmanRecoveryGreatDepression2019a; @eggertssonGreatExpectationsEnd2008a] To reverse this policy in 1935 and return to the lower prices of 1932 would be calamitous economically, politically, and diplomatically.
+
+Roosevelt and his advisors considered various practical options for getting around an adverse Court opinion; one idea the president floated was to have Federal Reserve branches honor the commitment to redeem paper money in gold, but to forbid depositors from taking gold out of the building.
+
+Roosevelt also prepared an address to give in the event of the Court demanding he reverse course. In it, he prepared to illustrate in concrete terms how dangerous such a policy would be, and to conclude,
+
+>They have decided these cases in accordance with the letter of the law as they saw it. It is nevertheless my duty to protect the people of the United States to the best of my ability. To carry through the decision of the Court to its logical and inescapable end will so endanger the people of this Nation that I am compelled to look beyond the letter of the law to [the spirit."](http://www.fdrlibrary.marist.edu/_resources/images/msf/msf00790)
+
+He promised further messages and actions to that end in the coming days. 
+
+He never had to give the speech; the Court left this policy---unlike many others---intact. But he meant to fight the Court if he had to.
+
