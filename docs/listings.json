@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/gold/index.html",
       "/posts/comstockery/index.html",
       "/posts/air/index.html",
       "/posts/flags/index.html",
@@ -9,8 +10,8 @@
       "/posts/tripleversary/index.html",
       "/posts/europes2/index.html",
       "/posts/panama/index.html",
-      "/posts/gnd/index.html",
       "/posts/pnavy_emp/index.html",
+      "/posts/gnd/index.html",
       "/posts/blower/index.html",
       "/posts/willow/index.html",
       "/posts/wine_var/index.html",

@@ -1,0 +1,17 @@
+---
+title: "Comparing Roosevelt to Hitler"
+author: "Eric Rauchway"
+date: 2024-05-08
+draft: TRUE
+categories:
+         - New Deal
+         - Nazis
+         - Historiography
+---
+
+A scholar recently urged attention to this passage from John Gunther's *Roosevelt in Retrospect,* by way of suggesting how seriously we might take the conservative critique of the New Deal.
+
+> Roosevelt might easily have tried to make himself dictator, and moreover a dictator like Hitler, who was legally *voted* into office. . . . Roosevelt had the votes; what is more he had the actual power---and chose never to exercise it. We are apt to forget nowadays the immense, unprecedented, overwhelming authority conferred on FDR by an enthusiastically willing Congress during the first hundred days of his first administration. The Reichstag did not give Hitler much more. Suppose Roosevelt had *not* been a democrat at heart. Merely by pressing the analogy to Hitler, we might toll off what we might have lost, but did not---the existence of opposition parties, a free judiciary, independence of the civil service, the rule of law, freedom of religion and education, the Bill of Rights, the Constitution itself---to say nothing of the right of Americans to think freely, talk freely, breathe freely, throughout the land.[@guntherRooseveltRetrospectProfile1950, 20]
+
+
+
