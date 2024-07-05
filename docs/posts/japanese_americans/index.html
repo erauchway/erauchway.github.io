@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Eric Rauchway">
-<meta name="dcterms.date" content="2024-05-08">
+<meta name="dcterms.date" content="2024-07-05">
 
-<title>a necessitous blog - Comparing Roosevelt to Hitler</title>
+<title>a necessitous blog - Japanese Americans, per IPUMS</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -122,11 +122,11 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Comparing Roosevelt to Hitler</h1>
+      <h1 class="title">Japanese Americans, per IPUMS</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">New Deal</div>
-                <div class="quarto-category">Nazis</div>
-                <div class="quarto-category">Historiography</div>
+                <div class="quarto-category">Japanese Americans</div>
+                <div class="quarto-category">Internment</div>
+                <div class="quarto-category">IPUMS</div>
               </div>
                   </div>
   </div>
@@ -144,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">May 8, 2024</p>
+        <p class="date">July 5, 2024</p>
       </div>
     </div>
     
@@ -163,20 +163,17 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>A scholar recently urged attention to this passage from John Gunther’s <em>Roosevelt in Retrospect,</em> by way of suggesting how seriously we might take the conservative critique of the New Deal.</p>
-<blockquote class="blockquote">
-<p>Roosevelt might easily have tried to make himself dictator, and moreover a dictator like Hitler, who was legally <em>voted</em> into office. . . . Roosevelt had the votes; what is more he had the actual power—and chose never to exercise it. We are apt to forget nowadays the immense, unprecedented, overwhelming authority conferred on FDR by an enthusiastically willing Congress during the first hundred days of his first administration. The Reichstag did not give Hitler much more. Suppose Roosevelt had <em>not</em> been a democrat at heart. Merely by pressing the analogy to Hitler, we might toll off what we might have lost, but did not—the existence of opposition parties, a free judiciary, independence of the civil service, the rule of law, freedom of religion and education, the Bill of Rights, the Constitution itself—to say nothing of the right of Americans to think freely, talk freely, breathe freely, throughout the land.<span class="citation" data-cites="guntherRooseveltRetrospectProfile1950"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span></p>
-</blockquote>
+<p>IPUMS has now made available a preliminary complete-count sample—that is to say, everyone in the Census is represented in the <a href="https://usa.ipums.org/usa/full_count.shtml">sample—for 1950.</a> Having both 1940 and 1950 makes it possible to look at the before-and-after for Japanese American imprisonment without trial. Here’s a preliminary look.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="ja_locs.png" class="img-fluid figure-img"></p>
+<figcaption>Three panel chart showing location by county of Japanese American population in 1930, 1940, and 1950; the increase of people in cities and East of the Rockies is pronounced between 1940 and 1950.</figcaption>
+</figure>
+</div>
 
 
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>John Gunther, <em>Roosevelt in Retrospect: A Profile in History</em> (New York: Harper &amp; Brothers, 1950), 20.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -400,6 +397,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/erauchway\.github\.io");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -434,7 +449,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');

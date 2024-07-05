@@ -9,8 +9,35 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog full of pedantry about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.4.550</generator>
-<lastBuildDate>Mon, 01 Jul 2024 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Fri, 05 Jul 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Japanese Americans, per IPUMS</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/japanese_americans/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>IPUMS has now made available a preliminary complete-count sample—that is to say, everyone in the Census is represented in the <a href="https://usa.ipums.org/usa/full_count.shtml">sample—for 1950.</a> Having both 1940 and 1950 makes it possible to look at the before-and-after for Japanese American imprisonment without trial. Here’s a preliminary look.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/japanese_americans/ja_locs.png" class="img-fluid figure-img"></p>
+<figcaption>Three panel chart showing location by county of Japanese American population in 1930, 1940, and 1950; the increase of people in cities and East of the Rockies is pronounced between 1940 and 1950.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>Japanese Americans</category>
+  <category>Internment</category>
+  <category>IPUMS</category>
+  <guid>https://erauchway.github.io/posts/japanese_americans/</guid>
+  <pubDate>Fri, 05 Jul 2024 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Compelled to look beyond</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -401,32 +428,6 @@
   <pubDate>Sun, 19 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Mobilization, Philadelphia Navy Yard edition</title>
-  <link>https://erauchway.github.io/posts/pnavy_emp/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Just for fun, a quick visualization of the number of employees, clerical and mechanical, at the Philadelphia Navy Yard.<span class="citation" data-cites="mccauleyWarHistoryFourth1946"><sup>1</sup></span></p>
-<p><img src="https://erauchway.github.io/posts/pnavy_emp/pnavy_emp.png" class="img-fluid"></p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Data from E.S. McCauley, <em>The War History of the Fourth Naval District from December 7th, 1941</em> (Philadelphia: Fourth Naval District, 1946).↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>US mobilization</category>
-  <category>Philadelphia Navy Yard</category>
-  <guid>https://erauchway.github.io/posts/pnavy_emp/</guid>
-  <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Architecture after a Green New Deal, UCLA</title>
   <link>https://erauchway.github.io/posts/gnd/</link>
   <description><![CDATA[ 
@@ -463,6 +464,32 @@
   <category>Green New Deal</category>
   <category>TVA</category>
   <guid>https://erauchway.github.io/posts/gnd/</guid>
+  <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Mobilization, Philadelphia Navy Yard edition</title>
+  <link>https://erauchway.github.io/posts/pnavy_emp/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Just for fun, a quick visualization of the number of employees, clerical and mechanical, at the Philadelphia Navy Yard.<span class="citation" data-cites="mccauleyWarHistoryFourth1946"><sup>1</sup></span></p>
+<p><img src="https://erauchway.github.io/posts/pnavy_emp/pnavy_emp.png" class="img-fluid"></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Data from E.S. McCauley, <em>The War History of the Fourth Naval District from December 7th, 1941</em> (Philadelphia: Fourth Naval District, 1946).↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>US mobilization</category>
+  <category>Philadelphia Navy Yard</category>
+  <guid>https://erauchway.github.io/posts/pnavy_emp/</guid>
   <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
@@ -852,55 +879,6 @@
   <category>Philippines</category>
   <guid>https://erauchway.github.io/posts/macarthur/</guid>
   <pubDate>Wed, 06 Sep 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Former local man</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/tbt_biz/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>It’s always nice when your hometown paper picks up something you’ve done (in a good way). The headline here isn’t “Onetime Florida Man Debunks Historical Myths,” but <a href="https://www.tampabay.com/opinion/2023/08/26/desantis-america-myths-have-consequences-column/">it could be.</a> The writer is referring to my chapter (and Josh Zeitz’s, too) in Kevin Kruse and Julian Zelizer’s <em>Myth America,</em> which I understand is selling rather nicely. My chapter deals with the myth that the New Deal was bad for the economy. It includes a version of the below chart.</p>
-<div class="cell">
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning: package 'cowplot' was built under R version 4.3.2</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning: package 'showtext' was built under R version 4.3.2</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning: package 'sysfonts' was built under R version 4.3.2</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning: package 'ggplot2' was built under R version 4.3.2</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning: package 'tidyr' was built under R version 4.3.2</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning: package 'grafify' was built under R version 4.3.2</code></pre>
-</div>
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/tbt_biz/index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>The great slump, 1929–1933, stands out for its duration and severity. The recovery during the New Deal, beginning with Roosevelt’s inauguration in March 1933, also stands out for its duration and vigor, albeit interrupted by the 1937–1938 recession. The chart is thus a useful starting-point for conversation about what Americans of that era experienced, and how we think about it now.</p>
-<p>You can see there was an obvious recovery under the New Deal. Americans alive at the time knew about it and, if they did not attribute it to the New Deal, they at least knew the New Deal didn’t prevent it from happening. That’s why Roosevelt was reelected in a record landslide in 1936.</p>
-
-
-
- ]]></description>
-  <category>New Deal</category>
-  <category>Florida man</category>
-  <guid>https://erauchway.github.io/posts/tbt_biz/</guid>
-  <pubDate>Tue, 05 Sep 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

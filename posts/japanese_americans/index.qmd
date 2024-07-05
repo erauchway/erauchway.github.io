@@ -1,0 +1,14 @@
+---
+title: "Japanese Americans, per IPUMS"
+author: "Eric Rauchway"
+date: 2024-07-05
+categories:
+         - Japanese Americans
+         - Internment
+         - IPUMS
+---
+
+IPUMS has now made available a preliminary complete-count sample---that is to say, everyone in the Census is represented in the [sample---for 1950.](https://usa.ipums.org/usa/full_count.shtml) Having both 1940 and 1950 makes it possible to look at the before-and-after for Japanese American imprisonment without trial. Here's a preliminary look.
+
+![Three panel chart showing location by county of Japanese American population in 1930, 1940, and 1950; the increase of people in cities and East of the Rockies is pronounced between 1940 and 1950.](ja_locs.png)
+
