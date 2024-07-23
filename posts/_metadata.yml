@@ -6,3 +6,8 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+# add comments per https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html#interact-with-your-audience
+comments:
+  utterances:
+    repo: erauchway/blogComments

@@ -19,8 +19,8 @@ $navbar-bg: $primary;
 $body-bg: #213A1B !default;
 $body-color: #FAEBD7 !default;
 
-$headings-font-family: Lydian !default;
-$font-family-base: ETBembo !default;
+$headings-font-family: Lydian, sans !important;
+$font-family-base: ETBembo !important;
 
 /*-- scss:rules --*/
 div.quarto-post .listing-categories .listing-category {
