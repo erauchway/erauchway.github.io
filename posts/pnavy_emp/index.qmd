@@ -5,6 +5,6 @@ categories:
     - US mobilization
     - Philadelphia Navy Yard
 ---
-Just for fun, a quick visualization of the number of employees, clerical and mechanical, at the Philadelphia Navy Yard.[Data from @mccauleyWarHistoryFourth1946]
+Just for fun, a quick visualization of the number of employees, clerical and mechanical, at the Philadelphia Navy Yard.[Data from @mccauleyWarHistoryFourth1946a]
 
 ![](pnavy_emp.png)
