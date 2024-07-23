@@ -10,7 +10,7 @@ website:
     right:
       - about.qmd
       - icon: cloud-sun
-        href: https://psky.app/profile/rauchway.bsky.social
+        href: https://bsky.app/profile/rauchway.bsky.social
       - icon: rss
         href: index.xml
       - text: "My c.v."
