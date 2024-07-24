@@ -1,5 +1,5 @@
 ---
-title: "Somewhere east of Suwannee"
+title: "Somewhere East of Suwannee"
 author: "Eric Rauchway"
 date: 2024-07-24
 categories:
