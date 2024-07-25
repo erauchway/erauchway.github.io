@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+$primary: #FAEBD7 !default;
+
+$navbar-bg: $primary;
+
+$body-bg: #213A1B !default;
+$body-color: #FAEBD7 !default;
+
+$headings-font-family: Lydian, sans !important;
+$font-family-base: ETBembo !important;
+
+/*-- scss:rules --*/
+div.quarto-post .listing-categories .listing-category {
+  color:#68838b !important;
+  border:solid 1px #68838b;
+  border-radius:.25rem;
+  text-transform:uppercase;
+  font-size:.65em;
+  padding-left:.5em;
+  padding-right:.5em;
+  padding-top:.15em;
+  padding-bottom:.15em;
+  cursor:pointer;
+  margin-right:4px;
+  margin-bottom:4px
+}
+
+div.quarto-category {
+  color:#c56c39;
+}
