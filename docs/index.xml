@@ -10,7 +10,33 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.5.55</generator>
-<lastBuildDate>Wed, 24 Jul 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jul 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Thirty glorious years</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/biewen/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/biewen/thirty.png" class="img-fluid figure-img"></p>
+<figcaption>The Scene on Radio illustration of Franklin D. Roosevelt for “Thirty Glorious Years.”</figcaption>
+</figure>
+</div>
+<p>A while back I spoke to the folks at Scene on Radio for <a href="https://sceneonradio.org/s4-e6-a-new-deal/">their New Deal episode</a> in their season on thwarted American potential, “The Land that Never Has Been Yet,” and now you can hear me talk to John Biewen again on the brief period of humane capitalism, “if you think prosperity being broadly shared is a good thing.” The episode is on the <a href="https://sceneonradio.org/s7-e6-thirty-glorious-years/">“Thirty Glorious Years,”</a> as the French say (only they say it in French, of course.)</p>
+
+
+
+ ]]></description>
+  <category>New Deal</category>
+  <category>Media</category>
+  <guid>https://erauchway.github.io/posts/biewen/</guid>
+  <pubDate>Thu, 25 Jul 2024 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Somewhere East of Suwannee</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -858,46 +884,6 @@
   <category>Public opinion</category>
   <guid>https://erauchway.github.io/posts/po_32/</guid>
   <pubDate>Fri, 22 Sep 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The Bluesky “What’s History” Feed</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/bsky/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Awhile ago I set up a feed called <a href="https://bsky.app/profile/did:plc:6brknehpd7ecbvd56ko6mhlm/feed/aaaby3zazwhrq">“What’s History”</a> on Bluesky, the as-yet invite-only microblogging social media service that is a bit livelier than some and freer of unpleasantly trollish features than others.</p>
-<p>Feeds are a Bluesky feature; essentially they allow you to curate your own algorithm. This one is simple: if you’re on a set list of approved posters, and you post using the card file box emoji 🗃, that post will show up in the feed. If you go to the feed at the link above, and “like” it, it will appear among your feeds; if you pin it, you can set it so it appears on your Bluesky homepage, like this. <strong>UPDATED TO ADD</strong> that I’ve amended the feed to include any post that uses the word “skystorians” to accommodate people who don’t care for emoji. So you can use either the card file box or skystorians to send a skeet to the feed.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/bsky/bsky_home.png" class="img-fluid figure-img"></p>
-<figcaption>Bluesky homepage, with “What’s History” next to Following and Mutuals feeds.</figcaption>
-</figure>
-</div>
-<p>As you can see there, a user on the approved list can quote-skeet something that did not have the card file box emoji with the emoji, and have it stuck in the feed.</p>
-<p>FAQ</p>
-<ol type="1">
-<li><em>Why “What’s History?”</em> The original Bluesky feed was called “What’s Hot,” and any post with a given number of likes (I think it was twelve?) would appear on the feed. Soon after, someone set up “What’s Science,” with an approved poster list and an emoji, so I followed suit with “What’s History.”</li>
-<li><em>Why an emoji instead of a hashtag?</em> One character toward your total, instead of several.</li>
-<li><em>Why <strong>that</strong> emoji?</em> I wanted something that looked like something relating to historical practice that wasn’t field specific and which people were very unlikely to post incidentally. The card file box, familiar to historians of more advanced ages (like me) as a place to store your notes and bibliography, seemed to fit the bill.</li>
-<li><em>Why is the list of approved posters a “mute list”?</em> That list, <a href="https://bsky.app/profile/did:plc:6brknehpd7ecbvd56ko6mhlm/lists/3jzmymatqtf2u">here,</a> is as it says not for muting but to provide the basis for the feed. At the time of creating the list, a mute list was the only kind of list Bluesky recognized.</li>
-<li><em>How can I set up my own feed?</em> Paul Musgrave has a good guide <a href="https://www.paulmusgrave.info/the-moderately-skilled-persons-guide-to-making-a-bluesky-feed/">here.</a></li>
-<li><em>How can I get on the list?</em> Just @ me on Bluesky.</li>
-<li><em>How can I get on Bluesky?</em> Someone on Bluesky can invite you.</li>
-<li><em>Do I want to be on Bluesky?</em> Man, I don’t know, but I think a lot of historians missed the community provided by certain other sites, and an increasing number have shown up on Bluesky. There are a few journalists who are worth your time. Maybe someday soon there will be a substantial number of editors and publishers, too, and then it will begin to be a more useful professional network. More seem to be appearing all the time.</li>
-<li><strong>ADDED: WHY DIDN’T IT WORK?</strong> Every now and then I get this one, and, well, ¯\_ (ツ)_/¯. If you’re on the list (again, <a href="https://bsky.app/profile/did:plc:6brknehpd7ecbvd56ko6mhlm/lists/3jzmymatqtf2u">here</a>) and you used the emoji, it should work! All I can plead is that it’s a beta site, I guess; sorry. I have noticed it does take a little time, sometime, especially on busy days. It is <strong>possible</strong> that it’s something to do with spacing around the emoji, i.e., that you need to have a space before and/or after, but I’m not sure.</li>
-</ol>
-
-
-
- ]]></description>
-  <category>Methods</category>
-  <category>Madness</category>
-  <guid>https://erauchway.github.io/posts/bsky/</guid>
-  <pubDate>Tue, 19 Sep 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
