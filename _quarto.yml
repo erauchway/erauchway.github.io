@@ -14,8 +14,7 @@ website:
       - icon: rss
         href: index.xml
       - text: "My c.v."
-        href: http://htmlpreview.github.io/?https://github.com/erauchway/cv_pub/blob/main/rauchway_cv.html
-  
+        href: http://htmlpreview.github.io/?https://github.com/erauchway/cv_pub/blob/main/rauchway_cv.html  
 format:
   html:
     theme: theme.scss
