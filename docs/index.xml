@@ -6,15 +6,44 @@
       version="2.0">
 <channel>
 <title>a necessitous blog</title>
-<link>https://erauchway.github.io/index.html</link>
+<link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.3.353</generator>
-<lastBuildDate>Fri, 09 Aug 2024 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Wed, 04 Sep 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>An unnamed government agency, you say</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/archives1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We had the good fortune to make several research trips this summer, including one to the National Archives at College Park (the big one). We’ve learned the pleasantest way to do it is to stay in College Park, rather than in Washington; much easier to get to and from, and perfectly lovely environment. And we found great material.</p>
+<p>But it wouldn’t be an archival trip without a dry hole or two. There was an actually empty box (“that does happen,” the archivist says); a folder whose contents were temporarily removed for review, the slip says, on 6/8/71; and the one below.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/archives1/IMG_3890.png" class="img-fluid figure-img"></p>
+<figcaption>The records are charged out to a government agency.</figcaption>
+</figure>
+</div>
+<p>So: Which government agency is studying the nitty-gritty work of the Works Progress Administration, the Reconstruction Finance Corporation, and other New Deal agencies in Puerto Rico?</p>
+
+
+
+ ]]></description>
+  <category>New Deal</category>
+  <category>Primary sources</category>
+  <category>Mysteries</category>
+  <guid>https://erauchway.github.io/posts/archives1/</guid>
+  <pubDate>Wed, 04 Sep 2024 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Remember the women</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/women/index.html</link>
+  <link>https://erauchway.github.io/posts/women/</link>
   <description><![CDATA[ 
 
 
@@ -46,13 +75,13 @@
 </section></div> ]]></description>
   <category>New Deal</category>
   <category>Women voters</category>
-  <guid>https://erauchway.github.io/posts/women/index.html</guid>
+  <guid>https://erauchway.github.io/posts/women/</guid>
   <pubDate>Fri, 09 Aug 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Thirty glorious years</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/biewen/index.html</link>
+  <link>https://erauchway.github.io/posts/biewen/</link>
   <description><![CDATA[ 
 
 
@@ -72,13 +101,13 @@
  ]]></description>
   <category>New Deal</category>
   <category>Media</category>
-  <guid>https://erauchway.github.io/posts/biewen/index.html</guid>
+  <guid>https://erauchway.github.io/posts/biewen/</guid>
   <pubDate>Thu, 25 Jul 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Somewhere East of Suwannee</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/out_east/index.html</link>
+  <link>https://erauchway.github.io/posts/out_east/</link>
   <description><![CDATA[ 
 
 
@@ -126,13 +155,13 @@
   <category>USVI</category>
   <category>New Deal</category>
   <category>Territories</category>
-  <guid>https://erauchway.github.io/posts/out_east/index.html</guid>
+  <guid>https://erauchway.github.io/posts/out_east/</guid>
   <pubDate>Wed, 24 Jul 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Japanese Americans, per IPUMS</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/japanese_americans/index.html</link>
+  <link>https://erauchway.github.io/posts/japanese_americans/</link>
   <description><![CDATA[ 
 
 
@@ -153,13 +182,13 @@
   <category>Japanese Americans</category>
   <category>Internment</category>
   <category>IPUMS</category>
-  <guid>https://erauchway.github.io/posts/japanese_americans/index.html</guid>
+  <guid>https://erauchway.github.io/posts/japanese_americans/</guid>
   <pubDate>Fri, 05 Jul 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Compelled to look beyond</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/gold/index.html</link>
+  <link>https://erauchway.github.io/posts/gold/</link>
   <description><![CDATA[ 
 
 
@@ -189,13 +218,13 @@
   <category>New Deal</category>
   <category>Gold</category>
   <category>SCOTUS</category>
-  <guid>https://erauchway.github.io/posts/gold/index.html</guid>
+  <guid>https://erauchway.github.io/posts/gold/</guid>
   <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>He reads to us from something called ‘Ulysses’</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/comstockery/index.html</link>
+  <link>https://erauchway.github.io/posts/comstockery/</link>
   <description><![CDATA[ 
 
 
@@ -258,13 +287,13 @@
   <category>SCOTUS</category>
   <category>Comstock</category>
   <category>Ulysses</category>
-  <guid>https://erauchway.github.io/posts/comstockery/index.html</guid>
+  <guid>https://erauchway.github.io/posts/comstockery/</guid>
   <pubDate>Tue, 26 Mar 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Not a review of Masters of the Air</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/air/index.html</link>
+  <link>https://erauchway.github.io/posts/air/</link>
   <description><![CDATA[ 
 
 
@@ -304,13 +333,13 @@
   <category>B-24</category>
   <category>airpower</category>
   <category>US strategy</category>
-  <guid>https://erauchway.github.io/posts/air/index.html</guid>
+  <guid>https://erauchway.github.io/posts/air/</guid>
   <pubDate>Fri, 15 Mar 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Betty expects</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/flags/index.html</link>
+  <link>https://erauchway.github.io/posts/flags/</link>
   <description><![CDATA[ 
 
 
@@ -361,13 +390,13 @@
   <category>UK strategy</category>
   <category>Neutrality</category>
   <category>Greer</category>
-  <guid>https://erauchway.github.io/posts/flags/index.html</guid>
+  <guid>https://erauchway.github.io/posts/flags/</guid>
   <pubDate>Mon, 12 Feb 2024 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Panic and confidence</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/wigmore/index.html</link>
+  <link>https://erauchway.github.io/posts/wigmore/</link>
   <description><![CDATA[ 
 
 
@@ -419,13 +448,13 @@
   <category>Gold</category>
   <category>Monetary policy</category>
   <category>New Deal recovery</category>
-  <guid>https://erauchway.github.io/posts/wigmore/index.html</guid>
+  <guid>https://erauchway.github.io/posts/wigmore/</guid>
   <pubDate>Thu, 25 Jan 2024 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Book tripleversary</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/tripleversary/index.html</link>
+  <link>https://erauchway.github.io/posts/tripleversary/</link>
   <description><![CDATA[ 
 
 
@@ -471,12 +500,12 @@
   <category>New Deal</category>
   <category>Methods</category>
   <category>Historiography</category>
-  <guid>https://erauchway.github.io/posts/tripleversary/index.html</guid>
+  <guid>https://erauchway.github.io/posts/tripleversary/</guid>
   <pubDate>Mon, 18 Dec 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Istrian annexationists</title>
-  <link>https://erauchway.github.io/posts/europes2/index.html</link>
+  <link>https://erauchway.github.io/posts/europes2/</link>
   <description><![CDATA[ 
 
 
@@ -499,13 +528,13 @@
   <category>Corrections</category>
   <category>Great War</category>
   <category>Geography</category>
-  <guid>https://erauchway.github.io/posts/europes2/index.html</guid>
+  <guid>https://erauchway.github.io/posts/europes2/</guid>
   <pubDate>Fri, 01 Dec 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Declaration of Panama</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/panama/index.html</link>
+  <link>https://erauchway.github.io/posts/panama/</link>
   <description><![CDATA[ 
 
 
@@ -542,12 +571,12 @@
   <category>Nazis</category>
   <category>Geography</category>
   <category>Neutrality</category>
-  <guid>https://erauchway.github.io/posts/panama/index.html</guid>
+  <guid>https://erauchway.github.io/posts/panama/</guid>
   <pubDate>Sun, 19 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Architecture after a Green New Deal, UCLA</title>
-  <link>https://erauchway.github.io/posts/gnd/index.html</link>
+  <link>https://erauchway.github.io/posts/gnd/</link>
   <description><![CDATA[ 
 
 
@@ -581,12 +610,12 @@
   <category>Public works</category>
   <category>Green New Deal</category>
   <category>TVA</category>
-  <guid>https://erauchway.github.io/posts/gnd/index.html</guid>
+  <guid>https://erauchway.github.io/posts/gnd/</guid>
   <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Mobilization, Philadelphia Navy Yard edition</title>
-  <link>https://erauchway.github.io/posts/pnavy_emp/index.html</link>
+  <link>https://erauchway.github.io/posts/pnavy_emp/</link>
   <description><![CDATA[ 
 
 
@@ -607,13 +636,13 @@
 </section></div> ]]></description>
   <category>US mobilization</category>
   <category>Philadelphia Navy Yard</category>
-  <guid>https://erauchway.github.io/posts/pnavy_emp/index.html</guid>
+  <guid>https://erauchway.github.io/posts/pnavy_emp/</guid>
   <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Americans in a World at War, Washington History Seminar</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/blower/index.html</link>
+  <link>https://erauchway.github.io/posts/blower/</link>
   <description><![CDATA[ 
 
 
@@ -652,13 +681,13 @@
 <li id="fn3"><p>Max Hastings, <em>Inferno: The World at War, 1939–1945</em> (New York: Alfred A. Knopf, 2011), xix.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
-  <guid>https://erauchway.github.io/posts/blower/index.html</guid>
+  <guid>https://erauchway.github.io/posts/blower/</guid>
   <pubDate>Sat, 28 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>You didn’t build that</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/willow/index.html</link>
+  <link>https://erauchway.github.io/posts/willow/</link>
   <description><![CDATA[ 
 
 
@@ -716,13 +745,13 @@
   <category>US mobilization</category>
   <category>B-24</category>
   <category>Movies</category>
-  <guid>https://erauchway.github.io/posts/willow/index.html</guid>
+  <guid>https://erauchway.github.io/posts/willow/</guid>
   <pubDate>Mon, 23 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Wine grape varieties in California</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/wine_var/index.html</link>
+  <link>https://erauchway.github.io/posts/wine_var/</link>
   <description><![CDATA[ 
 
 
@@ -753,13 +782,13 @@
   <category>Repeal</category>
   <category>New Deal</category>
   <category>UC Davis</category>
-  <guid>https://erauchway.github.io/posts/wine_var/index.html</guid>
+  <guid>https://erauchway.github.io/posts/wine_var/</guid>
   <pubDate>Sun, 15 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Field on the New Deal recovery</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/field_nd/index.html</link>
+  <link>https://erauchway.github.io/posts/field_nd/</link>
   <description><![CDATA[ 
 
 
@@ -800,13 +829,13 @@
   <category>New Deal denialism</category>
   <category>Economists</category>
   <category>New Deal recovery</category>
-  <guid>https://erauchway.github.io/posts/field_nd/index.html</guid>
+  <guid>https://erauchway.github.io/posts/field_nd/</guid>
   <pubDate>Sun, 08 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Price levels and the Nazi vote</title>
   <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/nsdap/index.html</link>
+  <link>https://erauchway.github.io/posts/nsdap/</link>
   <description><![CDATA[ 
 
 
@@ -841,36 +870,8 @@
   <category>Nazis</category>
   <category>Inflation</category>
   <category>Deflation</category>
-  <guid>https://erauchway.github.io/posts/nsdap/index.html</guid>
+  <guid>https://erauchway.github.io/posts/nsdap/</guid>
   <pubDate>Mon, 02 Oct 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The only thing worse than being assimilated to the Borg</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/borg/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The <em>Atlantic</em> ran <a href="https://www-stage.theatlantic.com/technology/archive/2023/09/books3-database-generative-ai-training-copyright-infringement/675363/">an article</a> or <a href="https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/">two</a> about the Books3 database, into which some 180,000 books were fed to form a corpus for Meta’s large language model LLaMa, among other purposes. There’s <a href="https://full-stack-search-prod.vercel.app">an app</a> that lets you search for an author’s name to see if it’s in there. And, well:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/borg/borg.png" class="img-fluid figure-img"></p>
-<figcaption>A screenshot demonstrating the presence of my first three New Deal books in Books3.</figcaption>
-</figure>
-</div>
-<p>I haven’t fully thought through (nor, I am heartened to see, have legal scholars) the implications of one’s books being thus used. But I was not best pleased that Meta had apparently acquired the text of my books from a site containing pirated material. After all, surely Mark Zuckerberg can afford the possibly dozens of dollars it would cost to acquire these three texts. Why must the heralds of the future be simultaneously grandiose and ungenerous?</p>
-
-
-
- ]]></description>
-  <category>New Deal</category>
-  <category>Methods</category>
-  <category>Madness</category>
-  <guid>https://erauchway.github.io/posts/borg/index.html</guid>
-  <pubDate>Wed, 27 Sep 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
