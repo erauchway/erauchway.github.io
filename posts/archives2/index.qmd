@@ -1,0 +1,25 @@
+---
+title: Archives come in all shapes and sizes and places
+author: Eric Rauchway
+date: 2024-09-05
+categories:
+  - New Deal
+  - Primary sources
+  - Territories
+  - USVI
+---
+
+As I [mentioned,](https://erauchway.github.io/posts/archives1/) we had some good research trips this summer, including one notably productive one to the National Archives, but we got great material at some less-obvious places too---like this one.
+
+![The St. Croix Landmarks Society Archives on Estate Whim near Frederiksted.](IMG_3226.png)
+
+The St. Croix Landmarks Society is a (rather wonderfully) volunteer-staffed operation in the pictured building, holding some intriguing collections on the history of the island and the US Virgin Islands generally.
+
+Estate Whim itself is an old sugar plantation (some of which has been restored and made a museum of enslavement in St. Croix) which the US government bought in the waning days of the Hoover administration and parceled out and plowed for homesteads. As with many other Depression-fighting ideas floated in the Hoover administration, the homestead program was a moderately good one, came from people well down in the bureaucracy, was underfunded, and proceeded without haste despite urgent need owing to disinterest at the level of the cabinet and the White House. It took two years after Congress appropriated the money even to begin operations. The New Deal got it going in earnest, though.
+
+It was also, on its own, going to be inadequate; Crucian farmers wouldn't get very far growing sugar without a local market for their product,[^2] and for that, they needed the Virgin Islands Company. An agency of the New Deal, the Virgin Islands Company provided a guaranteed purchaser for sugar grown on St. Croix (and made a bunch of it into rum, though that's another story).
+
+Anyway: the homestead program and the Virgin Islands Company were, as one administrator's memo we found in the St. Croix Landmarks Society archives explained, "complementary" operations. By itself, the homestead program wasn't going to get very far: with the guaranteed government purchaser, it provided substantial primary or supplementary income to small-scale farmers. Documents in the National Archives give good examples of the more than four hundred homesteaders---ninety percent of whom were Black Crucians; the rest were Puerto Ricans who had come to St. Croix at least two years before---who did well out of the program.[^1]
+
+[^1]: In another archive we visited, we found someone claiming he was the only white person to secure a homestead, which may be true, though the general overviews don't mention him.
+[^2]: Crucian sugar-growers labored under tax and practical disadvantages in selling their product off-island.
