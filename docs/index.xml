@@ -9,7 +9,7 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.5.56</generator>
+<generator>quarto-1.5.57</generator>
 <lastBuildDate>Thu, 05 Sep 2024 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Archives come in all shapes and sizes and places</title>
@@ -259,6 +259,17 @@
   <category>SCOTUS</category>
   <guid>https://erauchway.github.io/posts/gold/</guid>
   <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/gunther/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>New Deal</category>
+  <category>Nazis</category>
+  <category>Historiography</category>
+  <guid>https://erauchway.github.io/posts/gunther/</guid>
+  <pubDate>Wed, 08 May 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>He reads to us from something called ‘Ulysses’</title>
@@ -823,53 +834,6 @@
   <category>UC Davis</category>
   <guid>https://erauchway.github.io/posts/wine_var/</guid>
   <pubDate>Sun, 15 Oct 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Field on the New Deal recovery</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/field_nd/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>In addressing various arguments against the New Deal, I’ve generally cited Alexander Field’s fine (and wonderfully titled) <em>A Great Leap Forward.</em><span class="citation" data-cites="fieldGreatLeapForward2011a"><sup>1</sup></span> I’ve never cited his franker argument from <em>Challenge,</em> which somehow seems relevant today:</p>
-<blockquote class="blockquote">
-<p>The consequences of putting a political party that frequently disparaged government in charge of providing essential government services became clear, however, in the federal government’s response to Hurricane Katrina. While the micropolitics may have seemed like a win for ideologically driven Republicans—provision of shoddy government services could reinforce the claim that only the private sector is able to provide decent services—the philosophy eventually turned a cropper at the polls and has been decisively rejected. It is clear that the American public wants well-thought-out government programs and policies, competently executed.<span class="citation" data-cites="fieldGreatDepressionNew2009a"><sup>2</sup></span></p>
-</blockquote>
-<p>So far as the argument about the New Deal goes, Field addresses the “misconceptions and frankly silly claims” he’s seen made “by both economists and non-economists.” Did the New Deal see off the Great Depression altogether? No, but</p>
-<blockquote class="blockquote">
-<p>Although they did not restore us to full employment until the war, New Deal fiscal policies nevertheless operated in the right direction through Roosevelt’s first term.<span class="citation" data-cites="fieldGreatDepressionNew2009a"><sup>3</sup></span></p>
-</blockquote>
-<p>He goes on to note that the often cited argument by Ohanian is “unpersuasive,” inasmuch as—for all its shortcomings—the NRA did do its part in “arresting deflation” and anyway in no way constitutes the whole of the New Deal.<span class="citation" data-cites="fieldGreatDepressionNew2009a"><sup>4</sup></span></p>
-<p>Field concludes—this is 2009—that Barack Obama’s key advisors, notably Lawrence Summers and Tim Geithner, “have been too deferential toward Wall Street.” And he likens “New Deal denialism, as some have called it,” to creationism; that is, that it has no more proper relation to economics as a science than creationism does to biology.<span class="citation" data-cites="fieldGreatDepressionNew2009a"><sup>5</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/field_nd/bizcycles_redone.png" class="img-fluid figure-img"></p>
-<figcaption>Index of industrial production 1919–1940, with shaded areas showing recessions.</figcaption>
-</figure>
-</div>
-<p>Anyway, it seems like a good enough reason to put up the latest version of a graph I commonly use, depicting U.S. business cycles over the course of the interwar period, using the monthly series of the index of industrial production. The collapse of 1929–1933 is obvious, as is the sharp turn-around in March 1933, and the improvement over the course of the New Deal, with the exception of the 1937–1938 recession.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Alexander Field, <em>A Great Leap Forward: 1930s Depression and U.S. Economic Growth</em> (New Haven: Yale University Press, 2011).↩︎</p></li>
-<li id="fn2"><p>Alexander Field, <span>“The Great Depression, the New Deal, and the Current Crisis,”</span> <em>Challenge</em> 52, no. 4 (July 2009): 95.↩︎</p></li>
-<li id="fn3"><p>Field, <span>“Great Depression,”</span> 99.↩︎</p></li>
-<li id="fn4"><p>Field, <span>“Great Depression,”</span> 99.↩︎</p></li>
-<li id="fn5"><p>Field, <span>“Great Depression,”</span> 104.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>New Deal denialism</category>
-  <category>Economists</category>
-  <category>New Deal recovery</category>
-  <guid>https://erauchway.github.io/posts/field_nd/</guid>
-  <pubDate>Sun, 08 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
