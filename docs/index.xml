@@ -10,7 +10,41 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Thu, 05 Sep 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Sep 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Some updates</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/cv_updates/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Kathy and I had a new article come out, “A New Deal for Wine,” in the <em>Journal of Policy History.</em><span class="citation" data-cites="olmstedNewDealWine2024"><sup>1</sup></span> Which provided the occasion for me to update my c.v.—it’s been linked in the top bar to this blog since I started it, but now it’s up to date and (I hope) free of errors. Isn’t housekeeping fun?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/cv_updates/cv.png" class="img-fluid figure-img"></p>
+<figcaption>The top bit of my c.v.</figcaption>
+</figure>
+</div>
+<p>Anyway, all of the publications and activities should look proper now. And if you want to go directly to “A New Deal for Wine,” well, thanks to the UC, it’s Open Access, and you can find it <a href="https://www.cambridge.org/core/journals/journal-of-policy-history/article/new-deal-for-wine/32DF1F0C06DD712EF61C0CFC793B3131">here.</a></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Kathryn S. Olmsted and Eric Rauchway, <span>“A New Deal for Wine,”</span> <em>Journal of Policy History</em> 36, no. 3 (July 2024): 260–80.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Curriculum vitae</category>
+  <category>Wine</category>
+  <category>New Deal</category>
+  <guid>https://erauchway.github.io/posts/cv_updates/</guid>
+  <pubDate>Sat, 07 Sep 2024 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Archives come in all shapes and sizes and places</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -259,17 +293,6 @@
   <category>SCOTUS</category>
   <guid>https://erauchway.github.io/posts/gold/</guid>
   <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/gunther/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>New Deal</category>
-  <category>Nazis</category>
-  <category>Historiography</category>
-  <guid>https://erauchway.github.io/posts/gunther/</guid>
-  <pubDate>Wed, 08 May 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>He reads to us from something called ‘Ulysses’</title>

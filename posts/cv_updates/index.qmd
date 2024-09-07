@@ -1,0 +1,15 @@
+---
+title: Some updates
+author: Eric Rauchway
+date: 2024-09-07
+categories:
+  - Curriculum vitae
+  - Wine
+  - New Deal
+---
+
+Kathy and I had a new article come out, "A New Deal for Wine," in the *Journal of Policy History.*[@olmstedNewDealWine2024] Which provided the occasion for me to update my c.v.---it's been linked in the top bar to this blog since I started it, but now it's up to date and (I hope) free of errors. Isn't housekeeping fun?
+
+![The top bit of my c.v.](cv.png)
+
+Anyway, all of the publications and activities should look proper now. And if you want to go directly to "A New Deal for Wine," well, thanks to the UC, it's Open Access, and you can find it [here.](https://www.cambridge.org/core/journals/journal-of-policy-history/article/new-deal-for-wine/32DF1F0C06DD712EF61C0CFC793B3131)
