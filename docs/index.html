@@ -78,10 +78,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 25,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -196,7 +196,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(54)</span></div><div class="category" data-category="Airpower">Airpower <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Atomic bombs">Atomic bombs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="B-24">B-24 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Balanced budget">Balanced budget <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Civilian Defense">Civilian Defense <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Comstock">Comstock <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Corrections">Corrections <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Curriculum vitae">Curriculum vitae <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Deflation">Deflation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Destroyers-for-bases">Destroyers-for-bases <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Economists">Economists <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Election of 1932">Election of 1932 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Florida man">Florida man <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Geography">Geography <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Gold">Gold <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Great War">Great War <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Green New Deal">Green New Deal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Greer">Greer <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Historiography">Historiography <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Holocaust">Holocaust <span class="quarto-category-count">(4)</span></div><div class="category" data-category="IPUMS">IPUMS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Inflation">Inflation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Internment">Internment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Japanese Americans">Japanese Americans <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Judicial reform">Judicial reform <span class="quarto-category-count">(1)</span></div><div class="category" data-category="La Guardia">La Guardia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MacArthur">MacArthur <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Madness">Madness <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Maps">Maps <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Media">Media <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Methods">Methods <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Monetary policy">Monetary policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Movies">Movies <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Muppets">Muppets <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mysteries">Mysteries <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Navy">Navy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Nazi strategy">Nazi strategy <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Nazis">Nazis <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Neutrality">Neutrality <span class="quarto-category-count">(5)</span></div><div class="category" data-category="New Deal">New Deal <span class="quarto-category-count">(18)</span></div><div class="category" data-category="New Deal denialism">New Deal denialism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="New Deal recovery">New Deal recovery <span class="quarto-category-count">(2)</span></div><div class="category" data-category="North Africa">North Africa <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Oppenheimer">Oppenheimer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pacific">Pacific <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pacific strategy">Pacific strategy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pan Am">Pan Am <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Philadelphia Navy Yard">Philadelphia Navy Yard <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Philippines">Philippines <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Primary sources">Primary sources <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Prohibition">Prohibition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Public opinion">Public opinion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Public works">Public works <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Raymond Moley">Raymond Moley <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Repeal">Repeal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SCOTUS">SCOTUS <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TVA">TVA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Teaching">Teaching <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Territories">Territories <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UC Davis">UC Davis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UK strategy">UK strategy <span class="quarto-category-count">(2)</span></div><div class="category" data-category="US mobilization">US mobilization <span class="quarto-category-count">(2)</span></div><div class="category" data-category="US politics">US politics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="US strategy">US strategy <span class="quarto-category-count">(13)</span></div><div class="category" data-category="USVI">USVI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ulysses">Ulysses <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Unconditional surrender">Unconditional surrender <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Wine">Wine <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Women voters">Women voters <span class="quarto-category-count">(1)</span></div><div class="category" data-category="airpower">airpower <span class="quarto-category-count">(1)</span></div><div class="category" data-category="convoys">convoys <span class="quarto-category-count">(4)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(55)</span></div><div class="category" data-category="Airpower">Airpower <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Atomic bombs">Atomic bombs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="B-24">B-24 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Balanced budget">Balanced budget <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Civilian Defense">Civilian Defense <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Comstock">Comstock <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Corrections">Corrections <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Curriculum vitae">Curriculum vitae <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Deflation">Deflation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Destroyers-for-bases">Destroyers-for-bases <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Economists">Economists <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Election of 1932">Election of 1932 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Florida man">Florida man <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Geography">Geography <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Gold">Gold <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Great War">Great War <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Green New Deal">Green New Deal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Greer">Greer <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Historiography">Historiography <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Holocaust">Holocaust <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Hoover">Hoover <span class="quarto-category-count">(1)</span></div><div class="category" data-category="IPUMS">IPUMS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Inflation">Inflation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Internment">Internment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Japanese Americans">Japanese Americans <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Judicial reform">Judicial reform <span class="quarto-category-count">(1)</span></div><div class="category" data-category="La Guardia">La Guardia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MacArthur">MacArthur <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Madness">Madness <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Maps">Maps <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Media">Media <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Methods">Methods <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Monetary policy">Monetary policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Movies">Movies <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Muppets">Muppets <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mysteries">Mysteries <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Navy">Navy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Nazi strategy">Nazi strategy <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Nazis">Nazis <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Neutrality">Neutrality <span class="quarto-category-count">(5)</span></div><div class="category" data-category="New Deal">New Deal <span class="quarto-category-count">(19)</span></div><div class="category" data-category="New Deal denialism">New Deal denialism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="New Deal recovery">New Deal recovery <span class="quarto-category-count">(2)</span></div><div class="category" data-category="North Africa">North Africa <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Oppenheimer">Oppenheimer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pacific">Pacific <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pacific strategy">Pacific strategy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pan Am">Pan Am <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Philadelphia Navy Yard">Philadelphia Navy Yard <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Philippines">Philippines <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Primary sources">Primary sources <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Prohibition">Prohibition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Public opinion">Public opinion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Public works">Public works <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Raymond Moley">Raymond Moley <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Repeal">Repeal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SCOTUS">SCOTUS <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TVA">TVA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Teaching">Teaching <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Territories">Territories <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UC Davis">UC Davis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UK strategy">UK strategy <span class="quarto-category-count">(2)</span></div><div class="category" data-category="US mobilization">US mobilization <span class="quarto-category-count">(2)</span></div><div class="category" data-category="US politics">US politics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="US strategy">US strategy <span class="quarto-category-count">(13)</span></div><div class="category" data-category="USVI">USVI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ulysses">Ulysses <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Unconditional surrender">Unconditional surrender <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Wine">Wine <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Women voters">Women voters <span class="quarto-category-count">(1)</span></div><div class="category" data-category="airpower">airpower <span class="quarto-category-count">(1)</span></div><div class="category" data-category="convoys">convoys <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -210,7 +210,46 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Curriculum vitae,Wine,New Deal" data-listing-date-sort="1725692400000" data-listing-file-modified-sort="1725748865031" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<div class="quarto-post image-right" data-index="0" data-categories="Hoover,New Deal,Historiography" data-listing-date-sort="1726556400000" data-listing-file-modified-sort="1726591105910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="893">
+<div class="thumbnail">
+<p><a href="./posts/hoover/index.html" class="no-external"></a></p><a href="./posts/hoover/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/hoover/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/hoover/index.html" class="no-external">President Hoover was not a progressive</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/hoover/index.html" class="no-external">nor did the New Deal begin under his administration</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Hoover'); return false;">
+Hoover
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('New Deal'); return false;">
+New Deal
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Historiography'); return false;">
+Historiography
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/hoover/index.html" class="no-external">President Hebert Hoover was no progressive; the New Deal did not begin under his administration nor in a fantasy alternate history where he won reelection would he have…<span class="citation" data-cites="rauchwayNewDealWas2019"><sup></sup></span></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/hoover/index.html" class="no-external">
+<div class="listing-date">
+Sep 17, 2024
+</div>
+<div class="listing-author">
+Eric Rauchway
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Curriculum vitae,Wine,New Deal" data-listing-date-sort="1725692400000" data-listing-file-modified-sort="1725748865031" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
 <div class="thumbnail">
 <p><a href="./posts/cv_updates/index.html" class="no-external"></a></p><a href="./posts/cv_updates/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/cv_updates/cv.png"  class="thumbnail-image card-img"/></p>
@@ -249,7 +288,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="New Deal,Primary sources,Territories,USVI" data-listing-date-sort="1725519600000" data-listing-file-modified-sort="1725550764331" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="387">
+<div class="quarto-post image-right" data-index="2" data-categories="New Deal,Primary sources,Territories,USVI" data-listing-date-sort="1725519600000" data-listing-file-modified-sort="1725550764331" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="387">
 <div class="thumbnail">
 <p><a href="./posts/archives2/index.html" class="no-external"></a></p><a href="./posts/archives2/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/archives2/IMG_3226.png"  class="thumbnail-image card-img"/></p>
@@ -291,7 +330,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="New Deal,Primary sources,Mysteries" data-listing-date-sort="1725433200000" data-listing-file-modified-sort="1725461871461" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
+<div class="quarto-post image-right" data-index="3" data-categories="New Deal,Primary sources,Mysteries" data-listing-date-sort="1725433200000" data-listing-file-modified-sort="1725461871461" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
 <div class="thumbnail">
 <p><a href="./posts/archives1/index.html" class="no-external"></a></p><a href="./posts/archives1/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/archives1/IMG_3890.png"  class="thumbnail-image card-img"/></p>
@@ -330,7 +369,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="New Deal,Women voters" data-listing-date-sort="1723186800000" data-listing-file-modified-sort="1723243196000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
+<div class="quarto-post image-right" data-index="4" data-categories="New Deal,Women voters" data-listing-date-sort="1723186800000" data-listing-file-modified-sort="1723243196000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
 <div class="thumbnail">
 <p><a href="./posts/women/index.html" class="no-external"></a></p><a href="./posts/women/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/women/dewsonflyer.png"  class="thumbnail-image card-img"/></p>
@@ -366,7 +405,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="New Deal,Media" data-listing-date-sort="1721890800000" data-listing-file-modified-sort="1721931492000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
+<div class="quarto-post image-right" data-index="5" data-categories="New Deal,Media" data-listing-date-sort="1721890800000" data-listing-file-modified-sort="1721931492000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
 <div class="thumbnail">
 <p><a href="./posts/biewen/index.html" class="no-external"></a></p><a href="./posts/biewen/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/biewen/thirty.png"  class="thumbnail-image card-img"/></p>
@@ -402,7 +441,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="USVI,New Deal,Territories" data-listing-date-sort="1721804400000" data-listing-file-modified-sort="1721842425000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
+<div class="quarto-post image-right" data-index="6" data-categories="USVI,New Deal,Territories" data-listing-date-sort="1721804400000" data-listing-file-modified-sort="1721842425000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
 <div class="thumbnail">
 <p><a href="./posts/out_east/index.html" class="no-external"></a></p><a href="./posts/out_east/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/out_east/output3.png"  class="thumbnail-image card-img"/></p>
@@ -441,7 +480,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="Japanese Americans,Internment,IPUMS" data-listing-date-sort="1720162800000" data-listing-file-modified-sort="1720205857180" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
+<div class="quarto-post image-right" data-index="7" data-categories="Japanese Americans,Internment,IPUMS" data-listing-date-sort="1720162800000" data-listing-file-modified-sort="1720205857180" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
 <div class="thumbnail">
 <p><a href="./posts/japanese_americans/index.html" class="no-external"></a></p><a href="./posts/japanese_americans/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/japanese_americans/ja_locs.png"  class="thumbnail-image card-img"/></p>
@@ -480,7 +519,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="New Deal,Gold,SCOTUS" data-listing-date-sort="1719817200000" data-listing-file-modified-sort="1719874593000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="402">
+<div class="quarto-post image-right" data-index="8" data-categories="New Deal,Gold,SCOTUS" data-listing-date-sort="1719817200000" data-listing-file-modified-sort="1719874593000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="402">
 <div class="thumbnail">
 <p><a href="./posts/gold/index.html" class="no-external"></a></p><a href="./posts/gold/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -519,7 +558,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="New Deal,SCOTUS,Comstock,Ulysses" data-listing-date-sort="1711436400000" data-listing-file-modified-sort="1711548263000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1045">
+<div class="quarto-post image-right" data-index="9" data-categories="New Deal,SCOTUS,Comstock,Ulysses" data-listing-date-sort="1711436400000" data-listing-file-modified-sort="1711548263000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1045">
 <div class="thumbnail">
 <p><a href="./posts/comstockery/index.html" class="no-external"></a></p><a href="./posts/comstockery/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/comstockery/po_com.png"  class="thumbnail-image card-img"/></p>
@@ -561,7 +600,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="B-24,airpower,US strategy" data-listing-date-sort="1710486000000" data-listing-file-modified-sort="1721751498000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="775">
+<div class="quarto-post image-right" data-index="10" data-categories="B-24,airpower,US strategy" data-listing-date-sort="1710486000000" data-listing-file-modified-sort="1721751498000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="775">
 <div class="thumbnail">
 <p><a href="./posts/air/index.html" class="no-external"></a></p><a href="./posts/air/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/air/airplot.png"  class="thumbnail-image card-img"/></p>
@@ -600,7 +639,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="US strategy,Navy,UK strategy,Neutrality,Greer" data-listing-date-sort="1707724800000" data-listing-file-modified-sort="1721751124000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="469">
+<div class="quarto-post image-right" data-index="11" data-categories="US strategy,Navy,UK strategy,Neutrality,Greer" data-listing-date-sort="1707724800000" data-listing-file-modified-sort="1721751124000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="469">
 <div class="thumbnail">
 <p><a href="./posts/flags/index.html" class="no-external"></a></p><a href="./posts/flags/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/flags/flags1.png"  class="thumbnail-image card-img"/></p>
@@ -645,7 +684,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="New Deal,Gold,Monetary policy,New Deal recovery" data-listing-date-sort="1706169600000" data-listing-file-modified-sort="1721751637000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="495">
+<div class="quarto-post image-right" data-index="12" data-categories="New Deal,Gold,Monetary policy,New Deal recovery" data-listing-date-sort="1706169600000" data-listing-file-modified-sort="1721751637000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="495">
 <div class="thumbnail">
 <p><a href="./posts/wigmore/index.html" class="no-external"></a></p><a href="./posts/wigmore/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/wigmore/wigmore_gold.png"  class="thumbnail-image card-img"/></p>
@@ -687,7 +726,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="New Deal,Methods,Historiography" data-listing-date-sort="1702886400000" data-listing-file-modified-sort="1721752484000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1697">
+<div class="quarto-post image-right" data-index="13" data-categories="New Deal,Methods,Historiography" data-listing-date-sort="1702886400000" data-listing-file-modified-sort="1721752484000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1697">
 <div class="thumbnail">
 <p><a href="./posts/tripleversary/index.html" class="no-external"></a></p><a href="./posts/tripleversary/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/tripleversary/tr_fdr.png"  class="thumbnail-image card-img"/></p>
@@ -726,7 +765,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="Maps,Nazi strategy,Corrections,Great War,Geography" data-listing-date-sort="1701417600000" data-listing-file-modified-sort="1710543869000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
+<div class="quarto-post image-right" data-index="14" data-categories="Maps,Nazi strategy,Corrections,Great War,Geography" data-listing-date-sort="1701417600000" data-listing-file-modified-sort="1710543869000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
 <div class="thumbnail">
 <p><a href="./posts/europes2/index.html" class="no-external"></a></p><a href="./posts/europes2/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/europes2/eurs.png"  class="thumbnail-image card-img"/></p>
@@ -768,7 +807,7 @@ Dec 1, 2023
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="US strategy,Nazis,Geography,Neutrality" data-listing-date-sort="1700380800000" data-listing-file-modified-sort="1721752572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="564">
+<div class="quarto-post image-right" data-index="15" data-categories="US strategy,Nazis,Geography,Neutrality" data-listing-date-sort="1700380800000" data-listing-file-modified-sort="1721752572000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="564">
 <div class="thumbnail">
 <p><a href="./posts/panama/index.html" class="no-external"></a></p><a href="./posts/panama/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/panama/panama_d.png"  class="thumbnail-image card-img"/></p>
@@ -810,7 +849,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="New Deal,Public works,Green New Deal,TVA" data-listing-date-sort="1699603200000" data-listing-file-modified-sort="1710543869000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="235">
+<div class="quarto-post image-right" data-index="16" data-categories="New Deal,Public works,Green New Deal,TVA" data-listing-date-sort="1699603200000" data-listing-file-modified-sort="1710543869000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="235">
 <div class="thumbnail">
 <p><a href="./posts/gnd/index.html" class="no-external"></a></p><a href="./posts/gnd/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -849,7 +888,7 @@ Nov 10, 2023
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="US mobilization,Philadelphia Navy Yard" data-listing-date-sort="1699603200000" data-listing-file-modified-sort="1721752598000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<div class="quarto-post image-right" data-index="17" data-categories="US mobilization,Philadelphia Navy Yard" data-listing-date-sort="1699603200000" data-listing-file-modified-sort="1721752598000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
 <div class="thumbnail">
 <p><a href="./posts/pnavy_emp/index.html" class="no-external"></a></p><a href="./posts/pnavy_emp/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/pnavy_emp/pnavy_emp.png"  class="thumbnail-image card-img"/></p>
@@ -882,7 +921,7 @@ Nov 10, 2023
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-listing-date-sort="1698476400000" data-listing-file-modified-sort="1721751838000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="979">
+<div class="quarto-post image-right" data-index="18" data-listing-date-sort="1698476400000" data-listing-file-modified-sort="1721751838000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="979">
 <div class="thumbnail">
 <p><a href="./posts/blower/index.html" class="no-external"></a></p><a href="./posts/blower/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/blower/blower.jpeg"  class="thumbnail-image card-img"/></p>
@@ -910,7 +949,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="New Deal,US mobilization,B-24,Movies" data-listing-date-sort="1698044400000" data-listing-file-modified-sort="1721752634000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="544">
+<div class="quarto-post image-right" data-index="19" data-categories="New Deal,US mobilization,B-24,Movies" data-listing-date-sort="1698044400000" data-listing-file-modified-sort="1721752634000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="544">
 <div class="thumbnail">
 <p><a href="./posts/willow/index.html" class="no-external"></a></p><a href="./posts/willow/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/willow/fvf.png"  class="thumbnail-image card-img"/></p>
@@ -952,7 +991,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="Wine,Prohibition,Repeal,New Deal,UC Davis" data-listing-date-sort="1697353200000" data-listing-file-modified-sort="1710543869000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="244">
+<div class="quarto-post image-right" data-index="20" data-categories="Wine,Prohibition,Repeal,New Deal,UC Davis" data-listing-date-sort="1697353200000" data-listing-file-modified-sort="1710543869000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="244">
 <div class="thumbnail">
 <p><a href="./posts/wine_var/index.html" class="no-external"></a></p><a href="./posts/wine_var/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/wine_var/wine_var.png"  class="thumbnail-image card-img"/></p>
@@ -997,7 +1036,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="New Deal denialism,Economists,New Deal recovery" data-listing-date-sort="1696748400000" data-listing-file-modified-sort="1721752266000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="360">
+<div class="quarto-post image-right" data-index="21" data-categories="New Deal denialism,Economists,New Deal recovery" data-listing-date-sort="1696748400000" data-listing-file-modified-sort="1721752266000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="360">
 <div class="thumbnail">
 <p><a href="./posts/field_nd/index.html" class="no-external"></a></p><a href="./posts/field_nd/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/field_nd/bizcycles_redone.png"  class="thumbnail-image card-img"/></p>
@@ -1036,7 +1075,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="Nazis,Inflation,Deflation" data-listing-date-sort="1696230000000" data-listing-file-modified-sort="1721752030000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="473">
+<div class="quarto-post image-right" data-index="22" data-categories="Nazis,Inflation,Deflation" data-listing-date-sort="1696230000000" data-listing-file-modified-sort="1721752030000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="473">
 <div class="thumbnail">
 <p><a href="./posts/nsdap/index.html" class="no-external"></a></p><a href="./posts/nsdap/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/nsdap/germanelec_cpi.png"  class="thumbnail-image card-img"/></p>
@@ -1075,7 +1114,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="New Deal,Methods,Madness" data-listing-date-sort="1695798000000" data-listing-file-modified-sort="1710544501000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
+<div class="quarto-post image-right" data-index="23" data-categories="New Deal,Methods,Madness" data-listing-date-sort="1695798000000" data-listing-file-modified-sort="1710544501000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
 <div class="thumbnail">
 <p><a href="./posts/borg/index.html" class="no-external"></a></p><a href="./posts/borg/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/borg/borg.png"  class="thumbnail-image card-img"/></p>
@@ -1114,7 +1153,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="New Deal,Election of 1932,Public opinion" data-listing-date-sort="1695366000000" data-listing-file-modified-sort="1721752338000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="796">
+<div class="quarto-post image-right" data-index="24" data-categories="New Deal,Election of 1932,Public opinion" data-listing-date-sort="1695366000000" data-listing-file-modified-sort="1721752338000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="796">
 <div class="thumbnail">
 <p><a href="./posts/po_32/index.html" class="no-external"></a></p><a href="./posts/po_32/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/po_32/norp_5.png"  class="thumbnail-image card-img"/></p>
@@ -1153,10 +1192,10 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="24" data-categories="Methods,Madness" data-listing-date-sort="1695106800000" data-listing-file-modified-sort="1710544895000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="574">
+<div class="quarto-post image-right" data-index="25" data-categories="Methods,Madness" data-listing-date-sort="1695106800000" data-listing-file-modified-sort="1710544895000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="574">
 <div class="thumbnail">
 <p><a href="./posts/bsky/index.html" class="no-external"></a></p><a href="./posts/bsky/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/bsky/bsky_home.png"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img data-src="posts/bsky/bsky_home.png"  class="thumbnail-image card-img"/></p>
 </a><p><a href="./posts/bsky/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -1189,7 +1228,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="25" data-categories="MacArthur,Pacific,Philippines" data-listing-date-sort="1693983600000" data-listing-file-modified-sort="1721775590000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="353">
+<div class="quarto-post image-right" data-index="26" data-categories="MacArthur,Pacific,Philippines" data-listing-date-sort="1693983600000" data-listing-file-modified-sort="1721775590000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="353">
 <div class="thumbnail">
 <p><a href="./posts/macarthur/index.html" class="no-external"></a></p><a href="./posts/macarthur/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -1228,7 +1267,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="26" data-categories="New Deal,Florida man" data-listing-date-sort="1693897200000" data-listing-file-modified-sort="1710544069000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="570">
+<div class="quarto-post image-right" data-index="27" data-categories="New Deal,Florida man" data-listing-date-sort="1693897200000" data-listing-file-modified-sort="1710544069000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="570">
 <div class="thumbnail">
 <p><a href="./posts/tbt_biz/index.html" class="no-external"></a></p><a href="./posts/tbt_biz/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/tbt_biz/index_files/figure-html/unnamed-chunk-1-1.png"  class="thumbnail-image card-img"/></p>
@@ -1264,7 +1303,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="27" data-categories="Oppenheimer,Movies,Atomic bombs,Pacific strategy,US strategy,Unconditional surrender" data-listing-date-sort="1690441200000" data-listing-file-modified-sort="1721752205000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="24" data-listing-word-count-sort="4636">
+<div class="quarto-post image-right" data-index="28" data-categories="Oppenheimer,Movies,Atomic bombs,Pacific strategy,US strategy,Unconditional surrender" data-listing-date-sort="1690441200000" data-listing-file-modified-sort="1721752205000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="24" data-listing-word-count-sort="4636">
 <div class="thumbnail">
 <p><a href="./posts/oppenheimer/index.html" class="no-external"></a></p><a href="./posts/oppenheimer/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/oppenheimer/mcc_trum.png"  class="thumbnail-image card-img"/></p>
@@ -1312,7 +1351,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="28" data-categories="Methods,Movies" data-listing-date-sort="1690095600000" data-listing-file-modified-sort="1710544127000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="119">
+<div class="quarto-post image-right" data-index="29" data-categories="Methods,Movies" data-listing-date-sort="1690095600000" data-listing-file-modified-sort="1710544127000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="119">
 <div class="thumbnail">
 <p><a href="./posts/sw_raiders/index.html" class="no-external"></a></p><a href="./posts/sw_raiders/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/sw_raiders/sw_raiders.png"  class="thumbnail-image card-img"/></p>
@@ -1348,7 +1387,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="29" data-categories="Nazi strategy,Methods" data-listing-date-sort="1689577200000" data-listing-file-modified-sort="1710544529000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="468">
+<div class="quarto-post image-right" data-index="30" data-categories="Nazi strategy,Methods" data-listing-date-sort="1689577200000" data-listing-file-modified-sort="1710544529000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="468">
 <div class="thumbnail">
 <p><a href="./posts/unclear/unclear.html" class="no-external"></a></p><a href="./posts/unclear/unclear.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/unclear/high_castle.jpeg"  class="thumbnail-image card-img"/></p>
@@ -1384,7 +1423,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="30" data-categories="Maps,North Africa" data-listing-date-sort="1686639600000" data-listing-file-modified-sort="1710544793000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="265">
+<div class="quarto-post image-right" data-index="31" data-categories="Maps,North Africa" data-listing-date-sort="1686639600000" data-listing-file-modified-sort="1710544793000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="265">
 <div class="thumbnail">
 <p><a href="./posts/na_map/index.html" class="no-external"></a></p><a href="./posts/na_map/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/na_map/na_combine.png" alt="Series of maps showing Italian, British, and German advances over the early years of the North Africa campaign."  class="thumbnail-image card-img"/></p>
@@ -1420,7 +1459,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="31" data-categories="US strategy,Neutrality" data-listing-date-sort="1686380400000" data-listing-file-modified-sort="1721752585000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="164">
+<div class="quarto-post image-right" data-index="32" data-categories="US strategy,Neutrality" data-listing-date-sort="1686380400000" data-listing-file-modified-sort="1721752585000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="164">
 <div class="thumbnail">
 <p><a href="./posts/mothballs/index.html" class="no-external"></a></p><a href="./posts/mothballs/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/mothballs/NH_69126.jpeg"  class="thumbnail-image card-img"/></p>
@@ -1456,7 +1495,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="32" data-categories="Teaching,US strategy" data-listing-date-sort="1685602800000" data-listing-file-modified-sort="1710544565000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="415">
+<div class="quarto-post image-right" data-index="33" data-categories="Teaching,US strategy" data-listing-date-sort="1685602800000" data-listing-file-modified-sort="1710544565000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="415">
 <div class="thumbnail">
 <p><a href="./posts/assumptions/index.html" class="no-external"></a></p><a href="./posts/assumptions/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/assumptions/yorktown_va.png"  class="thumbnail-image card-img"/></p>
@@ -1492,7 +1531,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="33" data-categories="Neutrality,US strategy" data-listing-date-sort="1685430000000" data-listing-file-modified-sort="1721751666000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
+<div class="quarto-post image-right" data-index="34" data-categories="Neutrality,US strategy" data-listing-date-sort="1685430000000" data-listing-file-modified-sort="1721751666000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
 <div class="thumbnail">
 <p><a href="./posts/slow_39/index.html" class="no-external"></a></p><a href="./posts/slow_39/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/slow_39/80-G-391586.jpeg"  class="thumbnail-image card-img"/></p>
@@ -1528,7 +1567,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="34" data-categories="Holocaust,Historiography,Methods" data-listing-date-sort="1685084400000" data-listing-file-modified-sort="1721752711000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="492">
+<div class="quarto-post image-right" data-index="35" data-categories="Holocaust,Historiography,Methods" data-listing-date-sort="1685084400000" data-listing-file-modified-sort="1721752711000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="492">
 <div class="thumbnail">
 <p><a href="./posts/rosenstock/index.html" class="no-external"></a></p><a href="./posts/rosenstock/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/rosenstock/ros1.png" alt="Chart showing initial movement of refugees to Europe, then to Palestine, then to the USA over the period 1933--1938."  class="thumbnail-image card-img"/></p>
@@ -1567,7 +1606,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="35" data-categories="Holocaust,Historiography,Methods" data-listing-date-sort="1684911600000" data-listing-file-modified-sort="1721750723000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="252">
+<div class="quarto-post image-right" data-index="36" data-categories="Holocaust,Historiography,Methods" data-listing-date-sort="1684911600000" data-listing-file-modified-sort="1721750723000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="252">
 <div class="thumbnail">
 <p><a href="./posts/epist/index.html" class="no-external"></a></p><a href="./posts/epist/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/epist/hol_bef_aft.png"  class="thumbnail-image card-img"/></p>
@@ -1606,7 +1645,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="36" data-categories="Holocaust,Historiography,Methods" data-listing-date-sort="1684738800000" data-listing-file-modified-sort="1721752537000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="467">
+<div class="quarto-post image-right" data-index="37" data-categories="Holocaust,Historiography,Methods" data-listing-date-sort="1684738800000" data-listing-file-modified-sort="1721752537000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="467">
 <div class="thumbnail">
 <p><a href="./posts/stone/index.html" class="no-external"></a></p><a href="./posts/stone/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/stone/stone_holocaust.png"  class="thumbnail-image card-img"/></p>
@@ -1645,7 +1684,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="37" data-categories="Geography,Historiography,Movies,Muppets" data-listing-date-sort="1684306800000" data-listing-file-modified-sort="1721751208000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
+<div class="quarto-post image-right" data-index="38" data-categories="Geography,Historiography,Movies,Muppets" data-listing-date-sort="1684306800000" data-listing-file-modified-sort="1721751208000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
 <div class="thumbnail">
 <p><a href="./posts/travel_map/index.html" class="no-external"></a></p><a href="./posts/travel_map/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/travel_map/raiders.gif"  class="thumbnail-image card-img"/></p>
@@ -1687,7 +1726,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="38" data-categories="Historiography,Holocaust" data-listing-date-sort="1684134000000" data-listing-file-modified-sort="1721752373000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="552">
+<div class="quarto-post image-right" data-index="39" data-categories="Historiography,Holocaust" data-listing-date-sort="1684134000000" data-listing-file-modified-sort="1721752373000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="552">
 <div class="thumbnail">
 <p><a href="./posts/irving/index.html" class="no-external"></a></p><a href="./posts/irving/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/irving/large_HU_059545_A.jpg"  class="thumbnail-image card-img"/></p>
@@ -1723,7 +1762,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="39" data-categories="New Deal,Raymond Moley,Historiography,Methods" data-listing-date-sort="1683702000000" data-listing-file-modified-sort="1721751185000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="764">
+<div class="quarto-post image-right" data-index="40" data-categories="New Deal,Raymond Moley,Historiography,Methods" data-listing-date-sort="1683702000000" data-listing-file-modified-sort="1721751185000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="764">
 <div class="thumbnail">
 <p><a href="./posts/moley/index.html" class="no-external"></a></p><a href="./posts/moley/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/moley/moley.jpg"  class="thumbnail-image card-img"/></p>
@@ -1765,7 +1804,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="40" data-categories="US strategy,Pan Am" data-listing-date-sort="1683270000000" data-listing-file-modified-sort="1721751323000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="311">
+<div class="quarto-post image-right" data-index="41" data-categories="US strategy,Pan Am" data-listing-date-sort="1683270000000" data-listing-file-modified-sort="1721751323000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="311">
 <div class="thumbnail">
 <p><a href="./posts/pan_am/index.html" class="no-external"></a></p><a href="./posts/pan_am/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/pan_am/pan_am.jpg"  class="thumbnail-image card-img"/></p>
@@ -1801,7 +1840,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="41" data-categories="New Deal,Balanced budget" data-listing-date-sort="1683097200000" data-listing-file-modified-sort="1710544594000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="439">
+<div class="quarto-post image-right" data-index="42" data-categories="New Deal,Balanced budget" data-listing-date-sort="1683097200000" data-listing-file-modified-sort="1710544594000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="439">
 <div class="thumbnail">
 <p><a href="./posts/budgets/index.html" class="no-external"></a></p><a href="./posts/budgets/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/budgets/budg2.png"  class="thumbnail-image card-img"/></p>
@@ -1837,7 +1876,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="42" data-categories="US strategy,Neutrality" data-listing-date-sort="1682924400000" data-listing-file-modified-sort="1721752505000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<div class="quarto-post image-right" data-index="43" data-categories="US strategy,Neutrality" data-listing-date-sort="1682924400000" data-listing-file-modified-sort="1721752505000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
 <div class="thumbnail">
 <p><a href="./posts/geolexigraph/index.html" class="no-external"></a></p><a href="./posts/geolexigraph/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/geolexigraph/zonemap.png"  class="thumbnail-image card-img"/></p>
@@ -1873,7 +1912,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="43" data-categories="Greer,US strategy,Nazi strategy" data-listing-date-sort="1682665200000" data-listing-file-modified-sort="1721751609000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="664">
+<div class="quarto-post image-right" data-index="44" data-categories="Greer,US strategy,Nazi strategy" data-listing-date-sort="1682665200000" data-listing-file-modified-sort="1721751609000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="664">
 <div class="thumbnail">
 <p><a href="./posts/greer_speech/index.html" class="no-external"></a></p><a href="./posts/greer_speech/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/greer_speech/speech.png"  class="thumbnail-image card-img"/></p>
@@ -1912,7 +1951,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="44" data-categories="SCOTUS,Judicial reform" data-listing-date-sort="1682492400000" data-listing-file-modified-sort="1721751255000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="403">
+<div class="quarto-post image-right" data-index="45" data-categories="SCOTUS,Judicial reform" data-listing-date-sort="1682492400000" data-listing-file-modified-sort="1721751255000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="403">
 <div class="thumbnail">
 <p><a href="./posts/jurisdiction/index.html" class="no-external"></a></p><a href="./posts/jurisdiction/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -1948,7 +1987,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="45" data-categories="La Guardia,Civilian Defense" data-listing-date-sort="1682319600000" data-listing-file-modified-sort="1721752645000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="209">
+<div class="quarto-post image-right" data-index="46" data-categories="La Guardia,Civilian Defense" data-listing-date-sort="1682319600000" data-listing-file-modified-sort="1721752645000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="209">
 <div class="thumbnail">
 <p><a href="./posts/fearless/index.html" class="no-external"></a></p><a href="./posts/fearless/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/fearless/IMG_5672.JPG"  class="thumbnail-image card-img"/></p>
@@ -1984,7 +2023,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="46" data-categories="Greer,Destroyers-for-bases" data-listing-date-sort="1682060400000" data-listing-file-modified-sort="1721751430000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="517">
+<div class="quarto-post image-right" data-index="47" data-categories="Greer,Destroyers-for-bases" data-listing-date-sort="1682060400000" data-listing-file-modified-sort="1721751430000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="517">
 <div class="thumbnail">
 <p><a href="./posts/greer_5_confusion/index.html" class="no-external"></a></p><a href="./posts/greer_5_confusion/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/greer_5_confusion/NH67637.jpeg"  class="thumbnail-image card-img"/></p>
@@ -2020,7 +2059,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="47" data-categories="Greer,convoys,Nazi strategy,US strategy,UK strategy" data-listing-date-sort="1681887600000" data-listing-file-modified-sort="1721751384000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="531">
+<div class="quarto-post image-right" data-index="48" data-categories="Greer,convoys,Nazi strategy,US strategy,UK strategy" data-listing-date-sort="1681887600000" data-listing-file-modified-sort="1721751384000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="531">
 <div class="thumbnail">
 <p><a href="./posts/greer_4_facts_2/index.html" class="no-external"></a></p><a href="./posts/greer_4_facts_2/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/greer_4_facts_2/large_000000.jpg"  class="thumbnail-image card-img"/></p>
@@ -2065,7 +2104,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="48" data-categories="US strategy,US politics" data-listing-date-sort="1681714800000" data-listing-file-modified-sort="1710545006000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="832">
+<div class="quarto-post image-right" data-index="49" data-categories="US strategy,US politics" data-listing-date-sort="1681714800000" data-listing-file-modified-sort="1710545006000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="832">
 <div class="thumbnail">
 <p><a href="./posts/atlantic_ideology/index.html" class="no-external"></a></p><a href="./posts/atlantic_ideology/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -2101,7 +2140,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="49" data-categories="convoys,Greer,US strategy" data-listing-date-sort="1681369200000" data-listing-file-modified-sort="1721751994000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="591">
+<div class="quarto-post image-right" data-index="50" data-categories="convoys,Greer,US strategy" data-listing-date-sort="1681369200000" data-listing-file-modified-sort="1721751994000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="591">
 <div class="thumbnail">
 <p><a href="./posts/greer_3_dog/index.html" class="no-external"></a></p><a href="./posts/greer_3_dog/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -2140,7 +2179,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="50" data-categories="Greer,convoys,Nazi strategy" data-listing-date-sort="1681282800000" data-listing-file-modified-sort="1721752400000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="597">
+<div class="quarto-post image-right" data-index="51" data-categories="Greer,convoys,Nazi strategy" data-listing-date-sort="1681282800000" data-listing-file-modified-sort="1721752400000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="597">
 <div class="thumbnail">
 <p><a href="./posts/greer_2_nazi/index.html" class="no-external"></a></p><a href="./posts/greer_2_nazi/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -2179,7 +2218,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="51" data-categories="Greer,convoys" data-listing-date-sort="1681110000000" data-listing-file-modified-sort="1721751545000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="462">
+<div class="quarto-post image-right" data-index="52" data-categories="Greer,convoys" data-listing-date-sort="1681110000000" data-listing-file-modified-sort="1721751545000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="462">
 <div class="thumbnail">
 <p><a href="./posts/greer_1/index.html" class="no-external"></a></p><a href="./posts/greer_1/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/greer_1/12248087.jpg"  class="thumbnail-image card-img"/></p>
@@ -2215,7 +2254,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="52" data-categories="Airpower,Nazi strategy" data-listing-date-sort="1680850800000" data-listing-file-modified-sort="1711904141000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="460">
+<div class="quarto-post image-right" data-index="53" data-categories="Airpower,Nazi strategy" data-listing-date-sort="1680850800000" data-listing-file-modified-sort="1711904141000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="460">
 <div class="thumbnail">
 <p><a href="./posts/atl_dist/index.html" class="no-external"></a></p><a href="./posts/atl_dist/index.html" class="no-external">
 <p class="card-img-top"><img data-src="posts/atl_dist/atlmap.png"  class="thumbnail-image card-img"/></p>
@@ -2251,7 +2290,7 @@ Eric Rauchway
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="53" data-categories="Airpower" data-listing-date-sort="1680678000000" data-listing-file-modified-sort="1721751479000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="552">
+<div class="quarto-post image-right" data-index="54" data-categories="Airpower" data-listing-date-sort="1680678000000" data-listing-file-modified-sort="1721751479000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="552">
 <div class="thumbnail">
 <p><a href="./posts/exagg_air/index.html" class="no-external"></a></p><a href="./posts/exagg_air/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>

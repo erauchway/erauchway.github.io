@@ -1,0 +1,37 @@
+---
+title: President Hoover was not a progressive
+subtitle: nor did the New Deal begin under his administration
+date: 2024-09-17
+author: Eric Rauchway
+categories:
+  - Hoover
+  - New Deal 
+  - Historiography
+---
+
+President Hebert Hoover was no progressive; the New Deal did not begin under his administration nor in a fantasy alternate history where he won reelection would he have implemented anything resembling a New Deal. You might think it unnecessary to say such things, given [the vituperation Hoover directed at the New Deal in the 1932 election,](https://erauchway.github.io/#category=Election%20of%201932) or his record in office.[@rauchwayNewDealWas2019] But there are a number of historians who argue President Hoover was kind of a proto-New Dealer, much misunderstood; to the contrary, he was well on the conservative side of his own party.
+
+This view is not unique to me, but is commonly held among people who have spent any amount of time with Hoover's own papers. See for example Elliot A. Rosen:
+
+>In a curious twist of subsequent American historiography, Hoover has since then been situated by some academicians as the originator of the interventionist state. Yet from the onset of his public career, his mission was to place curbs on the power of the central government. The claim that Hoover accepted deficit financing is a fiction, as it resulted from declining revenues and not from increased expenditure.[^1] Equally fallacious is the claim that there existed no substantial differences in their monetary policies other than Roosevelt's willingness to detach the dollar from gold, which distorts their fundamental differences on the subject of money and credit.[@rosen2014, 18]
+
+Or consider William E. Leuchtenburg's case.
+
+>He was not a weak president; rather, he acted forcefully to circumscribe the federal government. . . . When the Senate began to consider measures to stimulate the economy, he appeared in person in the chamber to upbraid the lawmakers. "We cannot legislate ourselves out of a world economic depression," he declared in 1931. . . . He persisted in this course despite graphic evidence that the devastation of the Depression was deepening. . . . He set up sixty-two fact-finding groups to provide enlightenment on public issues, then refused to believe what the studies revealed. He even ignored the recommendations of his own appointee who told him that voluntarism was not working and that the federal government had to intercede. . . . The more hardship spread, the more determined Hoover was to turn a blind eye to it. . . . Hoover promoted policies that made a terrible situation even worse. Obsessive about balancing the budget, he sought to slash federal spending and raise taxes---exactly the wrong steps to take. . . .[@leuchtenburg2015, 135--138]
+
+I believe you can tell in both cases that the writers are irked by having to say these things; I think in part because their own early works were, and are, often cited to support the case they are here methodically refuting. Notably, Rosen had worked with Raymond Moley, who credited the Hoover administration with originating what [the conservative Moley](https://erauchway.github.io/posts/moley/index.html) later regarded as the good parts of the New Deal.[@moleyFirstNewDeal1966] 
+
+It's worth highlighting Leuchtenburg's point: *Hoover* steadfastly resisted policies that would look like the later New Deal, but that doesn't mean people in his administration and his party didn't propose them. Hoover opposed publicly owned and operated electricity, championed by Republican Senator George Norris of Nebraska. Hoover opposed the Reconstruction Finance Corporation and, once it was created, limited its operation; it was the creature of his own Fed chair, Eugene Meyer. Hoover, as Leuchtenburg says, opposed the recommendations of his own commissions on unemployment, including the one headed by AT&T CEO Walter Gifford. Hoover actively opposed or by indifference killed a lot of the more creative ideas his subordinates proposed. He declined to pursue the activist monetary policy Adolph Miller, the longest-serving member of the Federal Reserve, proposed to him---leaving Miller no choice to propose the same policy to the much more receptive Franklin Roosevelt.[^2] 
+
+Although in my view she concedes a bit too much to the "proto-New Dealer" part on the way to this point, I think Lisa McGirr gets Hoover right:
+
+>Hoover's federal activism foreshadowed a strand of neoliberalism that would take firm roots in the later twentieth century, a kind of conservatism comfortable with a more expansive state devoted primarily to conservative policy ends.[@mcgirrWarAlcoholProhibition2016]
+
+Prohibition, tariffs, immigration restriction and deportation were fine with Hoover; economic development, relief of unemployment, or activist monetary policy, not so much.
+
+Why do people tend to say otherwise? This to me is the most frustrating question ever asked in a historiographical debate, the demand that you account for why other people are wrong. I will note that while Rosen cites "academicians," one wing of the "Hoover, proto-New Dealer" faction is the decidedly non-academic group of conservative activists who want to blame the Great Depression on government intervention of any and all kinds.[@shlaes2007] But another source---and, I think, the reason Leuchtenburg and Rosen's earlier work is implicated in it---is the mid-century consensus historiography that sought to minimize and tame the political conflicts that characterized American history.
+
+
+[^1]: This note is mine, not Rosen's: but you can also tell he didn't accept it by the way he campaigned on a balanced budget in 1932.
+
+[^2]: I've written about a lot of this stuff: see @rauchwayWhyNewDeal2021a, @rauchwayWinterWarHoover2018, @rauchwayMoneyMakersHow2015. The extent to which Hoover stymied some of the more creative ideas bubbling up from his appointees for economic aid in the territories is something Kathy and I are [currently](https://erauchway.github.io/posts/archives1/) [researching.](https://erauchway.github.io/posts/archives2/) The bit about the RFC is at the root of that historiography and is bewilderingly and routinely ignored; @nashHerbertHooverOrigins1959.
