@@ -9,7 +9,7 @@ categories:
   - Historiography
 ---
 
-President Herbert Hoover was no progressive; the New Deal did not begin under his administration nor in a fantasy alternate history where he won reelection would he have implemented anything resembling a New Deal. You might think it unnecessary to say such things, given [the vituperation Hoover directed at the New Deal in the 1932 election,](https://erauchway.github.io/#category=Election%20of%201932) or his record in office.[@rauchwayNewDealWas2019] But there are a number of historians who argue President Hoover was kind of a proto-New Dealer, much misunderstood; to the contrary, he was well on the conservative side of his own party.
+President Herbert Hoover was no progressive; the New Deal did not begin under his administration nor in a fantasy alternate history where he won reelection would he have implemented anything resembling a New Deal. You might think it unnecessary to say such things, given [the vituperation Hoover directed at the New Deal in the 1932 election,](https://erauchway.github.io/#category=Election%20of%201932) or his record in office.[@rauchwayNewDealWas2019] But there are a number of historians who argue President Hoover was kind of a proto-New Dealer, much misunderstood; to the contrary, he was well on the conservative side of his own party.[^3]
 
 This view is not unique to me, but is commonly held among people who have spent any amount of time with Hoover's own papers. See for example Elliot A. Rosen:
 
@@ -35,3 +35,5 @@ Why do people tend to say otherwise? This to me is the most frustrating question
 [^1]: This note is mine, not Rosen's: but you can also tell he didn't accept it by the way he campaigned on a balanced budget in 1932.
 
 [^2]: I've written about a lot of this stuff: see @rauchwayWhyNewDeal2021a, @rauchwayWinterWarHoover2018, @rauchwayMoneyMakersHow2015. The extent to which Hoover stymied some of the more creative ideas bubbling up from his appointees for economic aid in the territories is something Kathy and I are [currently](https://erauchway.github.io/posts/archives1/) [researching.](https://erauchway.github.io/posts/archives2/) The bit about the RFC is at the root of that historiography and is bewilderingly and routinely ignored; @nashHerbertHooverOrigins1959.
+
+[^3]: The best known version of the Hoover-as-progressive argument is surely @wilson1992, a book still [frequently recommended.](https://estore.archives.gov/hoover/product/herbert-hoover-forgotten-progressive)
