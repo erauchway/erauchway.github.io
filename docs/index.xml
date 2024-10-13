@@ -10,7 +10,508 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 17 Sep 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Oct 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Making a chart on the fly</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/gdp_chart/gdp_chart.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I posted a map on social media recently that drew wholly from online resources; I’m trying to do this for all my charts and maps this quarter. There are practical reasons, having to do with not keeping large data files lying around; there are also principled reasons, having to do with reproducible research and adherence to community standards.</p>
+<p>I learned to do this mainly by taking <a href="https://codehorizons.com/Seminars/data-wrangling-with-r/">Kieran Healy’s invaluable Data Wrangling and Data Visualization course, online.</a></p>
+<p>I am, I hope, as sensitive as anyone to historians’ need to consult archival and arcane resources and I love the library as much as anyone. But if a reasonably authoritative chart or map for teaching can be made from community resources, it probably should be.</p>
+<p>So here’s an example; I often like to show something like the comparative impact of the Great Depression. You could go to the library and look in <em>International Historical Statistics</em> and type information by hand into a spreadsheet—and I wouldn’t want to stop you. But you could also reach out and grab information from, let’s say, the <a href="https://www.rug.nl/ggdc/historicaldevelopment/maddison/?lang=en">Maddison Project at the University of Groningen.</a><sup>1</sup></p>
+<div class="cell">
+<details class="code-fold">
+<summary>Show the R code</summary>
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## make a list of packages we will use</span></span>
+<span id="cb1-2">packages <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"tidyverse"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"haven"</span>)</span>
+<span id="cb1-3"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## install the packages not already installed</span></span>
+<span id="cb1-4"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">setdiff</span>(packages, <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rownames</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">installed.packages</span>())))</span>
+<span id="cb1-5"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## make the code available for this exercise</span></span>
+<span id="cb1-6"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">lapply</span>(packages, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"library"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">character.only=</span><span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>)</span>
+<span id="cb1-7"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## Read data from the University of Groningen Maddison Project</span></span>
+<span id="cb1-8"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">read_dta</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">file =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"https://dataverse.nl/api/access/datafile/421303"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb1-9">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">filter</span>(year <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">&gt;</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1919</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">&amp;</span> year <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">&lt;</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1940</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span> <span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## limit data to interwar years</span></span>
+<span id="cb1-10">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">filter</span>(country <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Germany"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|</span> <span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## select some industrial countries</span></span>
+<span id="cb1-11">           country <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"France"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|</span></span>
+<span id="cb1-12">           country <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"United Kingdom"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|</span></span>
+<span id="cb1-13">           country <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"United States"</span>) <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">-&gt;</span> data <span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## store data</span></span>
+<span id="cb1-14"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## now let's plot the data</span></span>
+<span id="cb1-15">data <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb1-16">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-17">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_line</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> year, </span>
+<span id="cb1-18">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> gdppc, </span>
+<span id="cb1-19">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">group =</span> country, </span>
+<span id="cb1-20">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> country),</span>
+<span id="cb1-21">            <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">linewidth =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-22">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">labs</span> (</span>
+<span id="cb1-23">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">""</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"GDP per capita in 2011 USD"</span>,</span>
+<span id="cb1-24">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">""</span>, </span>
+<span id="cb1-25">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Chart made using R and ggplot by Eric Rauchway with data from Maddison Project Database, version 2023 by Jutta Bolt and Jan Luiten van Zanden."</span>,</span>
+<span id="cb1-26">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Real GDP in the Great Depression, selected countries"</span></span>
+<span id="cb1-27">  ) <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">-&gt;</span> p <span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## store this graph in an object called "p"---we'll want it again in a second</span></span>
+<span id="cb1-28"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## now, display the object called "p"</span></span>
+<span id="cb1-29">p </span></code></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/gdp_chart/gdp_chart_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Everything else is aesthetics.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Show the R code</summary>
+<div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## some code packages for prettification</span></span>
+<span id="cb2-2">more_packages <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"showtext"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"ggtext"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"scales"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"grafify"</span>)</span>
+<span id="cb2-3"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## install these packages not already installed</span></span>
+<span id="cb2-4"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">setdiff</span>(more_packages, <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rownames</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">installed.packages</span>())))</span>
+<span id="cb2-5"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## make this code available for this exercise</span></span>
+<span id="cb2-6"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">lapply</span>(more_packages, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"library"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">character.only=</span><span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>)</span>
+<span id="cb2-7"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## get some fonts from google</span></span>
+<span id="cb2-8"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">font_add_google</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">name =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Public Sans"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">family =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Public Sans"</span>)</span>
+<span id="cb2-9"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">font_add_google</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">name =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Holtwood One SC"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">family =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Holtwood One SC"</span>)</span>
+<span id="cb2-10"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">showtext_auto</span>()</span>
+<span id="cb2-11"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## make some choices for how we want the graph to look</span></span>
+<span id="cb2-12"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme_set</span>(</span>
+<span id="cb2-13">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme_void</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-14">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme</span>(</span>
+<span id="cb2-15">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">text =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">family =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Public Sans"</span>, </span>
+<span id="cb2-16">                          <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"midnightblue"</span>),</span>
+<span id="cb2-17">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_markdown</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">family =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Holtwood One SC"</span>, </span>
+<span id="cb2-18">                                    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"khaki4"</span>),</span>
+<span id="cb2-19">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">plot.title.position =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"plot"</span>,</span>
+<span id="cb2-20">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">plot.caption =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_markdown</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rel</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>)),</span>
+<span id="cb2-21">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">plot.background =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_rect</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"floralwhite"</span>,</span>
+<span id="cb2-22">                                     <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"floralwhite"</span>),</span>
+<span id="cb2-23">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">plot.margin =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">margin</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">l=</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10</span>,<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">r=</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10</span>),</span>
+<span id="cb2-24">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.text =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">margin =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">margin</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4</span>)),</span>
+<span id="cb2-25">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.title.y =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">angle =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">90</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">margin =</span></span>
+<span id="cb2-26">                                    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">margin</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>)),</span>
+<span id="cb2-27">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.line =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_line</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"chocolate4"</span>),</span>
+<span id="cb2-28">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.ticks =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_line</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"chocolate3"</span>),</span>
+<span id="cb2-29">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.ticks.length =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"mm"</span>),</span>
+<span id="cb2-30">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.position =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"inside"</span>,</span>
+<span id="cb2-31">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.justification.inside =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.98</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.05</span>),</span>
+<span id="cb2-32">      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">panel.background =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_rect</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"antiquewhite1"</span>,</span>
+<span id="cb2-33">                                      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"NA"</span>)</span>
+<span id="cb2-34">    )</span>
+<span id="cb2-35">)</span>
+<span id="cb2-36"></span>
+<span id="cb2-37"><span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## now, make the plot again, but with these aesthetic choices, calling up the object "p" where we stored the plot before</span></span>
+<span id="cb2-38">p <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-39">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_color_grafify</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">palette =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"r4"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> <span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">## a color-blind-friendly palette</span></span>
+<span id="cb2-40">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_y_continuous</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">labels =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">label_number</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">scale_cut =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">cut_short_scale</span>()))</span></code></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/gdp_chart/gdp_chart_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>So the key here is, none of this data or even, in this example, the fonts live on my computer, or the server; it’s all pulled from the web. Which means you could copy the code and run it on your computer, in some environment supporting R, and it should work the same.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>See <span class="citation" data-cites="bolt2024">Jutta Bolt and Jan Luiten van Zanden, <span>“Maddison-Style Estimates of the Evolution of the World Economy: A 2023 Update,”</span> <em>Journal of Economic Surveys</em>, 2024, 1--41.</span> I had the good fortune to sit next to Maddison at dinner once. He was a very pleasant conversationalist. This ranks up there, for data nerdery, with the times I’ve had dinner with a PI of American National Election Studies and with a co-director of Correlates of War.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Methods</category>
+  <guid>https://erauchway.github.io/posts/gdp_chart/gdp_chart.html</guid>
+  <pubDate>Fri, 04 Oct 2024 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>President Hoover was not a progressive</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -807,70 +1308,6 @@
 </section></div> ]]></description>
   <guid>https://erauchway.github.io/posts/blower/</guid>
   <pubDate>Sat, 28 Oct 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>You didn’t build that</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/willow/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>There’s a pivotal moment in <em>Ford v. Ferrari</em> when Henry Ford II explains why the American automaker is going to defeat the Italian one.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><video src="fvf_trim.mp4" class="img-fluid" controls=""><a href="fvf_trim.mp4">Video</a></video></p>
-<figcaption>Go ahead, Carroll. Go to war.</figcaption>
-</figure>
-</div>
-<p>It’s a great scene as played (by Tracy Letts and Matt Damon) and it’s a great scene as written, by Jez Butterworth, John-Henry Butterworth, and Jason Keller.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/willow/fvf.png" class="img-fluid figure-img"></p>
-<figcaption>From the <a href="https://assets.scriptslug.com/live/pdf/scripts/ford-v-ferrari-2019.pdf">shooting script</a> of <em>Ford v. Ferrari.</em></figcaption>
-</figure>
-</div>
-<p>I’d be lying if I claimed I didn’t enjoy it, or the rest of the movie. But it is, of course, total nonsense in any number of ways.</p>
-<p>The germ of truth there is that Ford did build a lot of B-24 Liberator bombers at the Willow Run plant it operated in Ypsilanti, Michigan. David M. Kennedy says about half the 18,000 or so Liberators built during the war came from Willow Run, and that at peak efficiency, the plant turned out one every sixty-three minutes.<span class="citation" data-cites="kennedyFreedomFearAmerican1999a"><sup>1</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/willow/willow_run.jpeg" class="img-fluid figure-img"></p>
-<figcaption>B-24s on the Willow Run assembly line. Library of Congress.</figcaption>
-</figure>
-</div>
-<p>So Willow Run was run by Ford and it did build a lot of bombers that were vital to the Eighth Air Force’s bombing campaign in Europe. Especially before D-Day, the long-range B-24 presented the best hope of striking deep into the heart of the continent. (Although if you know anything about the Ploesti raid, you know that hope was far too costly to realize until long-range fighters were generally available.)</p>
-<p>But of course, (A) about half the B-24s is nowhere near three-fifths of the bombers and (B) the bombing campaign didn’t defeat Hitler, though it certainly made a difference.</p>
-<p>Maybe most important, Ford didn’t build the plant. Let’s look at <a href="https://hdl.handle.net/2027/uiug.30112055484221?urlappend=%3Bseq=190%3Bownerid=32088860-189">the relevant page in the report on <em>War Industrial Facilities Authorized July 1940–August 1945.</em></a><span class="citation" data-cites="unitedstatescivilianproductionadministrationWarIndustrialFacilities1946a"><sup>2</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/willow/wr_fund.png" class="img-fluid figure-img"></p>
-<figcaption>The relevant part of the relevant page from <em>War Industrial Facilities Authorized July 1940–August 1945.</em></figcaption>
-</figure>
-</div>
-<p>Maybe the writing there is a bit small. It says, “Willow Run Airplane Factory, Ypsilanti Mich, New Plant; Heavy Bombers, B-24, Additional sub-assemblies.” Then it says, “Total cost, $94,898”—that’s in thousands of dollars, so about $95 million. Then it says that of the total cost of $94,898,000, the public funds contributed were $94,898,000. In other words, all of it. As you can see, under “Privately financed,” there is the entry “–”.</p>
-<p>Mark Wilson did his best to make this point in <em>Destructive Creation,</em> but I guess the <em>Ford v. Ferrari</em> writers didn’t read it. Wilson notes that not only did the federal government foot the bill for this, as it did for much wartime construction, it actively ran the programs, setting costs, specification, laboring conditions, and lots more. To use the case of the B-24 as a continuing example, the bomber was originally developed by Consolidated Aircraft of San Diego, and Roosevelt administration officials grew dissatisfied with its progress in 1941. One wrote that “I have never seen so large an outfit run as ‘haphazardly’ as this one.”<span class="citation" data-cites="sittersonAircraftProductionPolicies1946a"><sup>3</sup></span> So, as Wilson notes, the administration edged out Consolidated’s CEO, facilitated the firm’s takeover by Vultee and the installation of Tom Girdler (formerly of Republic Steel) to run it.<span class="citation" data-cites="wilsonDestructiveCreationAmerican2016a"><sup>4</sup></span> Girdler, <em>Time</em> <a href="https://content.time.com/time/subscriber/article/0,33009,772968,00.html">alleged,</a> had by then “made his peace with Franklin Roosevelt and the C.I.O.”</p>
-<p>So no, it wouldn’t be right to say that “Roosevelt beat Hitler,” of course. But it’s not right to say that Willow Run was exactly Henry Ford’s doing, either.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>David M. Kennedy, <em>Freedom from Fear: The American People in Depression and War, 1929–1945</em> (New York: Oxford University Press, 1999), 653–54.↩︎</p></li>
-<li id="fn2"><p>United States, Civilian Production Administration, <em>War Industrial Facilities Authorized July 1940–August 1945</em> (Washington, D.C.: Civilian Production Administration, 1946).↩︎</p></li>
-<li id="fn3"><p>J. Carlyle Sitterson, <em>Aircraft Production Policies Under the National Defense Advisory Commission and Office of Production Management, May 1940 to December 1941</em> (Washington, D.C.: War Production Board, 1946), 153.↩︎</p></li>
-<li id="fn4"><p>Mark Wilson, <em>Destructive Creation: American Business and the Winning of World War II</em> (Philadelphia: University of Pennsylvania Press, 2016), 209.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>New Deal</category>
-  <category>US mobilization</category>
-  <category>B-24</category>
-  <category>Movies</category>
-  <guid>https://erauchway.github.io/posts/willow/</guid>
-  <pubDate>Mon, 23 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
