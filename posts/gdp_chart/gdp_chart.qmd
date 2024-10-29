@@ -91,10 +91,11 @@ theme_set(
     )
 )
 
-## now, make the plot again, but with these aesthetic choices, calling up the object "p" where we stored the plot before
+## now, make the plot again, but with these aesthetic choices, 
+## calling up the object "p" where we stored the plot before
 p +
   scale_color_grafify(palette = "r4") + ## a color-blind-friendly palette
-  scale_y_continuous(labels = label_number(scale_cut = cut_short_scale()))
+  scale_y_continuous(labels = label_number(scale_cut = cut_short_scale())) ## abbreviated scale to avoid spurious precision
 ```
 
 So the key here is, none of this data or even, in this example, the fonts live on my computer, or the server; it's all pulled from the web. Which means you could copy the code and run it on your computer, in some environment supporting R, and it should work the same.

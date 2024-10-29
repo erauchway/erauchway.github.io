@@ -1,0 +1,63 @@
+---
+title: Customs receipts under the McKinley tariff
+date: 2024-10-15
+draft: TRUE
+---
+
+```{r, warning=FALSE, results=FALSE, message=FALSE}
+library(tidyverse)
+here::i_am("posts/customs/index.qmd")
+library(here)
+library(showtext)
+library(ggtext)
+library(scales)
+library(geomtextpath)
+library(ggseas)
+library(grafify)
+font_add_google(name = "Public Sans", family = "Public Sans")
+font_add_google(name = "Holtwood One SC", family = "Holtwood One SC")
+showtext_auto()
+## make some choices for how we want the graph to look
+theme_set(
+  theme_void() +
+    theme(
+      text = element_text(family = "Public Sans", 
+                          color = "midnightblue"),
+      plot.title = element_markdown(family = "Holtwood One SC", 
+                                    color = "khaki4"),
+      plot.title.position = "plot",
+      plot.caption = element_markdown(size = rel(0.5)),
+      plot.background = element_rect(fill = "floralwhite",
+                                     color = "floralwhite"),
+      plot.margin = margin(l=10,r=10),
+      axis.text = element_text(margin = margin(2,2,2,4)),
+      axis.title.y = element_text(angle = 90, margin =
+                                    margin(2,2,4,2)),
+      axis.line = element_line(color = "chocolate4"),
+      axis.ticks = element_line(color = "chocolate3"),
+      axis.ticks.length = unit(1, "mm"),
+      legend.position = "inside",
+      legend.justification.inside = c(0.98, 0.05),
+      panel.background = element_rect(fill = "antiquewhite1",
+                                      color = "NA")
+    )
+)
+
+act <- tibble(y = c(-Inf,Inf), x = c(as.Date("1890-10-06"), as.Date("1890-10-06")))
+
+# effective date of McKinley tariff from 26 Stat. 567
+
+read_csv(here("posts", "customs", "receipts.csv")) |>
+  filter(month > as.Date("1885-09-30")) |>
+  ggplot(aes(x = month, y = sum)) +
+  geom_line(color = "#117733", linewidth = 1) +
+  # stat_decomp(frequency = 12, type = "multiplicative", color = "#117733", linewidth = 1) +
+  geom_textline(data = act, aes(x, y), color = "#AA4499", linewidth = 1, label = "McKinley Tariff takes effect", hjust = 0.2, family = "Public Sans", fontface = "bold") +
+  scale_y_continuous(labels = label_number(scale_cut = cut_short_scale())) +
+  labs(
+    title = "Monthly receipts (USD) from customs at New York",
+    x = "", y = "", 
+    caption = "Chart made using R and ggplot by Eric Rauchway with data from *Annual Report of the Secretary of the Treasury for the year 1893.*"
+  )
+```
+

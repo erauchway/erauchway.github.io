@@ -1,0 +1,17 @@
+{
+  "hash": "903ca5d3c0fa223e4ec5f9d7d86bc4d8",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Customs receipts under the McKinley tariff\ndate: 2024-10-15\ndraft: TRUE\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nhere::i_am(\"posts/customs/index.qmd\")\nlibrary(here)\nlibrary(showtext)\nlibrary(ggtext)\nlibrary(scales)\nlibrary(geomtextpath)\nlibrary(ggseas)\nlibrary(grafify)\nfont_add_google(name = \"Public Sans\", family = \"Public Sans\")\nfont_add_google(name = \"Holtwood One SC\", family = \"Holtwood One SC\")\nshowtext_auto()\n## make some choices for how we want the graph to look\ntheme_set(\n  theme_void() +\n    theme(\n      text = element_text(family = \"Public Sans\", \n                          color = \"midnightblue\"),\n      plot.title = element_markdown(family = \"Holtwood One SC\", \n                                    color = \"khaki4\"),\n      plot.title.position = \"plot\",\n      plot.caption = element_markdown(size = rel(0.5)),\n      plot.background = element_rect(fill = \"floralwhite\",\n                                     color = \"floralwhite\"),\n      plot.margin = margin(l=10,r=10),\n      axis.text = element_text(margin = margin(2,2,2,4)),\n      axis.title.y = element_text(angle = 90, margin =\n                                    margin(2,2,4,2)),\n      axis.line = element_line(color = \"chocolate4\"),\n      axis.ticks = element_line(color = \"chocolate3\"),\n      axis.ticks.length = unit(1, \"mm\"),\n      legend.position = \"inside\",\n      legend.justification.inside = c(0.98, 0.05),\n      panel.background = element_rect(fill = \"antiquewhite1\",\n                                      color = \"NA\")\n    )\n)\n\nact <- tibble(y = c(-Inf,Inf), x = c(as.Date(\"1890-10-06\"), as.Date(\"1890-10-06\")))\n\n# effective date of McKinley tariff from 26 Stat. 567\n\nread_csv(here(\"posts\", \"customs\", \"receipts.csv\")) |>\n  filter(month > as.Date(\"1885-09-30\")) |>\n  ggplot(aes(x = month, y = sum)) +\n  geom_line(color = \"#117733\", linewidth = 1) +\n  # stat_decomp(frequency = 12, type = \"multiplicative\", color = \"#117733\", linewidth = 1) +\n  geom_textline(data = act, aes(x, y), color = \"#AA4499\", linewidth = 1, label = \"McKinley Tariff takes effect\", hjust = 0.2, family = \"Public Sans\", fontface = \"bold\") +\n  scale_y_continuous(labels = label_number(scale_cut = cut_short_scale())) +\n  labs(\n    title = \"Monthly receipts (USD) from customs at New York\",\n    x = \"\", y = \"\", \n    caption = \"Chart made using R and ggplot by Eric Rauchway with data from *Annual Report of the Secretary of the Treasury for the year 1893.*\"\n  )\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
