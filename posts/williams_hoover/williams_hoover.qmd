@@ -1,0 +1,44 @@
+---
+title: "Historians and the isolationists"
+subtitle: "Perhaps the first of a series"
+author: "Eric Rauchway"
+date: 2025-01-06
+categories: 
+  - Historiography
+  - Hoover
+  - Isolationists
+---
+
+People sometimes ask, "what professional opinion of yours is most likely to have you like---"
+
+![A still of Flynn from the movie *Tangled,* standing blithely in the center of a circle of swords pointed at his face; it is a popular meme for designating unpopular opinions.](./flynn_swords.png)
+
+Here's my answer: scholars of US foreign policy have been far too generous in their treatment of interwar opponents of anti-Nazi foreign policy as proposed and practiced by the Roosevelt administration. I can understand the logic: there is ample reason to oppose many instances of US overseas militarism after 1945; none would have been possible without World War II, which created the modern US military state and the intellectual framework that supports it; therefore the creation of that state and framework must have been a mistake and further, the opponents of it must have had good ideas.
+
+I'll use this post to lay out the basic problem by looking at an essay by a, if not *the,* preeminent New Left historian of US foreign policy, writing about a, if not *the,* preeminent opponent of Franklin Roosevelt's way of thinking.
+
+Writing in 1970, William A. Williams complained that "Izzy Stone" too-frequently compared President Richard Nixon to Herbert Hoover; if both were Quakers, Williams said, "there we have a case of no difference with a fantastic distinction."[@williamsWhatThisCountry1970] The remark shows how little Williams understood Hoover, or Nixon: In 1930, President Hoover authorized Lewis Strauss to use "the services of any one of our various government secret services" to secure documents indicating how Democratic politicians planned to criticize him. [Strauss tasked an agent of the Office of Naval Intelligence to break into a Democratic Party headquarters in search of such documents.](https://erauchway.github.io/posts/oppenheimer/) Four decades later, Nixon would do something similar with less-capable burglars and get caught. Hoover and Nixon had in common the belief they could use the sinews of government for their own purposes, whatever the law said.[@dorwartConflctDutyNavy1983, 3]
+
+They shared this belief in part because they believed they were on the right side of a great moral battle; Hoover and Nixon thought the New Deal had let into government "a stream of treason"---that was Hoover's phrase, when he wrote Nixon to congratulate him for bringing Alger Hiss to book.[@olmstedRightOutCalifornia2015, 233]
+
+I mention this because I want to point out how ill-informed was Williams's enthusiasm for Hoover. Williams liked Herbert Hoover because he thought “Hoover was against The Empire.” One of the twentieth century’s foremost scholars of the history of US foreign policy, which he understood as the history of a specific kind of imperialism, Williams helped to rehabilitate Hoover and other Republicans of the interwar period by claiming them for his cause. They too opposed US imperialism, for which they were vilified by historians in the business of “levitating Godfather Franklin.”[@williamsWhatThisCountry1970]
+
+Roosevelt wanted to increase US military and diplomatic power because he opposed the rise of Nazi Germany, among other aggressor powers. Hoover was more bothered by the New Deal than by Nazism; he thought of them as two sides of the same coin, and the New Deal was here, which Nazism was not.
+
+> In emotional politics. . . . You need a devil if you are going to succeed. Their devil is the Jew. In the United States it is economic royalists.
+
+The Nazis posed no threat to anyone outside Germany, Hoover thought: "they have no desire to dominate any but their own race." And the inevitability of counterattack precluded a European war. "Europe is all cheek by jowl, they can reprise pretty easy . . . which will neutralize any danger of attack."[@rauchwayWinterWarHoover2018, 185]
+
+In my view Hoover, and by extension Williams, was wrong about all these things: I think the New Deal did much not only to preserve what existed of US democracy, but to extend it, and also to oppose fascism. I think the Nazis posed a threat to people other than Germans. And I think the inevitability of counterattack did not rule out a European war. 
+
+Williams by contrast regarded Hoover's focus on opposition to the New Deal as "so right it shakes you." Moreover, Williams firmly believed the essence of Hoover's foreign policy was that "he recognized the necessity for nonimperial---and anti-imperial---action."[@williamsWhatThisCountry1970] 
+
+Exactly how Williams's analysis would square Hoover's acribed anti-imperialism with his relative indifference to the establishment of a Nazi empire in Europe and Africa remains unclear. As is often, if not invariably, the case with historians who seek to rehabilitate opponents of Roosevelt's anti-Nazi foreign policy, Williams does not say what he thinks would have happened to those under Nazi rule, or to the United States, in an alternate history where Hoover remained the architect of US foreign policy. 
+
+Williams's understanding of Hoover has long since been undermined by the contents of the archives, but that would have been all right by him: 
+
+>For the feel of how Hoover reacted, do not waste your time ransacking the archives. Just listen to The Doors doing the first verse of “The Soft Parade.”[@williamsWhatThisCountry1970]
+
+I fear that much scholarly sympathy for the interwar isolationists is about as soundly supported.[^1]
+
+[^1]: People---including Williams---often object to the word "isolationists" for various reasons, many of them also misbegotten in my view. For a start, people will object, it is a misleading term, they weren't opposed to all forms of foreign involvement. Which is fair enough, but it's no more misleading than "interventionists": the people we describe by that term weren't in favor of all intervention everywhere. The truth is, the interventionists wanted to aid the powers opposing the Nazis, and the isolationists didn't. In that context, perhaps one can understand that "isolatonist" is really a very polite term.
