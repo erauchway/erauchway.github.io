@@ -15,7 +15,7 @@ David Irving sued the historian Deborah Lipstadt for libel in 1996, and lost in 
 
 Lipstadt wrote a book about it, *History on Trial,* but in this post I want to focus on the books written by historians called to give expert opinions in the case, because it seems to me they were asked to do something unusual for professional historians, but perhaps helpful.
 
-For a while I used to assign graduate students Richard Evans's *Telling Lies About Hitler* because it echoed his title *Telling the Truth About History,* and tied into his broader concerns about the historical profession.[@evansTellingLiesHitler2002a, the American edition is called *Lying About Hitler,* which is less helpful in illustrating the point.] But I came to feel that this feature, which attracted me, was making the book less good for graduate students; Evans may perhaps assume too much of readers, expecting them to know his particular position regarding evidence and argumentation, and to be too aware of the arguments he opposes.
+For a while I used to assign graduate students Richard Evans's *Telling Lies About Hitler* because it echoed his title *Telling the Truth About History,* and tied into his broader concerns about the historical profession.[@evansTellingLiesHitler2002, the American edition is called *Lying About Hitler,* which is less helpful in illustrating the point.] But I came to feel that this feature, which attracted me, was making the book less good for graduate students; Evans may perhaps assume too much of readers, expecting them to know his particular position regarding evidence and argumentation, and to be too aware of the arguments he opposes.
 
 But what his book has, and shares with the others, is an awareness that what the trial asked of historians is not what ordinary scholarship asks of historians---although maybe it should: an aggressively forensic approach to developing the evidence for a case and establishing, point by point, the narrative we know. As Robert Jan van Pelt says in his book, 
 
@@ -23,10 +23,10 @@ But what his book has, and shares with the others, is an awareness that what the
 
 In the crucible of a legal case, what we think we know must be, if not discarded, then picked carefully apart to rediscover its basis. Van Pelt's book, *The Case for Auschwitz,* seems to me now the most useful of the three, because he explicitly develops the nature of the problem he, and other expert witnesses, faced. He returns---as I think one should---to Marc Bloch for a discussion of the nature of evidence and historical proof. 
 
-The third expert book that is of occasional use to me as a teacher is Peter Longerich's *Unwritten Order,* about Hitler's personal role in the Holocaust. Perhaps we have no document reading, "Dear Heinrich and Reinhard, Please go ahead and kill all the Jews, like we discussed. Kisses, Adolf." But there is copious evidence of Hitler's involvement in the evolution of the Final Solution.[@longerichUnwrittenOrderHitler2003a] And this is a question students, perhaps immersed in "just-asking-questions" internet forums or worse, sometimes pose in class.
+The third expert book that is of occasional use to me as a teacher is Peter Longerich's *Unwritten Order,* about Hitler's personal role in the Holocaust. Perhaps we have no document reading, "Dear Heinrich and Reinhard, Please go ahead and kill all the Jews, like we discussed. Kisses, Adolf." But there is copious evidence of Hitler's involvement in the evolution of the Final Solution.[@longerichUnwrittenOrderHitler2003] And this is a question students, perhaps immersed in "just-asking-questions" internet forums or worse, sometimes pose in class.
 
 Karl Jaspers has what I think is a funny line:
 
-> We are always ready to flee from creative work into that which is automatic. On days when the savant makes no progress in his researches, he is still able to give an expert opinion.[@jaspersOriginGoalHistory2021a, 120]
+> We are always ready to flee from creative work into that which is automatic. On days when the savant makes no progress in his researches, he is still able to give an expert opinion.[@jaspersOriginGoalHistory2021, 120]
 
 But as these books show, there is nothing automatic about the best expert opinions.

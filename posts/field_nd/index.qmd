@@ -8,17 +8,17 @@ categories:
          - New Deal recovery
 ---
 
-In addressing various arguments against the New Deal, I've generally cited Alexander Field's fine (and wonderfully titled) *A Great Leap Forward.*[@fieldGreatLeapForward2011a] I've never cited his franker argument from *Challenge,* which somehow seems relevant today:
+In addressing various arguments against the New Deal, I've generally cited Alexander Field's fine (and wonderfully titled) *A Great Leap Forward.*[@fieldGreatLeapForward2011] I've never cited his franker argument from *Challenge,* which somehow seems relevant today:
 
-> The consequences of putting a political party that frequently disparaged government in charge of providing essential government services became clear, however, in the federal government's response to Hurricane Katrina. While the micropolitics may have seemed like a win for ideologically driven Republicans---provision of shoddy government services could reinforce the claim that only the private sector is able to provide decent services---the philosophy eventually turned a cropper at the polls and has been decisively rejected. It is clear that the American public wants well-thought-out government programs and policies, competently executed.[@fieldGreatDepressionNew2009a, 95]
+> The consequences of putting a political party that frequently disparaged government in charge of providing essential government services became clear, however, in the federal government's response to Hurricane Katrina. While the micropolitics may have seemed like a win for ideologically driven Republicans---provision of shoddy government services could reinforce the claim that only the private sector is able to provide decent services---the philosophy eventually turned a cropper at the polls and has been decisively rejected. It is clear that the American public wants well-thought-out government programs and policies, competently executed.[@fieldGreatDepressionNew2009, 95]
 
 So far as the argument about the New Deal goes, Field addresses the "misconceptions and frankly silly claims" he's seen made "by both economists and non-economists." Did the New Deal see off the Great Depression altogether? No, but
 
-> Although they did not restore us to full employment until the war, New Deal fiscal policies nevertheless operated in the right direction through Roosevelt's first term.[@fieldGreatDepressionNew2009a, 99]
+> Although they did not restore us to full employment until the war, New Deal fiscal policies nevertheless operated in the right direction through Roosevelt's first term.[@fieldGreatDepressionNew2009, 99]
 
-He goes on to note that the often cited argument by Ohanian is "unpersuasive," inasmuch as---for all its shortcomings---the NRA did do its part in "arresting deflation" and anyway in no way constitutes the whole of the New Deal.[@fieldGreatDepressionNew2009a, 99]
+He goes on to note that the often cited argument by Ohanian is "unpersuasive," inasmuch as---for all its shortcomings---the NRA did do its part in "arresting deflation" and anyway in no way constitutes the whole of the New Deal.[@fieldGreatDepressionNew2009, 99]
 
-Field concludes---this is 2009---that Barack Obama's key advisors, notably Lawrence Summers and Tim Geithner, "have been too deferential toward Wall Street." And he likens "New Deal denialism, as some have called it," to creationism; that is, that it has no more proper relation to economics as a science than creationism does to biology.[@fieldGreatDepressionNew2009a, 104]
+Field concludes---this is 2009---that Barack Obama's key advisors, notably Lawrence Summers and Tim Geithner, "have been too deferential toward Wall Street." And he likens "New Deal denialism, as some have called it," to creationism; that is, that it has no more proper relation to economics as a science than creationism does to biology.[@fieldGreatDepressionNew2009, 104]
 
 ![Index of industrial production 1919--1940, with shaded areas showing recessions.](bizcycles_redone.png)
 

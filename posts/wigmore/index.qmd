@@ -9,7 +9,7 @@ categories:
          - New Deal recovery
 ---
 
-Barrie A. Wigmore has an article of 1987 asking whether the gold panic of early 1933 was caused by fears of devaluation, to which he answers "yes."[@wigmoreWasBankHoliday1987a]
+Barrie A. Wigmore has an article of 1987 asking whether the gold panic of early 1933 was caused by fears of devaluation, to which he answers "yes."[@wigmoreWasBankHoliday1987]
 
 But immediately on taking office, Roosevelt began the process of devaluing, and the panic ended. Here's Wigmore's own data of daily gold holdings in the New York Federal Reserve Bank, charted.
 

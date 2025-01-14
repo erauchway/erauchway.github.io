@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-5937bd1e4c91de84313314c5bbb100b8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-90cde31674665d3a891509ece4ace855.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -162,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p>People will commonly blame the Weimar hyperinflation for the rise to power of the Nazi party, disregarding the ten-year lag and the intervening Great Depression, an episode of severe deflation. Recently one historian set forth a “precise mechanism” for how inflation produced antisemitism:</p>
 <blockquote class="blockquote">
-<p>In stable times, we expect each partner in a commercial transaction to believe that the price was fair, and that both sides benefit from the exchange. I buy a meal that satisfies my hunger, and the innkeeper in return has money that can be used to satisfy their needs. When prices move [sic; it should say “rise”], I am upset by having to pay more. The innkeeper is angry because the money I have given no longer buys so many goods. We both think that we have lost out in the transaction, [to this point, the characterization seems fine, if naïve: it’s in the next word that I begin to disagree] and that we have been manipulated by some sinister force. We also feel guilty for taking advantage of others—getting rid of our banknotes as soon as possible. We start to think that we are behaving in a speculative and grasping way. Non-Jewish Germans after the First World War in the middle of the currency disorder thus took up activities that they associated with Jewish actions, hated themselves for their breach of traditional norms, and externalized that powerful emotion by blaming the groups associated with finance and money.<span class="citation" data-cites="jamesSevenCrashesEconomic2023a"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span></p>
+<p>In stable times, we expect each partner in a commercial transaction to believe that the price was fair, and that both sides benefit from the exchange. I buy a meal that satisfies my hunger, and the innkeeper in return has money that can be used to satisfy their needs. When prices move [sic; it should say “rise”], I am upset by having to pay more. The innkeeper is angry because the money I have given no longer buys so many goods. We both think that we have lost out in the transaction, [to this point, the characterization seems fine, if naïve: it’s in the next word that I begin to disagree] and that we have been manipulated by some sinister force. We also feel guilty for taking advantage of others—getting rid of our banknotes as soon as possible. We start to think that we are behaving in a speculative and grasping way. Non-Jewish Germans after the First World War in the middle of the currency disorder thus took up activities that they associated with Jewish actions, hated themselves for their breach of traditional norms, and externalized that powerful emotion by blaming the groups associated with finance and money.<span class="citation" data-cites="jamesSevenCrashesEconomic2023"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span></p>
 </blockquote>
 <p>It seems to me that this explanation fails on two grounds. First, unless you already associate Jews with “speculative and grasping” behavior and are prone to see them as involved in sinister conspiracies to do with money and finance—unless, that is, you are already an antisemite—there is no reason for inflation to lead to extreme antisemitism. The problem isn’t inflation, it’s antisemitism.</p>
 <p>Second, if this the mechanism, then shouldn’t it be reversed by deflation? In those transactions, the author’s non-Jewish German should be grateful to have to part with less money than previously; the author’s innkeeper should be pleased to be able to buy more with his money than before; both should be happy that the groups they associate with finance and money have treated them thus . . . yes, well, I grant it’s implausible—<em>because we’re talking about a deeply antisemitic culture.</em> The fault lies not with rising prices, but with antisemitism.</p>
@@ -267,8 +267,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -379,7 +377,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

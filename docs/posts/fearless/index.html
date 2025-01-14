@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-5937bd1e4c91de84313314c5bbb100b8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-90cde31674665d3a891509ece4ace855.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -166,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>One of seven evocative portraits of La Guardia featured on the first page of “Fearless Fiorello” by William R. Conklin; this version is from an ad for the article that appeared in <em>Time,</em> because in the bound version of the <em>Saturday Evening Post</em> the photograph is too close to the gutter to be reproduced intact.</figcaption>
 </figure>
 </div>
-<p>The article begins with a La Guardia-ism many people will know, but perhaps without the context. In February 1941, appearing before the Senate Foreign Relations Committee to testify in favor of Lend-Lease, La Guardia was asked about earlier remarks by Justice Herbert O’Brien of the Queens Domestic Relations Court, who told the committee that passing Lend-Lease would lead to racial conflict. One of the senators reminded the Little Flower he had appointed O’Brien. The mayor replied, “Senator . . . I have made a lot of good appointments, and I think I’m pretty good. But when I make a mistake—it’s a beaut!”<span class="citation" data-cites="conklinFearlessFiorello1941a"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span></p>
+<p>The article begins with a La Guardia-ism many people will know, but perhaps without the context. In February 1941, appearing before the Senate Foreign Relations Committee to testify in favor of Lend-Lease, La Guardia was asked about earlier remarks by Justice Herbert O’Brien of the Queens Domestic Relations Court, who told the committee that passing Lend-Lease would lead to racial conflict. One of the senators reminded the Little Flower he had appointed O’Brien. The mayor replied, “Senator . . . I have made a lot of good appointments, and I think I’m pretty good. But when I make a mistake—it’s a beaut!”<span class="citation" data-cites="conklinFearlessFiorello1941"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span></p>
 <p>The article does not give context for the wordless remark depicted in the photograph.</p>
 
 
@@ -260,8 +260,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -372,7 +370,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

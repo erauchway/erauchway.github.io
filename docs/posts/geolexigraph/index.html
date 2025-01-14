@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-5937bd1e4c91de84313314c5bbb100b8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-90cde31674665d3a891509ece4ace855.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -159,8 +159,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Today’s fun source is the “Geolexigraph of the Neutrality Act of 1939,” in the Department of Commerce’s own journal, <em>Comparative Law Series,</em> of May 1940.<span class="citation" data-cites="perkinsGeolexigraphNeutralityAct1940a"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span> The journal provided information to US businesses on how to navigate US laws and policy; this particular article included all manner of information from the Department of Commerce itself, the post office, the Department of State, the customs office, and various other entities on how not to run afoul of the neutrality act passed just after the beginning of World War II in Europe.</p>
-<p>But beware! for the Commerce Department folks introduced an error into their reproduction of the president’s declaration of a combat area under the law, and two of the geographic points are swapped. The original authoritative source is in the Department of State’s own bulletin.<span class="citation" data-cites="ProclamationDefiningCombat1940a"><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></span></p>
+<p>Today’s fun source is the “Geolexigraph of the Neutrality Act of 1939,” in the Department of Commerce’s own journal, <em>Comparative Law Series,</em> of May 1940.<span class="citation" data-cites="perkinsGeolexigraphNeutralityAct1940"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span> The journal provided information to US businesses on how to navigate US laws and policy; this particular article included all manner of information from the Department of Commerce itself, the post office, the Department of State, the customs office, and various other entities on how not to run afoul of the neutrality act passed just after the beginning of World War II in Europe.</p>
+<p>But beware! for the Commerce Department folks introduced an error into their reproduction of the president’s declaration of a combat area under the law, and two of the geographic points are swapped. The original authoritative source is in the Department of State’s own bulletin.<span class="citation" data-cites="ProclamationDefiningCombat1940"><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></span></p>
 <p>And for yet more fun here is a map showing that same combat area.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -261,8 +261,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -373,7 +371,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

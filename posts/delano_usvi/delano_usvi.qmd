@@ -1,0 +1,20 @@
+---
+title: "New Fields, New Deals"
+subtitle: Pretty pictures
+author: "Eric Rauchway"
+date: 2025-01-14
+categories: 
+  - USVI
+  - New Deal
+---
+
+This post is no profounder than to observe that this (rather lovely, to me) Jack Delano photo of 1941, for the Farm Security Administration, of sugarcane cultivators at the Bethlehem estate of the Virgin Islands Company on St. Croix, reminds me of the Winslow Homer painting, "The Veteran in a New Field," of 1865.[^1]
+
+![Jack Delano, FSA photograph of 1941: Cultivating sugar cane on the Virgin Islands Company land, vicinity of Bethlehem, Saint Croix. Library of Congress.](./delano.jpg){.lightbox}
+
+![Winslow Homer painting of 1941, The Veteran in a New Field. Metropolitan Museum of Art.](./homer_veteran.jpg)
+
+The Bethlehem estate on St. Croix was a property previously worked by the (Danish) West Indian Sugar Company, which the Roosevelt administration succeeded in purchasing and parceling out as homesteads available only to Virgin Islanders or people who had already been resident in the Virgin Islands for three years (most went to native Crucians; fewer to Puerto Rican migrants). The Virgin Islands Company bought the homesteaders' sugarcane, making some of it into Government House Rum. That also is a whole other story, though.
+
+[^1]: If you recognize the Homer painting and not from seeing it at the [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/11145) in New York, it's because it's the cover illustration of Tom Petty's album, *Southern Accents.* The veteran is, as the description reads, a Union army veteran. The relation of this painting to the text of *Southern Accents* has to be a matter for a much longer post. The Jack Delano photograph is at the [Library of Congress.](https://www.loc.gov/resource/fsac.1a33976/)
+

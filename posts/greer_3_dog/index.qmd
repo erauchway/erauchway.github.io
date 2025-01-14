@@ -3,7 +3,7 @@ title: "The German threat: Plan Dog"
 author: "Eric Rauchway"
 date: 2023-04-13
 categories:
-    - convoys
+    - Convoys
     - Greer
     - US strategy
 ---
@@ -28,4 +28,4 @@ Any other option, Stark believed, would end in British collapse---and thus a ser
 
 The memorandum thus recommended joint Army-Navy plans and moreover, "secret staff talks on technical matters with the British military and naval authorities" to assure coordination of the impending war effort.
 
-The Army accepted Stark's memo with the addition that the United States should expect to supply substantial air support in a war alongside the British. The president authorized the staff conversations, and on December 2, 1940, Stark invited the British to come to Washington for joint planning.[@connWesternHemisphereFramework1960a, 92]
+The Army accepted Stark's memo with the addition that the United States should expect to supply substantial air support in a war alongside the British. The president authorized the staff conversations, and on December 2, 1940, Stark invited the British to come to Washington for joint planning.[@connWesternHemisphereFramework1960, 92]

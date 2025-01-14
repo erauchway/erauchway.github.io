@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-5937bd1e4c91de84313314c5bbb100b8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-90cde31674665d3a891509ece4ace855.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -160,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>While doing a <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/hello_im_eric_rauchway_a_historian_of_the_new/?rdt=53843">Reddit AMA for <em>Myth America,</em></a> in which I have a chapter on pernicious myths about the New Deal, I received <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/comment/kbfqmwp/">a question about <em>Murdering McKinley,</em></a> reminding me that book is twenty years old this year.<span class="citation" data-cites="rauchwayNewDeal2022a rauchwayMurderingMcKinleyMaking2003a"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span> A quick glance at <a href="http://htmlpreview.github.io/?https://github.com/erauchway/cv_pub/blob/main/rauchway_cv.html">my c.v.</a> told me that by a coincidence of timing, that means <em>The Great Depression and the New Deal: A Very Short Introduction</em> is fifteen years old, and <em>Winter War: Hoover, Roosevelt, and the First Clash over the New Deal</em> is five.<span class="citation" data-cites="rauchwayGreatDepressionNew2008 rauchwayWinterWarHoover2018"><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></span> These arbitrary digital anniversaries don’t mean a thing, except that we make them so, which is no reason not to. So here are some thoughts, which are mainly for me before I forget them.</p>
+<p>While doing a <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/hello_im_eric_rauchway_a_historian_of_the_new/?rdt=53843">Reddit AMA for <em>Myth America,</em></a> in which I have a chapter on pernicious myths about the New Deal, I received <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/comment/kbfqmwp/">a question about <em>Murdering McKinley,</em></a> reminding me that book is twenty years old this year.<span class="citation" data-cites="rauchwayNewDeal2022 rauchwayMurderingMcKinleyMaking2003"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span> A quick glance at <a href="http://htmlpreview.github.io/?https://github.com/erauchway/cv_pub/blob/main/rauchway_cv.html">my c.v.</a> told me that by a coincidence of timing, that means <em>The Great Depression and the New Deal: A Very Short Introduction</em> is fifteen years old, and <em>Winter War: Hoover, Roosevelt, and the First Clash over the New Deal</em> is five.<span class="citation" data-cites="rauchwayGreatDepressionNew2008 rauchwayWinterWarHoover2018"><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></span> These arbitrary digital anniversaries don’t mean a thing, except that we make them so, which is no reason not to. So here are some thoughts, which are mainly for me before I forget them.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="tr_fdr.png" class="img-fluid figure-img"></p>
@@ -278,8 +278,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -390,7 +388,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

@@ -17,7 +17,7 @@ This latter clause has been interpreted by the Court to allow Congress to remove
 
 Officers of the Department of Justice considered this possibility fraught for various reasons but chiefly for a practical one: 
 
-> If the appellate jurisdiction of the Supreme Court were to be abolished, District Courts and Circuit Courts of Appeals would still be in a position to declare statutes unconstitutional if such questions arose in cases brought before them. A statute preventing the inferior courts from declaring statutes unconstitutional would itself be invalid, in view of the doctrine of *Marbury v. Madison.*[@holtzoffMemorandumAttorneyGeneral1935a]
+> If the appellate jurisdiction of the Supreme Court were to be abolished, District Courts and Circuit Courts of Appeals would still be in a position to declare statutes unconstitutional if such questions arose in cases brought before them. A statute preventing the inferior courts from declaring statutes unconstitutional would itself be invalid, in view of the doctrine of *Marbury v. Madison.*[@holtzoffMemorandumAttorneyGeneral1935]
 
 One has only to look at recent, conflicting decisions in federal districts to see this problem in action, such as in 2014 when [the Sixth Circuit upheld bans on marrying someone of the same gender, while other courts upheld it;](https://www.glaad.org/blog/6th-circuit-court-appeals-upholds-ban-marriage-same-sex-couples) absent a final court of appeal, there might be no way to resolve such a conflict. This concern prevailed within the Roosevelt administration, which turned to expansion instead. 
 

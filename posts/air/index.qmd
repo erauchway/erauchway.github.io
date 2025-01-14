@@ -4,7 +4,7 @@ author: "Eric Rauchway"
 date: 2024-03-15
 categories:
          - B-24
-         - airpower
+         - Airpower
          - US strategy
 ---
 
@@ -20,7 +20,7 @@ That idea is what sent US air crews and factory-fresh B-24s to the North African
 
 That pattern, of striking at industrial targets with the idea of crushing the factories that made modern war possible, and finding out that German defenses could destroy more bombers than the Americans could afford to lose, persisted. Moreover, precision bombing---as the RAF already knew---was a fantasy. The much-celebrated Norden bombsight could, maybe, deliver precision over the sunny US southwest, where many pilots trained---bombs into pickle barrels from thousands of feet in the air!---but it was a very different thing over cloudy and fighter-infested northern and central Europe.
 
-The bombing campaign in 1942--43 (I am reasonably persuaded by modern historians like Phillips O'Brien) may have achieved more than conventional wisdom allows.[@obrienHowWarWas2015a] But those gains came at unsustainable costs: the US couldn't afford to lose so many trained pilots and crews. 
+The bombing campaign in 1942--43 (I am reasonably persuaded by modern historians like Phillips O'Brien) may have achieved more than conventional wisdom allows.[@obrienHowWarWas2015] But those gains came at unsustainable costs: the US couldn't afford to lose so many trained pilots and crews. 
 
 It wasn't until the advances of fighter technology (increased range for P-47s and the arrival of P-51s) as well as advances of the Allies into Western Europe that allowed a free range of bombing in Germany and German-held territory. And the campaigns of early 1944 helped pave the way for D-Day. 
 

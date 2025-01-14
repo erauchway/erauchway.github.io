@@ -10,7 +10,70 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 06 Jan 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jan 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>American History Hit</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/history_hit/history_hit.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I had the opportunity of a pleasant chat with Don Wildman of <em>American History Hit</em> about the Hoover-to-Roosevelt era (arguably a thing I’m expert on) and it became two episodes of that podcast, which you can listen to here if you like:</p>
+<p><a href="https://shows.acast.com/american-history-hit/episodes/president-herbert-hoover-did-he-cause-the-great-depression">Hoover</a></p>
+<p><a href="https://shows.acast.com/american-history-hit/episodes/fdr-the-new-deal">Roosevelt</a></p>
+<p>I do like the opportunity of a good talk about these things, and judging by the email one gets sometimes people like to listen to them.</p>
+
+
+
+ ]]></description>
+  <category>Historiography</category>
+  <category>Hoover</category>
+  <category>New Deal</category>
+  <guid>https://erauchway.github.io/posts/history_hit/history_hit.html</guid>
+  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New Fields, New Deals</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/delano_usvi/delano_usvi.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This post is no profounder than to observe that this (rather lovely, to me) Jack Delano photo of 1941, for the Farm Security Administration, of sugarcane cultivators at the Bethlehem estate of the Virgin Islands Company on St.&nbsp;Croix, reminds me of the Winslow Homer painting, “The Veteran in a New Field,” of 1865.<sup>1</sup></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="./delano.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Jack Delano, FSA photograph of 1941: Cultivating sugar cane on the Virgin Islands Company land, vicinity of Bethlehem, Saint Croix. Library of Congress."><img src="https://erauchway.github.io/posts/delano_usvi/delano.jpg" class="img-fluid figure-img" alt="Jack Delano, FSA photograph of 1941: Cultivating sugar cane on the Virgin Islands Company land, vicinity of Bethlehem, Saint Croix. Library of Congress."></a></p>
+<figcaption>Jack Delano, FSA photograph of 1941: Cultivating sugar cane on the Virgin Islands Company land, vicinity of Bethlehem, Saint Croix. Library of Congress.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/delano_usvi/homer_veteran.jpg" class="img-fluid figure-img"></p>
+<figcaption>Winslow Homer painting of 1941, The Veteran in a New Field. Metropolitan Museum of Art.</figcaption>
+</figure>
+</div>
+<p>The Bethlehem estate on St.&nbsp;Croix was a property previously worked by the (Danish) West Indian Sugar Company, which the Roosevelt administration succeeded in purchasing and parceling out as homesteads available only to Virgin Islanders or people who had already been resident in the Virgin Islands for three years (most went to native Crucians; fewer to Puerto Rican migrants). The Virgin Islands Company bought the homesteaders’ sugarcane, making some of it into Government House Rum. That also is a whole other story, though.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>If you recognize the Homer painting and not from seeing it at the <a href="https://www.metmuseum.org/art/collection/search/11145">Metropolitan Museum of Art</a> in New York, it’s because it’s the cover illustration of Tom Petty’s album, <em>Southern Accents.</em> The veteran is, as the description reads, a Union army veteran. The relation of this painting to the text of <em>Southern Accents</em> has to be a matter for a much longer post. The Jack Delano photograph is at the <a href="https://www.loc.gov/resource/fsac.1a33976/">Library of Congress.</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>USVI</category>
+  <category>New Deal</category>
+  <guid>https://erauchway.github.io/posts/delano_usvi/delano_usvi.html</guid>
+  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Historians and the isolationists</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -737,13 +800,14 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 
 
 
+
 <p>Ben Mathis-Lilley of Slate asked me if I would talk to him a bit about whether women voters brought progressivism to the United States (or, as some would say, <a href="https://slate.com/news-and-politics/2024/08/jd-vance-women-weird-voting-peter-thiel.html">ruined the country</a>), so I said, “sure.”</p>
 <p>Women voted much as men did, but in smaller numbers, up until 1980 or so—when men <a href="https://cawp.rutgers.edu/sites/default/files/resources/ggpresvote.pdf">suddenly skewed far more conservative.</a> So really, the thing that needs explaining is why men voters should have proved so volatile, so emotional, so unpredictable when Ronald Reagan appeared on the scene.</p>
 <p>That doesn’t mean people don’t believe women have, and had, a special interest in voting certain ways, but that belief has varied over time. You might instinctively think that women would be more pro-welfare. The Republican congress and president who supported the Sheppard-Towner Act of 1921 probably did think that. Harriet Frothingham’s <a href="https://www.nytimes.com/1923/02/17/archives/dismisses-suit-against-maternity-act.html">case</a> told them otherwise and the existence of vocal, politically active, conservative women probably helped ensure the Sheppard-Towner Act’s demise.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/women/dewsonflyer.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Excerpt from a women’s division flyer touting the proposed New Deal (or, as here, Square Deal) for labor.</figcaption>
+<figcaption>Excerpt from a women’s division flyer touting the proposed New Deal (or, as here, Square Deal) for labor.</figcaption>
 </figure>
 </div>
 <p>In the 1932 election, the Democrats had a women’s division headed by Molly Dewson, whose team put out flyers that told voters about the New Deal—but she kept the women’s division name off them, to avoid prejudicing men who read them. Dewson believed there was no such thing as women’s issues per se, and warned Franklin Roosevelt, “Franklin, if you ever mortify me by making a speech specifically addressed to women I shall never forgive you.”<span class="citation" data-cites="dewsonAidEnd1952"><sup>1</sup></span></p>
@@ -885,7 +949,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 
 <p>In February 1935 the Supreme Court was about to issue an opinion on the question of whether the Roosevelt administration’s policy of taking the country off the gold standard was constitutional.</p>
 <p>On first coming into office Roosevelt ended the gold standard—people could no longer exchange a dollar for the statutory rate of $20.67 to an ounce of pure gold. By this measure Roosevelt meant to induce the expectation of inflation, and start money out of hoarding and into circulation. Over the course of 1933 the administration devalued the dollar by various means and early in 1934, using the authority of the new Gold Reserve Act, set the dollar at $35 to an ounce of gold, subject to change.</p>
-<p>The administration viewed its policy of moving away from the gold standard and toward a managed dollar as an effective means of fighting the Depression and also of rallying other countries to recovery. Indeed, it proved effective, both economically and eventually as a tool to assemble an international coalition against fascism.<span class="citation" data-cites="rauchwayMoneyMakersHow2015 hausmanRecoveryGreatDepression2019a eggertssonGreatExpectationsEnd2008a"><sup>1</sup></span> To reverse this policy in 1935 and return to the lower prices of 1932 would be calamitous economically, politically, and diplomatically.</p>
+<p>The administration viewed its policy of moving away from the gold standard and toward a managed dollar as an effective means of fighting the Depression and also of rallying other countries to recovery. Indeed, it proved effective, both economically and eventually as a tool to assemble an international coalition against fascism.<span class="citation" data-cites="rauchwayMoneyMakersHow2015 hausmanRecoveryGreatDepression2019 eggertssonGreatExpectationsEnd2008"><sup>1</sup></span> To reverse this policy in 1935 and return to the lower prices of 1932 would be calamitous economically, politically, and diplomatically.</p>
 <p>Roosevelt and his advisors considered various options for getting around an adverse Court opinion; one idea the president floated was to have Federal Reserve branches honor the commitment to redeem paper money in gold at the teller window, but to forbid depositors from taking that gold out of the building, requiring them instead to exchange it for paper money if they wished to return it to circulation.</p>
 <p>Roosevelt also prepared an address to give in the event of the Court demanding he reverse course. In it, he prepared to illustrate in concrete terms how dangerous such a policy would be, and to conclude,</p>
 <blockquote class="blockquote">
@@ -994,7 +1058,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 <p>It began with the idea of precision strikes at the means of making war by bombers capable of self-defense tasked with achieving, to pick a phrase, <a href="https://archive.org/details/VictoryThroughAirPower">“victory through air power.”</a></p>
 <p>That idea is what sent US air crews and factory-fresh B-24s to the North African desert in 1942, with the intention of striking at the vitals of the German war machine—the oil refineries in Romania. This little raid inspired the local Luftwaffe colonel to observe, “This is the beginning.” The Germans, recognizing what would come next, prepared. Subsequent raids on the oil refineries by North Africa-based B-24s incurred heavy US losses—some 280 aircraft and some 2,800 airmen.</p>
 <p>That pattern, of striking at industrial targets with the idea of crushing the factories that made modern war possible, and finding out that German defenses could destroy more bombers than the Americans could afford to lose, persisted. Moreover, precision bombing—as the RAF already knew—was a fantasy. The much-celebrated Norden bombsight could, maybe, deliver precision over the sunny US southwest, where many pilots trained—bombs into pickle barrels from thousands of feet in the air!—but it was a very different thing over cloudy and fighter-infested northern and central Europe.</p>
-<p>The bombing campaign in 1942–43 (I am reasonably persuaded by modern historians like Phillips O’Brien) may have achieved more than conventional wisdom allows.<span class="citation" data-cites="obrienHowWarWas2015a"><sup>1</sup></span> But those gains came at unsustainable costs: the US couldn’t afford to lose so many trained pilots and crews.</p>
+<p>The bombing campaign in 1942–43 (I am reasonably persuaded by modern historians like Phillips O’Brien) may have achieved more than conventional wisdom allows.<span class="citation" data-cites="obrienHowWarWas2015"><sup>1</sup></span> But those gains came at unsustainable costs: the US couldn’t afford to lose so many trained pilots and crews.</p>
 <p>It wasn’t until the advances of fighter technology (increased range for P-47s and the arrival of P-51s) as well as advances of the Allies into Western Europe that allowed a free range of bombing in Germany and German-held territory. And the campaigns of early 1944 helped pave the way for D-Day.</p>
 <p>In the end the bombing campaign became more what the RAF leaders, particularly Arthur Harris, always insisted it had to be: a parallel to and would-be replacement for the ground war, an attempt to pummel the Germans into surrender. The destruction of Dresden in February 1945 stuck out in the minds even of some airmen at the time as exceptionally brutal—though that feeling was swiftly muddied by news out of the liberated concentration camps, and a renewed feeling (for some people, anyway) that the savagery had to be stopped, even if by savage means.</p>
 <p>Whatever the justice of that sentiment, its essence (“we did terrible things that had to be done”) was a long way from the (literally) Disneyfied original vision of the bomber war.</p>
@@ -1019,7 +1083,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 </ol>
 </section></div> ]]></description>
   <category>B-24</category>
-  <category>airpower</category>
+  <category>Airpower</category>
   <category>US strategy</category>
   <guid>https://erauchway.github.io/posts/air/</guid>
   <pubDate>Fri, 15 Mar 2024 07:00:00 GMT</pubDate>
@@ -1034,17 +1098,17 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 
 
 
-<p>As previously <a href="https://erauchway.github.io/posts/greer_3_dog/index.html">noted,</a> Admiral Harold “Betty” Stark, Chief of Naval Operations, wrote the “Plan Dog” memo on November 12, 1940, advocating a joint US-UK naval strategy against Germany in the Atlantic. The president invited the British to come to Washington for joint staff conversations on December 2, 1940.<span class="citation" data-cites="connWesternHemisphereFramework1960a"><sup>1</sup></span> But before that—on November 28—Stark, as Chief of Naval Operations, issued an order to ensure practical preparedness for Anglo-American cooperation: he asked the New York Navy Yard to manufacture twenty sets of Royal Navy signal flags, for use by US warships needing to communicate with their British counterparts.<span class="citation" data-cites="chiefofnavaloperations1941a"><sup>2</sup></span></p>
+<p>As previously <a href="https://erauchway.github.io/posts/greer_3_dog/index.html">noted,</a> Admiral Harold “Betty” Stark, Chief of Naval Operations, wrote the “Plan Dog” memo on November 12, 1940, advocating a joint US-UK naval strategy against Germany in the Atlantic. The president invited the British to come to Washington for joint staff conversations on December 2, 1940.<span class="citation" data-cites="connWesternHemisphereFramework1960"><sup>1</sup></span> But before that—on November 28—Stark, as Chief of Naval Operations, issued an order to ensure practical preparedness for Anglo-American cooperation: he asked the New York Navy Yard to manufacture twenty sets of Royal Navy signal flags, for use by US warships needing to communicate with their British counterparts.<span class="citation" data-cites="chiefofnavaloperations1941"><sup>2</sup></span></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/flags/flags1.png" class="img-fluid figure-img"></p>
 <figcaption>Part of the Royal Navy signal card for 1937.</figcaption>
 </figure>
 </div>
-<p>The US navy and the British navy used different sets of signal flags, so for an American destroyer, say, to communicate with its British counterpart would require the use of a common language.<span class="citation" data-cites="unitedstatesnavyBluejacketsManual1940a SignalCard1937a"><sup>3</sup></span> Stark decided therefore that US ships should be issued with sets of British flags and pennants, and extra fabric to repair them. In February 1941, after the staff conferences, Stark increased the order from twenty to one hundred, fifty to be stored in New York and fifty in Norfolk, for issue to ships on the Atlantic squadron.<span class="citation" data-cites="chiefofnavaloperations1941a"><sup>4</sup></span> By April they were available for distribution; on May 6, the USS <em>Greer</em> received its set from the supply ship USS <em>Prairie.</em><span class="citation" data-cites="supplyofficerussprairieInvoice41a commandantnorfolknavyyard1941a"><sup>5</sup></span></p>
+<p>The US navy and the British navy used different sets of signal flags, so for an American destroyer, say, to communicate with its British counterpart would require the use of a common language.<span class="citation" data-cites="unitedstatesnavyBluejacketsManual1940 SignalCard1937"><sup>3</sup></span> Stark decided therefore that US ships should be issued with sets of British flags and pennants, and extra fabric to repair them. In February 1941, after the staff conferences, Stark increased the order from twenty to one hundred, fifty to be stored in New York and fifty in Norfolk, for issue to ships on the Atlantic squadron.<span class="citation" data-cites="chiefofnavaloperations1941"><sup>4</sup></span> By April they were available for distribution; on May 6, the USS <em>Greer</em> received its set from the supply ship USS <em>Prairie.</em><span class="citation" data-cites="supplyofficerussprairieInvoice41 commandantnorfolknavyyard1941"><sup>5</sup></span></p>
 <p>The president had long since articulated <a href="https://erauchway.github.io/posts/panama/index.html">a vision of hemispheric defense,</a> which would involve de facto assistance to Britain. On February 27, 1941—in, as it happens, a speech to the Oscars—he reminded listeners of this hemispheric policy and made explicit the implicit link to a broader defense:</p>
 <blockquote class="blockquote">
-<p>the defense of all the democracies of all the Americas . . . involves the future of democracy wherever it is imperiled by force or terror.<span class="citation" data-cites="rooseveltAddressAnnualAwards1950a"><sup>6</sup></span></p>
+<p>the defense of all the democracies of all the Americas . . . involves the future of democracy wherever it is imperiled by force or terror.<span class="citation" data-cites="rooseveltAddressAnnualAwards1950"><sup>6</sup></span></p>
 </blockquote>
 <p>In March, Lend Lease passed Congress; on April 25, the administration declared the “patrol” being conducted by US Navy ships looking for aggressor activity would be extended, though Roosevelt said the United States was still not, per se, <a href="http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0116.pdf">conducting convoys.</a> But:</p>
 <blockquote class="blockquote">
@@ -1055,7 +1119,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 </blockquote>
 <p>Or, perhaps, use its new signal flags to communicate the presence of a German vessel to the Royal Navy. Three weeks after the <em>Greer</em> received its set of British signal flags, the president declared an unlimited national emergency, in which the naval patrol would play a vital part.</p>
 <blockquote class="blockquote">
-<p>These ships and planes warn of the presence of attacking raiders, on the sea, under the sea, and above the sea. The danger from these raiders is, of course, greatly lessened if their location is definitely known. . . . Our patrols are helping now to insure delivery of the needed supplies to Britain. All additional measures necessary to deliver the goods will be taken.<span class="citation" data-cites="rooseveltRadioAddressAnnouncing1950a"><sup>7</sup></span></p>
+<p>These ships and planes warn of the presence of attacking raiders, on the sea, under the sea, and above the sea. The danger from these raiders is, of course, greatly lessened if their location is definitely known. . . . Our patrols are helping now to insure delivery of the needed supplies to Britain. All additional measures necessary to deliver the goods will be taken.<span class="citation" data-cites="rooseveltRadioAddressAnnouncing1950"><sup>7</sup></span></p>
 </blockquote>
 
 
@@ -1064,7 +1128,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Stetson Conn and Byron Fairchild, <em>The Western Hemisphere: The Framework of Hemispheric Defense</em>, vol. 12, part 1, United States Army in World War II (Washington, D.C.: Office of the Chief of Military History, 1960), 92.↩︎</p></li>
+<li id="fn1"><p>Stetson Conn and Byron Fairchild, <em>The Western Hemisphere: The Framework of Hemispheric Defense</em>, vol. 12, part 1, United States Army in World War II (Washington, DC: Office of the Chief of Military History, 1960), 92.↩︎</p></li>
 <li id="fn2"><p>Chief of Naval Operations to Bureau of Ships, February 17, 1941, RG 19, box 66, fldr JJ5-(7), National Archives and Records Administration.↩︎</p></li>
 <li id="fn3"><p>United States Navy, <em>The Bluejackets’ Manual</em> (Annapolis: United States Naval Institute, 1940), <a href="https://archive.org/details/bluejacketsmanua00mcle/page/n5/mode/2up">https://archive.org/details/bluejacketsmanua00mcle/page/n5/mode/2up</a>; <em>Signal Card</em> (London: Admiralty, 1937), <a href="https://archive.org/details/b.-r.-232-signal-card-1937/mode/2up">https://archive.org/details/b.-r.-232-signal-card-1937/mode/2up</a>.↩︎</p></li>
 <li id="fn4"><p>Chief of Naval Operations to Bureau of Ships, February 17, 1941.↩︎</p></li>
@@ -1091,7 +1155,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 
 
 
-<p>Barrie A. Wigmore has an article of 1987 asking whether the gold panic of early 1933 was caused by fears of devaluation, to which he answers “yes.”<span class="citation" data-cites="wigmoreWasBankHoliday1987a"><sup>1</sup></span></p>
+<p>Barrie A. Wigmore has an article of 1987 asking whether the gold panic of early 1933 was caused by fears of devaluation, to which he answers “yes.”<span class="citation" data-cites="wigmoreWasBankHoliday1987"><sup>1</sup></span></p>
 <p>But immediately on taking office, Roosevelt began the process of devaluing, and the panic ended. Here’s Wigmore’s own data of daily gold holdings in the New York Federal Reserve Bank, charted.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -1149,7 +1213,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 
 
 
-<p>While doing a <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/hello_im_eric_rauchway_a_historian_of_the_new/?rdt=53843">Reddit AMA for <em>Myth America,</em></a> in which I have a chapter on pernicious myths about the New Deal, I received <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/comment/kbfqmwp/">a question about <em>Murdering McKinley,</em></a> reminding me that book is twenty years old this year.<span class="citation" data-cites="rauchwayNewDeal2022a rauchwayMurderingMcKinleyMaking2003a"><sup>1</sup></span> A quick glance at <a href="http://htmlpreview.github.io/?https://github.com/erauchway/cv_pub/blob/main/rauchway_cv.html">my c.v.</a> told me that by a coincidence of timing, that means <em>The Great Depression and the New Deal: A Very Short Introduction</em> is fifteen years old, and <em>Winter War: Hoover, Roosevelt, and the First Clash over the New Deal</em> is five.<span class="citation" data-cites="rauchwayGreatDepressionNew2008 rauchwayWinterWarHoover2018"><sup>2</sup></span> These arbitrary digital anniversaries don’t mean a thing, except that we make them so, which is no reason not to. So here are some thoughts, which are mainly for me before I forget them.</p>
+<p>While doing a <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/hello_im_eric_rauchway_a_historian_of_the_new/?rdt=53843">Reddit AMA for <em>Myth America,</em></a> in which I have a chapter on pernicious myths about the New Deal, I received <a href="https://www.reddit.com/r/AskHistorians/comments/187kiyq/comment/kbfqmwp/">a question about <em>Murdering McKinley,</em></a> reminding me that book is twenty years old this year.<span class="citation" data-cites="rauchwayNewDeal2022 rauchwayMurderingMcKinleyMaking2003"><sup>1</sup></span> A quick glance at <a href="http://htmlpreview.github.io/?https://github.com/erauchway/cv_pub/blob/main/rauchway_cv.html">my c.v.</a> told me that by a coincidence of timing, that means <em>The Great Depression and the New Deal: A Very Short Introduction</em> is fifteen years old, and <em>Winter War: Hoover, Roosevelt, and the First Clash over the New Deal</em> is five.<span class="citation" data-cites="rauchwayGreatDepressionNew2008 rauchwayWinterWarHoover2018"><sup>2</sup></span> These arbitrary digital anniversaries don’t mean a thing, except that we make them so, which is no reason not to. So here are some thoughts, which are mainly for me before I forget them.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erauchway.github.io/posts/tripleversary/tr_fdr.png" class="img-fluid figure-img"></p>
@@ -1229,8 +1293,8 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 
 
 
-<p>Franklin Roosevelt told George VI during the king’s visit to the United States early in June 1939 that the Americans planned to control an area extending five hundred miles east of the U.S. coast, if it could use bases at Bermuda and Trinidad; by the end of the month, the president was meeting with the British ambassador, Ronald Lindsay, to formalize the request for leases at Bermuda, Trinidad, and St.&nbsp;Lucia.<span class="citation" data-cites="baptisteBritishGrantAir1976a"><sup>1</sup></span> In retrospect we can identify these plans as an early phase of what became Admiral Stark’s <a href="https://erauchway.github.io/posts/greer_3_dog/index.html">Plan Dog,</a> providing for naval assistance to the Allies in the western Atlantic. Late in July, the Army asked for bases in Trinidad and Natal, Brazil; the Navy confirmed its need of bases, and on August 24, <a href="http://www.fdrlibrary.marist.edu/_resources/images/psf/b-psfc000062.pdf">Stark wrote Roosevelt</a> to confirm that leases were available in Trinidad and in Bermuda, where the US Navy would take over some or all of the facilities then operated by Pan American Airways and Imperial Airways. Two days later, the Soviet news agency TASS would issue the terms of the Nazi-Soviet Pact, allocating to the USSR a “special position” in the Baltics and the division of Poland between the two; the Germans and the Soviets began the invasion of Poland shortly afterward.</p>
-<p>On September 4, the day after the British declaration of war on Germany, the United States finalized leases to bases in Bermuda, Trinidad, and St.&nbsp;Lucia, paying a rent of $500 a year for the site in Bermuda; on September 6, Stark directed the commander of the Atlantic squadron to maintain a patrol of 300 miles offshore, and to report the movements of foreign men-of-war. Some of the destroyers thus tasked went to Newfoundland as the Grand Banks Patrol, with the acquiescence of the British government, to render assistance in emergencies and to observe and report movements of foreign warships.<span class="citation" data-cites="cressmanOfficialChronologyNavy2000a"><sup>2</sup></span></p>
+<p>Franklin Roosevelt told George VI during the king’s visit to the United States early in June 1939 that the Americans planned to control an area extending five hundred miles east of the U.S. coast, if it could use bases at Bermuda and Trinidad; by the end of the month, the president was meeting with the British ambassador, Ronald Lindsay, to formalize the request for leases at Bermuda, Trinidad, and St.&nbsp;Lucia.<span class="citation" data-cites="baptisteBritishGrantAir1976"><sup>1</sup></span> In retrospect we can identify these plans as an early phase of what became Admiral Stark’s <a href="https://erauchway.github.io/posts/greer_3_dog/index.html">Plan Dog,</a> providing for naval assistance to the Allies in the western Atlantic. Late in July, the Army asked for bases in Trinidad and Natal, Brazil; the Navy confirmed its need of bases, and on August 24, <a href="http://www.fdrlibrary.marist.edu/_resources/images/psf/b-psfc000062.pdf">Stark wrote Roosevelt</a> to confirm that leases were available in Trinidad and in Bermuda, where the US Navy would take over some or all of the facilities then operated by Pan American Airways and Imperial Airways. Two days later, the Soviet news agency TASS would issue the terms of the Nazi-Soviet Pact, allocating to the USSR a “special position” in the Baltics and the division of Poland between the two; the Germans and the Soviets began the invasion of Poland shortly afterward.</p>
+<p>On September 4, the day after the British declaration of war on Germany, the United States finalized leases to bases in Bermuda, Trinidad, and St.&nbsp;Lucia, paying a rent of $500 a year for the site in Bermuda; on September 6, Stark directed the commander of the Atlantic squadron to maintain a patrol of 300 miles offshore, and to report the movements of foreign men-of-war. Some of the destroyers thus tasked went to Newfoundland as the Grand Banks Patrol, with the acquiescence of the British government, to render assistance in emergencies and to observe and report movements of foreign warships.<span class="citation" data-cites="cressmanOfficialChronologyNavy2000"><sup>2</sup></span></p>
 <p>The Division of the American Republics in the U.S. State Department asked the Office of the Geographer to prepare maps with 300-mile radiuses laid out from the outermost limits of the American Republics, and sent that map to the White House, where the president selected the points of a zone defined by those varius circles, and returned it to the geographer with a request to neaten up the map <a href="https://history.state.gov/historicaldocuments/frus1939v05/map-panama">thus defined.</a> The Declaration of Panama, of October 2, 1939, <a href="https://history.state.gov/historicaldocuments/frus1939v05/pg_36">formalized that zone.</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -1240,7 +1304,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 </div>
 <p>Britain allowed unlimited U.S. overflight of the Bahamas after the Panama Declaration. This declaration looked neutral and formally was neutral, though Roosevelt plainly intended it as a form of neutrality that would aid the Allies. As he told Lindsay’s replacement, Lord Lothian, on August 30, 1939, the declaration would allow</p>
 <blockquote class="blockquote">
-<p>all the American republics to combine to patrol half the distance to the coast of Europe and the African coast to prevent entry by belligerent war vessels or acts of war. . . . that would be of great assistance to England and France because it would relieve strain on their navies and would make possible safe transport of food and war materials from Pan-American coasts say, to Halifax, whence they would be conveyed to Europe in Allied bottoms thus lessening the strain on shipping as a whole.<span class="citation" data-cites="baptisteBritishGrantAir1976a"><sup>3</sup></span></p>
+<p>all the American republics to combine to patrol half the distance to the coast of Europe and the African coast to prevent entry by belligerent war vessels or acts of war. . . . that would be of great assistance to England and France because it would relieve strain on their navies and would make possible safe transport of food and war materials from Pan-American coasts say, to Halifax, whence they would be conveyed to Europe in Allied bottoms thus lessening the strain on shipping as a whole.<span class="citation" data-cites="baptisteBritishGrantAir1976"><sup>3</sup></span></p>
 </blockquote>
 <p>With the adoption of the Neutrality Act of 1939 in November, this shipping would include arms bound for the Allies.</p>
 
@@ -1261,71 +1325,6 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>Neutrality</category>
   <guid>https://erauchway.github.io/posts/panama/</guid>
   <pubDate>Sun, 19 Nov 2023 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Architecture after a Green New Deal, UCLA</title>
-  <link>https://erauchway.github.io/posts/gnd/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Here are my slides from my presentation at the rather wonderful conference, <a href="https://www.aud.ucla.edu/news-events/events/fall2023-aagnd-conference">“Architecture after a Green New Deal,”</a> at the UCLA Department of Architecture and Urban Design.</p>
-<div class="columns v-center-container">
-<div class="column" style="width:50%;">
-<iframe height="480" width="640" src="https://erauchway.github.io/present/gnd_ucla.html">
-</iframe>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-<p>My assignment was to talk a bit about the o.g. New Deal, so I took the opportunity to talk about how the Roosevelt administration used public works programs for political and ideological ends. That is, Roosevelt’s concept of a sample publicly owned facility as a “yardstick,” to determine fair pricing and operating procedures, was ideological; the use of a sufficiently large public works program to influence labor standards, wage practices, and the legitimacy of unions was an ideological purpose; Roosevelt’s own statement that direct employment would “help restore the close relationship with the people which is necessary to preserve our democratic form of government” was ideological, reflecting his view that public works programs could help to reverse the alienation endemic to the modern condition.<span class="citation" data-cites="rauchwayWhyNewDeal2021"><sup>1</sup></span></p>
-<p>Moreover, the ubiquity of public works designed to foster community and edifying leisure pursuits constituted an ideological commitment to establish a right to the good life for everyone, regardless of station.</p>
-<p>All of that constituted an imperative to design for democracy, more or less; I also discussed the way that the TVA in particular exemplified an imperative to design for sustainability.</p>
-<p>You can see some of the visuals I assembled to argue the case on the slides.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Eric Rauchway, <em>Why the New Deal Matters</em> (New Haven: Yale University Press, 2021), 32.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>New Deal</category>
-  <category>Public works</category>
-  <category>Green New Deal</category>
-  <category>TVA</category>
-  <guid>https://erauchway.github.io/posts/gnd/</guid>
-  <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Mobilization, Philadelphia Navy Yard edition</title>
-  <link>https://erauchway.github.io/posts/pnavy_emp/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Just for fun, a quick visualization of the number of employees, clerical and mechanical, at the Philadelphia Navy Yard.<span class="citation" data-cites="mccauleyWarHistoryFourth1946a"><sup>1</sup></span></p>
-<p><img src="https://erauchway.github.io/posts/pnavy_emp/pnavy_emp.png" class="img-fluid"></p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Data from E.S. McCauley, <em>The War History of the Fourth Naval District from December 7th, 1941</em> (Philadelphia: Fourth Naval District, 1946).↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>US mobilization</category>
-  <category>Philadelphia Navy Yard</category>
-  <guid>https://erauchway.github.io/posts/pnavy_emp/</guid>
-  <pubDate>Fri, 10 Nov 2023 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
