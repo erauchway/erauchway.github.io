@@ -20,7 +20,9 @@ format:
   html:
     theme: theme.scss
     css: styles.css
-bibliography: ../common/big_bib.json
+bibliography: 
+  - ../common/big_bib.json
+  - ../common/frontiers.json
 link-citations: false
 suppress-bibliography: true
 csl: ../common/chicago-fullnote-bibliography-short-title-subsequent.csl

@@ -1,0 +1,23 @@
+---
+title: "Wages in Puerto Rico, 1934--1949"
+author: "Eric Rauchway"
+date: 2025-02-10
+categories:
+  - Puerto Rico
+  - New Deal
+  - Territories
+---
+
+Here are a couple charts showing wages in various forms of manufacturing, and then in various other forms of employment (including sugar growing) in Puerto Rico, for five data points: 1934, 1938, 1941, 1945, and 1949. The figures come from a hearing of the Special Investigating Subcommittee of the Committee on Education and Labor in the 81st Congress, held in 1949 and published in 1950, studying minimum wages and education in the Virgin Islands and Puerto Rico.[@zotero-3048] I came across the hearing in a study by the Virgin Islands economist Valdemar Hill Jr. on minimum wages in the Virgin Islands, which a librarian showed us during a visit to the Melvin Evans Library of the University of the Virgin Islands. So I did a set of small multiples for further thought.[@HillMinimumWagesVirginIslands193819681968]
+
+![Average hourly Puerto Rican wages in manufacturing, by industry. Click for a larger view.](./pr_wages2c2.png){.lightbox}
+
+Puerto Rico and the Virgin Islands came under the Fair Labor Standards Act minimum wage in 1938, which was 25 cents an hour, and then a year later became 30 cents. A June 1940 amendment ([54 Stat. 615](https://uscode.house.gov/statviewer.htm?volume=54&page=615#)) put the Virgin Islands and Puerto Rico on a different basis, with lower rates allowed if established under industrial committees appointed by the wage administrator.[See also @macphersonBirth] Puerto Rico passed its own version of the Wagner Act, the Puerto Rico Labor Relations Act, in 1945, licensing collective bargaining and other protections for labor.[@zotero-3059]
+
+![Heading of the Puerto Rico Labor Relations Act](./prlra.png)
+
+You can see some trends in these data points, but I'm not sure I'm ready to draw firm conclusions, because of course there aren't all the data points you'd want.
+
+![Average hourly Puerto Rican wages in jobs outside manufacturing, by industry. Click for a larger view.](./pr_wages3c2.png){.lightbox}
+
+Sometimes you can see an upward trend in 1934--1938, sometimes not. But then of course the end of fiscal 1937--1938---when these wage measures are taken---was of course in the recession of that period. Sometimes you get an upward trend after the FLSA, 1938--1940; but also sometimes not. Often you get an upward trend 1940--1945, which makes sense, of course; there was a war on. And often you get a further upward trend after the PRLRA. 
