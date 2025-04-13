@@ -1,5 +1,6 @@
 ---
 title: Europe before and after the Great War
+date: 2024-03-15
 categories:
     - Maps
     - Great War

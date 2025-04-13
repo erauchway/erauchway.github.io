@@ -2,7 +2,7 @@
 title: Andrew Hickey, practitioner of old-school American Studies (laudatory)
 author: Eric Rauchway
 date: 2025-04-13
-draft: TRUE
+draft: FALSE
 categories: 
   - Historiography
   - American Studies

@@ -10,7 +10,47 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.6.43</generator>
-<lastBuildDate>Tue, 11 Mar 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Apr 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Andrew Hickey, practitioner of old-school American Studies (laudatory)</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/hickey/hickey_500.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Even though I am not old enough to have encountered the mid-century American Studies scholars when they were flourishing or in many cases, when they were even still alive, the books that brought me into my own career in US history belong to that tradition: <em>American Humor,</em> by Constance Rourke, or <em>Love and Death in the American Novel,</em> by Leslie Fiedler, say. This work is not necessarily <em>right,</em> per se, but it is certainly thought-provoking and inasmuch as that is the point of scholarship, <em>good.</em><sup>1</sup> In most cases it tells you things you didn’t already know and maybe more important it works by making connections which wouldn’t have occurred to a reader not as deeply steeped in the sources as the writer—which is essentially every reader.</p>
+<p>Andrew Hickey does the podcast, “A History of Rock Music in 500 Songs,” which you have probably already had recommended to you but maybe not because it plainly belongs to that tradition, into which we could also throw Richard Hofstadter, David M. Potter, John Hope Franklin, and some of the other cast of characters from <a href="https://press.uchicago.edu/ucp/books/book/chicago/P/bo196664682.html">Nick Witham’s recent scholarship.</a></p>
+<p>Hickey is an admirable cultural historian in part because he lets you know how he <a href="https://500songs.com/podcast/song-177-never-learn-not-to-love-by-the-beach-boys-part-one/#more-2348">works:</a></p>
+<blockquote class="blockquote">
+<p>connections are <em>everywhere</em>. We only see them when we’re looking for them. And they only have the meaning that we impose. Now, this happens to be a big chunk of the way I tell stories — and indeed it’s an important part of the way <em>anyone</em> tells stories. You look for patterns and connections that other people haven’t seen before, and present them to the audience. Sometimes those patterns have actual meaning that sheds light on the history, other times they’re just interesting resonances and coincidences that make for an interesting story.</p>
+</blockquote>
+<p>He also revises himself in light of what he finds to be <a href="https://500songs.com/2024/12/10/next-episode-coming-soon/">persuasive evidence:</a></p>
+<blockquote class="blockquote">
+<p>when checking a minor detail I discovered a book published this year, after I’d bought the books I used for the research, which showed that everything in the first half of the episode—everything that had been published in every book on Huddie Ledbetter, who is the focus of that first half—was badly mistaken. I had to totally scrap a completed script and redo the research from scratch.</p>
+</blockquote>
+<p>And he has wonderful, no-nonsense <a href="https://500songs.com/podcast/song-177-never-learn-not-to-love-by-the-beach-boys-part-3-mister-can-you-give-me-some-direction/#more-2421">asides:</a></p>
+<blockquote class="blockquote">
+<p>[John] Lomax was born in Mississippi in 1867, two years after the ending of the Slaveholders’ Rebellion (later euphemised as the American Civil War)</p>
+</blockquote>
+<p>The podcast is a delight; I gather there is also now <a href="https://books2read.com/u/mVrzYM">a book.</a></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>I think much of it is also wrong, but in interesting ways, because it addresses interesting questions, and therefore merits engagement.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Historiography</category>
+  <category>American Studies</category>
+  <guid>https://erauchway.github.io/posts/hickey/hickey_500.html</guid>
+  <pubDate>Sun, 13 Apr 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reno, NV, circa 1997</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -1307,64 +1347,6 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>Greer</category>
   <guid>https://erauchway.github.io/posts/flags/</guid>
   <pubDate>Mon, 12 Feb 2024 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Panic and confidence</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/wigmore/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Barrie A. Wigmore has an article of 1987 asking whether the gold panic of early 1933 was caused by fears of devaluation, to which he answers “yes.”<span class="citation" data-cites="wigmoreWasBankHoliday1987"><sup>1</sup></span></p>
-<p>But immediately on taking office, Roosevelt began the process of devaluing, and the panic ended. Here’s Wigmore’s own data of daily gold holdings in the New York Federal Reserve Bank, charted.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/wigmore/wigmore_gold.png" class="img-fluid figure-img"></p>
-<figcaption>Chart showing the NY Fed’s gold holdings falling before Roosevelt’s inauguration, then immediately rebounding.</figcaption>
-</figure>
-</div>
-<p>Wigmore’s argument is that Roosevelt’s immediate actions might have done something to restore confidence, but not much.</p>
-<blockquote class="blockquote">
-<p>There is no doubt that his inaugural speech, his fireside chat about the banking system, the various measures he rushed through Congress, and his general ability to take command had a very favorable impact on confidence. Measurement of this impact is highly subjective, but intuitively it cannot be a large part of the explanation.</p>
-</blockquote>
-<p>And yet depositors brought much of the gold they had withdrawn back to Federal Reserve banks over the course of March—before Roosevelt’s April 5 order requiring them to do it. Indeed, as you can see from the chart, the steepest rise in gold holdings comes between the inauguration and the fireside chat.</p>
-<p>During that time, in his first presidential press conference, on March 8, 1933, Roosevelt allowed as how, according to a definition of the gold standard he pulled from the newspaper, the United States wasn’t on it at the moment, shied away from the term “controlled inflation,” and then almost immediately said,</p>
-<blockquote class="blockquote">
-<p>What you are coming to now really is a managed currency, the adequateness of which will depend on the conditions of the moment. It may expand one week and it may contract another week. That part is all off the record.</p>
-</blockquote>
-<p>A reporter asked if they could print “that part—managed?” Roosevelt replied, “No, I think not.” A little later a reporter pressed him further on what he meant.</p>
-<blockquote class="blockquote">
-<p>Q When you speak of a managed currency, do you speak of a temporary proposition or a permanent system?</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>THE PRESIDENT: It ought to be part of the permanent system—that is off the record—it ought to be part of the permanent system so we don’t run into this thing again.</p>
-</blockquote>
-<p>Two days later, when he announced the plan for reopening banks, he noted this would include all usual banking functions—</p>
-<blockquote class="blockquote">
-<p>Except, of course, for as to gold. That is a different thing. I am keeping my finger on gold.</p>
-</blockquote>
-<p>These press conferences are now online <a href="http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0183.pdf">here</a> as they were not when I was writing <em>The Money Makers,</em> in which I discuss this period.<span class="citation" data-cites="rauchwayMoneyMakersHow2015"><sup>2</sup></span></p>
-<p>In any case, it looks as though Roosevelt was certainly letting the information get out, albeit off the record, that he wanted a permanent system of managed currency and that he wasn’t allowing gold convertibility—and yet, during that time, depositors brought an awful lot of gold back into the Federal Reserve banks. It seems to me that confidence in the new administration’s actions—the first stages of a devaluation—restored some confidence even though they constituted precisely what people were supposed to have feared.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Barrie A. Wigmore, <span>“Was the Bank Holiday of 1933 Caused by a Run on the Dollar?”</span> <em>Journal of Economic History</em> 47, no. 3 (September 1987): 739--755.↩︎</p></li>
-<li id="fn2"><p>Eric Rauchway, <em>The Money Makers: How Roosevelt and Keynes Ended the Depression, Defeated Fascism, and Secured a Prosperous Peace</em> (New York: Basic Books, 2015).↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>New Deal</category>
-  <category>Gold</category>
-  <category>Monetary policy</category>
-  <category>New Deal recovery</category>
-  <guid>https://erauchway.github.io/posts/wigmore/</guid>
-  <pubDate>Thu, 25 Jan 2024 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
