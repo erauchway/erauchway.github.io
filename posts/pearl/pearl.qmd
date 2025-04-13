@@ -12,10 +12,18 @@ categories:
 
 The Japanese attack on Pearl Harbor was the proximate cause for US directly joining the war against the Axis powers, and ever since then the opponents of US aid to the Allies (America Firsters and people of similar views) have hinted or outright said that Franklin Roosevelt's administration engineered the attack. I previously [wrote,](https://erauchway.github.io/posts/williams_hoover/williams_hoover.html) "scholars of US foreign policy have been far too generous in their treatment of interwar opponents of anti-Nazi foreign policy as proposed and practiced by the Roosevelt administration," and the treatment of Pearl Harbor is no exception. 
 
-Matthew Connelly [recently wrote,](https://networks.h-net.org/group/discussions/20030100/h-diplorjissf-roundtable-review-15-39-connelly-declassification-engine)
+Matthew Connelly [recently wrote about what he calls,](https://networks.h-net.org/group/discussions/20030100/h-diplorjissf-roundtable-review-15-39-connelly-declassification-engine)
 
 >President Franklin Roosevelt’s secret strategy to bring the US into World War II by provoking a Japanese attack. We agree that Roosevelt had to do everything possible to ensure the defeat of Nazi Germany. I do not know if there was any alternative to deceiving the American people, who largely opposed what they perceived to be a war of choice. What I do know is that hard cases make bad law, worse still when one example—German Führer Adolf Hitler—is taken to prove some law of nature requiring a massive military industrial complex and eighteen different intelligence agencies. I also think that, after all these years, Americans need to stop deceiving themselves: 7 December 1941 was no surprise attack.
 
 The position that Roosevelt lied, but in a worthy cause (as I interpret this passage) is not uncommon; Robert Kagan [holds](https://libertiesjournal.com/articles/war-and-the-liberal-hegemony/) more or less the same view. But Connelly's version---that Roosevelt was secretly (and ultimately, successfully) baiting Japan into an attack so he could fight a war against the Nazis is a specific version. Connelly correctly names it as "the 'back-door' theory," i.e., that Roosevelt provoked war with Japan as a roundabout way to get into war with Germany, and cites chapter 4 of Marc Trachtenberg's *Craft of International History* as providing "the case in favor" of this theory.
 
-Trachtenberg's book is not about Pearl Harbor, or World War II, or Roosevelt and in fact this chapter is specifically about how 
+Two things strike me: first, I'm not sure Trachtenberg agrees with Connelly. He refers to 
+
+> the absurd and baseless charge that Roosevelt had arranged things so that the American forces at Pearl Harbor would be the victims of a Japanese surprise attack[@trachtenbeCraft2006, 123]
+
+But let's set that aside for now. 
+
+Chapter four of Trachtenberg's book is devoted to understanding Roosevelt's foreign policy in 1941 by approaching the secondary literature as a shrewd and deductive scholar, saying "real insight into basic historical questions" is thus available to "those who are not prepared to spend many years studying them."[@trachtenbeCraft2006, 79] He is specifically trying to find out what Roosevelt was up to *without* expertise. While a useful exercise, such a chapter is perhaps not the best basis for saying we should upend everything we know about the Pearl Harbor attack. 
+
+Trachtenberg digs into major and reputable works on US and German 
