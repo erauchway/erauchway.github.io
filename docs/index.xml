@@ -10,7 +10,59 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.6.43</generator>
-<lastBuildDate>Sun, 13 Apr 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Apr 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Historians and the isolationists: polling</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/polling_ww2/polling_ww2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I <a href="https://erauchway.github.io/posts/williams_hoover/williams_hoover.html">previously</a> said the professional opinion of mine most likely to have me like—</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/polling_ww2/flynn_swords.png" class="img-fluid figure-img"></p>
+<figcaption>A still of Flynn from the movie <em>Tangled,</em> standing blithely in the center of a circle of swords pointed at his face; it is a popular meme for designating unpopular opinions.</figcaption>
+</figure>
+</div>
+<p>is that scholars of US foreign policy are far too kind to interwar isolationists. In that post I talked about William Appleman Williams, who is long dead. What about modern scholars?</p>
+<p>Well, let’s take <a href="https://networks.h-net.org/group/discussions/20030100/h-diplorjissf-roundtable-review-15-39-connelly-declassification-engine">a claim by Matthew Connelly:</a> that Franklin D. Roosevelt deceived the American people in the run-up to the war. I’m not going to tackle all the elements of this claim in this post, just this one part about what Americans generally thought about the war.</p>
+<blockquote class="blockquote">
+<p>I do not know if there was any alternative to deceiving the American people, who largely opposed what they perceived to be a war of choice.</p>
+</blockquote>
+<p>Connelly’s claim here is similar to <a href="https://libertiesjournal.com/articles/war-and-the-liberal-hegemony/">Robert Kagan’s;</a> both believe the Roosevelt administration forced this “war of choice” on a reluctant American people for a greater good.</p>
+<p>How much did the American people actually oppose US entry to the war, though?</p>
+<p>Over the course of 1941, polls frequently asked Americans “If you were asked to vote on the question of the United States entering the war against Germany and Italy [sometimes adding Japan], how would you vote—to go into the war, or to stay out of the war?”</p>
+<p>On this question, opinion only very slightly shifts during the year in the direction of “go into the war.” Americans overwhelmingly answer they would vote to “stay out.”</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="./vote.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Click to enlarge; A graph showing support for going into the war in the middle 20 percent, and for staying out in the range of 70 percent. Data from Roper Center iPoll."><img src="https://erauchway.github.io/posts/polling_ww2/vote.png" class="img-fluid figure-img" alt="Click to enlarge; A graph showing support for going into the war in the middle 20 percent, and for staying out in the range of 70 percent. Data from Roper Center iPoll."></a></p>
+<figcaption>Click to enlarge; A graph showing support for going into the war in the middle 20 percent, and for staying out in the range of 70 percent. Data from Roper Center iPoll.</figcaption>
+</figure>
+</div>
+<p>If that was all the information you had, you would say Americans overwhelmingly opposed US entry to the war.</p>
+<p>But: over the same period, pollsters also often asked, “Which of these two things do you think is more important—that this country keep out of war, or that Germany be defeated, even at the risk of our getting into the war?”</p>
+<p>On this question, Americans quite consistently answered they thought Germany needed to be defeated, even at the risk of US entry to the war. There’s not really that much of a shift.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="./germany.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Click to enlarge: A graph showing support for the defeat of Germany, even at the risk of war, running in the range of 65 percent, as against the US keeping out running in the range of 30-ish percentage points."><img src="https://erauchway.github.io/posts/polling_ww2/germany.png" class="img-fluid figure-img" alt="Click to enlarge: A graph showing support for the defeat of Germany, even at the risk of war, running in the range of 65 percent, as against the US keeping out running in the range of 30-ish percentage points."></a></p>
+<figcaption>Click to enlarge: A graph showing support for the defeat of Germany, even at the risk of war, running in the range of 65 percent, as against the US keeping out running in the range of 30-ish percentage points.</figcaption>
+</figure>
+</div>
+<p>So considering this second result, it looks like Americans were broadly in favor of the US doing what it could to ensure German defeat, even—explicitly—at the risk of the US getting into the war. In other words, respondents favored what was pretty much the Roosevelt administration’s policy.</p>
+<p>You can if you like add one question asked at the start of November 1941: “If our present leaders and military advisors say that the only way to defeat Germany is for this country to go into the war, would you be in favor of this country’s going into the war against Germany?” To that, 70 percent of respondents said “yes,” as against only 24 percent “no” and 6 percent “no opinion.” It appears, then, that respondents were willing to go along with the Roosevelt administration’s judgment about the necessity of US entry to war to defeat Germany.</p>
+
+
+
+ ]]></description>
+  <category>Historiography</category>
+  <category>Isolationists</category>
+  <guid>https://erauchway.github.io/posts/polling_ww2/polling_ww2.html</guid>
+  <pubDate>Mon, 14 Apr 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Andrew Hickey, practitioner of old-school American Studies (laudatory)</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -1290,63 +1342,6 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>US strategy</category>
   <guid>https://erauchway.github.io/posts/air/</guid>
   <pubDate>Fri, 15 Mar 2024 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Betty expects</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/flags/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>As previously <a href="https://erauchway.github.io/posts/greer_3_dog/index.html">noted,</a> Admiral Harold “Betty” Stark, Chief of Naval Operations, wrote the “Plan Dog” memo on November 12, 1940, advocating a joint US-UK naval strategy against Germany in the Atlantic. The president invited the British to come to Washington for joint staff conversations on December 2, 1940.<span class="citation" data-cites="connWesternHemisphereFramework1960"><sup>1</sup></span> But before that—on November 28—Stark, as Chief of Naval Operations, issued an order to ensure practical preparedness for Anglo-American cooperation: he asked the New York Navy Yard to manufacture twenty sets of Royal Navy signal flags, for use by US warships needing to communicate with their British counterparts.<span class="citation" data-cites="chiefofnavaloperations1941"><sup>2</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/flags/flags1.png" class="img-fluid figure-img"></p>
-<figcaption>Part of the Royal Navy signal card for 1937.</figcaption>
-</figure>
-</div>
-<p>The US navy and the British navy used different sets of signal flags, so for an American destroyer, say, to communicate with its British counterpart would require the use of a common language.<span class="citation" data-cites="unitedstatesnavyBluejacketsManual1940 SignalCard1937"><sup>3</sup></span> Stark decided therefore that US ships should be issued with sets of British flags and pennants, and extra fabric to repair them. In February 1941, after the staff conferences, Stark increased the order from twenty to one hundred, fifty to be stored in New York and fifty in Norfolk, for issue to ships on the Atlantic squadron.<span class="citation" data-cites="chiefofnavaloperations1941"><sup>4</sup></span> By April they were available for distribution; on May 6, the USS <em>Greer</em> received its set from the supply ship USS <em>Prairie.</em><span class="citation" data-cites="supplyofficerussprairieInvoice41 commandantnorfolknavyyard1941"><sup>5</sup></span></p>
-<p>The president had long since articulated <a href="https://erauchway.github.io/posts/panama/index.html">a vision of hemispheric defense,</a> which would involve de facto assistance to Britain. On February 27, 1941—in, as it happens, a speech to the Oscars—he reminded listeners of this hemispheric policy and made explicit the implicit link to a broader defense:</p>
-<blockquote class="blockquote">
-<p>the defense of all the democracies of all the Americas . . . involves the future of democracy wherever it is imperiled by force or terror.<span class="citation" data-cites="rooseveltAddressAnnualAwards1950"><sup>6</sup></span></p>
-</blockquote>
-<p>In March, Lend Lease passed Congress; on April 25, the administration declared the “patrol” being conducted by US Navy ships looking for aggressor activity would be extended, though Roosevelt said the United States was still not, per se, <a href="http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0116.pdf">conducting convoys.</a> But:</p>
-<blockquote class="blockquote">
-<p>Q Mr.&nbsp;President, if this patrol should encounter some apparently aggressive ships headed toward the western hemisphere, what would it do about it?</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>THE PRESIDENT: Let me know. (loud laughter)</p>
-</blockquote>
-<p>Or, perhaps, use its new signal flags to communicate the presence of a German vessel to the Royal Navy. Three weeks after the <em>Greer</em> received its set of British signal flags, the president declared an unlimited national emergency, in which the naval patrol would play a vital part.</p>
-<blockquote class="blockquote">
-<p>These ships and planes warn of the presence of attacking raiders, on the sea, under the sea, and above the sea. The danger from these raiders is, of course, greatly lessened if their location is definitely known. . . . Our patrols are helping now to insure delivery of the needed supplies to Britain. All additional measures necessary to deliver the goods will be taken.<span class="citation" data-cites="rooseveltRadioAddressAnnouncing1950"><sup>7</sup></span></p>
-</blockquote>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Stetson Conn and Byron Fairchild, <em>The Western Hemisphere: The Framework of Hemispheric Defense</em>, vol. 12, part 1, United States Army in World War II (Washington, DC: Office of the Chief of Military History, 1960), 92.↩︎</p></li>
-<li id="fn2"><p>Chief of Naval Operations to Bureau of Ships, February 17, 1941, RG 19, box 66, fldr JJ5-(7), National Archives and Records Administration.↩︎</p></li>
-<li id="fn3"><p>United States Navy, <em>The Bluejackets’ Manual</em> (Annapolis: United States Naval Institute, 1940), <a href="https://archive.org/details/bluejacketsmanua00mcle/page/n5/mode/2up">https://archive.org/details/bluejacketsmanua00mcle/page/n5/mode/2up</a>; <em>Signal Card</em> (London: Admiralty, 1937), <a href="https://archive.org/details/b.-r.-232-signal-card-1937/mode/2up">https://archive.org/details/b.-r.-232-signal-card-1937/mode/2up</a>.↩︎</p></li>
-<li id="fn4"><p>Chief of Naval Operations to Bureau of Ships, February 17, 1941.↩︎</p></li>
-<li id="fn5"><p>Supply Officer, USS Prairie, <span>“Invoice,”</span> May 6, 41AD, RG 19, box 135, fldr DD145(vol. 1), National Archives and Records Administration; Commandant, Norfolk Navy Yard to Bureau of Ships, April 1, 1941, RG 19, box 66, fldr JJ5-(7), National Archives and Records Administration.↩︎</p></li>
-<li id="fn6"><p>Franklin D. Roosevelt, <span>“Address to Annual Awards Dinner of Academy of Motion Picture Arts and Sciences--February 27, 1941,”</span> in <em>Public Papers and Addresses of Franklin Delano Roosevelt, 1941 Volume</em>, vol. 10, 13 vols. (New York: Harper &amp; Brothers, 1950), 40--42.↩︎</p></li>
-<li id="fn7"><p>Franklin D. Roosevelt, <span>“Radio Address Announcing the Proclamation of an Unlimited National Emergency---May 27, 1941,”</span> in <em>Public Papers and Addresses of Franklin Delano Roosevelt, 1941 Volume</em>, vol. 10, 13 vols. (New York: Harper &amp; Brothers, 1950), 187--194.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>US strategy</category>
-  <category>Navy</category>
-  <category>UK strategy</category>
-  <category>Neutrality</category>
-  <category>Greer</category>
-  <guid>https://erauchway.github.io/posts/flags/</guid>
-  <pubDate>Mon, 12 Feb 2024 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
