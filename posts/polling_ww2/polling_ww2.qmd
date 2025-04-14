@@ -27,7 +27,7 @@ Over the course of 1941, polls frequently asked Americans "If you were asked to 
 
 On this question, opinion only very slightly shifts during the year in the direction of "go into the war." Americans overwhelmingly answer they would vote to "stay out." 
 
-![Click to enlarge; A graph showing support for going into the war in the middle 20 percent, and for staying out in the range of 70 percent. Data from Roper Center iPoll.](./vote.png){.lightbox}
+![Click to enlarge: A graph showing support for going into the war in the middle 20 percent, and for staying out in the range of 70 percent. Data from Roper Center iPoll.](./vote.png){.lightbox}
 
 If that was all the information you had, you would say Americans overwhelmingly opposed US entry to the war.
 
