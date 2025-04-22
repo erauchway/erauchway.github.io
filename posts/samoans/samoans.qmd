@@ -1,0 +1,24 @@
+---
+title: "The Hitler Diaries"
+subtitle: "or, \"Man, those Samoans are a surly bunch.\""
+author: "Eric Rauchway"
+date: 2025-04-22
+categories: 
+  - Historiography
+  - Forgery
+  - Oxford
+---
+
+When up for a lecturership at Oxford in 1998, I received notice to report for an interview at the Indian Institute, then the home of the Faculty of Modern History, in the Trevor-Roper Room. I possessed the maturity to refrain from saying aloud, though not to refrain from thinking, "Are we sure it's really the Trevor-Roper Room, and not a tea-stained forgery?" Which is a very unfair thing to think about a distinguished historian, but in my defense I was young and the episode of the faked Hitler diaries, during which Hugh Trevor-Roper was briefly taken in by the forgeries, tea-stained to give the appearance of age, was fresh in memory. It might have been the first time I thought about what professional historians got up to.
+
+![The Oxford Indian Institute, at the bottom of the Broad Street, next to the Sheldonian Theatre. Photo by me.](./indian_inst.png)
+
+The BBC has a good article looking back at the story of [the Hitler diaries forgery of 1983.](https://www.bbc.com/culture/article/20250414-the-fake-hitler-diaries-that-fooled-rupert-murdoch) Despite the `url`, there, it looks like Murdoch was not so much fooled as determined to have a story for the Sunday *Times.* And I felt bad for Lord Dacre, aka Trevor-Roper:
+
+>"I must say as a historian, I regret that the normal methods of historical verification have, perhaps necessarily, been to some extent sacrificed to the requirements of the journalistic scoop," he said.
+
+This episode was also the occasion for one of my favorite comic strips of all time, the Bloom County bit in which Milo forges (for fun and a news sensation) the diaries of Margaret Mead.
+
+![Milo Bloom and Steve Dallas watching a tv report about Margaret Mead's diaries. When the announcer reaches the zinger, Milo---who knows about it because he is the forger---says simultaneously with the anchor, "Man, those Samoans are a surly bunch."](./samoans.jpg)
+
+It was, and remains, a delight to me that this strip riffed on a contemporary news story in such a way as to make a joke which required you to know enough about Margaret Mead's *Coming of Age in Samoa* to laugh.

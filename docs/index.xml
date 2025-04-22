@@ -9,8 +9,47 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.6.43</generator>
-<lastBuildDate>Mon, 14 Apr 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Tue, 22 Apr 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Hitler Diaries</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/samoans/samoans.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>When up for a lecturership at Oxford in 1998, I received notice to report for an interview at the Indian Institute, then the home of the Faculty of Modern History, in the Trevor-Roper Room. I possessed the maturity to refrain from saying aloud, though not to refrain from thinking, “Are we sure it’s really the Trevor-Roper Room, and not a tea-stained forgery?” Which is a very unfair thing to think about a distinguished historian, but in my defense I was young and the episode of the faked Hitler diaries, during which Hugh Trevor-Roper was briefly taken in by the forgeries, tea-stained to give the appearance of age, was fresh in memory. It might have been the first time I thought about what professional historians got up to.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/samoans/indian_inst.png" class="img-fluid figure-img"></p>
+<figcaption>The Oxford Indian Institute, at the bottom of the Broad Street, next to the Sheldonian Theatre. Photo by me.</figcaption>
+</figure>
+</div>
+<p>The BBC has a good article looking back at the story of <a href="https://www.bbc.com/culture/article/20250414-the-fake-hitler-diaries-that-fooled-rupert-murdoch">the Hitler diaries forgery of 1983.</a> Despite the <code>url</code>, there, it looks like Murdoch was not so much fooled as determined to have a story for the Sunday <em>Times.</em> And I felt bad for Lord Dacre, aka Trevor-Roper:</p>
+<blockquote class="blockquote">
+<p>“I must say as a historian, I regret that the normal methods of historical verification have, perhaps necessarily, been to some extent sacrificed to the requirements of the journalistic scoop,” he said.</p>
+</blockquote>
+<p>This episode was also the occasion for one of my favorite comic strips of all time, the Bloom County bit in which Milo forges (for fun and a news sensation) the diaries of Margaret Mead.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/samoans/samoans.jpg" class="img-fluid figure-img"></p>
+<figcaption>Milo Bloom and Steve Dallas watching a tv report about Margaret Mead’s diaries. When the announcer reaches the zinger, Milo—who knows about it because he is the forger—says simultaneously with the anchor, “Man, those Samoans are a surly bunch.”</figcaption>
+</figure>
+</div>
+<p>It was, and remains, a delight to me that this strip riffed on a contemporary news story in such a way as to make a joke which required you to know enough about Margaret Mead’s <em>Coming of Age in Samoa</em> to laugh.</p>
+
+
+
+ ]]></description>
+  <category>Historiography</category>
+  <category>Forgery</category>
+  <category>Oxford</category>
+  <guid>https://erauchway.github.io/posts/samoans/samoans.html</guid>
+  <pubDate>Tue, 22 Apr 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Historians and the isolationists: polling</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -1296,52 +1335,6 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>Ulysses</category>
   <guid>https://erauchway.github.io/posts/comstockery/</guid>
   <pubDate>Tue, 26 Mar 2024 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Not a review of Masters of the Air</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/air/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is not a review of <em>Masters of the Air;</em> I’m not a tv critic and in the end I mainly enjoyed it for what it was—this is instead a discussion of what it’s not: a story of the US bomber war in Europe, which I think could still be dramatized someday.</p>
-<p>The basic, traditional history of the US bomber war in Europe has a clear dramatic arc. It starts with high hopes; these are swiftly tempered by cruel realities; in the end much is gained though much also is lost, and at the close of it, one would be hard-pressed to say that the right lessons are learned or that the just will prosper while the unjust receive their comeuppance. That’s a narrative with which a talented dramatist could keep an audience, I think.</p>
-<p>We could put a few concrete details on that narrative line:</p>
-<p>It began with the idea of precision strikes at the means of making war by bombers capable of self-defense tasked with achieving, to pick a phrase, <a href="https://archive.org/details/VictoryThroughAirPower">“victory through air power.”</a></p>
-<p>That idea is what sent US air crews and factory-fresh B-24s to the North African desert in 1942, with the intention of striking at the vitals of the German war machine—the oil refineries in Romania. This little raid inspired the local Luftwaffe colonel to observe, “This is the beginning.” The Germans, recognizing what would come next, prepared. Subsequent raids on the oil refineries by North Africa-based B-24s incurred heavy US losses—some 280 aircraft and some 2,800 airmen.</p>
-<p>That pattern, of striking at industrial targets with the idea of crushing the factories that made modern war possible, and finding out that German defenses could destroy more bombers than the Americans could afford to lose, persisted. Moreover, precision bombing—as the RAF already knew—was a fantasy. The much-celebrated Norden bombsight could, maybe, deliver precision over the sunny US southwest, where many pilots trained—bombs into pickle barrels from thousands of feet in the air!—but it was a very different thing over cloudy and fighter-infested northern and central Europe.</p>
-<p>The bombing campaign in 1942–43 (I am reasonably persuaded by modern historians like Phillips O’Brien) may have achieved more than conventional wisdom allows.<span class="citation" data-cites="obrienHowWarWas2015"><sup>1</sup></span> But those gains came at unsustainable costs: the US couldn’t afford to lose so many trained pilots and crews.</p>
-<p>It wasn’t until the advances of fighter technology (increased range for P-47s and the arrival of P-51s) as well as advances of the Allies into Western Europe that allowed a free range of bombing in Germany and German-held territory. And the campaigns of early 1944 helped pave the way for D-Day.</p>
-<p>In the end the bombing campaign became more what the RAF leaders, particularly Arthur Harris, always insisted it had to be: a parallel to and would-be replacement for the ground war, an attempt to pummel the Germans into surrender. The destruction of Dresden in February 1945 stuck out in the minds even of some airmen at the time as exceptionally brutal—though that feeling was swiftly muddied by news out of the liberated concentration camps, and a renewed feeling (for some people, anyway) that the savagery had to be stopped, even if by savage means.</p>
-<p>Whatever the justice of that sentiment, its essence (“we did terrible things that had to be done”) was a long way from the (literally) Disneyfied original vision of the bomber war.</p>
-<p>Anyway: that’s the narrative of the US bomber war which I kind of wanted to see dramatized. It’s not exactly <em>not</em> in <em>Masters of the Air,</em> but nor is it foregrounded; the series is really the story of a few guys who were among the last out of Stalag Luft III and, for the sake of perspective, a couple of their luckier squadron members. Which is fine, that’s a real story. And you get to see some B-17s and P-51s, and some of the misery and horror of aerial combat.</p>
-<p>But though some of those narrative beats I outlined above do appear in the series, they do so only fleetingly. Indeed, owing to the focus on the pilots who were shot down, the air war itself largely vanishes from the narrative. I wanted to see some discussion of Hamburg, Caen, Dresden, the bombing of the IG Farben site at Auschwitz-Birkenau; they’re not here.</p>
-<p>As I say, this is <em>not</em> a review of <em>Masters of the Air,</em> because it would be annoying if it were. But I did want to sketch quickly a story of the bomber war that could be dramatized.</p>
-<p>And because I just have to, here’s a chart that shows why I’d like to see some airplanes that aren’t B-17s or P-51s.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/air/airplot.png" class="img-fluid figure-img"></p>
-<figcaption>Plot showing B-17s, B-24s, P-51s, and P-47s in theaters vs.&nbsp;Germany.</figcaption>
-</figure>
-</div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Phillips Payson O’Brien, <em>How the War Was Won: Air-Sea Power and Allied Victory in World War II</em> (Cambridge, Eng.: Cambridge University Press, 2015).↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>B-24</category>
-  <category>Airpower</category>
-  <category>US strategy</category>
-  <guid>https://erauchway.github.io/posts/air/</guid>
-  <pubDate>Fri, 15 Mar 2024 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
