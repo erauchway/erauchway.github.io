@@ -9,8 +9,33 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 22 Apr 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Tue, 06 May 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Teaching the Depression and New Deal</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/oah_mag/oah_mag.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The editors of the Organization of American Historians’ magazine, <em>The American Historian,</em> asked me to contribute an essay on the Great Depression and the New Deal to a series on “US History at 250.” I tried to get all the salient historiographical points into 2500 or so words. You can find it <a href="https://www.oah.org/tah/america-in-a-world-at-war/the-great-depression-and-the-new-deal/">here;</a> this is how it begins:</p>
+<blockquote class="blockquote">
+<p>Even with COVID and (for the older among us) the 2008 recession in our memories, the Great Depression remains a catastrophe whose scale and scope we have trouble imagining. Historians tasked with conveying it to others try to illustrate scale with statistics, though numbers imply a spurious precision our sources cannot wholly support; indicating its scope requires a grasp of the interconnected national and world economies, and how that web of links, so apparently robust, could be so suddenly swept aside and afterward, only painstakingly rebuilt.</p>
+</blockquote>
+<p>It carries on in an effort to offer contemporary points of comparison or contrast, with the idea that might help non-specialists teach it, if they find themselves wanting to do so. <img src="https://erauchway.github.io/posts/oah_mag/fsa_camp.jpg" class="img-fluid" alt="Woman at the community laundry on Saturday, Farm Security Administration labor camnp, Robstown, TX; Arthur Rothstein for the FSA. Library of Congress."></p>
+<p>The other essays, covering the period of both world wars, might be worth your while too: they’re by Jennifer D. Keane, Lynne Dumenil, Natalie Mendoza, Viola Burlew, and Tom Zeiler.</p>
+
+
+
+ ]]></description>
+  <category>Historiography</category>
+  <category>New Deal</category>
+  <guid>https://erauchway.github.io/posts/oah_mag/oah_mag.html</guid>
+  <pubDate>Tue, 06 May 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The Hitler Diaries</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -1266,75 +1291,6 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>SCOTUS</category>
   <guid>https://erauchway.github.io/posts/gold/</guid>
   <pubDate>Mon, 01 Jul 2024 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>He reads to us from something called ‘Ulysses’</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/comstockery/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://www.washingtonpost.com/health/2024/03/26/comstock-act-supreme-court-abortion-pill/">Justices Thomas and Alito have brought the Comstock laws back into the news</a> in an effort to craft a national ban on abortion. The laws banned a lot more, including James Joyce’s masterpiece <em>Ulysses,</em> until the dawn of the New Deal.</p>
-<p>On March 3, 1873, Congress substantially expanded section 148 of the existing statute defining the scope and activities of the Post Office. The law already banned any “obscene book, pamphlet, picture, print, or other publication of a vulgar or indecent character” from the mails and defined sending such stuff as a misdemeanor for which a perpetrator could be fined not more than $500 and serve not more than a year in prison.<sup>1</sup> Now they went much further:</p>
-<blockquote class="blockquote">
-<p>no obscene, lewd, or lascivious book, pamphlet, picture, paper, print, or other publication of an indecent character, or any article or thing designed for the prevention of conception or procuring of abortion, nor any article or thing intended or adapted for any indecent or immoral use or nature, nor any written or printed card, circular, book, pamphlet, advertisement or notice of any kind gfiving information, directly or indirectly, where, or how, or of whom, or by what means either of the things before mentioned may be obtained or made</p>
-</blockquote>
-<p>—nothing like that could go in the mails, and anyone convicted of doing it could be fined not less than $100 and not more than $5000 or imprisoned not less than a year or more than ten years, or both.<sup>2</sup> Forty years later, in 1913, this statute and its revisions were summarized in the Post Office’s regulations as below, prohibiting anything “filthy”; the penalty was now not more than $5000 in fines and not more than 5 years in prison.</p>
-<p><img src="https://erauchway.github.io/posts/comstockery/po_com.png" class="img-fluid"></p>
-<p>That’s what the New York postmaster, Thomas Patten, cited in 1919 when asking Judge W.H. Lamar, solicitor of the Post Office, what he thought of the May 1919 issue of the <em>Little Review,</em> which contained the “Scylla and Charybdis” episode of James Joyce’s yet unfinished novel <em>Ulysses.</em> Lamar found it “unmailable.” The Post Office found the same of the issue containing the “Cyclops” episode, for political reasons possibly relating to the Espionage Act passed during the Great War; the nation was now fully into the red scare.<span class="citation" data-cites="weirWhatDidHe2000"><sup>3</sup></span></p>
-<p>But it was in 1920 when the real Comstockery came: Anthony Comstock’s successor as head of the New York Society for the Suppression of Vice, John Sumner, lodged a complaint against the <em>Little Review</em> for publishing the “Nausicaa” episode, which includes a scene—obscured, to be sure, under literary prose—of Leopold Bloom masturbating while looking at Gerty MacDowell on the beach. At trial, a three-judge panel found the publishers of the <em>Little Review,</em> Margaret Anderson and Jane Heap, guilty. As Anderson wrote,</p>
-<blockquote class="blockquote">
-<p>They “don’t care who James Joyce is or whether he has written the finest books in the world”; their only function is to decide whether certain passages of “Ulysses” (Incidentally the only passages they can understand) violate the statute. . . . This decision establishes us as criminals and we are led to an adjoining building where another bewildered official takes our fingerprints!!!<span class="citation" data-cites="andersonUlyssesCourt1921"><sup>4</sup></span></p>
-</blockquote>
-<p>The key point there is that the judges confined themselves to the question of whether the particular passage should be understood as “filthy.”</p>
-<p>In 1933, when <em>Ulysses</em> came once more to court, Judge John Woolsey of the Southern District of New York had the whole book.</p>
-<blockquote class="blockquote">
-<p>I have read “Ulysses” once in its entirety and I have read the passages of which the government particularly complains several times. . . . “Ulysses” is not an easy book to read or to understand. But there has been much written about it, and in order properly to approach the consideration of it it is advisable to read a number of other books which have now become its satellites. The study of “Ulysses” is, therefore, a heavy task.<sup>5</sup></p>
-</blockquote>
-<p>Judge Woolsey had previously established himself as a dedicated scholar; in holding that the book <em>Married Love</em> was not obscene, he mentioned he derived necessary perspective from reading Havelock Ellis.<sup>6</sup> He was also a pretty good literary critic.<span class="citation" data-cites="vanderhamLiftingBanUlysses1994"><sup>7</sup></span></p>
-<blockquote class="blockquote">
-<p>Joyce has attempted—it seems to me, with astonishing success—to show how the screen of consciousness with its ever-shifting kaleidoscopic impressions carries, as it were on a plastic palimpsest, not only what is in the focus of each man’s observation of the actual things about him, but also in a penumbral zone residua of past impressions, some recent and some drawn up by association from the domain of the subconscious. He shows how each of these impressions affects the life and behavior of the character which he is describing. . . .</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>If Joyce did not attempt to be honest in developing the technique which he has adopted in “Ulysses,” the result would be psychologically misleading and thus unfaithful to his chosen technique. Such an attitude would be artistically inexcusable.</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>It is because Joyce has been loyal to his technique and has not funked its necessary implications, but has honestly attempted to tell fully what his characters think about, that he has been the subject of so many attacks. . . .</p>
-</blockquote>
-<p>In short: people think about sex. Sometimes quite a lot. So portraying it—along with the many, many other things Joyce portrays in <em>Ulysses</em>—is true to the book’s purpose.</p>
-<p>Woolsey wasn’t above being a little funny.</p>
-<blockquote class="blockquote">
-<p>My considered opinion is, after long reflection, is that, whilst in many places the effect of “Ulysses” on the reader undoubtedly is somewhat emetic, nowhere does it tend to be an aphrodisiac.</p>
-</blockquote>
-<p>Considering the entire book, rather than the allegedly offending passage, was an important shift in the law on obscenity.<span class="citation" data-cites="gillersTendencyDepraveCorrupt2007"><sup>8</sup></span></p>
-<p>So <em>Ulysses</em> could come into the United States. And so, as Morris Ernst, the attorney for Random House, wrote in the foreword to US edition of <em>Ulysses,</em> “The New Deal in the law of letters is here.”<span class="citation" data-cites="joyceUlysses1961"><sup>9</sup></span></p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>17 Stat. 302.↩︎</p></li>
-<li id="fn2"><p>18 Stat. 599.↩︎</p></li>
-<li id="fn3"><p>David Weir, <span>“What Did He Know, and When Did He Know It: The <span>‘Little Review,’</span> Joyce, and <span>‘Ulysses’</span>,”</span> <em>James Joyce Quarterly</em> 37, no. 3/4 (Spring-Summer 2000): 394. Records are incomplete, Weir points out, so it’s not always entirely clear what the rationale was for suppression.↩︎</p></li>
-<li id="fn4"><p>Margaret Anderson, <span>“Ulysses in Court,”</span> <em>Little Review</em> 7, no. 4 (January--March, 1921): 23, 25.↩︎</p></li>
-<li id="fn5"><p><em>United States v. One Book Called “Ulysses,”</em> December 6, 1933, 5 F. Supp. 182 (S.D.N.Y. 1933).↩︎</p></li>
-<li id="fn6"><p><em>United States v. One Obscene Book Entitled “Married Love,”</em> April 6, 1931, 48 F.2d 821 (1931).↩︎</p></li>
-<li id="fn7"><p>Not everyone agrees. Paul Vanderham, <span>“Lifting the Ban on <span>‘Ulysses’</span>: The Well-Intentioned Lies of the Woolsey Decision,”</span> <em>Mosaic</em> 27, no. 4 (December 1994): 179--197.↩︎</p></li>
-<li id="fn8"><p>The old way of thinking—the <em>Hicklin</em> test, looking only at the offending passage—wouldn’t go completely until <em>Roth v. US</em> in 1957. Stephen Gillers, <span>“A Tendency to Deprave and Corrupt: The Transformation of American Obscenity Law from <em>Hicklin</em> to <em>Ulysses II</em>,”</span> <em>Washington University Law Review</em> 85, no. 2 (2007): 215--296.↩︎</p></li>
-<li id="fn9"><p>James Joyce, <em>Ulysses</em> (New York: Vintage, 1961), v.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>New Deal</category>
-  <category>SCOTUS</category>
-  <category>Comstock</category>
-  <category>Ulysses</category>
-  <guid>https://erauchway.github.io/posts/comstockery/</guid>
-  <pubDate>Tue, 26 Mar 2024 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

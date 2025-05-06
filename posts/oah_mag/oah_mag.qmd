@@ -1,0 +1,19 @@
+---
+title: Teaching the Depression and New Deal
+subtitle: In the OAH magazine
+author: Eric Rauchway
+date: 2025-05-06
+draft: FALSE
+categories: 
+  - Historiography
+  - New Deal
+---
+
+The editors of the Organization of American Historians' magazine, *The American Historian,* asked me to contribute an essay on the Great Depression and the New Deal to a series on "US History at 250." I tried to get all the salient historiographical points into 2500 or so words. You can find it [here;](https://www.oah.org/tah/america-in-a-world-at-war/the-great-depression-and-the-new-deal/) this is how it begins:
+
+>Even with COVID and (for the older among us) the 2008 recession in our memories, the Great Depression remains a catastrophe whose scale and scope we have trouble imagining. Historians tasked with conveying it to others try to illustrate scale with statistics, though numbers imply a spurious precision our sources cannot wholly support; indicating its scope requires a grasp of the interconnected national and world economies, and how that web of links, so apparently robust, could be so suddenly swept aside and afterward, only painstakingly rebuilt.
+
+It carries on in an effort to offer contemporary points of comparison or contrast, with the idea that might help non-specialists teach it, if they find themselves wanting to do so.
+![Woman at the community laundry on Saturday, Farm Security Administration labor camnp, Robstown, TX; Arthur Rothstein for the FSA. Library of Congress.](./fsa_camp.jpg)
+
+The other essays, covering the period of both world wars, might be worth your while too: they're by Jennifer D. Keane, Lynne Dumenil, Natalie Mendoza, Viola Burlew, and Tom Zeiler.
