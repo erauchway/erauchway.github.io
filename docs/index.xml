@@ -9,8 +9,39 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.7.31</generator>
-<lastBuildDate>Wed, 11 Jun 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Mon, 30 Jun 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>History of Tariffs 2</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/aha_tariffs2/aha_tariffs2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>If you are among the legions who enjoy the history of tariffs (as previously discussed <a href="https://erauchway.github.io/posts/aha_tariffs/aha_tariffs.html">here</a>) but prefer it with lively hand gestures—</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/aha_tariffs2/rauchway_gestures.png" class="img-fluid figure-img"></p>
+<figcaption>A historian talking and making hand gestures with rapidity sufficient to stymie the camera’s ability clearly to record them.</figcaption>
+</figure>
+</div>
+<p>—then you can watch the AHA Congressional Briefing on the History of Tariffs in the US on C-SPAN2, at <a href="https://erauchway.github.io/posts/aha_tariffs/aha_tariffs.html">this link</a>.</p>
+
+
+
+ ]]></description>
+  <category>Historiography</category>
+  <category>Tariffs</category>
+  <category>New Deal</category>
+  <category>Reciprocal Tariff Agreements Act of 1934</category>
+  <category>Smoot-Hawley</category>
+  <category>C-SPAN</category>
+  <guid>https://erauchway.github.io/posts/aha_tariffs2/aha_tariffs2.html</guid>
+  <pubDate>Mon, 30 Jun 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>AHA Congressional Briefing: History of Tariffs</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -74,7 +105,7 @@
   <category>Reciprocal Tariff Agreements Act of 1934</category>
   <category>Smoot-Hawley</category>
   <guid>https://erauchway.github.io/posts/aha_tariffs/aha_tariffs.html</guid>
-  <pubDate>Wed, 11 Jun 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Teaching the Depression and New Deal</title>
@@ -99,7 +130,7 @@
   <category>Historiography</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/oah_mag/oah_mag.html</guid>
-  <pubDate>Tue, 06 May 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 06 May 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The Hitler Diaries</title>
@@ -138,7 +169,7 @@
   <category>Forgery</category>
   <category>Oxford</category>
   <guid>https://erauchway.github.io/posts/samoans/samoans.html</guid>
-  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 22 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the isolationists: polling</title>
@@ -190,7 +221,7 @@
   <category>Historiography</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/polling_ww2/polling_ww2.html</guid>
-  <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 14 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Andrew Hickey, practitioner of old-school American Studies (laudatory)</title>
@@ -230,7 +261,7 @@
   <category>Historiography</category>
   <category>American Studies</category>
   <guid>https://erauchway.github.io/posts/hickey/hickey_500.html</guid>
-  <pubDate>Sun, 13 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sun, 13 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Reno, NV, circa 1997</title>
@@ -287,7 +318,7 @@
   <category>Reno</category>
   <category>Photography</category>
   <guid>https://erauchway.github.io/posts/reno/reno_97.html</guid>
-  <pubDate>Tue, 11 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Mar 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Wages in Puerto Rico, 1934–1949</title>
@@ -338,7 +369,7 @@
   <category>New Deal</category>
   <category>Territories</category>
   <guid>https://erauchway.github.io/posts/pr_wages/pr_wages.html</guid>
-  <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 10 Feb 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Dylaniana</title>
@@ -393,7 +424,7 @@
   <category>Conor McPherson</category>
   <category>Writings</category>
   <guid>https://erauchway.github.io/posts/north_country/north_country.html</guid>
-  <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 22 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>American History Hit</title>
@@ -417,7 +448,7 @@
   <category>Hoover</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/history_hit/history_hit.html</guid>
-  <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>New Fields, New Deals</title>
@@ -456,7 +487,7 @@
   <category>USVI</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/delano_usvi/delano_usvi.html</guid>
-  <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the isolationists</title>
@@ -514,7 +545,7 @@
   <category>Hoover</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/williams_hoover/williams_hoover.html</guid>
-  <pubDate>Mon, 06 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 06 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Making a chart on the fly</title>
@@ -1020,7 +1051,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 </section></div> ]]></description>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/gdp_chart/gdp_chart.html</guid>
-  <pubDate>Fri, 04 Oct 2024 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 04 Oct 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>President Hoover was not a progressive</title>
@@ -1071,7 +1102,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>New Deal</category>
   <category>Historiography</category>
   <guid>https://erauchway.github.io/posts/hoover/</guid>
-  <pubDate>Tue, 17 Sep 2024 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 17 Sep 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Some updates</title>
@@ -1105,7 +1136,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>Wine</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/cv_updates/</guid>
-  <pubDate>Sat, 07 Sep 2024 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 07 Sep 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Archives come in all shapes and sizes and places</title>
@@ -1144,7 +1175,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>Territories</category>
   <category>USVI</category>
   <guid>https://erauchway.github.io/posts/archives2/</guid>
-  <pubDate>Thu, 05 Sep 2024 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 05 Sep 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>An unnamed government agency, you say</title>
@@ -1173,7 +1204,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>Primary sources</category>
   <category>Mysteries</category>
   <guid>https://erauchway.github.io/posts/archives1/</guid>
-  <pubDate>Wed, 04 Sep 2024 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 04 Sep 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Remember the women</title>
@@ -1212,7 +1243,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>New Deal</category>
   <category>Women voters</category>
   <guid>https://erauchway.github.io/posts/women/</guid>
-  <pubDate>Fri, 09 Aug 2024 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 09 Aug 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Thirty glorious years</title>
@@ -1238,7 +1269,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>New Deal</category>
   <category>Media</category>
   <guid>https://erauchway.github.io/posts/biewen/</guid>
-  <pubDate>Thu, 25 Jul 2024 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 25 Jul 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Somewhere East of Suwannee</title>
@@ -1292,34 +1323,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>New Deal</category>
   <category>Territories</category>
   <guid>https://erauchway.github.io/posts/out_east/</guid>
-  <pubDate>Wed, 24 Jul 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Japanese Americans, per IPUMS</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/japanese_americans/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>IPUMS has now made available a preliminary complete-count sample—that is to say, everyone in the Census is represented in the <a href="https://usa.ipums.org/usa/full_count.shtml">sample—for 1950.</a> Having both 1940 and 1950 makes it possible to look at the before-and-after for Japanese American imprisonment without trial. Here’s a preliminary look.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/japanese_americans/ja_locs.png" class="img-fluid figure-img"></p>
-<figcaption>Three panel chart showing location by county of Japanese American population in 1930, 1940, and 1950; the increase of people in cities and East of the Rockies is pronounced between 1940 and 1950.</figcaption>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>Japanese Americans</category>
-  <category>Internment</category>
-  <category>IPUMS</category>
-  <guid>https://erauchway.github.io/posts/japanese_americans/</guid>
-  <pubDate>Fri, 05 Jul 2024 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
