@@ -9,7 +9,8 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: cloud-sun
+##      - icon: cloud-sun
+      - text: "{{< fa brands bluesky >}}"  
         href: https://bsky.app/profile/rauchway.bsky.social
       - icon: rss
         href: index.xml

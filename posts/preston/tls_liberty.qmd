@@ -1,0 +1,21 @@
+---
+title: "Historians and the Isolationists: National Security"
+subtitle: "The third in a series"
+author: "Eric Rauchway"
+date: "2025-07-18"
+categories: 
+  - Historiography
+  - Isolationists
+---
+
+I've [said](https://erauchway.github.io/posts/williams_hoover/williams_hoover.html) here [before](https://erauchway.github.io/posts/polling_ww2/polling_ww2.html) that I think scholars of US foreign relations give too much credence to isolationist arguments and now I guess I've said it [in the *TLS,* too.](https://www.the-tls.com/history/twentieth-century-onwards-history/total-defense-andrew-preston-book-review-eric-rauchway)
+
+![Franklin D. Roosevelt and Winston Churchill fishing. FDR Library.](./fdr_wsc.jpg)
+
+I structured the essay around implications of the Roosevelt--Churchill destroyers-for-bases deal of 1940, and in discussing Andrew Preston's *Total Defense,* which lays out the case that Roosevelt invented a modern discourse of "national security" that defined threats to the United States more broadly than ever before—indeed, globally and ideologically—I suggest we might not want to accept the arguments of those like Herbert Hoover and Charles Lindbergh that the Axis posed no threat to the United States itself. 
+
+>when Preston says that “geopolitical logic came down on the side of anti-interventionists like Hoover and Lindbergh: the United States was actually never in danger of being attacked by the Axis powers”, he is accepting implicitly their narrow definition of “the United States” – one that excluded the people of the US territories, many of whom were US citizens or nationals. It is perhaps understandable that Lindbergh, who was never known for his analytical acuity, should have left such people out of his geopolitical logic; for Roosevelt to do so would probably have violated his oath of office as president. Eventually, most of the US territories listed above did come under Axis attack and even occupation. If Roosevelt defined US national security with unprecedented breadth, then his opponents defined the defensible US so narrowly that they proposed to cede parts of the US to fascist invaders.
+
+There's more in that vein there, though I didn't get into the nitty-gritty of it: the people in the US territories of Alaska, Hawaiʻi, and Puerto Rico were all defined by law as US citizens. All these places came under Axis attack during the war.[^1] US citizens on Howland Island were [killed by Japanese attack.](https://oceanexplorer.noaa.gov/okeanos/explorations/ex1705/background/jarvis/welcome.html) There are of course excellent cases that these lands and people ought not to have been under US government, but they were; and I suppose the morality or legality of US sovereignty over them, however dubious, would not have been notably improved by leaving them to the mercy of the Axis powers. 
+
+[^1]: Pearl Harbor is, I suppose, obvious; the Aleutian campaign and the bombing of Dutch Harbor reasonably well known. A [U-boat shelled a National Youth Administration camp](https://www.newspapers.com/article/the-fresno-bee/176933638/) (though with no casualties) on Mona Island, part of the Puerto Rico archipelago, in 1942.

@@ -1,0 +1,22 @@
+---
+title: "Pitt Rivers and Totem Bight"
+date: 2025-07-11
+---
+
+The TLS has [a fairly bracing essay](https://www.the-tls.com/politics-society/social-cultural-studies/every-monument-will-fall-dan-hicks-book-review-tristram-hunt) by Tristram Hunt, curator of the V&A, on a book by Dan Hicks, curator of the Pitt Rivers Museum in Oxford, an institution which Hunt describes (in my view aptly) as "a darkened labyrinth of cabinets" arranged in a "riotously Victorian, deliriously Gormenghast manner." Adorning the essay is a photo like this one which gives a hint of the jumble that is the Pitt Rivers's main hall, presided over by the tall Haida totem pole you can see near center, which once stood outside Star House in Massett Village in what is now Canada. 
+
+![Photo of the Pitt Rivers main hall like the TLS one, but not the TLS one (this one by me). Click to enlarge.](./pitt_rivers.png){.lightbox}
+
+Hicks, according to Hunt anyway, cordially loathes the collection of which he is curator, which perhaps accounts for the ambivalence on some of the explanatory plaques, like the one for that Haida totem, which asserts its figures and stories remain "part of Haida culture."
+
+As it happens a couple weeks ago Kathy Olmsted and I were on a research trip, mainly to go to archives, but also to see some other Haida, and Tlingit and Tsimshian, totem poles together with a clan house not unlike Star House, in Saxman Village near Ketchikan, Alaska. Together with Totem Bight, also near Ketchikan, and some other totem poles in town, these sites are the legacy of a New Deal program to, as one of its creators wrote, "see that these totems are preserved *in situ.*" 
+
+::: {layout-ncol=2}
+![Totems and clan house at Saxman Village. Click to enlarge.](./saxman.png){.lightbox}
+
+![Totems at Totem Bight. Click to enlarge.](./totem_bight.png){.lightbox}
+:::
+
+Under the New Deal, the federal government hired Native carvers to practice and pass on their art, which had fallen out of favor under missionary influence. The explanatory plaques there, unlike the one in the Pitt Rivers, do not assert that the totem poles and their figures and stories remain part of Native culture but perhaps that is because it is obvious; there Native people retain stewardship of the living art.
+
+It is of course true that the Roosevelt reform program in the territories constituted an [empire of the New Deal.](https://www.rai.ox.ac.uk/event/empire-of-the-new-deal) Does it matter that this empire, instead of carting cultural artifacts away to the Pitt Rivers, funded the preservation and perpetuation of the artifacts and moreover the art form amongst the people to whom it belonged?
