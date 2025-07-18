@@ -1,10 +1,12 @@
 ---
 title: "About"
 image: P1010601.JPG
-about:
-  template: jolla
+# about:
+#  template: jolla
   
 ---
+
+![A Hawaiian red-crested cardinal (which is actually a tanager); photo by me.](./P1010601.JPG)
 
 A blog containing historical pedantry about the period of the Roosevelt presidency, 1933--1945. Honestly this is mostly research notes, with a focus on primary sources I've come across and have something to say about. I don't want to do current-events blogging. I might eventually throw in a photograph or two. No promises.
 

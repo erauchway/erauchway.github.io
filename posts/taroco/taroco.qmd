@@ -2,6 +2,10 @@
 title: "DRINK TAROCO"
 author: "Eric Rauchway"
 date: 2025-07-17
+categories:
+  - New Deal
+  - Territories
+  - Empire of the New Deal
 ---
 
 Part of the [empire of the New Deal](https://www.rai.ox.ac.uk/event/empire-of-the-new-deal) was finding sustainable businesses to run in the US territories. Hawaiʻi grew lots of taro (kalo); why not find a market for it? The Department of the Interior ordered taro flour and a drink called Taroco in quantity, to be served in the department's cafeteria.[@USOfficialsTaro1938-03-19]
