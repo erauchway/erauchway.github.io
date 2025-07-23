@@ -1,0 +1,14 @@
+---
+title: "Chicago 18 in the Zotero Style Repository"
+author: "Eric Rauchway"
+date: "2025-07-23"
+categories:
+  - Methods
+  
+---
+
+If you were eagerly waiting for the innovations of the eighteenth edition of the Chicago Manual of Style to come to Zotero, you can breathe easier. They are [here.](https://forums.zotero.org/discussion/125429/implementation-of-the-chicago-manual-of-style-18th-edition)
+
+![The bright-yellow cover of the Chicago Manual of Style, 18th edition.](cmos18.png){width=250}
+
+Maybe you were ready to drop place of publication. Maybe you weren't. But as your university press representative has probably told you, it is time.
