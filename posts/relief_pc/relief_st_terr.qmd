@@ -1,0 +1,15 @@
+---
+title: "Relief in the Territories, 1933"
+date: 2025-07-31
+author: "Eric Rauchway"
+categories:
+  - New Deal
+  - Territories
+  - Empire of the New Deal
+---
+
+The Federal Emergency Relief Act of 1933, [48 Stat. 56,](https://uscode.house.gov/statviewer.htm?volume=48&page=55) proposed to relieve "hardship and suffering caused by unemployment" in the United States, which meant not only the States and the District of Columbia, but the Territories, as the title and the first section of the law stated. The people of the United States in the Territories were also entitled to relief from the Depression, in keeping with Roosevelt's broadly inclusive message about the interdependence of all the sprawling republic's people.
+
+![Per capita relief in states and territories. Click to enlarge.](./pc_relief.png){.lightbox}
+
+As you can see in the chart, relief went to the territories (shown in orange) on a basis commensurate with that of the states. While I'm skeptical of drawing any substantial inference based on the relative position of localities in the per-capita expenditures of the New Deal, the fact that the territories are in the same general run of per-capita spending as the states, and not outliers, suggests to me the early relief programs in the territories were comparable to those in the states.

@@ -10,61 +10,7 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Thu, 31 Jul 2025 04:00:00 GMT</lastBuildDate>
-<item>
-  <title>Relief in the Territories, 1933</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/relief_pc/relief_st_terr.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The Federal Emergency Relief Act of 1933, <a href="https://uscode.house.gov/statviewer.htm?volume=48&amp;page=55">48 Stat. 56,</a> proposed to relieve “hardship and suffering caused by unemployment” in the United States, which meant not only the States and the District of Columbia, but the Territories, as the title and the first section of the law stated. The people of the United States in the Territories were also entitled to relief from the Depression, in keeping with Roosevelt’s broadly inclusive message about the interdependence of all the sprawling republic’s people.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./pc_relief.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Per capita relief in states and territories. Click to enlarge."><img src="https://erauchway.github.io/posts/relief_pc/pc_relief.png" class="img-fluid figure-img" alt="Per capita relief in states and territories. Click to enlarge."></a></p>
-<figcaption>Per capita relief in states and territories. Click to enlarge.</figcaption>
-</figure>
-</div>
-<p>As you can see in the chart, relief went to the territories (shown in orange) on a basis commensurate with that of the states. While I’m skeptical of drawing any substantial inference based on the relative position of localities in the per-capita expenditures of the New Deal, the fact that the territories are in the same general run of per-capita spending as the states, and not outliers, suggests to me the early relief programs in the territories were comparable to those in the states.</p>
-
-
-
- ]]></description>
-  <category>New Deal</category>
-  <category>Territories</category>
-  <category>Empire of the New Deal</category>
-  <guid>https://erauchway.github.io/posts/relief_pc/relief_st_terr.html</guid>
-  <pubDate>Thu, 31 Jul 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Chicago 18 in the Zotero Style Repository</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/chicago18/chicago18.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>If you were eagerly waiting for the innovations of the eighteenth edition of the Chicago Manual of Style to come to Zotero, you can breathe easier. They are <a href="https://forums.zotero.org/discussion/125429/implementation-of-the-chicago-manual-of-style-18th-edition">here.</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/chicago18/cmos18.png" class="img-fluid figure-img" width="250"></p>
-<figcaption>The bright-yellow cover of the Chicago Manual of Style, 18th edition.</figcaption>
-</figure>
-</div>
-<p>Maybe you were ready to drop place of publication. Maybe you weren’t. But as your university press representative has probably told you, it is time.</p>
-
-
-
- ]]></description>
-  <category>Methods</category>
-  <guid>https://erauchway.github.io/posts/chicago18/chicago18.html</guid>
-  <pubDate>Wed, 23 Jul 2025 04:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Fri, 18 Jul 2025 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Historians and the Isolationists: National Security</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -100,7 +46,7 @@
   <category>Historiography</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/preston/tls_liberty.html</guid>
-  <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 18 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>DRINK TAROCO</title>
@@ -137,7 +83,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/taroco/taroco.html</guid>
-  <pubDate>Thu, 17 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 17 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Pitt Rivers and Totem Bight</title>
@@ -188,7 +134,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/pitt_rivers/pitt_rivers.html</guid>
-  <pubDate>Fri, 11 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 11 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>History of Tariffs 2</title>
@@ -219,7 +165,7 @@
   <category>Smoot-Hawley</category>
   <category>C-SPAN</category>
   <guid>https://erauchway.github.io/posts/aha_tariffs2/aha_tariffs2.html</guid>
-  <pubDate>Mon, 30 Jun 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 30 Jun 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>AHA Congressional Briefing: History of Tariffs</title>
@@ -284,7 +230,7 @@
   <category>Reciprocal Tariff Agreements Act of 1934</category>
   <category>Smoot-Hawley</category>
   <guid>https://erauchway.github.io/posts/aha_tariffs/aha_tariffs.html</guid>
-  <pubDate>Wed, 11 Jun 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Teaching the Depression and New Deal</title>
@@ -309,7 +255,7 @@
   <category>Historiography</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/oah_mag/oah_mag.html</guid>
-  <pubDate>Tue, 06 May 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 06 May 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The Hitler Diaries</title>
@@ -348,7 +294,7 @@
   <category>Forgery</category>
   <category>Oxford</category>
   <guid>https://erauchway.github.io/posts/samoans/samoans.html</guid>
-  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 22 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the isolationists: polling</title>
@@ -400,7 +346,7 @@
   <category>Historiography</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/polling_ww2/polling_ww2.html</guid>
-  <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 14 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Andrew Hickey, practitioner of old-school American Studies (laudatory)</title>
@@ -440,7 +386,7 @@
   <category>Historiography</category>
   <category>American Studies</category>
   <guid>https://erauchway.github.io/posts/hickey/hickey_500.html</guid>
-  <pubDate>Sun, 13 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sun, 13 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Reno, NV, circa 1997</title>
@@ -497,7 +443,7 @@
   <category>Reno</category>
   <category>Photography</category>
   <guid>https://erauchway.github.io/posts/reno/reno_97.html</guid>
-  <pubDate>Tue, 11 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Mar 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Wages in Puerto Rico, 1934–1949</title>
@@ -548,7 +494,7 @@
   <category>New Deal</category>
   <category>Territories</category>
   <guid>https://erauchway.github.io/posts/pr_wages/pr_wages.html</guid>
-  <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 10 Feb 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Dylaniana</title>
@@ -603,7 +549,7 @@
   <category>Conor McPherson</category>
   <category>Writings</category>
   <guid>https://erauchway.github.io/posts/north_country/north_country.html</guid>
-  <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 22 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>American History Hit</title>
@@ -627,7 +573,7 @@
   <category>Hoover</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/history_hit/history_hit.html</guid>
-  <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>New Fields, New Deals</title>
@@ -666,7 +612,7 @@
   <category>USVI</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/delano_usvi/delano_usvi.html</guid>
-  <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the isolationists</title>
@@ -724,7 +670,7 @@
   <category>Hoover</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/williams_hoover/williams_hoover.html</guid>
-  <pubDate>Mon, 06 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 06 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Making a chart on the fly</title>
@@ -1230,7 +1176,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 </section></div> ]]></description>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/gdp_chart/gdp_chart.html</guid>
-  <pubDate>Fri, 04 Oct 2024 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 04 Oct 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>President Hoover was not a progressive</title>
@@ -1272,7 +1218,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 <li id="fn4"><p>Elliot A. Rosen, <em>The Republican Party in the Age of Roosevelt: Sources of Anti-Government Conservatism in the United States</em> (Charlottesville: University of Virginis Press, 2014), 18.↩︎</p></li>
 <li id="fn5"><p>William E. Leuchtenburg, <em>The American President from Teddy Roosevelt to Bill Clinton</em> (New York: Oxford University Press, 2015), 135–38.↩︎</p></li>
 <li id="fn6"><p>Raymond Moley and Elliot A. Rosen, <em>The First New Deal</em> (New York: Harcourt, Brace &amp; World, 1966).↩︎</p></li>
-<li id="fn7"><p>I’ve written about a lot of this stuff: see <span class="citation" data-cites="rauchwayWhyNewDeal2021a">Eric Rauchway, <em>Why the New Deal Matters</em> (New Haven: Yale University Press, 2021)</span>, <span class="citation" data-cites="rauchwayWinterWarHoover2018">Eric Rauchway, <em>Winter War: Hoover, Roosevelt, and the First Clash Over the New Deal</em> (New York: Basic Books, 2018)</span>, <span class="citation" data-cites="rauchwayMoneyMakersHow2015">Eric Rauchway, <em>The Money Makers: How Roosevelt and Keynes Ended the Depression, Defeated Fascism, and Secured a Prosperous Peace</em> (New York: Basic Books, 2015)</span>. The extent to which Hoover stymied some of the more creative ideas bubbling up from his appointees for economic aid in the territories is something Kathy and I are <a href="https://erauchway.github.io/posts/archives1/">currently</a> <a href="https://erauchway.github.io/posts/archives2/">researching.</a> The bit about the RFC is at the root of that historiography and is bewilderingly and routinely ignored; <span class="citation" data-cites="nashHerbertHooverOrigins1959">Gerald D. Nash, <span>“Herbert Hoover and the Origins of the Reconstruction Finance Corporation,”</span> <em>The Mississippi Valley Historical Review</em> 46, no. 3 (December 1959): 455</span>.↩︎</p></li>
+<li id="fn7"><p>I’ve written about a lot of this stuff: see <span class="citation" data-cites="rauchwayWhyNewDeal2021a">Eric Rauchway, <em>Why the New Deal Matters</em> (New Haven: Yale University Press, 2021)</span>, <span class="citation" data-cites="rauchwayWinterWarHoover2018">Eric Rauchway, <em>Winter War: Hoover, Roosevelt, and the First Clash over the New Deal</em> (New York: Basic Books, 2018)</span>, <span class="citation" data-cites="rauchwayMoneyMakersHow2015">Eric Rauchway, <em>The Money Makers: How Roosevelt and Keynes Ended the Depression, Defeated Fascism, and Secured a Prosperous Peace</em> (New York: Basic Books, 2015)</span>. The extent to which Hoover stymied some of the more creative ideas bubbling up from his appointees for economic aid in the territories is something Kathy and I are <a href="https://erauchway.github.io/posts/archives1/">currently</a> <a href="https://erauchway.github.io/posts/archives2/">researching.</a> The bit about the RFC is at the root of that historiography and is bewilderingly and routinely ignored; <span class="citation" data-cites="nashHerbertHooverOrigins1959">Gerald D. Nash, <span>“Herbert Hoover and the Origins of the Reconstruction Finance Corporation,”</span> <em>The Mississippi Valley Historical Review</em> 46, no. 3 (December 1959): 455</span>.↩︎</p></li>
 <li id="fn8"><p>Lisa McGirr, <em>The War on Alcohol: Prohibition and the Rise of the American State</em> (New York: W.W. Norton &amp; Company, 2016).↩︎</p></li>
 <li id="fn9"><p>Amity Shlaes, <em>The Forgotten Man: A New History of the Great Depression</em> (New York: HarperCollins, 2007).↩︎</p></li>
 </ol>
@@ -1281,7 +1227,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>New Deal</category>
   <category>Historiography</category>
   <guid>https://erauchway.github.io/posts/hoover/</guid>
-  <pubDate>Tue, 17 Sep 2024 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 17 Sep 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Some updates</title>
@@ -1315,7 +1261,75 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>Wine</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/cv_updates/</guid>
-  <pubDate>Sat, 07 Sep 2024 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 07 Sep 2024 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Archives come in all shapes and sizes and places</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/archives2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As I <a href="https://erauchway.github.io/posts/archives1/">mentioned,</a> we had some good research trips this summer, including one notably productive one to the National Archives, but we got great material at some less-obvious places too—like this one.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/archives2/IMG_3226.png" class="img-fluid figure-img"></p>
+<figcaption>The St.&nbsp;Croix Landmarks Society Archives on Estate Whim near Frederiksted.</figcaption>
+</figure>
+</div>
+<p>The St.&nbsp;Croix Landmarks Society is a (rather wonderfully) volunteer-staffed operation in the pictured building, holding some intriguing collections on the history of the island and the US Virgin Islands generally.</p>
+<p>Estate Whim itself is an old sugar plantation (some of which has been restored and made a museum of enslavement in St.&nbsp;Croix) which the US government bought in the waning days of the Hoover administration and parceled out and plowed for homesteads. As with many other Depression-fighting ideas floated in the Hoover administration, the homestead program was a moderately good one, came from people well down in the bureaucracy, was underfunded, and proceeded without haste despite urgent need owing to disinterest at the level of the cabinet and the White House. It took two years after Congress appropriated the money even to begin operations. The New Deal got it going in earnest, though.</p>
+<p>It was also, on its own, going to be inadequate; Crucian farmers wouldn’t get very far growing sugar without a local market for their product,<sup>1</sup> and for that, they needed the Virgin Islands Company. An agency of the New Deal, the Virgin Islands Company provided a guaranteed purchaser for sugar grown on St.&nbsp;Croix (and made a bunch of it into rum, though that’s another story).</p>
+<p>Anyway: the homestead program and the Virgin Islands Company were, as one administrator’s memo we found in the St.&nbsp;Croix Landmarks Society archives explained, “complementary” operations. By itself, the homestead program wasn’t going to get very far: with the guaranteed government purchaser, it provided substantial primary or supplementary income to small-scale farmers. Documents in the National Archives give good examples of the more than four hundred homesteaders—ninety percent of whom were Black Crucians; the rest were Puerto Ricans who had come to St.&nbsp;Croix at least two years before—who did well out of the program.<sup>2</sup></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Crucian sugar-growers labored under tax and practical disadvantages in selling their product off-island.↩︎</p></li>
+<li id="fn2"><p>In another archive we visited, we found someone claiming he was the only white person to secure a homestead, which may be true, though the general overviews don’t mention him.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>New Deal</category>
+  <category>Primary sources</category>
+  <category>Territories</category>
+  <category>USVI</category>
+  <guid>https://erauchway.github.io/posts/archives2/</guid>
+  <pubDate>Thu, 05 Sep 2024 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>An unnamed government agency, you say</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/archives1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We had the good fortune to make several research trips this summer, including one to the National Archives at College Park (the big one). We’ve learned the pleasantest way to do it is to stay in College Park, rather than in Washington; much easier to get to and from, and perfectly lovely environment. And we found great material.</p>
+<p>But it wouldn’t be an archival trip without a dry hole or two. There was an actually empty box (“that does happen,” the archivist says); a folder whose contents were temporarily removed for review, the slip says, on 6/8/71; and the one below.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/archives1/IMG_3890.png" class="img-fluid figure-img"></p>
+<figcaption>The records are charged out to a government agency.</figcaption>
+</figure>
+</div>
+<p>So: Which government agency is studying the nitty-gritty work of the Works Progress Administration, the Reconstruction Finance Corporation, and other New Deal operations in Puerto Rico? If you know the answer, please say!</p>
+
+
+
+ ]]></description>
+  <category>New Deal</category>
+  <category>Primary sources</category>
+  <category>Mysteries</category>
+  <guid>https://erauchway.github.io/posts/archives1/</guid>
+  <pubDate>Wed, 04 Sep 2024 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
