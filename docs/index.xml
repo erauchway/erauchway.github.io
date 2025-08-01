@@ -10,9 +10,34 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Thu, 31 Jul 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Aug 2025 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>Empire of Relief, 1933</title>
+  <title>Rapid Involuntary Retirement</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/stewart/stewart_sacked.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Shortly after the chief of the Bureau of Labor Statistics declined to support a factually insupportable rosy jobs report, the president had him forcibly retired. In 1932, labor statistics commissioner Ethelbert Stewart was indignantly reclassified as dispensable.</p>
+<blockquote class="blockquote">
+<p>I have a contract with the Government and it has been broken. Retired? Don’t put it that way. I’ve had a tin can tied to the end of my coat tail.</p>
+</blockquote>
+<p>He had very recently been yelled at by Secretary of Labor William Doak in front of reporters for <a href="https://time.com/archive/6749502/the-cabinet-tin-can/">disputing a bright employment forecast.</a></p>
+
+
+
+ ]]></description>
+  <category>Hoover</category>
+  <category>Depression</category>
+  <category>Methods</category>
+  <guid>https://erauchway.github.io/posts/stewart/stewart_sacked.html</guid>
+  <pubDate>Fri, 01 Aug 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Relief in the Territories, 1933</title>
   <dc:creator>Eric Rauchway</dc:creator>
   <link>https://erauchway.github.io/posts/relief_pc/relief_st_terr.html</link>
   <description><![CDATA[ 
@@ -1282,40 +1307,6 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
   <category>Historiography</category>
   <guid>https://erauchway.github.io/posts/hoover/</guid>
   <pubDate>Tue, 17 Sep 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Some updates</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/cv_updates/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Kathy and I had a new article come out, “A New Deal for Wine,” in the <em>Journal of Policy History.</em><span class="citation" data-cites="olmstedNewDealWine2024"><sup>1</sup></span> Which provided the occasion for me to update my c.v.—it’s been linked in the top bar to this blog since I started it, but now it’s up to date and (I hope) free of errors. Isn’t housekeeping fun?</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/cv_updates/cv.png" class="img-fluid figure-img"></p>
-<figcaption>The top bit of my c.v.</figcaption>
-</figure>
-</div>
-<p>Anyway, all of the publications and activities should look proper now. And if you want to go directly to “A New Deal for Wine,” well, thanks to the UC, it’s Open Access, and you can find it <a href="https://www.cambridge.org/core/journals/journal-of-policy-history/article/new-deal-for-wine/32DF1F0C06DD712EF61C0CFC793B3131">here.</a></p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Kathryn S. Olmsted and Eric Rauchway, <span>“A New Deal for Wine,”</span> <em>Journal of Policy History</em> 36, no. 3 (July 2024): 260–80.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Curriculum vitae</category>
-  <category>Wine</category>
-  <category>New Deal</category>
-  <guid>https://erauchway.github.io/posts/cv_updates/</guid>
-  <pubDate>Sat, 07 Sep 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
