@@ -1,5 +1,5 @@
 ---
-title: "Relief in the Territories, 1933"
+title: "Empire of Relief, 1933"
 date: 2025-07-31
 author: "Eric Rauchway"
 categories:
@@ -12,4 +12,4 @@ The Federal Emergency Relief Act of 1933, [48 Stat. 56,](https://uscode.house.go
 
 ![Per capita relief in states and territories. Click to enlarge.](./pc_relief.png){.lightbox}
 
-As you can see in the chart, relief went to the territories (shown in orange) on a basis commensurate with that of the states. While I'm skeptical of drawing any substantial inference based on the relative position of localities in the per-capita expenditures of the New Deal, the fact that the territories are in the same general run of per-capita spending as the states, and not outliers, suggests to me the early relief programs in the territories were comparable to those in the states.
+As you can see in the chart, relief went to the territories (shown in orange) on a basis commensurate with that of the states. While I'm skeptical of drawing any substantial inference based on the relative position of localities in the per-capita expenditures of the New Deal, the fact that the territories are in the same general run of per-capita spending as the states, and not outliers, suggests to me the early relief programs in the territories were comparable to those in the states. At least, for these four territories: these were the ones whose people were, by law, US citizens. 
