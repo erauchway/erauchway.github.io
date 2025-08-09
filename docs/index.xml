@@ -10,7 +10,52 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Fri, 01 Aug 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 09 Aug 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Beginning a Planned Program</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/concepts_plan/concepts.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On April 7, 1932, while campaigning for the Democratic presidential nomination, Governor Franklin D. Roosevelt gave a radio speech laying out “a few essentials, a beginning, in fact, of a planned program” of economic recovery; what you might call the basic concepts of a plan.</p>
+<p>First, he said, the plan needed to run “bottom to top and not from top to bottom”—in contrast to the recently created Reconstruction Finance Corporation, which put some billions of dollars “at the disposal of the big banks, the railroads and the corporations of the nation.”</p>
+<p>He said that even a large emergency public works program “would be only a stopgap,” and said that really what the nation needed was a “cure.”</p>
+<p>He then sketched three basic ideas: pushing up the prices of farm commodities “to restore purchasing power to the farming half of the country”; protection for homeowners from foreclosure by protecting the smaller banks and lending companies; lowering tariffs “on the basis of a reciprocal exchange” with other countries.</p>
+<p>He said these would be “only a part of ten or a dozen vital factors.” But that “temporary relief from the top down” would not suffice; the nation needed “permanent relief from the bottom up.”<span class="citation" data-cites="rooseveltAlbany1932-04-08"><sup>1</sup></span></p>
+<p>The <em>New York Times</em> editorial board were shocked at this “demagogic claptrap.” The Reconstruction Finance Corporation was “conceived by the best financial and business brains of this country.” As for the smaller banks, “the closing of these little local banks has been stayed and almost stopped.” It had not, of course, been stopped on what the governor would have called a “permanent” basis and would resume and accelerate later in the summer.<span class="citation" data-cites="BottomManApril"><sup>2</sup></span></p>
+<p>Roosevelt enjoyed “the howl from the New York Times and other leading papers,”<span class="citation" data-cites="roosevelt1932-04-12"><sup>3</sup></span> as he wrote to Josephus Daniels, who had been his boss in the Navy Department. For his part, Daniels said, “you hit the bullseye”:</p>
+<blockquote class="blockquote">
+<p>We cannot win by letting the folks think the Republican party is 51% bad and we are only 49% bad. Some of our folks in Washington have thought if we acted not quite as subservient to the big interests as the Republicans we could win. You have shown that we must have a definite policy and that prosperity cannot be invoked by incantations and lending money to people who do not use it to start the wheels of industry.<span class="citation" data-cites="daniels1932-04-09"><sup>4</sup></span></p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/concepts_plan/daniels.jpg" class="img-fluid figure-img"></p>
+<figcaption>Franklin Roosevelt and Josephus Daniels in 1940. FDRL</figcaption>
+</figure>
+</div>
+<p>Roosevelt would come to emphasize a large program of public works more, later in the campaign; at one point he would say that his proposed reforestation program alone—the idea that became the Civilian Conservation Corps—might employ a million workers.<span class="citation" data-cites="rooseveltChicago1932-07-02"><sup>5</sup></span> And he would continue to campaign on the ideas of propping up farm prices, lowering tariffs, and protecting the smaller lenders and borrowers.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Franklin D. Roosevelt, <span>“Albany, NY - Radio Speech,”</span> April 8, 1932, Master Speech File, FDRL.↩︎</p></li>
+<li id="fn2"><p><span>“The <span>‘Bottom’</span> Man,”</span> <em>New York Times</em>, April.↩︎</p></li>
+<li id="fn3"><p>Franklin D. Roosevelt to Josephus Daniels, April 12, 1932, fldr <span>“Daniels, Josephus, 1932,”</span> box 19, series 1, FDR Governorship Papers, FDRL.↩︎</p></li>
+<li id="fn4"><p>Josephus Daniels to Franklin D. Roosevelt, April 9, 1932, fldr <span>“Daniels, Josephus, 1932,”</span> box 19, series 1, FDR Governorship Papers, FDRL.↩︎</p></li>
+<li id="fn5"><p>@ Franklin D. Roosevelt, <span>“Chicago, IL - Acceptance Speech for Presidential Nomination,”</span> July 2, 1932, Master Speech File, FDRL.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>New Deal</category>
+  <guid>https://erauchway.github.io/posts/concepts_plan/concepts.html</guid>
+  <pubDate>Sat, 09 Aug 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Rapid Involuntary Retirement</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -34,7 +79,7 @@
   <category>Depression</category>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/stewart/stewart_sacked.html</guid>
-  <pubDate>Fri, 01 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 01 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Relief in the Territories, 1933</title>
@@ -62,7 +107,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/relief_pc/relief_st_terr.html</guid>
-  <pubDate>Thu, 31 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 31 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Chicago 18 in the Zotero Style Repository</title>
@@ -88,7 +133,7 @@
  ]]></description>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/chicago18/chicago18.html</guid>
-  <pubDate>Wed, 23 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 23 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the Isolationists: National Security</title>
@@ -125,7 +170,7 @@
   <category>Historiography</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/preston/tls_liberty.html</guid>
-  <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 18 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>DRINK TAROCO</title>
@@ -162,7 +207,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/taroco/taroco.html</guid>
-  <pubDate>Thu, 17 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 17 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Pitt Rivers and Totem Bight</title>
@@ -213,7 +258,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/pitt_rivers/pitt_rivers.html</guid>
-  <pubDate>Fri, 11 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 11 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>History of Tariffs 2</title>
@@ -244,7 +289,7 @@
   <category>Smoot-Hawley</category>
   <category>C-SPAN</category>
   <guid>https://erauchway.github.io/posts/aha_tariffs2/aha_tariffs2.html</guid>
-  <pubDate>Mon, 30 Jun 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 30 Jun 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>AHA Congressional Briefing: History of Tariffs</title>
@@ -309,7 +354,7 @@
   <category>Reciprocal Tariff Agreements Act of 1934</category>
   <category>Smoot-Hawley</category>
   <guid>https://erauchway.github.io/posts/aha_tariffs/aha_tariffs.html</guid>
-  <pubDate>Wed, 11 Jun 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Teaching the Depression and New Deal</title>
@@ -334,7 +379,7 @@
   <category>Historiography</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/oah_mag/oah_mag.html</guid>
-  <pubDate>Tue, 06 May 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 06 May 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The Hitler Diaries</title>
@@ -373,7 +418,7 @@
   <category>Forgery</category>
   <category>Oxford</category>
   <guid>https://erauchway.github.io/posts/samoans/samoans.html</guid>
-  <pubDate>Tue, 22 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 22 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the isolationists: polling</title>
@@ -425,7 +470,7 @@
   <category>Historiography</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/polling_ww2/polling_ww2.html</guid>
-  <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 14 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Andrew Hickey, practitioner of old-school American Studies (laudatory)</title>
@@ -465,7 +510,7 @@
   <category>Historiography</category>
   <category>American Studies</category>
   <guid>https://erauchway.github.io/posts/hickey/hickey_500.html</guid>
-  <pubDate>Sun, 13 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sun, 13 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Reno, NV, circa 1997</title>
@@ -522,7 +567,7 @@
   <category>Reno</category>
   <category>Photography</category>
   <guid>https://erauchway.github.io/posts/reno/reno_97.html</guid>
-  <pubDate>Tue, 11 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Mar 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Wages in Puerto Rico, 1934–1949</title>
@@ -573,7 +618,7 @@
   <category>New Deal</category>
   <category>Territories</category>
   <guid>https://erauchway.github.io/posts/pr_wages/pr_wages.html</guid>
-  <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 10 Feb 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Dylaniana</title>
@@ -628,7 +673,7 @@
   <category>Conor McPherson</category>
   <category>Writings</category>
   <guid>https://erauchway.github.io/posts/north_country/north_country.html</guid>
-  <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 22 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>American History Hit</title>
@@ -652,7 +697,7 @@
   <category>Hoover</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/history_hit/history_hit.html</guid>
-  <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>New Fields, New Deals</title>
@@ -691,7 +736,7 @@
   <category>USVI</category>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/delano_usvi/delano_usvi.html</guid>
-  <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the isolationists</title>
@@ -749,7 +794,7 @@
   <category>Hoover</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/williams_hoover/williams_hoover.html</guid>
-  <pubDate>Mon, 06 Jan 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 06 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Making a chart on the fly</title>
@@ -1255,58 +1300,7 @@ font-style: italic;">## abbreviated scale to avoid spurious precision</span></sp
 </section></div> ]]></description>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/gdp_chart/gdp_chart.html</guid>
-  <pubDate>Fri, 04 Oct 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>President Hoover was not a progressive</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/hoover/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>President Herbert Hoover was no progressive; the New Deal did not begin under his administration nor in a fantasy alternate history where he won reelection would he have implemented anything resembling a New Deal. You might think it unnecessary to say such things, given <a href="https://erauchway.github.io/#category=Election%20of%201932">the vituperation Hoover directed at the New Deal in the 1932 election,</a> or his record in office.<span class="citation" data-cites="rauchwayNewDealWas2019"><sup>1</sup></span> But there are a number of historians who argue President Hoover was kind of a proto-New Dealer, much misunderstood; to the contrary, he was well on the conservative side of his own party.<sup>2</sup></p>
-<p>This view is not unique to me, but is commonly held among people who have spent any amount of time with Hoover’s own papers. See for example Elliot A. Rosen:</p>
-<blockquote class="blockquote">
-<p>In a curious twist of subsequent American historiography, Hoover has since then been situated by some academicians as the originator of the interventionist state. Yet from the onset of his public career, his mission was to place curbs on the power of the central government. The claim that Hoover accepted deficit financing is a fiction, as it resulted from declining revenues and not from increased expenditure.<sup>3</sup> Equally fallacious is the claim that there existed no substantial differences in their monetary policies other than Roosevelt’s willingness to detach the dollar from gold, which distorts their fundamental differences on the subject of money and credit.<span class="citation" data-cites="rosen2014"><sup>4</sup></span></p>
-</blockquote>
-<p>Or consider William E. Leuchtenburg’s case.</p>
-<blockquote class="blockquote">
-<p>He was not a weak president; rather, he acted forcefully to circumscribe the federal government. . . . When the Senate began to consider measures to stimulate the economy, he appeared in person in the chamber to upbraid the lawmakers. “We cannot legislate ourselves out of a world economic depression,” he declared in 1931. . . . He persisted in this course despite graphic evidence that the devastation of the Depression was deepening. . . . He set up sixty-two fact-finding groups to provide enlightenment on public issues, then refused to believe what the studies revealed. He even ignored the recommendations of his own appointee who told him that voluntarism was not working and that the federal government had to intercede. . . . The more hardship spread, the more determined Hoover was to turn a blind eye to it. . . . Hoover promoted policies that made a terrible situation even worse. Obsessive about balancing the budget, he sought to slash federal spending and raise taxes—exactly the wrong steps to take. . . .<span class="citation" data-cites="leuchtenburg2015"><sup>5</sup></span></p>
-</blockquote>
-<p>I believe you can tell in both cases that the writers are irked by having to say these things; I think in part because their own early works were, and are, often cited to support the case they are here methodically refuting. Notably, Rosen had worked with Raymond Moley, who credited the Hoover administration with originating what <a href="https://erauchway.github.io/posts/moley/index.html">the conservative Moley</a> later regarded as the good parts of the New Deal.<span class="citation" data-cites="moleyFirstNewDeal1966"><sup>6</sup></span></p>
-<p>It’s worth highlighting Leuchtenburg’s point: <em>Hoover</em> steadfastly resisted policies that would look like the later New Deal, but that doesn’t mean people in his administration and his party didn’t propose them. Hoover opposed publicly owned and operated electricity, championed by Republican Senator George Norris of Nebraska. Hoover opposed the Reconstruction Finance Corporation and, once it was created, limited its operation; it was the creature of his own Fed chair, Eugene Meyer. Hoover, as Leuchtenburg says, opposed the recommendations of his own commissions on unemployment, including the one headed by AT&amp;T CEO Walter Gifford. Hoover actively opposed or by indifference killed a lot of the more creative ideas his subordinates proposed. He declined to pursue the activist monetary policy Adolph Miller, the longest-serving member of the Federal Reserve, proposed to him—leaving Miller no choice to propose the same policy to the much more receptive Franklin Roosevelt.<sup>7</sup></p>
-<p>Although in my view she concedes a bit too much to the “proto-New Dealer” party on the way to this point, I think Lisa McGirr gets Hoover right:</p>
-<blockquote class="blockquote">
-<p>Hoover’s federal activism foreshadowed a strand of neoliberalism that would take firm roots in the later twentieth century, a kind of conservatism comfortable with a more expansive state devoted primarily to conservative policy ends.<span class="citation" data-cites="mcgirrWarAlcoholProhibition2016"><sup>8</sup></span></p>
-</blockquote>
-<p>Prohibition, tariffs, immigration restriction and deportation were fine with Hoover; economic development, relief of unemployment, or activist monetary policy, not so much.</p>
-<p>Why do people tend to say otherwise? This to me is the most frustrating question ever asked in a historiographical debate, the demand that you account for why other people are wrong. I will note that while Rosen cites “academicians,” one wing of the “Hoover, proto-New Dealer” faction is the decidedly non-academic group of conservative activists who want to blame the Great Depression on government intervention of any and all kinds.<span class="citation" data-cites="shlaes2007"><sup>9</sup></span> But another source—and, I think, the reason Leuchtenburg and Rosen’s earlier work is implicated in it—is the mid-century consensus historiography that sought to minimize and tame the political conflicts that characterized American history.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Eric Rauchway, <span>“The New Deal Was on the Ballot in 1932,”</span> <em>Modern American History</em> 2, no. 2 (July 2019): 201–13.↩︎</p></li>
-<li id="fn2"><p>The best known version of the Hoover-as-progressive argument is surely <span class="citation" data-cites="wilson1992">Joan Hoff Wilson, <em>Herbert Hoover, Forgotten Progressive</em> (Prospect Heights, IL: Waveland Press, 1992)</span>, a book still <a href="https://estore.archives.gov/hoover/product/herbert-hoover-forgotten-progressive">frequently recommended.</a>↩︎</p></li>
-<li id="fn3"><p>This note is mine, not Rosen’s: but you can also tell he didn’t accept it by the way he campaigned on a balanced budget in 1932.↩︎</p></li>
-<li id="fn4"><p>Elliot A. Rosen, <em>The Republican Party in the Age of Roosevelt: Sources of Anti-Government Conservatism in the United States</em> (Charlottesville: University of Virginis Press, 2014), 18.↩︎</p></li>
-<li id="fn5"><p>William E. Leuchtenburg, <em>The American President from Teddy Roosevelt to Bill Clinton</em> (New York: Oxford University Press, 2015), 135–38.↩︎</p></li>
-<li id="fn6"><p>Raymond Moley and Elliot A. Rosen, <em>The First New Deal</em> (New York: Harcourt, Brace &amp; World, 1966).↩︎</p></li>
-<li id="fn7"><p>I’ve written about a lot of this stuff: see <span class="citation" data-cites="rauchwayWhyNewDeal2021a">Eric Rauchway, <em>Why the New Deal Matters</em> (New Haven: Yale University Press, 2021)</span>, <span class="citation" data-cites="rauchwayWinterWarHoover2018">Eric Rauchway, <em>Winter War: Hoover, Roosevelt, and the First Clash Over the New Deal</em> (New York: Basic Books, 2018)</span>, <span class="citation" data-cites="rauchwayMoneyMakersHow2015">Eric Rauchway, <em>The Money Makers: How Roosevelt and Keynes Ended the Depression, Defeated Fascism, and Secured a Prosperous Peace</em> (New York: Basic Books, 2015)</span>. The extent to which Hoover stymied some of the more creative ideas bubbling up from his appointees for economic aid in the territories is something Kathy and I are <a href="https://erauchway.github.io/posts/archives1/">currently</a> <a href="https://erauchway.github.io/posts/archives2/">researching.</a> The bit about the RFC is at the root of that historiography and is bewilderingly and routinely ignored; <span class="citation" data-cites="nashHerbertHooverOrigins1959">Gerald D. Nash, <span>“Herbert Hoover and the Origins of the Reconstruction Finance Corporation,”</span> <em>The Mississippi Valley Historical Review</em> 46, no. 3 (December 1959): 455</span>.↩︎</p></li>
-<li id="fn8"><p>Lisa McGirr, <em>The War on Alcohol: Prohibition and the Rise of the American State</em> (New York: W.W. Norton &amp; Company, 2016).↩︎</p></li>
-<li id="fn9"><p>Amity Shlaes, <em>The Forgotten Man: A New History of the Great Depression</em> (New York: HarperCollins, 2007).↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Hoover</category>
-  <category>New Deal</category>
-  <category>Historiography</category>
-  <guid>https://erauchway.github.io/posts/hoover/</guid>
-  <pubDate>Tue, 17 Sep 2024 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 04 Oct 2024 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

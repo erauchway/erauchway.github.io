@@ -1,0 +1,26 @@
+---
+title: "Beginning a Planned Program"
+author: "Eric Rauchway"
+date: "2025-08-09"
+categories:
+  - New Deal
+---
+On April 7, 1932, while campaigning for the Democratic presidential nomination, Governor Franklin D. Roosevelt gave a radio speech laying out "a few essentials, a beginning, in fact, of a planned program" of economic recovery; what you might call the basic concepts of a plan. 
+
+First, he said, the plan needed to run "bottom to top and not from top to bottom"---in contrast to the recently created Reconstruction Finance Corporation, which put some billions of dollars "at the disposal of the big banks, the railroads and the corporations of the nation."
+
+He said that even a large emergency public works program "would be only a stopgap," and said that really what the nation needed was a "cure."
+
+He then sketched three basic ideas: pushing up the prices of farm commodities "to restore purchasing power to the farming half of the country"; protection for homeowners from foreclosure by protecting the smaller banks and lending companies; lowering tariffs "on the basis of a reciprocal exchange" with other countries. 
+
+He said these would be "only a part of ten or a dozen vital factors." But that "temporary relief from the top down" would not suffice; the nation needed "permanent relief from the bottom up."[@rooseveltAlbany1932-04-08]
+
+The *New York Times* editorial board were shocked at this "demagogic claptrap." The Reconstruction Finance Corporation was "conceived by the best financial and business brains of this country." As for the smaller banks, "the closing of these little local banks has been stayed and almost stopped." It had not, of course, been stopped on what the governor would have called a "permanent" basis and would resume and accelerate later in the summer.[@BottomManApril]
+
+Roosevelt enjoyed "the howl from the New York Times and other leading papers,"[@roosevelt1932-04-12] as he wrote to Josephus Daniels, who had been his boss in the Navy Department. For his part, Daniels said, "you hit the bullseye":
+
+> We cannot win by letting the folks think the Republican party is 51% bad and we are only 49% bad. Some of our folks in Washington have thought if we acted not quite as subservient to the big interests as the Republicans we could win. You have shown that we must have a definite policy and that prosperity cannot be invoked by incantations and lending money to people who do not use it to start the wheels of industry.[@daniels1932-04-09]
+
+![Franklin Roosevelt and Josephus Daniels in 1940. FDRL](./daniels.jpg)
+
+Roosevelt would come to emphasize a large program of public works more, later in the campaign; at one point he would say that his proposed reforestation program alone---the idea that became the Civilian Conservation Corps---might employ a million workers.[@@rooseveltChicago1932-07-02] And he would continue to campaign on the ideas of propping up farm prices, lowering tariffs, and protecting the smaller lenders and borrowers.
