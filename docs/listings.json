@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/language/language.html",
       "/posts/duke/duke.html",
       "/posts/USgrant/usgrant.html",
       "/posts/concepts_plan/concepts.html",
