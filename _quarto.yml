@@ -26,4 +26,4 @@ bibliography:
   - ../common/frontiers.json
 link-citations: false
 suppress-bibliography: true
-csl: ../common/chicago-fullnote-bibliography-short-title-subsequent.csl
+csl: ../common/cmos18-custom.csl

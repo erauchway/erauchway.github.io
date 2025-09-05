@@ -10,7 +10,47 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Thu, 04 Sep 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Sep 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Plattism and the Gibraltar of Puerto Rico</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/monroe_d/monroe_d.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Cuba provided one of the first tests of Franklin Roosevelt’s ill defined “good neighbor” policy in 1933. Down to the fall, Roosevelt’s Ambassador to Cuba Sumner Welles had been advising that the US might well need to send troops to Cuba under the terms of the Platt Amendment—the clause <a href="https://www.archives.gov/milestone-documents/platt-amendment">US officials inserted into the Cuban constitution of 1901</a> to permit US military intervention—to restore order after the fall of the Machado government.<span class="citation" data-cites="cronon1959-11"><sup>1</sup></span> But in November, Roosevelt said he wanted <a href="https://www.presidency.ucsb.edu/documents/presidential-statement-non-intervention-cuba">“a modification of the permanent treaty between the United States and Cuba,”</a> which as E. David Cronon writes, “could only mean that Washington contemplated relinquishing some of its rights under the Platt Amendment.”<span class="citation" data-cites="cronon1959-11"><sup>2</sup></span> In the following month, at the Pan American Conference in Montevideo, Secretary of State Cordell Hull agreed to a general nonintervention pledge and in 1934, the US signed a revised treaty with Cuba removing the Platt Amendment. The Platt Amendment, and what Latin Americans called “Plattism” more broadly, was gone; the good neighbor policy, so vague at the start, suddenly had a clear meaning: the era of interpreting the Monroe Doctrine as a general license for US military action in the Americas had ended.</p>
+<p>As part of this revision of hemispheric policy, the Roosevelt administration also adjusted US relations to the territories it would not relinquish: Puerto Rico, the Virgin Islands, Alaska, and Hawaiʻi. Each of them would get its own version of the New Deal, including relief, public works, and programs for economic development.</p>
+<p>The implementation of the New Deal in Puerto Rico was vexed, to say the least: for all that it achieved, much remained undone, and no party or faction in Puerto Rican politics lacked a critique of the Roosevelt administration’s policies. But many Puerto Rican politicians nevertheless preferred the New Deal to the treatment of their island “as a Caribbean Gibraltar”—that is, as a strategically located military outpost, whose inhabitants’ welfare was of little interest to Washington.<span class="citation" data-cites="ErnestGrueningdiary"><sup>3</sup></span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="./sf_pr.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="The fortess of San Felipe del Morro, Puerto Rico, 1943. US Navy History and Heritage Command. Click to enlarge."><img src="https://erauchway.github.io/posts/monroe_d/sf_pr.jpg" class="img-fluid figure-img" alt="The fortess of San Felipe del Morro, Puerto Rico, 1943. US Navy History and Heritage Command. Click to enlarge."></a></p>
+<figcaption>The fortess of San Felipe del Morro, Puerto Rico, 1943. US Navy History and Heritage Command. Click to enlarge.</figcaption>
+</figure>
+</div>
+<p>Anyway it seems Marco Rubio has announced that <a href="https://www.bbc.com/news/articles/cx23nzwjnwwo">Plattism is back.</a> And it has brought <a href="https://www.theguardian.com/us-news/2025/sep/05/trump-fighter-planes-puerto-rico-venezuela-drug-cartel">Puerto Rico-as-Gibraltar</a> with it.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>E. David Cronon, <span>“Interpreting the New Good Neighbor Policy: The Cuban Crisis of 1933,”</span> <em>Hispanic American Historical Review</em> 39, no. 4 (1959): 538–67.↩︎</p></li>
+<li id="fn2"><p><span>“Interpreting,”</span> 560.↩︎</p></li>
+<li id="fn3"><p>Ernest Gruening, diary, Ernest Gruening Papers, Arctic and Polar Regions Collections, University of Alaska, Fairbanks, May 12, 1939.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Empire of the New Deal</category>
+  <category>Puerto Rico</category>
+  <category>Cuba</category>
+  <category>Platt Amendment</category>
+  <category>Monroe Doctrine</category>
+  <guid>https://erauchway.github.io/posts/monroe_d/monroe_d.html</guid>
+  <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Full of, buckets of</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -146,7 +186,7 @@
 <li id="fn2"><p><span>“The <span>‘Bottom’</span> Man,”</span> <em>New York Times</em>, April 9, 1932.↩︎</p></li>
 <li id="fn3"><p>Franklin D. Roosevelt to Josephus Daniels, April 12, 1932, fldr <span>“Daniels, Josephus, 1932,”</span> box 19, series 1, FDR Governorship Papers, FDRL.↩︎</p></li>
 <li id="fn4"><p>Josephus Daniels to Franklin D. Roosevelt, April 9, 1932, fldr <span>“Daniels, Josephus, 1932,”</span> box 19, series 1, FDR Governorship Papers, FDRL.↩︎</p></li>
-<li id="fn5"><p>Franklin D. Roosevelt, <span>“Chicago, IL - Acceptance Speech for Presidential Nomination,”</span> July 2, 1932, Master Speech File, FDRL.↩︎</p></li>
+<li id="fn5"><p>@ Franklin D. Roosevelt, <span>“Chicago, IL - Acceptance Speech for Presidential Nomination,”</span> July 2, 1932, Master Speech File, FDRL.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>New Deal</category>
@@ -179,7 +219,7 @@
   <pubDate>Fri, 01 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Relief in the Territories, 1933</title>
+  <title>Empire of Relief, 1933</title>
   <dc:creator>Eric Rauchway</dc:creator>
   <link>https://erauchway.github.io/posts/relief_pc/relief_st_terr.html</link>
   <description><![CDATA[ 
@@ -296,7 +336,7 @@
 
 <ol>
 <li id="fn1"><p><span>“U.S. Officials Like Taro; Gruening, Ickes Order It,”</span> <em>Honolulu Star-Bulletin</em>, March 19, 1938.↩︎</p></li>
-<li id="fn2"><p>Entry for October 18, 1938, (diary), Ernest Gruening papers, Arctic and Polar Regions Collections, University of Alaska, Fairbanks.↩︎</p></li>
+<li id="fn2"><p>Entry for October 18, 1938, Ernest Gruening, diary (n.d.), Ernest Gruening Papers, Arctic and Polar Regions Collections, University of Alaska, Fairbanks.↩︎</p></li>
 <li id="fn3"><p>Edward L. Rada, <span>“Mainland Market for Taro Products: A Preliminary Study”</span> (University of Hawaii, College of Agriculture, December 1952), 2.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
@@ -426,7 +466,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Franklin D. Roosevelt, <span>“Sioux City, IA—Campaign Address,”</span> September 29, 1932, 17, Master Speech File, FDRL.↩︎</p></li>
+<li id="fn1"><p>Franklin D. Roosevelt, <span>“Sioux City, IA - Campaign Address,”</span> September 29, 1932, 17, Master Speech File, FDRL.↩︎</p></li>
 <li id="fn2"><p>Helmut Norpoth, <span>“The American Voter in 1932: Evidence from a Confidential Survey,”</span> <em>PS</em> 52, no. 1 (January 2019): 17.↩︎</p></li>
 <li id="fn3"><p>Herbert Hoover, <span>“Address at Madison Square Garden,”</span> in <em>Public Papers of the Presidents of the United States</em>, <em>Herbert Hoover, 1932–1933</em> (Washington, DC: Government Printing Office, 1977), 669.↩︎</p></li>
 <li id="fn4"><p>Eric Rauchway, <em>Winter War: Hoover, Roosevelt, and the First Clash Over the New Deal</em> (New York: Basic Books, 2018), 233.↩︎</p></li>
@@ -771,30 +811,6 @@
   <category>Writings</category>
   <guid>https://erauchway.github.io/posts/north_country/north_country.html</guid>
   <pubDate>Wed, 22 Jan 2025 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>American History Hit</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/history_hit/history_hit.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I had the opportunity of a pleasant chat with Don Wildman of <em>American History Hit</em> about the Hoover-to-Roosevelt era (arguably a thing I’m expert on) and it became two episodes of that podcast, which you can listen to here if you like:</p>
-<p><a href="https://shows.acast.com/american-history-hit/episodes/president-herbert-hoover-did-he-cause-the-great-depression">Hoover</a></p>
-<p><a href="https://shows.acast.com/american-history-hit/episodes/fdr-the-new-deal">Roosevelt</a></p>
-<p>I do like the opportunity of a good talk about these things, and judging by the email one gets sometimes people like to listen to them.</p>
-
-
-
- ]]></description>
-  <category>Historiography</category>
-  <category>Hoover</category>
-  <category>New Deal</category>
-  <guid>https://erauchway.github.io/posts/history_hit/history_hit.html</guid>
-  <pubDate>Tue, 14 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

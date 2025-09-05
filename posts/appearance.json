@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "accentColor": "#98971a",
+  "enabledCssSnippets": [],
+  "interfaceFontFamily": "IBM Plex Sans",
+  "textFontFamily": "IBM Plex Mono",
+  "theme": "system",
+  "monospaceFontFamily": "IBM Plex Mono",
+  "baseFontSizeAction": true,
+  "translucency": false
+}

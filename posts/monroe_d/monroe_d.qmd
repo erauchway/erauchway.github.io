@@ -1,0 +1,22 @@
+---
+title: "Plattism and the Gibraltar of Puerto Rico"
+author: "Eric Rauchway"
+date: "2025-09-05"
+categories:
+    - Empire of the New Deal
+    - Puerto Rico
+    - Cuba
+    - Platt Amendment
+    - Monroe Doctrine
+---
+
+
+Cuba provided one of the first tests of Franklin Roosevelt's ill defined "good neighbor" policy in 1933. Down to the fall, Roosevelt's Ambassador to Cuba Sumner Welles had been advising that the US might well need to send troops to Cuba under the terms of the Platt Amendment---the clause [US officials inserted into the Cuban constitution of 1901](https://www.archives.gov/milestone-documents/platt-amendment)  to permit US military intervention---to restore order after the fall of the Machado government.[@cronon1959-11] But in November, Roosevelt said he wanted ["a modification of the permanent treaty between the United States and Cuba,"](https://www.presidency.ucsb.edu/documents/presidential-statement-non-intervention-cuba) which as E. David Cronon writes, "could only mean that Washington contemplated relinquishing some of its rights under the Platt Amendment."[@cronon1959-11, 560] In the following month, at the Pan American Conference in Montevideo, Secretary of State Cordell Hull agreed to a general nonintervention pledge and in 1934, the US signed a revised treaty with Cuba removing the Platt Amendment. The Platt Amendment, and what Latin Americans called "Plattism" more broadly, was gone; the good neighbor policy, so vague at the start, suddenly had a clear meaning: the era of interpreting the Monroe Doctrine as a general license for US military action in the Americas had ended.
+
+As part of this revision of hemispheric policy, the Roosevelt administration also adjusted US relations to the territories it would not relinquish: Puerto Rico, the Virgin Islands, Alaska, and Hawaiʻi. Each of them would get its own version of the New Deal, including relief, public works, and programs for economic development. 
+
+The implementation of the New Deal in Puerto Rico was vexed, to say the least: for all that it achieved, much remained undone, and no party or faction in Puerto Rican politics lacked a critique of the Roosevelt administration's policies. But many Puerto Rican politicians nevertheless preferred the New Deal to the treatment of their island "as a Caribbean Gibraltar"---that is, as a strategically located military outpost, whose inhabitants' welfare was of little interest to Washington.[@ErnestGrueningdiary, May 12, 1939]
+
+![The fortess of San Felipe del Morro, Puerto Rico, 1943. US Navy History and Heritage Command. Click to enlarge.](./sf_pr.jpg){.lightbox}
+
+Anyway it seems Marco Rubio has announced that [Plattism is back.](https://www.bbc.com/news/articles/cx23nzwjnwwo) And it has brought [Puerto Rico-as-Gibraltar](https://www.theguardian.com/us-news/2025/sep/05/trump-fighter-planes-puerto-rico-venezuela-drug-cartel) with it.
