@@ -9,7 +9,7 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.7.31</generator>
+<generator>quarto-1.8.25</generator>
 <lastBuildDate>Fri, 12 Sep 2025 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Some interwar booknotes from recent TLS issues</title>
@@ -223,6 +223,32 @@
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/concepts_plan/concepts.html</guid>
   <pubDate>Sat, 09 Aug 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Social Security at 90</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/ssa_100/ssa_100.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The Social Security Act is ninety years old this year. Here’s a chart showing expenditures in its first ten years, 1936–1935, from the <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015086702803&amp;seq=484&amp;q1=June">United States <em>Treasury Bulletin.</em></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="./ssa.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge."><img src="https://erauchway.github.io/posts/ssa_100/ssa.png" class="img-fluid figure-img" alt="Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge."></a></p>
+<figcaption>Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>New Deal</category>
+  <category>Social Security</category>
+  <guid>https://erauchway.github.io/posts/ssa_100/ssa_100.html</guid>
+  <pubDate>Fri, 08 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Rapid Involuntary Retirement</title>
@@ -736,57 +762,6 @@
   <category>Photography</category>
   <guid>https://erauchway.github.io/posts/reno/reno_97.html</guid>
   <pubDate>Tue, 11 Mar 2025 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Wages in Puerto Rico, 1934–1949</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/pr_wages/pr_wages.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Here are a couple charts showing wages in various forms of manufacturing, and then in various other forms of employment (including sugar growing) in Puerto Rico, for five data points: 1934, 1938, 1941, 1945, and 1949. The figures come from a hearing of the Special Investigating Subcommittee of the Committee on Education and Labor in the 81st Congress, held in 1949 and published in 1950, studying minimum wages and education in the Virgin Islands and Puerto Rico.<span class="citation" data-cites="zotero-3048"><sup>1</sup></span> I came across the hearing in a study by the Virgin Islands economist Valdemar Hill Jr.&nbsp;on minimum wages in the Virgin Islands, which a librarian showed us during a visit to the Melvin Evans Library of the University of the Virgin Islands. So I did a set of small multiples for further thought.<span class="citation" data-cites="HillMinimumWagesVirginIslands193819681968"><sup>2</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./pr_wages2c2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Average hourly Puerto Rican wages in manufacturing, by industry. Click for a larger view."><img src="https://erauchway.github.io/posts/pr_wages/pr_wages2c2.png" class="img-fluid figure-img" alt="Average hourly Puerto Rican wages in manufacturing, by industry. Click for a larger view."></a></p>
-<figcaption>Average hourly Puerto Rican wages in manufacturing, by industry. Click for a larger view.</figcaption>
-</figure>
-</div>
-<p>Puerto Rico and the Virgin Islands came under the Fair Labor Standards Act minimum wage in 1938, which was 25 cents an hour, and then a year later became 30 cents. A June 1940 amendment (<a href="https://uscode.house.gov/statviewer.htm?volume=54&amp;page=615#">54 Stat. 615</a>) put the Virgin Islands and Puerto Rico on a different basis, with lower rates allowed if established under industrial committees appointed by the wage administrator.<span class="citation" data-cites="macphersonBirth"><sup>3</sup></span> Puerto Rico passed its own version of the Wagner Act, the Puerto Rico Labor Relations Act, in 1945, licensing collective bargaining and other protections for labor.<span class="citation" data-cites="zotero-3059"><sup>4</sup></span></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/pr_wages/prlra.png" class="img-fluid figure-img"></p>
-<figcaption>Heading of the Puerto Rico Labor Relations Act</figcaption>
-</figure>
-</div>
-<p>You can see some trends in these data points, but I’m not sure I’m ready to draw firm conclusions, because of course there aren’t all the data points you’d want.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./pr_wages3c2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Average hourly Puerto Rican wages in jobs outside manufacturing, by industry. Click for a larger view."><img src="https://erauchway.github.io/posts/pr_wages/pr_wages3c2.png" class="img-fluid figure-img" alt="Average hourly Puerto Rican wages in jobs outside manufacturing, by industry. Click for a larger view."></a></p>
-<figcaption>Average hourly Puerto Rican wages in jobs outside manufacturing, by industry. Click for a larger view.</figcaption>
-</figure>
-</div>
-<p>Sometimes you can see an upward trend in 1934–1938, sometimes not. But then of course the end of fiscal 1937–1938—when these wage measures are taken—was of course in the recession of that period. Sometimes you get an upward trend after the FLSA, 1938–1940; but also sometimes not. Often you get an upward trend 1940–1945, which makes sense, of course; there was a war on. And often you get a further upward trend after the PRLRA.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p><span>“Investigation of Minimum Wages and Education in Puerto Rico and the Virgin Islands, Special Investigating Subcommittee of the Committee on Education and Labor”</span> (Washington, DC: Government Printing Office, 1950).↩︎</p></li>
-<li id="fn2"><p>Valdemar A. Hill Jr, <span>“Minimum Wages in the U.S. Virgin Islands, 1938–1968,”</span> 1968, Melvin H. Evans Library, University of the Virgin Islands.↩︎</p></li>
-<li id="fn3"><p>See also Anne S. Macpherson, <span>“Birth of the U.S. Colonial Minimum Wage: The Struggle over the Fair Labor Standards Act in Puerto Rico, 1938–1941,”</span> <em>Journal of American History</em> 104, no. 3 (December 2017): 656–80.↩︎</p></li>
-<li id="fn4"><p>Legislature of Puerto Rico, <span>“Puerto Rico Labor Relations Act,”</span> Pub. L. No. 130, Laws of Puerto Rico 406 (1945).↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Puerto Rico</category>
-  <category>New Deal</category>
-  <category>Territories</category>
-  <guid>https://erauchway.github.io/posts/pr_wages/pr_wages.html</guid>
-  <pubDate>Mon, 10 Feb 2025 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

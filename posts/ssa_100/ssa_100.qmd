@@ -2,9 +2,12 @@
 title: "Social Security at 90"
 author: "Eric Rauchway"
 date: "2025-08-08"
-draft: TRUE
+draft: FALSE
 categories: 
   - New Deal
   - Social Security
 ---
 
+The Social Security Act is ninety years old this year. Here's a chart showing expenditures in its first ten years, 1936--1935, from the [United States *Treasury Bulletin.*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086702803&seq=484&q1=June)
+
+![Chart showing Social Security Board expenditures by category, 1936--1945. Click to enlarge.](./ssa.png){.lightbox}

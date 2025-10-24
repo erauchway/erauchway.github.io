@@ -1,0 +1,14 @@
+---
+title: "Mr. Jefferson and the destruction of the White House"
+author: "Eric Rauchway"
+date: "2025-10-23"
+draft: TRUE
+categories:
+  - US politics
+  - Higher ed
+---
+
+When the British burned the White House and other parts of Washington, DC, Thomas Jefferson was scandalized, though he recognized the propaganda value of the imagery. As he [wrote Lafayette,](https://www.let.rug.nl/usa/presidents/thomas-jefferson/letters-of-thomas-jefferson/jefl236.php)
+
+> the conflagration at Washington. . . . has helped rather than hurt us, by arousing the general indignation of our country, and by marking to the world of Europe the Vandalism and brutal character of the English government. It has merely served to immortalize their infamy.
+

@@ -2,3 +2,5 @@
 .Rproj.user
 posts/.obsidian/
 posts/plugins/
+
+**/*.quarto_ipynb
