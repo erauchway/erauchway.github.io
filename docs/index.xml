@@ -10,7 +10,33 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Fri, 12 Sep 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Social Security at 90</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/ssa_100/ssa_100.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The Social Security Act is ninety years old this year. Here’s a chart showing expenditures in its first ten years, 1936–1935, from the <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015086702803&amp;seq=484&amp;q1=June">United States <em>Treasury Bulletin.</em></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="./ssa.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge."><img src="https://erauchway.github.io/posts/ssa_100/ssa.png" class="img-fluid figure-img" alt="Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge."></a></p>
+<figcaption>Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>New Deal</category>
+  <category>Social Security</category>
+  <guid>https://erauchway.github.io/posts/ssa_100/ssa_100.html</guid>
+  <pubDate>Fri, 24 Oct 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Some interwar booknotes from recent TLS issues</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -223,32 +249,6 @@
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/concepts_plan/concepts.html</guid>
   <pubDate>Sat, 09 Aug 2025 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Social Security at 90</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/ssa_100/ssa_100.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The Social Security Act is ninety years old this year. Here’s a chart showing expenditures in its first ten years, 1936–1935, from the <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015086702803&amp;seq=484&amp;q1=June">United States <em>Treasury Bulletin.</em></a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./ssa.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge."><img src="https://erauchway.github.io/posts/ssa_100/ssa.png" class="img-fluid figure-img" alt="Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge."></a></p>
-<figcaption>Chart showing Social Security Board expenditures by category, 1936–1945. Click to enlarge.</figcaption>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>New Deal</category>
-  <category>Social Security</category>
-  <guid>https://erauchway.github.io/posts/ssa_100/ssa_100.html</guid>
-  <pubDate>Fri, 08 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Rapid Involuntary Retirement</title>
