@@ -1,7 +1,7 @@
 ---
 title: "Social Security at 90"
 author: "Eric Rauchway"
-date: "2025-08-08"
+date: "2025-10-24"
 draft: FALSE
 categories: 
   - New Deal
