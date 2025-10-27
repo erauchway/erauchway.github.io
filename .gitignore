@@ -4,3 +4,5 @@ posts/.obsidian/
 posts/plugins/
 
 **/*.quarto_ipynb
+.Rhistory
+.DS_Store
