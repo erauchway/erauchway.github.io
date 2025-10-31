@@ -1,0 +1,32 @@
+---
+title: "Did Prohibition decide the 1932 election?"
+author: "Eric Rauchway"
+date: "2025-10-28"
+draft: TRUE
+categories:
+  - Prohibition
+  - Election of 1932
+---
+
+The idea that the deciding issue in 1932 was not the Depression but Prohibition has been kicking around for a long time; I remember being asked to discuss it in a graduate seminar some thirty-plus years ago and it has been given new life by Helmut Norpoth's [2018 article](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/american-voter-in-1932-evidence-from-a-confidential-survey/9C75907376FD0D45811C4357ADD7E8AE) on the Hoover campaign's in-house poll (previously discussed [here](https://erauchway.github.io/posts/po_32/)). So: did Prohibition decide the 1932 election?
+
+In my considered view, no.
+
+The pollster J. David Houser offered his services to the president's campaign, first contacting Ray Lyman Wilbur (Hoover's interior secretary) in 1931; he conducted a poll for them in 1932 and Norpoth says "it appears that the Houser poll used the type of 'quota sampling' that Gallup and other organizations relied on." (15) People generally say Gallup's regular use of quota sampling in 1935--1936 marks the start of scientific polling, but let's stipulate the Houser poll was an unusual early example. 
+
+Houser's poll included 1,362 respondents who had voted for Hoover and proposed to do so again; 1,072 who had voted for Smith and now proposed to vote for Roosevelt; and 670 who had voted for Hoover but were now prepared to vote for Roosevelt instead. The last group would be the most important; they were the ones who were going to decide the election.
+
+Norpoth's figure 1 shows that 58 percent of the Hoover-to-Roosevelt voters blamed the government for the Depression. 
+
+![Norpoth's Figure 1 showing 58 percent of Hoover-to-Roosevelt voters holding the government responsible for the Depression. Click to enlarge.](./norp_1.png){.lightbox}
+
+When asked who was *most* to blame, 47 percent of Hoover-to-Roosevelt switchers pointed to "Wall Street" and only 19 percent to "the government." But they looked to the government for solutions. As I noted when I [discussed this article a couple years ago,](https://erauchway.github.io/posts/po_32/) Hoover-to-Roosevelt voters also wanted the government to spend more on public works (77 percent of them), regulate the stock market (67 percent), and lower the tariff (56 percent)---all things Roosevelt had campaigned on.
+
+So where does Prohibition come in? Well, a whopping 84 percent of Hoover-to-Roosevelt switchers wanted to repeal Prohibition. 
+
+![Norpoth's Figure 7 showing 84 percent of Hoover-to-Roosevelt voters favoring repeal of Prohibition. Click to enlarge.](./norp_7.png){.lightbox}
+
+Norpoth concludes that while the Depression was a complicated matter susceptible of no ready solution, "repeal of Prohibition was a simple matter that government could settle easily in line with popular sentiments, leaning heavily toward repeal. The Democrats took the lead on this issue in 1932 and were rewarded for it at the polls." (19)
+
+And some people, notably Andrew Ross Sorkin in his new book *1929,* repeat that conclusion.
+

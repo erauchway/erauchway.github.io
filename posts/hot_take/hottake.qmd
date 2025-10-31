@@ -1,0 +1,32 @@
+---
+title: "Historiographical Hot Take"
+author: "Eric Rauchway"
+date: "2025-10-31"
+categories:
+  - Historiography
+  - New Deal
+  - Reconstruction
+---
+
+It's time for Historiographical Hot Take Halloween![^1] Let's spin the wheel and see this year's Terrifyingly Toasty Take:
+
+There are two (2) historiographical traditions in US policy history that have had genuine serious consequences on US policy---and both of them for ill. **To be clear:** I distinguish here between history of policy that is consequential on policy, that is, which affected thinking, and that which merely reinforced existing prejudices; there is a lot of the latter.
+
+The first is the Dunning School of Reconstruction, which held that rather than being an essential project of guaranteeing the civil rights of Black Americans, the period was one of unique corruption best left behind. By the 1930s this idea was commonplace among white Americans. When Claude Bowers published *The Tragic Era,* Franklin Roosevelt wrote him of his experience talking to his friends---"and they have not been confined to Georgians or southerners"---about the book, which "more than any other book in recent years, had a very definite influence on public thought."[@leuchtenburg2005, 35] Even some of Roosevelt's advisees who actively favored and promoted civil rights, like Harry Hopkins, echoed this view, referring to "the incredibly vicious period of Reconstruction."[^2] So although Roosevelt did some things to promote Black civil rights---creating the civil rights section in the Department of Justice---he might have done a good deal more were it not for the pervasive acceptance of the Dunning School among white policymakers.[^3]
+
+The second historiographical school with significant policy influence is the literature denigrating the New Deal itself. Generally this kind of history sets at zero the value of efforts at relief and reform, and asks, how well did the New Deal promote economic recovery? 
+
+I have written about this view at some length in my [*Myth America* chapter](https://bookshop.org/p/books/myth-america-historians-take-on-the-biggest-legends-and-lies-about-our-past-julian-e-zelizer/0216b21fa0282c75) so I will say here only two brief things. First, even if we stipulate that the New Deal slowed recovery, it didn't slow recovery enough to prevent quite a rapid recovery.
+
+![Chart showing the pace of recovery under the New Deal by the monthly index of industrial production. Click to enlarge.](https://erauchway.github.io/posts/field_nd/bizcycles_redone.png){.lightbox}
+
+And second, saying effectively, "setting aside relief and reform, how well did the New Deal do at recovery" is in effect saying, "How well did the New Deal restore things to where they were"---an aim Roosevelt expressly and repeatedly rejected. The effect is to produce an entire body of literature which finds---perhaps not surprisingly!---that this popular and effective Democratic policy program didn't do all that well at promoting a Republican agenda. 
+
+And yet, of course, that's the view of the New Deal that was current among members of the Barack Obama administration, including the president himself; it was [frequently referenced by conservatives during the debate over relief and reform during the 2008 financial crisis.](https://miscellanycentral.blogspot.com/2020/04/wasting-away-in-hooverville-chait.html)
+
+So: two historiographical traditions consequential for US policy---producing bad outcomes. Boo! That's your Halloween Historiography Hot Take.[^4]
+
+[^1]: That is too a thing.
+[^2]: "Harry Hopkins Plan to Help South," *The Progress,* August 12, 1938.
+[^3]: I would argue, though I haven't room here, that when Roosevelt referred to the New Deal in the Virgin Islands of the United States as an "experiment," he meant partly that they were an experiment in demonstrating that Black Americans could democratically run a prosperous and orderly society, given the chance---that is, they were an experiment in disproving the racist foundations of the "tragic era" thesis.
+[^4]: Bonus corollary, for which there is also no room here! Glib bashing of the John F. Kennedy administration is a subset of *both* these traditions.

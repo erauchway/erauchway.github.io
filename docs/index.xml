@@ -10,7 +10,51 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 27 Oct 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Historiographical Hot Take</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/hot_take/hottake.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>It’s time for Historiographical Hot Take Halloween!<sup>1</sup> Let’s spin the wheel and see this year’s Terrifyingly Toasty Take:</p>
+<p>There are two (2) historiographical traditions in US policy history that have had genuine serious consequences on US policy—and both of them for ill.&nbsp;<strong>To be clear:</strong> I distinguish here between history of policy that is consequential on policy, that is, which affected thinking, and that which merely reinforced existing prejudices; there is a lot of the latter.</p>
+<p>The first is the Dunning School of Reconstruction, which held that rather than being an essential project of guaranteeing the civil rights of Black Americans, the period was one of unique corruption best left behind. By the 1930s this idea was commonplace among white Americans. When Claude Bowers published <em>The Tragic Era,</em> Franklin Roosevelt wrote him of his experience talking to his friends—“and they have not been confined to Georgians or southerners”—about the book, which “more than any other book in recent years, had a very definite influence on public thought.”<span class="citation" data-cites="leuchtenburg2005"><sup>2</sup></span> Even some of Roosevelt’s advisees who actively favored and promoted civil rights, like Harry Hopkins, echoed this view, referring to “the incredibly vicious period of Reconstruction.”<sup>3</sup> So although Roosevelt did some things to promote Black civil rights—creating the civil rights section in the Department of Justice—he might have done a good deal more were it not for the pervasive acceptance of the Dunning School among white policymakers.<sup>4</sup></p>
+<p>The second historiographical school with significant policy influence is the literature denigrating the New Deal itself. Generally this kind of history sets at zero the value of efforts at relief and reform, and asks, how well did the New Deal promote economic recovery?</p>
+<p>I have written about this view at some length in my <a href="https://bookshop.org/p/books/myth-america-historians-take-on-the-biggest-legends-and-lies-about-our-past-julian-e-zelizer/0216b21fa0282c75"><em>Myth America</em> chapter</a> so I will say here only two brief things. First, even if we stipulate that the New Deal slowed recovery, it didn’t slow recovery enough to prevent quite a rapid recovery.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://erauchway.github.io/posts/field_nd/bizcycles_redone.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Chart showing the pace of recovery under the New Deal by the monthly index of industrial production. Click to enlarge."><img src="https://erauchway.github.io/posts/field_nd/bizcycles_redone.png" class="img-fluid figure-img" alt="Chart showing the pace of recovery under the New Deal by the monthly index of industrial production. Click to enlarge."></a></p>
+<figcaption>Chart showing the pace of recovery under the New Deal by the monthly index of industrial production. Click to enlarge.</figcaption>
+</figure>
+</div>
+<p>And second, saying effectively, “setting aside relief and reform, how well did the New Deal do at recovery” is in effect saying, “How well did the New Deal restore things to where they were”—an aim Roosevelt expressly and repeatedly rejected. The effect is to produce an entire body of literature which finds—perhaps not surprisingly!—that this popular and effective Democratic policy program didn’t do all that well at promoting a Republican agenda.</p>
+<p>And yet, of course, that’s the view of the New Deal that was current among members of the Barack Obama administration, including the president himself; it was <a href="https://miscellanycentral.blogspot.com/2020/04/wasting-away-in-hooverville-chait.html">frequently referenced by conservatives during the debate over relief and reform during the 2008 financial crisis.</a></p>
+<p>So: two historiographical traditions consequential for US policy—producing bad outcomes. Boo! That’s your Halloween Historiography Hot Take.<sup>5</sup></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>That is too a thing.↩︎</p></li>
+<li id="fn2"><p>William E. Leuchtenburg, <em>The White House Looks South: Franklin D. Roosevelt, Harry S. Truman, Lyndon B. Johnson</em> (Louisiana State University Press, 2005), 35.↩︎</p></li>
+<li id="fn3"><p>“Harry Hopkins Plan to Help South,” <em>The Progress,</em> August 12, 1938.↩︎</p></li>
+<li id="fn4"><p>I would argue, though I haven’t room here, that when Roosevelt referred to the New Deal in the Virgin Islands of the United States as an “experiment,” he meant partly that they were an experiment in demonstrating that Black Americans could democratically run a prosperous and orderly society, given the chance—that is, they were an experiment in disproving the racist foundations of the “tragic era” thesis.↩︎</p></li>
+<li id="fn5"><p>Bonus corollary, for which there is also no room here! Glib bashing of the John F. Kennedy administration is a subset of <em>both</em> these traditions.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Historiography</category>
+  <category>New Deal</category>
+  <category>Reconstruction</category>
+  <guid>https://erauchway.github.io/posts/hot_take/hottake.html</guid>
+  <pubDate>Fri, 31 Oct 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The great essayist, or as I like to call him, ‘Babe’</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -664,58 +708,6 @@
   <category>Oxford</category>
   <guid>https://erauchway.github.io/posts/samoans/samoans.html</guid>
   <pubDate>Tue, 22 Apr 2025 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Historians and the isolationists: polling</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/polling_ww2/polling_ww2.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I <a href="https://erauchway.github.io/posts/williams_hoover/williams_hoover.html">previously</a> said the professional opinion of mine most likely to have me like—</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/polling_ww2/flynn_swords.png" class="img-fluid figure-img"></p>
-<figcaption>A still of Flynn from the movie <em>Tangled,</em> standing blithely in the center of a circle of swords pointed at his face; it is a popular meme for designating unpopular opinions.</figcaption>
-</figure>
-</div>
-<p>is that scholars of US foreign policy are far too kind to interwar isolationists. In that post I talked about William Appleman Williams, who is long dead. What about modern scholars?</p>
-<p>Well, let’s take <a href="https://networks.h-net.org/group/discussions/20030100/h-diplorjissf-roundtable-review-15-39-connelly-declassification-engine">a claim by Matthew Connelly:</a> that Franklin D. Roosevelt deceived the American people in the run-up to the war. I’m not going to tackle all the elements of this claim in this post, just this one part about what Americans generally thought about the war.</p>
-<blockquote class="blockquote">
-<p>I do not know if there was any alternative to deceiving the American people, who largely opposed what they perceived to be a war of choice.</p>
-</blockquote>
-<p>Connelly’s claim here is similar to <a href="https://libertiesjournal.com/articles/war-and-the-liberal-hegemony/">Robert Kagan’s;</a> both believe the Roosevelt administration forced this “war of choice” on a reluctant American people for a greater good.</p>
-<p>How much did the American people actually oppose US entry to the war, though?</p>
-<p>Over the course of 1941, polls frequently asked Americans “If you were asked to vote on the question of the United States entering the war against Germany and Italy [sometimes adding Japan], how would you vote—to go into the war, or to stay out of the war?”</p>
-<p>On this question, opinion only very slightly shifts during the year in the direction of “go into the war.” Americans overwhelmingly answer they would vote to “stay out.”</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./vote.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Click to enlarge: A graph showing support for going into the war in the middle 20 percent, and for staying out in the range of 70 percent. Data from Roper Center iPoll."><img src="https://erauchway.github.io/posts/polling_ww2/vote.png" class="img-fluid figure-img" alt="Click to enlarge: A graph showing support for going into the war in the middle 20 percent, and for staying out in the range of 70 percent. Data from Roper Center iPoll."></a></p>
-<figcaption>Click to enlarge: A graph showing support for going into the war in the middle 20 percent, and for staying out in the range of 70 percent. Data from Roper Center iPoll.</figcaption>
-</figure>
-</div>
-<p>If that was all the information you had, you would say Americans overwhelmingly opposed US entry to the war.</p>
-<p>But: over the same period, pollsters also often asked, “Which of these two things do you think is more important—that this country keep out of war, or that Germany be defeated, even at the risk of our getting into the war?”</p>
-<p>On this question, Americans quite consistently answered they thought Germany needed to be defeated, even at the risk of US entry to the war. There’s not really that much of a shift.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./germany.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Click to enlarge: A graph showing support for the defeat of Germany, even at the risk of war, running in the range of 65 percent, as against the US keeping out running in the range of 30-ish percentage points."><img src="https://erauchway.github.io/posts/polling_ww2/germany.png" class="img-fluid figure-img" alt="Click to enlarge: A graph showing support for the defeat of Germany, even at the risk of war, running in the range of 65 percent, as against the US keeping out running in the range of 30-ish percentage points."></a></p>
-<figcaption>Click to enlarge: A graph showing support for the defeat of Germany, even at the risk of war, running in the range of 65 percent, as against the US keeping out running in the range of 30-ish percentage points.</figcaption>
-</figure>
-</div>
-<p>So considering this second result, it looks like Americans were broadly in favor of the US doing what it could to ensure German defeat, even—explicitly—at the risk of the US getting into the war. In other words, respondents favored what was pretty much the Roosevelt administration’s policy.</p>
-<p>You can if you like add one question asked at the start of November 1941: “If our present leaders and military advisors say that the only way to defeat Germany is for this country to go into the war, would you be in favor of this country’s going into the war against Germany?” To that, 70 percent of respondents said “yes,” as against only 24 percent “no” and 6 percent “no opinion.” It appears, then, that respondents were willing to go along with the Roosevelt administration’s judgment about the necessity of US entry to war to defeat Germany.</p>
-
-
-
- ]]></description>
-  <category>Historiography</category>
-  <category>Isolationists</category>
-  <guid>https://erauchway.github.io/posts/polling_ww2/polling_ww2.html</guid>
-  <pubDate>Mon, 14 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
