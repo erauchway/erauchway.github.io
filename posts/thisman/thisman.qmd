@@ -1,6 +1,7 @@
 ---
 title: "This Man Mamdani"
 author: "Eric Rauchway"
+date: "2025-11-21"
 categories:
   - Franklin D. Roosevelt
 ---

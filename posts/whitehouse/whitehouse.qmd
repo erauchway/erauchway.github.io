@@ -1,0 +1,23 @@
+---
+title: "How to Renovate the White House"
+subtitle: ". . . according to Franklin D. Roosevelt"
+author: "Eric Rauchway"
+date: "2025-11-22"
+categories:
+  - New Deal
+  - White House
+---
+
+In 1934, the Public Works Administration undertook renovation of the West Wing of the White House, increasing its office space and moving the Oval Office to its present location. In [his fifth "fireside chat" radio address,](http://www.fdrlibrary.marist.edu/_resources/images/msf/msf00734) of June 28, 1934, Roosevelt discussed the construction. 
+
+The president explained there would be modern plumbing, wiring, and air conditioning, as well as increased office space: 
+
+>But the structural lines of the old Executive Office Building will remain. The artistic lines of the White House buildings were the creation of master builders when our Republic was young. The simplicity and the strength of the structure remain in the face of every modern test.
+
+So you needn't worry: nobody was going to add "some strange new Gothic Tower, or a factory building or perhaps a replica of the Kremlin." You see, the new construction was a metaphor for the New Deal: 
+
+>the new structure shall blend with the essential lines of the old. . . . All that we do seeks to fulfill the historic traditions of the American people. Other nations may sacrifice democracy for the transitory stimulation of old and discredited autocracies. We are restoring confidence and well-being under the rule of the people themselves."
+
+![The renovated West Wing. Library of Congress. Click to enlarge.](./whitehouse.png){.lightbox}
+
+It's a fascinating speech in other ways---Roosevelt talks here about the "three R's," which are actually four, and about including the American people of the territories in his conception of the nation. But for some reason the White House renovation metaphor struck me.
