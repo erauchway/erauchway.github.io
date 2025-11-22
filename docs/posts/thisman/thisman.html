@@ -44,6 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-36f645893bdd73205c7f1735dd6ce3d8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -164,7 +167,13 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>Macy groped for words, finally burst out with, “By a perfectly grand political personality, you fool!”<span class="citation" data-cites="looker1932"><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></span></p>
 </blockquote>
-<p>Anyway, <a href="https://hellgatenyc.com/trump-and-mamdani-sitting-in-a-tree/">the mayor of New York met the president today.</a></p>
+<p>Anyway, <a href="https://hellgatenyc.com/trump-and-mamdani-sitting-in-a-tree/">the mayor elect of New York met the president today.</a> The president <a href="https://bsky.app/profile/paleofuture.bsky.social/post/3m66ikvtt2s2c">remarked</a> of the mayor elect, “he’s a big fan of the New Deal I guess.”</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="./mamdani.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Zohran Mamdani standing in front of the portrait of Franklin D. Roosevelt on his visit to the White House, November 21, 2025. Click to enlarge."><img src="./mamdani.jpg" class="img-fluid figure-img" alt="Zohran Mamdani standing in front of the portrait of Franklin D. Roosevelt on his visit to the White House, November 21, 2025. Click to enlarge."></a></p>
+<figcaption>Zohran Mamdani standing in front of the portrait of Franklin D. Roosevelt on his visit to the White House, November 21, 2025. Click to enlarge.</figcaption>
+</figure>
+</div>
 
 
 
@@ -578,6 +587,38 @@ ul.task-list li input[type="checkbox"] {
 <script src="https://utteranc.es/client.js" repo="erauchway/blogComments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
