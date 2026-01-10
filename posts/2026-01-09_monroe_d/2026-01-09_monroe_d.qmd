@@ -1,0 +1,21 @@
+---
+title: "The Franklin Roosevelt Corollary to the Monroe Doctrine"
+date: "2026-01-09"
+draft: FALSE
+categories:
+  - New Deal
+  - Good Neighbors
+  - Monroe Doctrine
+---
+
+On December 28, 1933, Franklin D. Roosevelt [argued to the members of the Woodrow Wilson Foundation in Washington DC that](http://www.fdrlibrary.marist.edu/_resources/images/msf/msf00691) "the maintenance of law and the orderly processes of government in this hemisphere is the concern of each individual nation within its borders first of all. It is only if and when the failure of orderly processes affects the other nations of the continent that it becomes their concern; and the point to stress," he underlined,
+
+>is that in such an event it becames the joint concern of a whole continent in which we are all neighbors.
+
+Just a few days before, the United States had joined the other American nations at Montevideo in agreeing to a convention including the [provision,](https://www.oas.org/juridico/english/treaties/a-40.html) "No state has the right to intervene in the internal or external affairs of another." Roosevelt had already publicly stated [he wanted to get rid of the Platt Amendment,](https://erauchway.github.io/posts/monroe_d/monroe_d.html) guaranteeing the US right to intervene in Cuba; the Montevideo conference generalized that idea, and his speech in Washington extended it to a broad modification of the Monroe Doctrine.
+
+Ernest Gruening, an anti-imperialist journalist and historian of Mexico who had served as an aide to the US delegation in Montevideo, wrote, 
+
+>this epoch-making policy has gone far to remove the accumulated suspicion and fear inculcated by a generation of military and financial penetration. The Franklin Roosevelt extension of the Monroe Doctrine had replaced the Theodore Roosevelt intensification of that doctrine of 30 years ago.
+
+It meant "the New Deal is being extended, as far as lies within our province, to the New World," and that the administration was "giving up the pursuit of empire."[@grueningNew1934]
