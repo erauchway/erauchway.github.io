@@ -10,7 +10,40 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 09 Jan 2026 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>A Brief Remembrance of Dan Howe as a Colleague</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/2026-01-11_dwh/dwh.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Dan Howe spoke with a deliberation that inspired in me both admiration and antsiness, with pauses indicating the care he was taking in formulating the phrase to come. Like many historians I first met Dan through his writing, which featured the precision of his speech while omitting the pauses. As an eager student I could take Dan’s insights at my own speed, reading with delight his accounts of the self-serious young American republic’s thinkers in action, as the Whigs seemed to me then. What Dan was doing, what my advisor George Fredrickson was doing, what a few other scholars were then doing (notably, Ann Douglas) excited me. They treated ideas like serious business. I wanted to do it too.</p>
+<p>Dan had the sunniest temperament of any professor I have known. He had a wide ready smile that seemed to persist while he talked and even over the phone—even when he was possibly quite cross—you could hear the upturned corners of his mouth. Together with his broad chin and glasses, that smile made him look uncannily like Franklin Roosevelt, with whom he shared that impression of invariable cheer and also the capacity to deliver a sly jab, the more unexpected for the enduring smile.</p>
+<p>Now that I am closer to Dan’s age then than to my own youth I can appreciate that as his junior colleague I must have seemed to him a bit like the cartoon dog Chester, hopping up and down and around, asking his methodical companion “what are we going to do today, Spike? what are we going to do?” Except, of course, Spike would be smiling.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/2026-01-11_dwh/spike.gif" class="img-fluid figure-img"></p>
+<figcaption>Chester and Spike (Spike should be smiling)</figcaption>
+</figure>
+</div>
+<p>In another university Dan wouldn’t have had to spend as much time listening to me as he did, but there were, I think, only four post-holders in US history then and Dan was tasked with administering them. I have since learned that not all senior colleagues or administrators are as tolerant or willing to give young people free rein. But Dan was patient and supportive where many people might have been obstinate and discouraging. He let me try ambitious things.</p>
+<p>Five or so years later—after we had both moved on—when Dan published <em>What Hath God Wrought,</em> the enjoyment with which I read the book brought back to me the happiness wth which I had first read Dan’s work. I am glad I got a chance to chat with him and congratulate him on it.</p>
+<p>But I am always going to remember Dan for the way he spoke and how evidently happy he was for others to succeed. I will always remember both in the voice message he left for me, eight time zones away, when he called to tell me I had got the job—which I felt meant I was going to have an academic career after all.</p>
+<p>“Hullo, Eric! this is Dan Howe. I’m calling with”—long, thoughtful pause; I expect he was deciding how discreet this recording had to be—“good news!” Sometimes he was; it seemed like he always wanted to be.</p>
+
+
+
+ ]]></description>
+  <category>Professional</category>
+  <category>Personal</category>
+  <category>Oxford</category>
+  <guid>https://erauchway.github.io/posts/2026-01-11_dwh/dwh.html</guid>
+  <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The Franklin Roosevelt Corollary to the Monroe Doctrine</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -45,7 +78,7 @@
   <category>Good Neighbors</category>
   <category>Monroe Doctrine</category>
   <guid>https://erauchway.github.io/posts/2026-01-09_monroe_d/2026-01-09_monroe_d.html</guid>
-  <pubDate>Fri, 09 Jan 2026 08:00:00 GMT</pubDate>
+  <pubDate>Fri, 09 Jan 2026 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>How to Renovate the White House</title>
@@ -80,7 +113,7 @@
   <category>New Deal</category>
   <category>White House</category>
   <guid>https://erauchway.github.io/posts/whitehouse/whitehouse.html</guid>
-  <pubDate>Sat, 22 Nov 2025 08:00:00 GMT</pubDate>
+  <pubDate>Sat, 22 Nov 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>This Man Mamdani</title>
@@ -121,7 +154,7 @@
 </section></div> ]]></description>
   <category>Franklin D. Roosevelt</category>
   <guid>https://erauchway.github.io/posts/thisman/thisman.html</guid>
-  <pubDate>Fri, 21 Nov 2025 08:00:00 GMT</pubDate>
+  <pubDate>Fri, 21 Nov 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historiographical Hot Take</title>
@@ -165,7 +198,7 @@
   <category>New Deal</category>
   <category>Reconstruction</category>
   <guid>https://erauchway.github.io/posts/hot_take/hottake.html</guid>
-  <pubDate>Fri, 31 Oct 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 31 Oct 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The great essayist, or as I like to call him, ‘Babe’</title>
@@ -189,7 +222,7 @@
  ]]></description>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/fdr_conservative/fdr_conservative.html</guid>
-  <pubDate>Mon, 27 Oct 2025 07:00:00 GMT</pubDate>
+  <pubDate>Mon, 27 Oct 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>What this country needs</title>
@@ -216,7 +249,7 @@
   <category>Hoover</category>
   <category>Historiography</category>
   <guid>https://erauchway.github.io/posts/hoover_cigar/hoover_cigar.html</guid>
-  <pubDate>Sat, 25 Oct 2025 07:00:00 GMT</pubDate>
+  <pubDate>Sat, 25 Oct 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Social Security at 90</title>
@@ -242,7 +275,7 @@
   <category>New Deal</category>
   <category>Social Security</category>
   <guid>https://erauchway.github.io/posts/ssa_100/ssa_100.html</guid>
-  <pubDate>Fri, 24 Oct 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 24 Oct 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Some interwar booknotes from recent TLS issues</title>
@@ -273,7 +306,7 @@
   <category>Fascism</category>
   <category>TLS</category>
   <guid>https://erauchway.github.io/posts/tls_interwar/tls_interwar.html</guid>
-  <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 12 Sep 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Plattism and the Gibraltar of Puerto Rico</title>
@@ -313,7 +346,7 @@
   <category>Platt Amendment</category>
   <category>Monroe Doctrine</category>
   <guid>https://erauchway.github.io/posts/monroe_d/monroe_d.html</guid>
-  <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 05 Sep 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Full of, buckets of</title>
@@ -340,7 +373,7 @@
   <category>John Nance Garner</category>
   <category>Language</category>
   <guid>https://erauchway.github.io/posts/language/language.html</guid>
-  <pubDate>Thu, 04 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 04 Sep 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The American Family</title>
@@ -374,7 +407,7 @@
 </section></div> ]]></description>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/duke/duke.html</guid>
-  <pubDate>Mon, 25 Aug 2025 07:00:00 GMT</pubDate>
+  <pubDate>Mon, 25 Aug 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Unconditional Surrender</title>
@@ -410,7 +443,7 @@
   <category>Unconditional surrender</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/USgrant/usgrant.html</guid>
-  <pubDate>Sun, 24 Aug 2025 07:00:00 GMT</pubDate>
+  <pubDate>Sun, 24 Aug 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Beginning a Planned Program</title>
@@ -455,7 +488,7 @@
 </section></div> ]]></description>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/concepts_plan/concepts.html</guid>
-  <pubDate>Sat, 09 Aug 2025 07:00:00 GMT</pubDate>
+  <pubDate>Sat, 09 Aug 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Rapid Involuntary Retirement</title>
@@ -480,7 +513,7 @@
   <category>Depression</category>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/stewart/stewart_sacked.html</guid>
-  <pubDate>Fri, 01 Aug 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 01 Aug 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Empire of Relief, 1933</title>
@@ -508,7 +541,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/relief_pc/relief_st_terr.html</guid>
-  <pubDate>Thu, 31 Jul 2025 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 31 Jul 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Chicago 18 in the Zotero Style Repository</title>
@@ -534,7 +567,7 @@
  ]]></description>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/chicago18/chicago18.html</guid>
-  <pubDate>Wed, 23 Jul 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 23 Jul 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the Isolationists: National Security</title>
@@ -571,7 +604,7 @@
   <category>Historiography</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/preston/tls_liberty.html</guid>
-  <pubDate>Fri, 18 Jul 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>DRINK TAROCO</title>
@@ -608,7 +641,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/taroco/taroco.html</guid>
-  <pubDate>Thu, 17 Jul 2025 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 17 Jul 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Pitt Rivers and Totem Bight</title>
@@ -659,38 +692,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/pitt_rivers/pitt_rivers.html</guid>
-  <pubDate>Fri, 11 Jul 2025 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>History of Tariffs 2</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/aha_tariffs2/aha_tariffs2.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>If you are among the legions who enjoy the history of tariffs (as previously discussed <a href="https://erauchway.github.io/posts/aha_tariffs/aha_tariffs.html">here</a>) but prefer it with lively hand gestures—</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/aha_tariffs2/rauchway_gestures.png" class="img-fluid figure-img"></p>
-<figcaption>A historian talking and making hand gestures with rapidity sufficient to stymie the camera’s ability clearly to record them.</figcaption>
-</figure>
-</div>
-<p>—then you can watch the AHA Congressional Briefing on the History of Tariffs in the US on C-SPAN2, at <a href="https://www.c-span.org/program/american-history-tv/history-of-tariffs/661101?_gl=1*7ur5hl*_up*MQ..*_gs*MQ..&amp;gbraid=0AAAAAoVMygI8eDcYnfta-pGsJGXFhS5lH">this link</a>.</p>
-
-
-
- ]]></description>
-  <category>Historiography</category>
-  <category>Tariffs</category>
-  <category>New Deal</category>
-  <category>Reciprocal Tariff Agreements Act of 1934</category>
-  <category>Smoot-Hawley</category>
-  <category>C-SPAN</category>
-  <guid>https://erauchway.github.io/posts/aha_tariffs2/aha_tariffs2.html</guid>
-  <pubDate>Mon, 30 Jun 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 11 Jul 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
