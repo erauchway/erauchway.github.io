@@ -1,0 +1,27 @@
+---
+title: "AI and students here (and maybe where you are)"
+date: "2026-01-22"
+categories:
+    - Methods
+    - Madness
+---
+
+This is simply a post documenting the extent to which our students live in a world thick with AI.[^1] My thoughts on its use for reading and writing probably won't seem fresh to anyone[^2] so this isn't a post about that; I'm simply noting its ubiquity.[^3] 
+
+UC Davis provides affiliates with 
+
+- [Google workspace accounts,](https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&sys_id=a706700d6f9ce100bc4f8a20af3ee455&spa=1) which means students have access to Gemini 
+- [A Microsoft Office site license](https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&sys_id=6a661eae6f5b65002f5fe811af3ee4b4&spa=1) which means students have access to Copilot 
+- Access [to ChatGPT](https://iet.ucdavis.edu/aggie-ai/chatgpt-edu/get-started) 
+- An OpenAI-powered local tool called [Rocky](https://iet.ucdavis.edu/aggie-ai/ai-tools/rocky) whose precise use case is, I confess, obscure to me
+- Zoom with built-in [AI features](https://iet.ucdavis.edu/aggie-ai/ai-tools/zoom-ai-companion)
+
+To the best of my knowledge we do not have Claude Code freely available on campus, which is odd because it is the AI application IT people are most likely to tell you does, genuinely, work as advertised.
+
+In addition to the above, many of our students have Apple products with Apple Intelligence. When they use the library website to access monographs, they are offered AI summaries by the database provider. And of course they can go further afield and get [other AI tools](https://chat.deepseek.com/) on their own.
+
+As you can see, our students can scarcely escape some kind of AI.
+
+[^1]: "AI" is a misnomer and sales tactic and [possibly worse;](https://buttondown.com/apperceptive/archive/is-artificial-intelligence-as-a-term-per-se-racist/) we should be talking about "large language models" or LLMs. But I feel like fighting the terminology battle is a losing proposition so I'm going to say "AI."
+[^2]: tldr; (a) it [doesn't work](https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model) and [maybe never will](https://www.nature.com/articles/d41586-025-02853-8) and (b) if it did [you wouldn't be learning anything](https://www.alfiekohn.org/article/ai/)---see, I told you there wasn't going to be anything original here.
+[^3]: As my remark on Claude Code here indicates I am sensible of the possibility that there are specific tools which maybe do work---though not for reading or writing per se---and maybe even very well, and I want to think through that possibility before I write about it in another post.

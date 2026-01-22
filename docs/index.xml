@@ -10,7 +10,46 @@
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 12 Jan 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI and students here (and maybe where you are)</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/2026_01_22_ai_students/AI and our students.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is simply a post documenting the extent to which our students live in a world thick with AI.<sup>1</sup> My thoughts on its use for reading and writing probably won’t seem fresh to anyone<sup>2</sup> so this isn’t a post about that; I’m simply noting its ubiquity.<sup>3</sup></p>
+<p>UC Davis provides affiliates with</p>
+<ul>
+<li><a href="https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&amp;sys_id=a706700d6f9ce100bc4f8a20af3ee455&amp;spa=1">Google workspace accounts,</a> which means students have access to Gemini</li>
+<li><a href="https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&amp;sys_id=6a661eae6f5b65002f5fe811af3ee4b4&amp;spa=1">A Microsoft Office site license</a> which means students have access to Copilot</li>
+<li>Access <a href="https://iet.ucdavis.edu/aggie-ai/chatgpt-edu/get-started">to ChatGPT</a></li>
+<li>An OpenAI-powered local tool called <a href="https://iet.ucdavis.edu/aggie-ai/ai-tools/rocky">Rocky</a> whose precise use case is, I confess, obscure to me</li>
+<li>Zoom with built-in <a href="https://iet.ucdavis.edu/aggie-ai/ai-tools/zoom-ai-companion">AI features</a></li>
+</ul>
+<p>To the best of my knowledge we do not have Claude Code freely available on campus, which is odd because it is the AI application IT people are most likely to tell you does, genuinely, work as advertised.</p>
+<p>In addition to the above, many of our students have Apple products with Apple Intelligence. When they use the library website to access monographs, they are offered AI summaries by the database provider. And of course they can go further afield and get <a href="https://chat.deepseek.com/">other AI tools</a> on their own.</p>
+<p>As you can see, our students can scarcely escape some kind of AI.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>“AI” is a misnomer and sales tactic and <a href="https://buttondown.com/apperceptive/archive/is-artificial-intelligence-as-a-term-per-se-racist/">possibly worse;</a> we should be talking about “large language models” or LLMs. But I feel like fighting the terminology battle is a losing proposition so I’m going to say “AI.”↩︎</p></li>
+<li id="fn2"><p>tldr; (a) it <a href="https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model">doesn’t work</a> and <a href="https://www.nature.com/articles/d41586-025-02853-8">maybe never will</a> and (b) if it did <a href="https://www.alfiekohn.org/article/ai/">you wouldn’t be learning anything</a>—see, I told you there wasn’t going to be anything original here.↩︎</p></li>
+<li id="fn3"><p>As my remark on Claude Code here indicates I am sensible of the possibility that there are specific tools which maybe do work—though not for reading or writing per se—and maybe even very well, and I want to think through that possibility before I write about it in another post.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Methods</category>
+  <category>Madness</category>
+  <guid>https://erauchway.github.io/posts/2026_01_22_ai_students/AI and our students.html</guid>
+  <pubDate>Thu, 22 Jan 2026 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>A Brief Remembrance of Dan Howe as a Colleague</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -42,7 +81,7 @@
   <category>Personal</category>
   <category>Oxford</category>
   <guid>https://erauchway.github.io/posts/2026-01-11_dwh/dwh.html</guid>
-  <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 12 Jan 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The Franklin Roosevelt Corollary to the Monroe Doctrine</title>
@@ -78,7 +117,7 @@
   <category>Good Neighbors</category>
   <category>Monroe Doctrine</category>
   <guid>https://erauchway.github.io/posts/2026-01-09_monroe_d/2026-01-09_monroe_d.html</guid>
-  <pubDate>Fri, 09 Jan 2026 05:00:00 GMT</pubDate>
+  <pubDate>Fri, 09 Jan 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>How to Renovate the White House</title>
@@ -113,7 +152,7 @@
   <category>New Deal</category>
   <category>White House</category>
   <guid>https://erauchway.github.io/posts/whitehouse/whitehouse.html</guid>
-  <pubDate>Sat, 22 Nov 2025 05:00:00 GMT</pubDate>
+  <pubDate>Sat, 22 Nov 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>This Man Mamdani</title>
@@ -154,7 +193,7 @@
 </section></div> ]]></description>
   <category>Franklin D. Roosevelt</category>
   <guid>https://erauchway.github.io/posts/thisman/thisman.html</guid>
-  <pubDate>Fri, 21 Nov 2025 05:00:00 GMT</pubDate>
+  <pubDate>Fri, 21 Nov 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historiographical Hot Take</title>
@@ -198,7 +237,7 @@
   <category>New Deal</category>
   <category>Reconstruction</category>
   <guid>https://erauchway.github.io/posts/hot_take/hottake.html</guid>
-  <pubDate>Fri, 31 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 31 Oct 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The great essayist, or as I like to call him, ‘Babe’</title>
@@ -222,7 +261,7 @@
  ]]></description>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/fdr_conservative/fdr_conservative.html</guid>
-  <pubDate>Mon, 27 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 27 Oct 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>What this country needs</title>
@@ -249,7 +288,7 @@
   <category>Hoover</category>
   <category>Historiography</category>
   <guid>https://erauchway.github.io/posts/hoover_cigar/hoover_cigar.html</guid>
-  <pubDate>Sat, 25 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 25 Oct 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Social Security at 90</title>
@@ -275,7 +314,7 @@
   <category>New Deal</category>
   <category>Social Security</category>
   <guid>https://erauchway.github.io/posts/ssa_100/ssa_100.html</guid>
-  <pubDate>Fri, 24 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 24 Oct 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Some interwar booknotes from recent TLS issues</title>
@@ -306,7 +345,7 @@
   <category>Fascism</category>
   <category>TLS</category>
   <guid>https://erauchway.github.io/posts/tls_interwar/tls_interwar.html</guid>
-  <pubDate>Fri, 12 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Plattism and the Gibraltar of Puerto Rico</title>
@@ -346,7 +385,7 @@
   <category>Platt Amendment</category>
   <category>Monroe Doctrine</category>
   <guid>https://erauchway.github.io/posts/monroe_d/monroe_d.html</guid>
-  <pubDate>Fri, 05 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Full of, buckets of</title>
@@ -373,7 +412,7 @@
   <category>John Nance Garner</category>
   <category>Language</category>
   <guid>https://erauchway.github.io/posts/language/language.html</guid>
-  <pubDate>Thu, 04 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 04 Sep 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The American Family</title>
@@ -407,7 +446,7 @@
 </section></div> ]]></description>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/duke/duke.html</guid>
-  <pubDate>Mon, 25 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 25 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Unconditional Surrender</title>
@@ -443,7 +482,7 @@
   <category>Unconditional surrender</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/USgrant/usgrant.html</guid>
-  <pubDate>Sun, 24 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sun, 24 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Beginning a Planned Program</title>
@@ -488,7 +527,7 @@
 </section></div> ]]></description>
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/concepts_plan/concepts.html</guid>
-  <pubDate>Sat, 09 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 09 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Rapid Involuntary Retirement</title>
@@ -513,7 +552,7 @@
   <category>Depression</category>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/stewart/stewart_sacked.html</guid>
-  <pubDate>Fri, 01 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 01 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Empire of Relief, 1933</title>
@@ -541,7 +580,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/relief_pc/relief_st_terr.html</guid>
-  <pubDate>Thu, 31 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 31 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Chicago 18 in the Zotero Style Repository</title>
@@ -567,7 +606,7 @@
  ]]></description>
   <category>Methods</category>
   <guid>https://erauchway.github.io/posts/chicago18/chicago18.html</guid>
-  <pubDate>Wed, 23 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 23 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Historians and the Isolationists: National Security</title>
@@ -604,7 +643,7 @@
   <category>Historiography</category>
   <category>Isolationists</category>
   <guid>https://erauchway.github.io/posts/preston/tls_liberty.html</guid>
-  <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 18 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>DRINK TAROCO</title>
@@ -641,58 +680,7 @@
   <category>Territories</category>
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/taroco/taroco.html</guid>
-  <pubDate>Thu, 17 Jul 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Pitt Rivers and Totem Bight</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/pitt_rivers/pitt_rivers.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The TLS has <a href="https://www.the-tls.com/politics-society/social-cultural-studies/every-monument-will-fall-dan-hicks-book-review-tristram-hunt">a fairly bracing essay</a> by Tristram Hunt, curator of the V&amp;A, on a book by Dan Hicks, curator of the Pitt Rivers Museum in Oxford, an institution which Hunt describes (in my view aptly) as “a darkened labyrinth of cabinets” arranged in a “riotously Victorian, deliriously Gormenghast manner.” Adorning the essay is a photo like this one which gives a hint of the jumble that is the Pitt Rivers’s main hall, presided over by the tall Haida totem pole you can see near center, which once stood outside Star House in Massett Village in what is now Canada.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./pitt_rivers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Photo of the Pitt Rivers main hall like the TLS one, but not the TLS one (this one by me). Click to enlarge."><img src="https://erauchway.github.io/posts/pitt_rivers/pitt_rivers.png" class="img-fluid figure-img" alt="Photo of the Pitt Rivers main hall like the TLS one, but not the TLS one (this one by me). Click to enlarge."></a></p>
-<figcaption>Photo of the Pitt Rivers main hall like the TLS one, but not the TLS one (this one by me). Click to enlarge.</figcaption>
-</figure>
-</div>
-<p>Hicks, according to Hunt anyway, cordially loathes the collection of which he is curator, which perhaps accounts for the ambivalence on some of the explanatory plaques, like the one for that Haida totem, which asserts its figures and stories remain “part of Haida culture.”</p>
-<p>As it happens a couple weeks ago Kathy Olmsted and I were on a research trip, mainly to go to archives, but also to see some other Haida, and Tlingit and Tsimshian, totem poles together with a clan house not unlike Star House, in Saxman Village near Ketchikan, Alaska. Together with Totem Bight, also near Ketchikan, and some other totem poles in town, these sites are the legacy of a New Deal program to, as one of its creators wrote, “see that these totems are preserved <em>in situ.</em>”</p>
-<div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./saxman.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Totems and clan house at Saxman Village. Click to enlarge."><img src="https://erauchway.github.io/posts/pitt_rivers/saxman.png" class="img-fluid figure-img" alt="Totems and clan house at Saxman Village. Click to enlarge."></a></p>
-<figcaption>Totems and clan house at Saxman Village. Click to enlarge.</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./totem_bight.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Totems at Totem Bight. Click to enlarge."><img src="https://erauchway.github.io/posts/pitt_rivers/totem_bight.png" class="img-fluid figure-img" alt="Totems at Totem Bight. Click to enlarge."></a></p>
-<figcaption>Totems at Totem Bight. Click to enlarge.</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-<p>Under the New Deal, the federal government hired Native carvers to practice and pass on their art, which had fallen out of favor under missionary influence. The explanatory plaques there, unlike the one in the Pitt Rivers, do not assert that the totem poles and their figures and stories remain part of Native culture but perhaps that is because it is obvious; there Native people retain stewardship of the living art.</p>
-<p>It is of course true that the Roosevelt reform program in the territories constituted an <a href="https://www.rai.ox.ac.uk/event/empire-of-the-new-deal">empire of the New Deal.</a> Does it matter that this empire, instead of carting cultural artifacts away to the Pitt Rivers, funded the preservation and perpetuation of the artifacts and moreover the art form amongst the people to whom it belonged?</p>
-
-
-
- ]]></description>
-  <category>New Deal</category>
-  <category>Territories</category>
-  <category>Empire of the New Deal</category>
-  <guid>https://erauchway.github.io/posts/pitt_rivers/pitt_rivers.html</guid>
-  <pubDate>Fri, 11 Jul 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 17 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
