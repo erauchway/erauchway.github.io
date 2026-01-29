@@ -1,0 +1,24 @@
+---
+title: "The New Deal and Some Rockbound Republicans"
+date: "2026-01-29"
+categories:
+  - New Deal
+  - Economists
+format: html
+---
+
+In the summer of 1933, Hugh Auchincloss---a physician at Columbia Presbyterian---wrote Franklin Roosevelt to convey his colleagues' view of the controversy over who should be commissioner of education in Puerto Rico, and concluded, 
+
+> I heard you speak last night and had a good deal of pleasure in being the only Republican who voted for you, in a crowd of rockbound Republicans who didn't vote for you. You may be glad to know that every one of them were delighted with it and your ears would have tingled if you could have heard their comments.[@auchinclos1933-07-25]
+
+Auchincloss was referring to [the third of Roosevelt's "Fireside Chats,"](http://www.fdrlibrary.marist.edu/_resources/images/msf/msf00662) addressing what had been done in the hundred days. This was one of several occasions on which Roosevelt rejected the idea of a recovery solely to previous conditions.
+
+> Now I come to . . . a more lasting prosperity. I have said that we cannot attain that in a nation half boom and half broke. If all of our people have work and fair wages and fair profits, they can buy the products of their neighbors and business is good. But if you take away the wages and the profits of half of them, business is only half as good. It doesn't help much if the fortunate half is very prosperous---the best way is for everybody to be reasonably prosperous.
+
+And to get there, Americans had to address long-standing problems. Eliminate child labor. Raise wages. Shorten hours. Reduce farm production. Manage the currency---deflation made it so "the dollar was a different dollar from the one with which the average debt had been incurred." Roosevelt also mentioned the Civilian Conservation Corps and the $3 billion voted for the Public Works Administration. Here, as on other occasions, he distinguished the "regular" expenses of government, which he cut, from these extraordinary ones. But he didn't shy away from outlining the scale and scope of the extraordinary measures.
+
+> I have no sympathy with the professional economists who insist that things must run their course and that human agencies can have no influence on economic ills. One reason is that I happen to know that professional economists have changed their definition of economic laws every five or ten years for a very long time.
+
+Hard to imagine Auchincloss's "rockbound Republican" colleagues thrilling to that, but it was a dire time and people did want something better.
+
+![Page 36 of Edward Angly, *Oh Yeah?* indicating the esteem in which professional economists might have been held at the time. Click to enlarge.](./babson_oh_yeah_36.png){.lightbox}
