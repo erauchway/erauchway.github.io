@@ -9,8 +9,43 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Thu, 29 Jan 2026 08:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Mon, 09 Feb 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Unemployment in Puerto Rico, 1930–2010</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/2026-02-09_pr_unemp/pr_unemp.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As I’ve indicated before, despite the profound and ultimately catastrophic conflict with the Nationalists during the 1930s, the New Deal had <a href="https://erauchway.github.io/posts/pr_wages/pr_wages.html">a materially salutary effect</a> on Puerto Rico in many respects. That effect extended beyond the time of the New Deal proper; the enactment of the Puerto Rico Labor Relations Act in 1945, and its amendment in 1947, were directly influenced by the Wagner Act, and the economic development programs of Luis Muñoz Marín were too.<span class="citation" data-cites="barelaPuerto1965"><sup>1</sup></span></p>
+<p>Here’s another thing to think about: unemployment in Puerto Rico as against the US overall.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/2026-02-09_pr_unemp/unemp_pr.png" class="img-fluid figure-img"></p>
+<figcaption>Chart showing convergence in unemployment over the 1930s.</figcaption>
+</figure>
+</div>
+<p>There’s a lot going on here, but it is true that during the New Deal, the Puerto Rico Emergency Relief Administration (from 1933) and then the Puerto Rico Reconstruction Administration (from 1935) had a definite impact on Puerto Rico’s economy. Even if by 1940 the territory’s economy remained largely agricultural (and indeed, largely devoted to the single crop of sugar) significant shifts had occurred: the agricultural sector shrank by about 8 percentage points, indicating a shift of workers into transportation, trade, services and government.<span class="citation" data-cites="dietzEconomic1986"><sup>2</sup></span> During the war rum became immensely profitable, owing to the nearly total shutdown of distilling in the 48 United States. Then after the wear a period of extended manufacturing growth began—although the proceeds, like the proceeds of the sugar trade in earlier years, tended to leave Puerto Rico rather than remain there.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Fred Barela, <em>The Puerto Rico Labor Relations Act: A State Labor Policy and Its Application</em> (Editorial Universitaria, 1965).↩︎</p></li>
+<li id="fn2"><p>James L. Dietz, <em>Economic History of Puerto Rico: Institutional Change and Capitalist Development</em> (Princeton University Press, 1986), 176–77.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>New Deal</category>
+  <category>Puerto Rico</category>
+  <guid>https://erauchway.github.io/posts/2026-02-09_pr_unemp/pr_unemp.html</guid>
+  <pubDate>Mon, 09 Feb 2026 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The New Deal and Some Rockbound Republicans</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -663,32 +698,6 @@
   <category>Empire of the New Deal</category>
   <guid>https://erauchway.github.io/posts/relief_pc/relief_st_terr.html</guid>
   <pubDate>Thu, 31 Jul 2025 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Chicago 18 in the Zotero Style Repository</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/chicago18/chicago18.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>If you were eagerly waiting for the innovations of the eighteenth edition of the Chicago Manual of Style to come to Zotero, you can breathe easier. They are <a href="https://forums.zotero.org/discussion/125429/implementation-of-the-chicago-manual-of-style-18th-edition">here.</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://erauchway.github.io/posts/chicago18/cmos18.png" class="img-fluid figure-img" width="250"></p>
-<figcaption>The bright-yellow cover of the Chicago Manual of Style, 18th edition.</figcaption>
-</figure>
-</div>
-<p>Maybe you were ready to drop place of publication. Maybe you weren’t. But as your university press representative has probably told you, it is time.</p>
-
-
-
- ]]></description>
-  <category>Methods</category>
-  <guid>https://erauchway.github.io/posts/chicago18/chicago18.html</guid>
-  <pubDate>Wed, 23 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

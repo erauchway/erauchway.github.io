@@ -1,0 +1,15 @@
+---
+title: "Unemployment in Puerto Rico, 1930--2010"
+date: "2026-02-09"
+categories:
+  - New Deal
+  - Puerto Rico
+---
+
+As I've indicated before, despite the profound and ultimately catastrophic conflict with the Nationalists during the 1930s, the New Deal had [a materially salutary effect](https://erauchway.github.io/posts/pr_wages/pr_wages.html) on Puerto Rico in many respects. That effect extended beyond the time of the New Deal proper; the enactment of the Puerto Rico Labor Relations Act in 1945, and its amendment in 1947, were directly influenced by the Wagner Act, and the economic development programs of Luis Muñoz Marín were too.[@barelaPuerto1965]
+
+Here's another thing to think about: unemployment in Puerto Rico as against the US overall. 
+
+![Chart showing convergence in unemployment over the 1930s.](./unemp_pr.png)
+
+There's a lot going on here, but it is true that during the New Deal, the Puerto Rico Emergency Relief Administration (from 1933) and then the Puerto Rico Reconstruction Administration (from 1935) had a definite impact on Puerto Rico's economy. Even if by 1940 the territory's economy remained largely agricultural (and indeed, largely devoted to the single crop of sugar) significant shifts had occurred: the agricultural sector shrank by about 8 percentage points, indicating a shift of workers into transportation, trade, services and government.[@dietzEconomic1986, 176--177] During the war rum became immensely profitable, owing to the nearly total shutdown of distilling in the 48 United States. Then after the wear a period of extended manufacturing growth began---although the proceeds, like the proceeds of the sugar trade in earlier years, tended to leave Puerto Rico rather than remain there.
