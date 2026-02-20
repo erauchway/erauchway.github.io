@@ -1,5 +1,5 @@
 ---
-title: "No, Franklin Roosevelt was not a liberal proto-Trump; that's silly and I suspect you all know better"
+title: ""
 draft: TRUE
 categories:
   - New Deal

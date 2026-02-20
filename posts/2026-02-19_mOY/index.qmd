@@ -1,0 +1,30 @@
+---
+title: "Was Franklin D. Roosevelt a liberal proto-Trump?"
+date: "2026-02-20"
+draft: TRUE
+categories:
+  - New Deal
+  - Madness
+---
+
+Some of you have asked me, because of the [Moyn and Goldsmith opinion piece](https://www.nytimes.com/2026/02/02/opinion/trump-roosevelt-executive-power.html) in the *New York Times*: is it true that President Trump's "executive power grabs have been arrestingly similar to ones pioneered by an iconic predecessor liberals revere: Franklin D. Roosevelt" during the New Deal?
+
+![Jeffrey Wright as Roebuck Wright in *The French Dispatch*](../gifs/weariness.gif)
+
+No. In fact I suspect Moyn and Goldsmith realized as they were writing it, if they did not know from the start, that they were making an insupportable case. 
+
+Anyone who remembers high school will know the basic story of the New Deal and the Court; Roosevelt lost what he considered key New Deal agencies to Supreme Court decisions. He obeyed the decisions. Sometimes, as in the case of the Agricultural Adjustment Administration or the National Labor Relations Act, his administration was able to revive agencies shot down by the Court---by getting Congress to pass new law, on a new basis. When Roosevelt sought to change the Court, he also sought a law. He didn't get one. This is how the federal government is supposed to work.
+
+And that's just basic, everyday, educated-person knowledge of the New Deal; if you have any archival knowledge of how it worked, you'll have seen innumerable memos in which New Deal administrators express frustration that the Comptroller General (who, as Harvey Mansfield noted, managed to turn what was a ministerial function of approving expenditures into an extraconstitutional veto point) had turned down this or that expenditure---delaying or preventing entirely the implementation of relief or reconstruction programs approved by Congress.[@mansfield1939] The New Dealers were frustrated: but they didn't, say, [feed the Office of the Comptroller General into a proverbial wood-chipper.](https://xcancel.com/elonmusk/status/1886307316804263979?lang=en)
+
+Yes, Roosevelt worried the Supreme Court might overturn his monetary policy, forcing the US back on the gold standard and yes, he prepared a speech saying that if they did, he wouldn't let the decision plunge the country back into Depression. In *The Money Makers,* I talk about some of the ways he proposed to get around such a decision.[@rauchwayMoneyMakersHow2015] But it never came, so we don't know what would have happened in that alternative history. 
+
+Meanwhile, in the actual history we have, we can see an almost punctilious legalism in the Roosevelt administration, whose use of executive orders contrasts sharply with Trump's. Take a look, for example, at his order creating the [Civilian Conservation Corps.](https://www.presidency.ucsb.edu/documents/executive-order-6101-relief-unemployment-through-the-performance-useful-public-work) It begins by invoking a specific law Congress passed allowing him to do this very thing. Compare Trump's executive order creating the "Department of Government Efficiency," which invokes general authority creating "by the Constitution and the laws." There's no comparison to the careful citation of the Roosevelt executive orders---perhaps because Roosevelt had very good lawyers drafting them. 
+
+Yes, you can say something different about the world war: Roosevelt committed what was surely the greatest violation of Americans' civil liberties between Lincoln and Trump by imprisoning Japanese Americans without trial in 1942. (And in, it is worth mentioning, what Roosevelt himself described as "[concentration camps.](www.fdrlibrary.marist.edu/_resources/images/pc/pc0139.pdf)") It served no legitimate military purpose and was a product of racist panic after the bombing of Pearl Harbor. It's not something anyone would defend as "iconic" or liberal and liberals at the time objected to it; the slow working of political and judicial procedure eventually unwound it, if without anything like justice---payment of [reparations](https://www.nationalww2museum.org/war/articles/redress-and-reparations-japanese-american-incarceration) and other forms of [belated amends](https://www.ucdavis.edu/news/honorary-degrees-awarded-47-japanese-americans) continued into the twenty-first century. I don't think it's stretching any kind of historical judgment to say that total war is a different thing from peacetime.
+
+This episode hardly features at all in the Moyn and Goldsmith piece, when it would be the best exhibit for their case. (They mention only "exclusion," and in passing.) I guess it's because they know wartime is different.
+
+The New Deal represented a sincere, politically astute, and immensely popular effort to save the United States from encroaching fascism. Roosevelt's proposed method of doing so was to demonstrate that the US government could achieve progressive ends without abandoning representative government or rule of law and indeed by expanding representative government. Roosevelt aide Rex Tugwell mentioned this in his diary in 1934, writing that Roosevelt "is convinced that he can transform the country physically and morally in his time without any great changes in government structure or in democratic processes."[@tugwell, November 26, 1934]
+
+You can imagine a hypothetical 1930s administration that put progressive aims---let's say, the redistribution of wealth---above preserving rule of law or democratic procedure. And that hypothetical administration could be regarded as a left precursor to today's administration. But it wasn't: the New Deal fell short of its most ambitious leftist aims precisely because the administration placed its highest priority on the preservation and extension of democracy and rule of law.
