@@ -1,6 +1,6 @@
 ---
 title: "Was FDR a liberal proto-Trump?"
-subtitle: "Disrespecting SCOTUS edition"
+subtitle: "Disrespecting SCOTUS, press conference edition"
 date: "2026-02-20"
 categories:
     - New Deal
@@ -15,13 +15,13 @@ No.
 
 I won't make the whole case now but today I'll discuss their claim that Roosevelt "disrespected" the Supreme Court. 
 
-At the top of [this pdf from the FDR Library](http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0022.pdf) you'll find Roosevelt's May 31, 1935 press conference, discussing the *Schechter v. United States* decision in which the Court struck down key portions of the 1933 [National Industrial Recovery Act](https://www.archives.gov/milestone-documents/national-industrial-recovery-act#transcript) in which Congress empowered the president to "establish an industrial planning and research agency" to enforce "codes of fair competition" by industry. Roosevelt used this provision to create the National Recovery Administration (NRA). 
+At the top of [this pdf from the FDR Library](http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0022.pdf) you'll find Roosevelt's May 31, 1935 press conference, discussing the *Schechter v. United States* decision in which the Court struck down key portions of the 1933 [National Industrial Recovery Act](https://www.archives.gov/milestone-documents/national-industrial-recovery-act#transcript) empowering the president to "establish an industrial planning and research agency" to enforce "codes of fair competition" by industry. Roosevelt used this provision to create the National Recovery Administration (NRA). 
 
 ![The Blue Eagle of the NRA. FDR Library. Click to enlarge.](./nra_eagle.jpg){width=50% .lightbox}
 
 The Court said Congress couldn't give him that power [because](https://tile.loc.gov/storage-services/service/ll/usrep/usrep295/usrep295495/usrep295495.pdf) "it exceeds the power of Congress to regulate interstate commerce and invades the power reserved exclusively to the States."
 
-Roosevelt began by reading from a series of telegrams from US businesses, expressing the hope that he would somehow be able to reestablish the NRA codes---by some form of "new legislation," not by executive power.
+Roosevelt began his press conference by reading from a series of telegrams from US businesses, expressing the hope that he would somehow be able to reestablish the NRA codes---by some form of "new legislation," not by executive power.
 
 He then addressed the decision itself.
 
