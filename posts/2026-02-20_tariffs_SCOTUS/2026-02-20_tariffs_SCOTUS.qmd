@@ -1,0 +1,48 @@
+---
+title: "Was FDR a liberal proto-Trump?"
+subtitle: "Disrespecting SCOTUS edition"
+date: "2026-02-20"
+categories:
+    - New Deal
+    - Madness
+---
+
+Some of you have asked me, because of the [Moyn and Goldsmith opinion piece](https://www.nytimes.com/2026/02/02/opinion/trump-roosevelt-executive-power.html) in the *New York Times*: is it true that President Trump's "executive power grabs have been arrestingly similar to ones pioneered by an iconic predecessor liberals revere: Franklin D. Roosevelt" during the New Deal?
+
+![Jeffrey Wright as Roebuck Wright in *The French Dispatch*](../gifs/weariness.gif)
+
+No. 
+
+I won't make the whole case now but today I'll discuss their claim that Roosevelt "disrespected" the Supreme Court. 
+
+At the top of [this pdf from the FDR Library](http://www.fdrlibrary.marist.edu/_resources/images/pc/pc0022.pdf) you'll find Roosevelt's May 31, 1935 press conference, discussing the *Schechter v. United States* decision in which the Court struck down key portions of the 1933 [National Industrial Recovery Act](https://www.archives.gov/milestone-documents/national-industrial-recovery-act#transcript) in which Congress empowered the president to "establish an industrial planning and research agency" to enforce "codes of fair competition" by industry. Roosevelt used this provision to create the National Recovery Administration (NRA). 
+
+![The Blue Eagle of the NRA. FDR Library. Click to enlarge.](./nra_eagle.jpg){width=50% .lightbox}
+
+The Court said Congress couldn't give him that power [because](https://tile.loc.gov/storage-services/service/ll/usrep/usrep295/usrep295495/usrep295495.pdf) "it exceeds the power of Congress to regulate interstate commerce and invades the power reserved exclusively to the States."
+
+Roosevelt began by reading from a series of telegrams from US businesses, expressing the hope that he would somehow be able to reestablish the NRA codes---by some form of "new legislation," not by executive power.
+
+He then addressed the decision itself.
+
+> in spite of what one gentleman said in the paper this morning, that I resented the decision. Nobody resents a Supreme Court decision. You can deplore a Supreme Court decision and you can point out the effect of it. You can call the attention of the country to what the implications are as to the future, what the results or that decision are if future decisions follow this decision.
+
+Which is what he proceeded to do. He pointed out that the Constitution's interstate commerce clause was written "in the horse and buggy age" and that  now, modern transportation rendered the nation's businesses interdependent in a way they had not been before. And that because national and international markets affected local conditions, US laws and judicial opinions had begun to recognize that interdependence by broadening the scope of what Congress could regulate under "interstate commerce." 
+
+But now, he noted, to the contrary, the *Schechter* decision reposed such regulatory power solely in the states, even though the problems were national problems. 
+
+> Now, this is not a criticism of the Supreme Court's decision; it is merely pointing out the implications of it. In some ways it is probably the best thing that has happened to this country for a long time that this decision has come from the Supreme Court, because it clarifies the issue. 
+
+That is: would the federal government have any power over national social or economic policy, or would each of the forty-eight states have to work out such policy for itself? For the moment, the decision meant "we have been relegated to the horse-and-buggy definition of interstate commerce."
+
+The Department of Justice, the next day, sent the president a memorandum about which agencies were affected, which could continue, and which would require new legislation. Notably, the Wagner bill then under consideration by Congress would not only preserve but strengthen the provisions protecting organized labor.[@maclean1935-06-01]
+
+You can get from that summary the tenor of Roosevelt's remarks, and of course the general plan of action he would pursue. I note, though, Roosevelt's calm and lengthy discussion. Did he, per Moyn and Goldsmith, "disrespect" the Court? And how did his remarks compare to President Trump's [remarks](https://transcripts.cnn.com/show/cnc/date/2026-02-20/segment/07) today, regarding the Court's decision in [*Learning Resources, Inc. v. Trump*](https://supreme.justia.com/cases/federal/us/607/24-1287/)?
+
+> I'm ashamed of certain members of the court, absolutely ashamed, for not having the courage to do what's right for our country. . . . it's happened so often with this court. What a shame, having to do with voting in particular, when in fact they're just being fools and lapdogs for the RINOs and the radical left Democrats, and not that this should have anything at all to do with it.
+
+> They're very unpatriotic and disloyal to our Constitution. It's my opinion that the court has been swayed by foreign interests and a political movement that is far smaller than people would ever think. It's a small movement.
+
+> I won by millions of votes. We won in a landslide. With all the cheating that went on, there was a lot of it, we still won in a landslide. Too big to rig. But these people are obnoxious, ignorant, and loud. They're very loud.
+
+I would not call these responses "arrestingly similar."
