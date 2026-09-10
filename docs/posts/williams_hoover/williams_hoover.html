@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,6 +11,9 @@
 
 <title>Historians and the isolationists – a necessitous blog</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-7ac5b228a3bc26576d871d5d6ca29a78.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-5b1f710a5e9097dc37324d168df19b28.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-2a1f1354e5a75be6c54cc8e87de18510.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-d190653830207f02ca5d92c88eccbdf7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -196,12 +199,12 @@ ul.task-list li input[type="checkbox"] {
 
 <ol>
 <li id="fn1"><p>William A. Williams, <span>“What This Country Needs,”</span> <em>New York Review of Books</em>, November 5, 1970.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>Jeffery Dorwart, <em>Conflict of Duty: The U.S. Navy’s Intelligence Dilemma, 1919–1945</em> (Annapolis: Naval Institute Press, 1983), 3.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3"><p>Kathryn S. Olmsted, <em>Right Out of California: The 1930s and The Big Business Roots of Modern Conservatism</em> (New York: The New Press, 2015), 233.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Jeffery Dorwart, <em>Conflict of Duty: The U.S. Navy’s Intelligence Dilemma, 1919–1945</em> (Naval Institute Press, 1983), 3.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Kathryn S. Olmsted, <em>Right Out of California: The 1930s and The Big Business Roots of Modern Conservatism</em> (The New Press, 2015), 233.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn4"><p>Williams, <span>“What This Country Needs.”</span><a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5"><p>Eric Rauchway, <em>Winter War: Hoover, Roosevelt, and the First Clash Over the New Deal</em> (New York: Basic Books, 2018), 185.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Eric Rauchway, <em>Winter War: Hoover, Roosevelt, and the First Clash Over the New Deal</em> (Basic Books, 2018), 185.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn6"><p>Williams, <span>“What This Country Needs.”</span><a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn7"><p>Williams, <span>“What This Country Needs.”</span><a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p><span>“What This Country Needs.”</span><a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn8"><p>People—including Williams—often object to the word “isolationists” for various reasons, many of them also misbegotten in my view. For a start, people will object, it is a misleading term, they weren’t opposed to all forms of foreign involvement. Which is fair enough, but it’s no more misleading than “interventionists”: the people we describe by that term weren’t in favor of all intervention everywhere. The truth is, the interventionists wanted to aid the powers opposing the Nazis, and the isolationists didn’t. In that context, perhaps one can understand that “isolatonist” is really a very polite term.<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
@@ -256,13 +259,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -604,8 +608,6 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-<script src="https://utteranc.es/client.js" repo="erauchway/blogComments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
-</script>
 </div> <!-- /content -->
 
 

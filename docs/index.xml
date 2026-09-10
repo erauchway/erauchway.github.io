@@ -9,8 +9,49 @@
 <link>https://erauchway.github.io/</link>
 <atom:link href="https://erauchway.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about the era of the Roosevelt administration, 1933--1945</description>
-<generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 20 Feb 2026 08:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Thu, 10 Sep 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Roosevelt’s political style</title>
+  <dc:creator>Eric Rauchway</dc:creator>
+  <link>https://erauchway.github.io/posts/2026-09-10_tugwell/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>It remains a historiographical commonplace that Franklin Roosevelt led more by style than substance and that, as Oliver Wendell Holmes Jr.&nbsp;said, Roosevelt may have had a second-class intellect but a first-class temperament.</p>
+<p>For myself I have never found this characterization satisfactory, and for essentially the reasons that Roosevelt’s aide Rex Tugwell doubted it. (Tugwell was generally characterized, not unfairly, as a bit to the left of the president and of the mainstream of the New Deal.)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://erauchway.github.io/posts/2026-09-10_tugwell/tugwell.jpg" class="img-fluid figure-img"></p>
+<figcaption>Rex Tugwell, 1934. Library of Congress</figcaption>
+</figure>
+</div>
+<p>Thinking back on Roosevelt’s record, and on the temptation to characterize Roosevelt as a blithe spirit rather than a canny operator, Tugwell wrote,</p>
+<blockquote class="blockquote">
+<p>there would have been instances also, many of them, when everything had been superbly conceived and had been carried through with an élan and precision which would seem inspired. These last instances might, to the honest expert, have seemed to have about them a good deal of the accidental. It could not be denied, however, that they had happened. They had even happened repeatedly. . . . there it was! It had to be accepted. The inference was inescapable. It could not all be luck.<span class="citation" data-cites="tugwell1958"><sup>1</sup></span></p>
+</blockquote>
+<p>I don’t know for sure <em>why</em> it is so tempting to believe that Roosevelt cheerfully blundered his way through an immensely successful presidency. I suspect different kinds of people tend to believe it for different reasons. If, say, your economic knowledge allows you to understand that anything like the New Deal could not possibly succeed, it might be useful to believe that Roosevelt was simply lucky that his presidency coincided with a period of recovery and strong economic growth with increasingly widespread prosperous returns—and that applies whether your economics are related to the political right or the political left. I think also that during the Cold War the idea of Roosevelt as a purely experimental pragmatist—in contrast to those sneaky planners behind the Iron Curtain—was attractive to liberals.</p>
+<p>But as Tugwell notes it seems pretty obviously wrong.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Rexford G. Tugwell, <em>The Art of Politics, as Practiced by Three Great Americans: Franklin Delano Roosevelt, Luis Muñoz Marín, and Fiorello H. La Guardia</em> (Doubleday &amp; Company, 1958).↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>New Deal</category>
+  <category>Franklin D. Roosevelt</category>
+  <category>Political Style</category>
+  <category>Rex Tugwell</category>
+  <guid>https://erauchway.github.io/posts/2026-09-10_tugwell/</guid>
+  <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Was FDR a liberal proto-Trump?</title>
   <dc:creator>Eric Rauchway</dc:creator>
@@ -86,7 +127,7 @@
 
 
 
-<p>As I’ve indicated before, despite the profound and ultimately catastrophic conflict with the Nationalists during the 1930s, the New Deal had <a href="https://erauchway.github.io/posts/pr_wages/pr_wages.html">a materially salutary effect</a> on Puerto Rico in many respects. That effect extended beyond the time of the New Deal proper; the enactment of the Puerto Rico Labor Relations Act in 1945, and its amendment in 1947, were directly influenced by the Wagner Act, and the economic development programs of Luis Muñoz Marín were too.<span class="citation" data-cites="barelaPuerto1965"><sup>1</sup></span></p>
+<p>As I’ve indicated before, despite the profound and ultimately catastrophic conflict with the Nationalists during the 1930s, the New Deal had <a href="https://erauchway.github.io/posts/pr_wages/pr_wages.html">a materially salutary effect</a> on Puerto Rico in many respects. That effect extended beyond the time of the New Deal proper; the enactment of the Puerto Rico Labor Relations Act in 1945, and its amendment in 1947, were directly influenced by the Wagner Act, and the economic development programs of Luis Muñoz Marín were too.<span class="citation" data-cites="barela1965"><sup>1</sup></span></p>
 <p>Here’s another thing to think about: unemployment in Puerto Rico as against the US overall.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -182,7 +223,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Herbert Hoover, <span>“Veto of a Bill Providing for the Independence of the Philippine Islands, January 13, 1933,”</span> in <em>Public Papers of the Presidents of the United States</em> (Government Printing Office, 1977), 1932–1933; Theodore Joslin, diary, HHL, January 17, 1933.↩︎</p></li>
+<li id="fn1"><p>Herbert Hoover, <span>“Veto of a Bill Providing for the Independence of the Philippine Islands, January 13, 1933,”</span> in <em>Public Papers of the Presidents of the United States</em>, vols. 1932–1933 (Government Printing Office, 1977); Theodore Joslin, diary, HHL, January 17, 1933.↩︎</p></li>
 <li id="fn2"><p>Paul A. Kramer, <em>The Blood of Government: Race, Empire, the United States, &amp; the Philippines</em> (University of North Carolina Press, 2006), 424.↩︎</p></li>
 <li id="fn3"><p>M.L. Wilson to Comptroller General, April 9, 1934, fldr <span>“Farm Relief - Sugar,”</span> box 1993; on Wilson see William D. Rowley, <em>M.L. Wilson and the Campaign for the Domestic Allotment</em> (University of Nebraska Press, 1970).↩︎</p></li>
 <li id="fn4"><p>United States Department of Agriculture, <em>Agricultural Adjustment, 1933 to 1935</em> (Government Printing Office, 1936), 222.↩︎</p></li>
@@ -558,7 +599,7 @@
 <ol>
 <li id="fn1"><p>E. David Cronon, <span>“Interpreting the New Good Neighbor Policy: The Cuban Crisis of 1933,”</span> <em>Hispanic American Historical Review</em> 39, no. 4 (1959): 538–67.↩︎</p></li>
 <li id="fn2"><p><span>“Interpreting,”</span> 560.↩︎</p></li>
-<li id="fn3"><p>Ernest Gruening, diary, Ernest Gruening Papers, Arctic and Polar Regions Collections, University of Alaska, Fairbanks, May 12, 1939.↩︎</p></li>
+<li id="fn3"><p>Ernest Gruening, diary, Gruening Papers, May 12, 1939.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>Empire of the New Deal</category>
@@ -615,7 +656,7 @@
 </div>
 <p>I’m pretty sure—especially from the description in the US Navy Historical Command’s <a href="https://www.history.navy.mil/research/histories/ship-histories/danfs/h/houston-ii.html">history of the <em>USS Houston</em></a>—that the caption, written on the original photo, is intentionally whimsical, and the person wearing the feathered cape and headdress of Hawaiian aliʻi (familiar to viewers of <em>Chief of War</em>) is actually Duke Kahanamoku, Olympic swimming champion, longboard surfer, and then-serving sheriff of Honolulu. Duke Kahanamoku would also greet Ernest Gruening, as administrator of the Division of Territories and Island Possessions, in 1937—though apparently without the special garb.</p>
 <p>Roosevelt’s 1934 trip was a combined Good Neighbor Policy / Territorial relations tour. He would first visit Haiti, from which <a href="https://hdl.handle.net/2027/mdp.39015049924361?urlappend=%3Bseq=409%3Bownerid=13510798884175400-409">he had ordered the accelerated end</a> of the US occupation (reversing not only US policy but his own earlier views, when he was Assistant Secretary of the Navy under Wilson); he would also go to Colombia.</p>
-<p>Maybe more importantly, he visited Puerto Rico and the Virgin Islands, and afterward Hawaiʻi (the first sitting president to do so). He had just created the Division of Territories and Island Possessions to administer the New Deal in Puerto Rico, the Virgin Islands, Hawaiʻi, and Alaska—the territories whose people were US citizens—and on this trip he would explain that US citizens in the territories were as much a part of the “American family” as anyone else.<span class="citation" data-cites="frankind.Radio1934 PresidentStCroix1934 franklindRadio1934-07-28"><sup>1</sup></span></p>
+<p>Maybe more importantly, he visited Puerto Rico and the Virgin Islands, and afterward Hawaiʻi (the first sitting president to do so). He had just created the Division of Territories and Island Possessions to administer the New Deal in Puerto Rico, the Virgin Islands, Hawaiʻi, and Alaska—the territories whose people were US citizens—and on this trip he would explain that US citizens in the territories were as much a part of the “American family” as anyone else.<span class="citation" data-cites="frankind.Radio1934 PresidentStCroix1934 franklind.roosevelt1934-07-28"><sup>1</sup></span></p>
 
 
 
@@ -623,7 +664,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Franklin D. Roosevelt, <span>“Radio Address of the President, San Juan, Puerto Rico,”</span> July 7, 1934, <span>“July 7–21, 1934,”</span> Master Speech File, FDRL; <span>“The President at St. Croix, V.I. (Transcript),”</span> July 8, 1934, fldr <span>“Speech at San Juan, St. Croix, Panama—Caribbean Tour,”</span> Master Speech File, FDRL; Franklin D. Roosevelt, <span>“Radio Address at Honolulu, T.H.”</span> July 28, 1934.↩︎</p></li>
+<li id="fn1"><p>Franklin D. Roosevelt, <span>“Radio Address of the President, San Juan, Puerto Rico,”</span> July 7, 1934, fldr <span>“Speech at San Juan, St. Croix, Panama—Caribbean Tour,”</span> Master Speech File; <span>“The President at St. Croix, V.I. (Transcript),”</span> July 8, 1934, Master Speech File, fldr <span>“Speech at San Juan, St. Croix, Panama—Caribbean Tour,”</span> FDRL; Franklin D. Roosevelt, <span>“Radio Address at Honolulu, T.H.”</span> July 28, 1934, fldr <span>“Honolulu,”</span> Master Speech File.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>Empire of the New Deal</category>
@@ -657,7 +698,7 @@
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Marc Gallicchio, <em>Unconditional: The Japanese Surrender in World War II</em> (New York: Oxford University Press, 2020).↩︎</p></li>
+<li id="fn1"><p>Marc Gallicchio, <em>Unconditional: The Japanese Surrender in World War II</em> (Oxford University Press, 2020).↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>Strategy</category>
@@ -710,31 +751,6 @@
   <category>New Deal</category>
   <guid>https://erauchway.github.io/posts/concepts_plan/concepts.html</guid>
   <pubDate>Sat, 09 Aug 2025 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Rapid Involuntary Retirement</title>
-  <dc:creator>Eric Rauchway</dc:creator>
-  <link>https://erauchway.github.io/posts/stewart/stewart_sacked.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Shortly after the chief of the Bureau of Labor Statistics declined to support a factually insupportable rosy jobs report, the president had him forcibly retired. In 1932, labor statistics commissioner Ethelbert Stewart was indignantly reclassified as dispensable.</p>
-<blockquote class="blockquote">
-<p>I have a contract with the Government and it has been broken. Retired? Don’t put it that way. I’ve had a tin can tied to the end of my coat tail.</p>
-</blockquote>
-<p>He had very recently been yelled at by Secretary of Labor William Doak in front of reporters for <a href="https://time.com/archive/6749502/the-cabinet-tin-can/">disputing a bright employment forecast.</a></p>
-
-
-
- ]]></description>
-  <category>Hoover</category>
-  <category>Depression</category>
-  <category>Methods</category>
-  <guid>https://erauchway.github.io/posts/stewart/stewart_sacked.html</guid>
-  <pubDate>Fri, 01 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
